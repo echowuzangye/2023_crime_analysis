@@ -1,0 +1,415 @@
+ori,agency_name,agency_id,state_abbr,division_name,region_name,region_desc,county_name,agency_type_name,nibrs,nibrs_start_date,latitude,longitude
+MN0010000,Aitkin County Sheriff's Office,9105,MN,West North Central,Midwest,Region II,AITKIN,County,True,2019-02-01T00:00:00.000Z,46.53333,-93.71042
+MN0010100,Aitkin Police Department,25710,MN,West North Central,Midwest,Region II,AITKIN,City,True,2019-02-01T00:00:00.000Z,46.602446,-93.41976
+MN0010200,McGregor,26898,MN,West North Central,Midwest,Region II,AITKIN,City,True,2019-02-01T00:00:00.000Z,,
+MN0010400,Hill City Police Department,25751,MN,West North Central,Midwest,Region II,AITKIN,City,True,2019-02-01T00:00:00.000Z,46.602446,-93.41976
+MN0020000,Anoka County Sheriff's Office,9106,MN,West North Central,Midwest,Region II,ANOKA,County,True,2019-08-01T00:00:00.000Z,45.197933,-93.38671
+MN0020100,Anoka Police Department,9107,MN,West North Central,Midwest,Region II,ANOKA,City,True,2019-08-01T00:00:00.000Z,45.201435,-93.387505
+MN0020200,Blaine Police Department,9108,MN,West North Central,Midwest,Region II,ANOKA,City,True,2019-08-01T00:00:00.000Z,45.27411,-93.242723
+MN0020300,Centennial Lakes Police Department,9109,MN,West North Central,Midwest,Region II,ANOKA,City,True,2019-08-01T00:00:00.000Z,45.15294,-93.141136
+MN0020400,Columbia Heights Police Department,9110,MN,West North Central,Midwest,Region II,ANOKA,City,True,2019-08-01T00:00:00.000Z,45.042786,-93.24918
+MN0020500,Coon Rapids Police Department,9111,MN,West North Central,Midwest,Region II,ANOKA,City,True,2019-08-01T00:00:00.000Z,45.172855,-93.30436
+MN0020600,Fridley Police Department,9112,MN,West North Central,Midwest,Region II,ANOKA,City,True,2019-08-01T00:00:00.000Z,45.084957,-93.26341
+MN0020700,Lino Lakes Police Department,9113,MN,West North Central,Midwest,Region II,ANOKA,City,True,2019-08-01T00:00:00.000Z,45.27411,-93.242723
+MN0020800,Spring Lake Park Police Department,9114,MN,West North Central,Midwest,Region II,"ANOKA, RAMSEY",City,True,2019-08-01T00:00:00.000Z,45.11503,-93.23802
+MN0021300,Ramsey Police Department,9119,MN,West North Central,Midwest,Region II,ANOKA,City,True,2019-08-01T00:00:00.000Z,45.27411,-93.242723
+MN0021500,St. Francis Police Department,9121,MN,West North Central,Midwest,Region II,ANOKA,City,True,2019-08-01T00:00:00.000Z,45.27411,-93.242723
+MN0030000,Becker County Sheriff's Office,9122,MN,West North Central,Midwest,Region II,BECKER,County,True,2017-02-01T00:00:00.000Z,46.937629,-95.741757
+MN0030100,Detroit Lakes Police Department,9123,MN,West North Central,Midwest,Region II,BECKER,City,True,2017-02-01T00:00:00.000Z,46.817265,-95.84501
+MN0030200,Frazee,27394,MN,West North Central,Midwest,Region II,BECKER,City,True,2017-03-01T00:00:00.000Z,,
+MN0030300,Audubon,27393,MN,West North Central,Midwest,Region II,BECKER,City,False,2017-04-01T00:00:00.000Z,,
+MN0030400,Lake Park,27374,MN,West North Central,Midwest,Region II,BECKER,City,True,2017-02-01T00:00:00.000Z,,
+MN0030600,White Earth Tribal,9460,MN,West North Central,Midwest,Region II,NOT SPECIFIED,Tribal,True,2017-02-01T00:00:00.000Z,,
+MN0030900,Callaway,27395,MN,West North Central,Midwest,Region II,BECKER,City,True,2017-02-01T00:00:00.000Z,,
+MN0040000,Beltrami County Sheriff's Office,9124,MN,West North Central,Midwest,Region II,BELTRAMI,County,True,2020-09-01T00:00:00.000Z,47.473827,-94.88276
+MN0040100,Bemidji Police Department,9125,MN,West North Central,Midwest,Region II,BELTRAMI,City,True,2020-09-01T00:00:00.000Z,47.473827,-94.88276
+MN0040200,Blackduck Police Department,9126,MN,West North Central,Midwest,Region II,BELTRAMI,City,True,2020-09-01T00:00:00.000Z,47.878825,-94.986698
+MN0050000,Benton County Sheriff's Office,9127,MN,West North Central,Midwest,Region II,BENTON,County,True,2020-04-01T00:00:00.000Z,45.701225,-94.001439
+MN0050100,Foley,26967,MN,West North Central,Midwest,Region II,BENTON,City,True,2020-04-01T00:00:00.000Z,,
+MN0050200,Sauk Rapids Police Department,9128,MN,West North Central,Midwest,Region II,BENTON,City,True,2020-04-01T00:00:00.000Z,45.59064,-94.16625
+MN0050300,Rice,26925,MN,West North Central,Midwest,Region II,BENTON,City,True,2020-04-01T00:00:00.000Z,,
+MN0060000,Big Stone County Sheriff's Office,9129,MN,West North Central,Midwest,Region II,BIG STONE,County,True,2020-05-01T00:00:00.000Z,45.419925,-96.402226
+MN0070000,Blue Earth County Sheriff's Office,9131,MN,West North Central,Midwest,Region II,BLUE EARTH,County,True,2018-04-01T00:00:00.000Z,44.03371,-94.064012
+MN0070100,Mankato Police Department,9132,MN,West North Central,Midwest,Region II,BLUE EARTH,City,True,2018-04-01T00:00:00.000Z,44.161644,-94.00835
+MN0070200,Mapleton Police Department,9133,MN,West North Central,Midwest,Region II,BLUE EARTH,City,True,2018-04-01T00:00:00.000Z,43.92785,-93.956024
+MN0070400,Eagle Lake Police Department,9134,MN,West North Central,Midwest,Region II,BLUE EARTH,City,True,2018-04-01T00:00:00.000Z,44.03371,-94.064012
+MN0070500,Lake Crystal Police Department,9135,MN,West North Central,Midwest,Region II,BLUE EARTH,City,True,2018-04-01T00:00:00.000Z,44.03371,-94.064012
+MN0071000,Madison Lake Police Department,23251,MN,West North Central,Midwest,Region II,BLUE EARTH,City,True,2018-04-01T00:00:00.000Z,44.03371,-94.064012
+MN0080000,Brown County Sheriff's Office,9136,MN,West North Central,Midwest,Region II,BROWN,County,True,2019-04-01T00:00:00.000Z,44.246541,-94.733647
+MN0080100,New Ulm Police Department,9137,MN,West North Central,Midwest,Region II,BROWN,City,True,2019-04-01T00:00:00.000Z,44.246541,-94.733647
+MN0080200,Sleepy Eye Police Department,9138,MN,West North Central,Midwest,Region II,BROWN,City,True,2019-04-01T00:00:00.000Z,44.298103,-94.724335
+MN0080300,Springfield Police Department,9139,MN,West North Central,Midwest,Region II,BROWN,City,True,2019-04-01T00:00:00.000Z,44.239155,-94.97598
+MN0080400,Comfrey,28914,MN,West North Central,Midwest,Region II,"BROWN, COTTONWOOD",City,True,2019-04-01T00:00:00.000Z,,
+MN0090000,Carlton County Sheriff's Office,9140,MN,West North Central,Midwest,Region II,CARLTON,County,True,2020-07-01T00:00:00.000Z,46.603818,-92.671044
+MN0090100,Cloquet Police Department,9141,MN,West North Central,Midwest,Region II,CARLTON,City,True,2020-07-01T00:00:00.000Z,46.721825,-92.45846
+MN0090200,Moose Lake Police Department,9142,MN,West North Central,Midwest,Region II,CARLTON,City,True,2020-07-01T00:00:00.000Z,46.603818,-92.671044
+MN0100000,Carver County Sheriff's Office,9145,MN,West North Central,Midwest,Region II,CARVER,County,True,2016-06-01T00:00:00.000Z,44.788643,-93.594
+MN0100200,Chaska Police Department,9147,MN,West North Central,Midwest,Region II,CARVER,City,True,2021-01-01T00:00:00.000Z,44.821381,-93.800575
+MN0110000,Cass County Sheriff's Office,9149,MN,West North Central,Midwest,Region II,CASS,County,True,2019-02-01T00:00:00.000Z,46.951786,-94.33367
+MN0110200,Walker Police Department,25755,MN,West North Central,Midwest,Region II,CASS,City,True,2019-02-01T00:00:00.000Z,46.951786,-94.33367
+MN0110500,Pine River Police Department,25775,MN,West North Central,Midwest,Region II,CASS,City,True,2019-02-01T00:00:00.000Z,46.951786,-94.33367
+MN0110700,Pillager Police Department,25721,MN,West North Central,Midwest,Region II,CASS,City,True,2019-02-01T00:00:00.000Z,46.951786,-94.33367
+MN0110800,Lake Shore Police Department,25754,MN,West North Central,Midwest,Region II,CASS,City,True,2019-02-01T00:00:00.000Z,46.491114,-94.071213
+MN0120000,Chippewa County Sheriff's Office,9150,MN,West North Central,Midwest,Region II,CHIPPEWA,County,True,2020-12-01T00:00:00.000Z,44.95065,-95.71358
+MN0120200,Montevideo Police Department,9152,MN,West North Central,Midwest,Region II,CHIPPEWA,City,True,2020-12-01T00:00:00.000Z,45.028625,-95.564108
+MN0130000,Chisago County Sheriff's Office,9153,MN,West North Central,Midwest,Region II,CHISAGO,County,True,2020-06-01T00:00:00.000Z,45.399975,-92.822495
+MN0130500,North Branch Police Department,9156,MN,West North Central,Midwest,Region II,CHISAGO,City,True,2020-08-01T00:00:00.000Z,45.505444,-92.903849
+MN0130800,Wyoming Police Department,9158,MN,West North Central,Midwest,Region II,CHISAGO,City,True,2020-08-01T00:00:00.000Z,45.505444,-92.903849
+MN0130900,Lakes Area Police Department,9159,MN,West North Central,Midwest,Region II,CHISAGO,City,True,2020-09-01T00:00:00.000Z,45.38811,-92.83659
+MN0140000,Clay County Sheriff's Office,9160,MN,West North Central,Midwest,Region II,CLAY,County,True,2020-05-01T00:00:00.000Z,46.898377,-96.494901
+MN0140100,Barnesville Police Department,25744,MN,West North Central,Midwest,Region II,CLAY,City,True,2020-05-01T00:00:00.000Z,46.898377,-96.494901
+MN0140200,Dilworth Police Department,9161,MN,West North Central,Midwest,Region II,CLAY,City,True,2020-05-01T00:00:00.000Z,46.898377,-96.494901
+MN0140300,Hawley Police Department,25746,MN,West North Central,Midwest,Region II,CLAY,City,True,2020-05-01T00:00:00.000Z,46.898377,-96.494901
+MN0140400,Moorhead Police Department,9162,MN,West North Central,Midwest,Region II,CLAY,City,True,2020-05-01T00:00:00.000Z,46.884712,-96.765564
+MN0140600,Glyndon,30894,MN,West North Central,Midwest,Region II,CLAY,City,True,2020-05-01T00:00:00.000Z,,
+MN0150000,Clearwater County Sheriff's Office,9163,MN,West North Central,Midwest,Region II,CLEARWATER,County,True,2017-02-01T00:00:00.000Z,47.575873,-95.371117
+MN0150100,Bagley,26923,MN,West North Central,Midwest,Region II,CLEARWATER,City,True,2017-03-01T00:00:00.000Z,,
+MN0150200,Clearbrook,26924,MN,West North Central,Midwest,Region II,CLEARWATER,City,True,2017-02-01T00:00:00.000Z,,
+MN0160000,Cook County Sheriff's Office,9164,MN,West North Central,Midwest,Region II,COOK,County,True,2020-07-01T00:00:00.000Z,47.75116,-90.34013
+MN0170000,Cottonwood County Sheriff's Office,9166,MN,West North Central,Midwest,Region II,COTTONWOOD,County,True,2019-02-01T00:00:00.000Z,43.8655,-95.11915
+MN0170100,Mountain Lake Police Department,9167,MN,West North Central,Midwest,Region II,COTTONWOOD,City,True,2019-02-01T00:00:00.000Z,44.010711,-95.18313
+MN0170200,Windom Police Department,9168,MN,West North Central,Midwest,Region II,COTTONWOOD,City,True,2019-02-01T00:00:00.000Z,44.010711,-95.18313
+MN0170500,Westbrook,28415,MN,West North Central,Midwest,Region II,COTTONWOOD,City,True,2019-03-01T00:00:00.000Z,,
+MN0180000,Crow Wing County Sheriff's Office,9169,MN,West North Central,Midwest,Region II,CROW WING,County,True,2020-01-01T00:00:00.000Z,46.355774,-94.205154
+MN0180100,Brainerd Police Department,9170,MN,West North Central,Midwest,Region II,CROW WING,City,True,2020-01-01T00:00:00.000Z,46.35654,-94.20824
+MN0180200,Crosby Police Department,9171,MN,West North Central,Midwest,Region II,CROW WING,City,True,2020-01-01T00:00:00.000Z,46.480568,-93.95235
+MN0180300,Breezy Point Police Department,25648,MN,West North Central,Midwest,Region II,CROW WING,City,True,2020-01-01T00:00:00.000Z,46.491114,-94.071213
+MN0180400,Crosslake Police Department,25742,MN,West North Central,Midwest,Region II,CROW WING,City,True,2020-01-01T00:00:00.000Z,46.491114,-94.071213
+MN0180500,Baxter Police Department,9172,MN,West North Central,Midwest,Region II,CROW WING,City,True,2020-01-01T00:00:00.000Z,46.491114,-94.071213
+MN0180600,Deerwood,30194,MN,West North Central,Midwest,Region II,CROW WING,City,True,2020-01-01T00:00:00.000Z,,
+MN0180700,Emily,30214,MN,West North Central,Midwest,Region II,CROW WING,City,True,2020-01-01T00:00:00.000Z,,
+MN0181000,Nisswa,27590,MN,West North Central,Midwest,Region II,CROW WING,City,True,2020-01-01T00:00:00.000Z,,
+MN0181100,Pequot Lakes Police Department,25658,MN,West North Central,Midwest,Region II,CROW WING,City,True,2020-01-01T00:00:00.000Z,46.491114,-94.071213
+MN0181300,Cuyuna,30234,MN,West North Central,Midwest,Region II,CROW WING,City,True,2020-01-01T00:00:00.000Z,,
+MN0190000,Dakota County Sheriff's Office,9173,MN,West North Central,Midwest,Region II,DAKOTA,County,True,2020-08-01T00:00:00.000Z,44.670893,-93.062481
+MN0190100,Burnsville Police Department,9174,MN,West North Central,Midwest,Region II,DAKOTA,City,True,2020-08-01T00:00:00.000Z,44.670893,-93.062481
+MN0190200,Farmington Police Department,9175,MN,West North Central,Midwest,Region II,DAKOTA,City,True,2020-08-01T00:00:00.000Z,44.670893,-93.062481
+MN0190300,Hastings Police Department,9176,MN,West North Central,Midwest,Region II,"DAKOTA, WASHINGTON",City,True,2020-08-01T00:00:00.000Z,44.743282,-92.85181
+MN0190400,Mendota Heights Police Department,9177,MN,West North Central,Midwest,Region II,DAKOTA,City,True,2020-08-01T00:00:00.000Z,44.8847,-93.14709
+MN0190500,Rosemount Police Department,9178,MN,West North Central,Midwest,Region II,DAKOTA,City,True,2020-09-01T00:00:00.000Z,44.739223,-93.124275
+MN0190600,South St. Paul Police Department,9179,MN,West North Central,Midwest,Region II,DAKOTA,City,True,2020-07-01T00:00:00.000Z,44.89152,-93.03721
+MN0190700,West St. Paul Police Department,9180,MN,West North Central,Midwest,Region II,DAKOTA,City,True,2020-07-01T00:00:00.000Z,44.670893,-93.062481
+MN0190800,Eagan Police Department,9181,MN,West North Central,Midwest,Region II,DAKOTA,City,True,2020-09-01T00:00:00.000Z,44.818928,-93.167145
+MN0190900,Inver Grove Heights Police Department,9182,MN,West North Central,Midwest,Region II,DAKOTA,City,True,2020-08-01T00:00:00.000Z,44.670893,-93.062481
+MN0191000,Apple Valley Police Department,9183,MN,West North Central,Midwest,Region II,DAKOTA,City,True,2020-09-01T00:00:00.000Z,44.73532,-93.20977
+MN0191100,Lakeville Police Department,9184,MN,West North Central,Midwest,Region II,DAKOTA,City,True,2020-09-01T00:00:00.000Z,44.656586,-93.24271
+MN0200000,Dodge County Sheriff's Office,9185,MN,West North Central,Midwest,Region II,DODGE,County,True,2019-06-01T00:00:00.000Z,44.020706,-92.869353
+MN0200200,Kasson Police Department,9186,MN,West North Central,Midwest,Region II,DODGE,City,True,2019-06-01T00:00:00.000Z,44.024967,-92.74714
+MN0200600,West Concord Police Department,25764,MN,West North Central,Midwest,Region II,DODGE,City,True,2019-06-01T00:00:00.000Z,44.020706,-92.869353
+MN0210000,Douglas County Sheriff's Office,9187,MN,West North Central,Midwest,Region II,DOUGLAS,County,True,2018-10-01T00:00:00.000Z,45.884743,-95.37578
+MN0210100,Alexandria Police Department,9188,MN,West North Central,Midwest,Region II,DOUGLAS,City,True,2018-10-01T00:00:00.000Z,45.884743,-95.37578
+MN0210200,Osakis Police Department,9189,MN,West North Central,Midwest,Region II,"DOUGLAS, TODD",City,True,2018-10-01T00:00:00.000Z,45.936429,-95.46061
+MN0220000,Faribault County Sheriff's Office,9190,MN,West North Central,Midwest,Region II,FARIBAULT,County,True,2018-04-01T00:00:00.000Z,43.676522,-93.947234
+MN0220100,Blue Earth Police Department,9191,MN,West North Central,Midwest,Region II,FARIBAULT,City,True,2018-04-01T00:00:00.000Z,43.676522,-93.947234
+MN0220200,Elmore Police Department,9192,MN,West North Central,Midwest,Region II,FARIBAULT,City,True,2018-04-01T00:00:00.000Z,43.676522,-93.947234
+MN0220400,Wells Police Department,9193,MN,West North Central,Midwest,Region II,FARIBAULT,City,True,2018-04-01T00:00:00.000Z,43.676522,-93.947234
+MN0220500,Winnebago Police Department,9194,MN,West North Central,Midwest,Region II,FARIBAULT,City,True,2018-04-01T00:00:00.000Z,43.769928,-94.16573
+MN0221000,Minnesota Lake Police Department,25789,MN,West North Central,Midwest,Region II,FARIBAULT,City,True,2018-04-01T00:00:00.000Z,43.676522,-93.947234
+MN0230000,Fillmore County Sheriff's Office,9197,MN,West North Central,Midwest,Region II,FILLMORE,County,True,2020-11-01T00:00:00.000Z,43.677255,-92.093644
+MN0230100,Chatfield,32394,MN,West North Central,Midwest,Region II,"FILLMORE, OLMSTED",City,True,2020-11-01T00:00:00.000Z,,
+MN0230400,Preston Police Department,25709,MN,West North Central,Midwest,Region II,FILLMORE,City,True,2020-11-01T00:00:00.000Z,43.677255,-92.093644
+MN0230500,Rushford Police Department,25776,MN,West North Central,Midwest,Region II,FILLMORE,City,True,2020-11-01T00:00:00.000Z,43.677255,-92.093644
+MN0240000,Freeborn County Sheriff's Office,9199,MN,West North Central,Midwest,Region II,FREEBORN,County,True,2017-08-01T00:00:00.000Z,43.64584,-93.368675
+MN0240100,Albert Lea Police Department,9200,MN,West North Central,Midwest,Region II,FREEBORN,City,True,2017-11-01T00:00:00.000Z,43.64584,-93.368675
+MN0250000,Goodhue County Sheriff's Office,9201,MN,West North Central,Midwest,Region II,GOODHUE,County,True,2017-10-01T00:00:00.000Z,44.406178,-92.716
+MN0250100,Cannon Falls Police Department,9202,MN,West North Central,Midwest,Region II,GOODHUE,City,True,2017-10-01T00:00:00.000Z,44.406178,-92.716
+MN0250300,Red Wing Police Department,9203,MN,West North Central,Midwest,Region II,GOODHUE,City,True,2018-01-01T00:00:00.000Z,44.562355,-92.53183
+MN0250400,Kenyon Police Department,9204,MN,West North Central,Midwest,Region II,GOODHUE,City,True,2017-10-01T00:00:00.000Z,44.272003,-92.98517
+MN0250600,Goodhue,26926,MN,West North Central,Midwest,Region II,GOODHUE,City,True,2017-10-01T00:00:00.000Z,,
+MN0250800,Zumbrota Police Department,9205,MN,West North Central,Midwest,Region II,GOODHUE,City,True,2017-10-01T00:00:00.000Z,44.294945,-92.669754
+MN0260000,Grant County Sheriff's Office,9206,MN,West North Central,Midwest,Region II,GRANT,County,True,2020-06-01T00:00:00.000Z,45.930743,-96.010699
+MN0270000,Hennepin County Sheriff's Office,9207,MN,West North Central,Midwest,Region II,HENNEPIN,County,True,2020-06-01T00:00:00.000Z,44.987347,-93.249756
+MN0270100,Bloomington Police Department,9208,MN,West North Central,Midwest,Region II,HENNEPIN,City,True,2020-09-01T00:00:00.000Z,44.822388,-93.30388
+MN0270200,Brooklyn Center Police Department,9209,MN,West North Central,Midwest,Region II,HENNEPIN,City,True,2020-09-01T00:00:00.000Z,45.075943,-93.299774
+MN0270300,Brooklyn Park Police Department,9210,MN,West North Central,Midwest,Region II,HENNEPIN,City,True,2020-01-01T00:00:00.000Z,45.10883,-93.34976
+MN0270400,Crystal Police Department,9211,MN,West North Central,Midwest,Region II,HENNEPIN,City,True,2020-09-01T00:00:00.000Z,45.031708,-93.360115
+MN0270500,Deephaven Police Department,9212,MN,West North Central,Midwest,Region II,HENNEPIN,City,True,2020-06-01T00:00:00.000Z,45.006069,-93.475187
+MN0270600,Edina Police Department,9213,MN,West North Central,Midwest,Region II,HENNEPIN,City,True,2020-10-01T00:00:00.000Z,44.911552,-93.34768
+MN0270700,South Lake Minnetonka Police Department,9214,MN,West North Central,Midwest,Region II,HENNEPIN,City,True,2020-06-01T00:00:00.000Z,44.901093,-93.58623
+MN0270800,Golden Valley Police Department,9215,MN,West North Central,Midwest,Region II,HENNEPIN,City,True,2020-09-01T00:00:00.000Z,44.98554,-93.37948
+MN0270900,Hopkins Police Department,9216,MN,West North Central,Midwest,Region II,HENNEPIN,City,True,2020-04-01T00:00:00.000Z,44.922375,-93.41302
+MN0271100,Minneapolis Police Department,9217,MN,West North Central,Midwest,Region II,HENNEPIN,City,True,2019-01-01T00:00:00.000Z,44.987347,-93.249756
+MN0271200,Minnetonka Police Department,9218,MN,West North Central,Midwest,Region II,HENNEPIN,City,True,2020-09-01T00:00:00.000Z,44.939854,-93.46169
+MN0271400,New Hope Police Department,9220,MN,West North Central,Midwest,Region II,HENNEPIN,City,True,2020-04-01T00:00:00.000Z,45.03702,-93.38485
+MN0271500,Orono Police Department,9221,MN,West North Central,Midwest,Region II,HENNEPIN,City,True,2020-09-01T00:00:00.000Z,45.006069,-93.475187
+MN0271600,Osseo Police Department,9222,MN,West North Central,Midwest,Region II,HENNEPIN,City,True,2020-06-01T00:00:00.000Z,45.120464,-93.402145
+MN0271700,Plymouth Police Department,9223,MN,West North Central,Midwest,Region II,HENNEPIN,City,True,2020-04-01T00:00:00.000Z,45.022762,-93.47739
+MN0271800,Richfield Police Department,9224,MN,West North Central,Midwest,Region II,HENNEPIN,City,True,2020-09-01T00:00:00.000Z,44.88162,-93.26794
+MN0271900,Robbinsdale Police Department,9225,MN,West North Central,Midwest,Region II,HENNEPIN,City,True,2020-09-01T00:00:00.000Z,45.03027,-93.33931
+MN0272000,St. Anthony Police Department,9226,MN,West North Central,Midwest,Region II,"HENNEPIN, RAMSEY",City,True,2020-09-01T00:00:00.000Z,45.027847,-93.21809
+MN0272100,St. Louis Park Police Department,9227,MN,West North Central,Midwest,Region II,HENNEPIN,City,True,2018-06-01T00:00:00.000Z,44.947575,-93.34395
+MN0272300,Wayzata Police Department,9228,MN,West North Central,Midwest,Region II,HENNEPIN,City,True,2020-06-01T00:00:00.000Z,45.006069,-93.475187
+MN0272400,University of Minnesota: Twin Cities,9229,MN,West North Central,Midwest,Region II,HENNEPIN,University or College,True,2019-01-01T00:00:00.000Z,44.973568,-93.23159
+MN0272500,Minneapolis-St. Paul International Airport,9230,MN,West North Central,Midwest,Region II,HENNEPIN,Other,True,2020-11-01T00:00:00.000Z,45.006069,-93.475187
+MN0272600,Eden Prairie Police Department,9231,MN,West North Central,Midwest,Region II,HENNEPIN,City,True,2020-06-01T00:00:00.000Z,44.856937,-93.460175
+MN0272700,Maple Grove Police Department,9232,MN,West North Central,Midwest,Region II,HENNEPIN,City,True,2020-09-01T00:00:00.000Z,45.006069,-93.475187
+MN0272800,Minnetrista Police Department,9233,MN,West North Central,Midwest,Region II,HENNEPIN,City,True,2020-06-01T00:00:00.000Z,44.922573,-93.72386
+MN0272900,Champlin Police Department,9234,MN,West North Central,Midwest,Region II,HENNEPIN,City,True,2020-06-01T00:00:00.000Z,45.17047,-93.392296
+MN0273000,Medina Police Department,9235,MN,West North Central,Midwest,Region II,HENNEPIN,City,True,2020-06-01T00:00:00.000Z,45.01529,-93.57514
+MN0273100,Corcoran Police Department,9236,MN,West North Central,Midwest,Region II,HENNEPIN,City,True,2020-06-01T00:00:00.000Z,45.103374,-93.54297
+MN0273200,Dayton Police Department,9237,MN,West North Central,Midwest,Region II,"HENNEPIN, WRIGHT",City,True,2020-06-01T00:00:00.000Z,45.198936,-93.43063
+MN0273400,Rogers Police Department,9238,MN,West North Central,Midwest,Region II,HENNEPIN,City,True,2020-06-01T00:00:00.000Z,45.189014,-93.55261
+MN0273700,West Hennepin Police Department,9240,MN,West North Central,Midwest,Region II,HENNEPIN,City,True,2020-06-01T00:00:00.000Z,45.01292,-93.686584
+MN0274000,Three Rivers Park District,9243,MN,West North Central,Midwest,Region II,HENNEPIN,Other,True,2020-06-01T00:00:00.000Z,45.030983,-93.43958
+MN0274300,Metropolitan Transit Commission,27571,MN,West North Central,Midwest,Region II,HENNEPIN,Other,True,2020-09-01T00:00:00.000Z,,
+MN0280000,Houston County Sheriff's Office,9245,MN,West North Central,Midwest,Region II,HOUSTON,County,True,2019-09-01T00:00:00.000Z,43.632355,-91.49589
+MN0280100,Caledonia Police Department,9246,MN,West North Central,Midwest,Region II,HOUSTON,City,True,2019-09-01T00:00:00.000Z,43.634655,-91.500145
+MN0280200,Houston Police Department,9247,MN,West North Central,Midwest,Region II,HOUSTON,City,True,2019-09-01T00:00:00.000Z,43.66699,-91.501556
+MN0280300,La Crescent Police Department,9248,MN,West North Central,Midwest,Region II,HOUSTON,City,True,2019-09-01T00:00:00.000Z,43.829174,-91.30423
+MN0280400,Spring Grove Police Department,9249,MN,West North Central,Midwest,Region II,HOUSTON,City,True,2019-09-01T00:00:00.000Z,43.561333,-91.6381
+MN0280500,Hokah Police Department,9250,MN,West North Central,Midwest,Region II,HOUSTON,City,True,2019-09-01T00:00:00.000Z,43.66699,-91.501556
+MN0290000,Hubbard County Sheriff's Office,9251,MN,West North Central,Midwest,Region II,HUBBARD,County,True,2020-09-01T00:00:00.000Z,46.9195,-95.06307
+MN0290100,Park Rapids Police Department,9252,MN,West North Central,Midwest,Region II,HUBBARD,City,True,2020-09-01T00:00:00.000Z,47.095551,-94.91329
+MN0290200,Akeley Police Department,25900,MN,West North Central,Midwest,Region II,HUBBARD,City,True,2020-09-01T00:00:00.000Z,47.095551,-94.91329
+MN0300000,Isanti County Sheriff's Office,9253,MN,West North Central,Midwest,Region II,ISANTI,County,True,2020-07-01T00:00:00.000Z,45.556995,-93.22933
+MN0300100,Cambridge Police Department,9254,MN,West North Central,Midwest,Region II,ISANTI,City,True,2020-07-01T00:00:00.000Z,45.57062,-93.226715
+MN0300200,Braham Police Department,25759,MN,West North Central,Midwest,Region II,ISANTI,City,True,2020-07-01T00:00:00.000Z,45.562431,-93.296339
+MN0300300,Isanti Police Department,23230,MN,West North Central,Midwest,Region II,ISANTI,City,True,2020-07-01T00:00:00.000Z,45.562431,-93.296339
+MN0310000,Itasca County Sheriff's Office,9255,MN,West North Central,Midwest,Region II,ITASCA,County,True,2019-02-01T00:00:00.000Z,47.490883,-93.611119
+MN0310100,Bovey Police Department,25649,MN,West North Central,Midwest,Region II,ITASCA,City,True,2019-02-01T00:00:00.000Z,47.490883,-93.611119
+MN0310200,Coleraine Police Department,25669,MN,West North Central,Midwest,Region II,ITASCA,City,True,2019-02-01T00:00:00.000Z,47.490883,-93.611119
+MN0310300,Grand Rapids Police Department,9256,MN,West North Central,Midwest,Region II,ITASCA,City,True,2019-02-01T00:00:00.000Z,47.23616,-93.52827
+MN0310400,Keewatin Police Department,25610,MN,West North Central,Midwest,Region II,ITASCA,City,True,2019-02-01T00:00:00.000Z,47.490883,-93.611119
+MN0310500,Nashwauk Police Department,9257,MN,West North Central,Midwest,Region II,ITASCA,City,True,2019-02-01T00:00:00.000Z,47.380512,-93.1658
+MN0310700,Deer River Police Department,25582,MN,West North Central,Midwest,Region II,ITASCA,City,True,2019-02-01T00:00:00.000Z,47.490883,-93.611119
+MN0320000,Jackson County Sheriff's Office,9258,MN,West North Central,Midwest,Region II,JACKSON,County,True,2019-02-01T00:00:00.000Z,43.671111,-95.149731
+MN0320200,Lakefield Police Department,9260,MN,West North Central,Midwest,Region II,JACKSON,City,True,2019-02-01T00:00:00.000Z,43.67752,-95.17208
+MN0320300,Heron Lake,28494,MN,West North Central,Midwest,Region II,JACKSON,City,True,2019-03-01T00:00:00.000Z,,
+MN0330000,Kanabec County Sheriff's Office,9261,MN,West North Central,Midwest,Region II,KANABEC,County,True,2021-01-01T00:00:00.000Z,45.94776,-93.297788
+MN0340000,Kandiyohi County Sheriff's Office,9263,MN,West North Central,Midwest,Region II,KANDIYOHI,County,True,2020-05-01T00:00:00.000Z,45.152714,-95.004981
+MN0340100,Willmar Police Department,9264,MN,West North Central,Midwest,Region II,KANDIYOHI,City,True,2020-05-01T00:00:00.000Z,45.152714,-95.004981
+MN0340200,Atwater Police Department,25722,MN,West North Central,Midwest,Region II,KANDIYOHI,City,True,2020-05-01T00:00:00.000Z,45.152714,-95.004981
+MN0350000,Kittson County Sheriff's Office,9265,MN,West North Central,Midwest,Region II,KITTSON,County,True,2020-12-01T00:00:00.000Z,48.7724,-96.94005
+MN0350100,Hallock Police Department,9266,MN,West North Central,Midwest,Region II,KITTSON,City,True,2021-01-01T00:00:00.000Z,48.77604,-96.780349
+MN0360000,Koochiching County Sheriff's Office,9267,MN,West North Central,Midwest,Region II,KOOCHICHING,County,True,2020-07-01T00:00:00.000Z,48.601665,-93.41001
+MN0360100,International Falls Police Department,9268,MN,West North Central,Midwest,Region II,KOOCHICHING,City,True,2020-07-01T00:00:00.000Z,48.601665,-93.41001
+MN0370000,Lac Qui Parle County Sheriff's Office,9270,MN,West North Central,Midwest,Region II,LAC QUI PARLE,County,True,2019-09-01T00:00:00.000Z,45.014355,-96.1932
+MN0370100,Dawson/Boyd Police Department,9271,MN,West North Central,Midwest,Region II,LAC QUI PARLE,City,True,2019-09-01T00:00:00.000Z,44.999855,-96.176836
+MN0380000,Lake County Sheriff's Office,9273,MN,West North Central,Midwest,Region II,LAKE,County,True,2020-07-01T00:00:00.000Z,47.021786,-91.67129
+MN0380100,Silver Bay Police Department,9274,MN,West North Central,Midwest,Region II,LAKE,City,True,2020-07-01T00:00:00.000Z,47.295536,-91.27105
+MN0380200,Two Harbors Police Department,9275,MN,West North Central,Midwest,Region II,LAKE,City,True,2020-07-01T00:00:00.000Z,47.021786,-91.67129
+MN0390000,Lake of the Woods County Sheriff's Office,9276,MN,West North Central,Midwest,Region II,LAKE OF THE WOODS,County,False,,48.709667,-94.585075
+MN0400000,Le Sueur County Sheriff's Office,9277,MN,West North Central,Midwest,Region II,LE SUEUR,County,True,2020-06-01T00:00:00.000Z,44.39112,-93.73154
+MN0400100,Le Center,26987,MN,West North Central,Midwest,Region II,LE SUEUR,City,True,2020-06-01T00:00:00.000Z,,
+MN0400200,Le Sueur Police Department,9278,MN,West North Central,Midwest,Region II,LE SUEUR,City,True,2020-06-01T00:00:00.000Z,44.373397,-93.73018
+MN0400300,Montgomery Police Department,9279,MN,West North Central,Midwest,Region II,LE SUEUR,City,True,2020-06-01T00:00:00.000Z,44.44166,-93.58399
+MN0400400,Waterville,26988,MN,West North Central,Midwest,Region II,LE SUEUR,City,True,2020-06-01T00:00:00.000Z,,
+MN0400600,Cleveland,27007,MN,West North Central,Midwest,Region II,LE SUEUR,City,True,2020-06-01T00:00:00.000Z,,
+MN0410000,Lincoln County Sheriff's Office,9280,MN,West North Central,Midwest,Region II,LINCOLN,County,True,2017-11-01T00:00:00.000Z,44.408238,-96.272032
+MN0410100,Tyler,27396,MN,West North Central,Midwest,Region II,LINCOLN,City,True,2017-11-01T00:00:00.000Z,,
+MN0420000,Lyon County Sheriff's Office,9281,MN,West North Central,Midwest,Region II,LYON,County,True,2019-02-01T00:00:00.000Z,44.450565,-95.7939
+MN0420100,Marshall Police Department,9282,MN,West North Central,Midwest,Region II,LYON,City,True,2019-02-01T00:00:00.000Z,44.450565,-95.7939
+MN0420200,Tracy Police Department,9283,MN,West North Central,Midwest,Region II,LYON,City,True,2019-02-01T00:00:00.000Z,44.233425,-95.61983
+MN0420300,Minneota Police Department,25740,MN,West North Central,Midwest,Region II,LYON,City,True,2019-02-01T00:00:00.000Z,44.409195,-95.847268
+MN0430000,McLeod County Sheriff's Office,9284,MN,West North Central,Midwest,Region II,MCLEOD,County,True,2020-05-01T00:00:00.000Z,44.76908,-94.15163
+MN0430100,Glencoe Police Department,9285,MN,West North Central,Midwest,Region II,MCLEOD,City,True,2020-05-01T00:00:00.000Z,44.76821,-94.15309
+MN0430200,Hutchinson Police Department,9286,MN,West North Central,Midwest,Region II,MCLEOD,City,True,2020-05-01T00:00:00.000Z,44.892113,-94.37068
+MN0430300,Brownton Police Department,9287,MN,West North Central,Midwest,Region II,MCLEOD,City,True,2020-05-01T00:00:00.000Z,44.821644,-94.27232
+MN0430400,Lester Prairie Police Department,9288,MN,West North Central,Midwest,Region II,MCLEOD,City,True,2020-05-01T00:00:00.000Z,44.821644,-94.27232
+MN0430700,Winsted Police Department,9291,MN,West North Central,Midwest,Region II,MCLEOD,City,True,2020-05-01T00:00:00.000Z,44.821644,-94.27232
+MN0440000,Mahnomen County Sheriff's Office,9292,MN,West North Central,Midwest,Region II,MAHNOMEN,County,True,2017-02-01T00:00:00.000Z,47.325842,-95.810703
+MN0450000,Marshall County Sheriff's Office,9293,MN,West North Central,Midwest,Region II,MARSHALL,County,True,2021-01-01T00:00:00.000Z,48.19572,-96.769066
+MN0460000,Martin County Sheriff's Office,9294,MN,West North Central,Midwest,Region II,MARTIN,County,True,2018-04-01T00:00:00.000Z,43.653633,-94.46469
+MN0460100,Fairmont Police Department,9295,MN,West North Central,Midwest,Region II,MARTIN,City,True,2018-04-01T00:00:00.000Z,43.653633,-94.46469
+MN0460200,Sherburn,26905,MN,West North Central,Midwest,Region II,MARTIN,City,True,2018-04-01T00:00:00.000Z,,
+MN0460300,Truman,26920,MN,West North Central,Midwest,Region II,MARTIN,City,True,2018-04-01T00:00:00.000Z,,
+MN0460700,Trimont,26921,MN,West North Central,Midwest,Region II,MARTIN,City,True,2018-04-01T00:00:00.000Z,,
+MN0470000,Meeker County Sheriff's Office,9296,MN,West North Central,Midwest,Region II,MEEKER,County,True,2020-04-01T00:00:00.000Z,45.12897,-94.529564
+MN0470100,Litchfield Police Department,9297,MN,West North Central,Midwest,Region II,MEEKER,City,True,2020-04-01T00:00:00.000Z,45.12897,-94.529564
+MN0470200,Eden Valley Police Department,25757,MN,West North Central,Midwest,Region II,"MEEKER, STEARNS",City,True,2020-04-01T00:00:00.000Z,45.123155,-94.527346
+MN0480000,Mille Lacs County Sheriff's Office,9298,MN,West North Central,Midwest,Region II,MILLE LACS,County,True,2020-10-01T00:00:00.000Z,45.753426,-93.643036
+MN0480100,Milaca Police Department,9299,MN,West North Central,Midwest,Region II,MILLE LACS,City,True,2020-10-01T00:00:00.000Z,45.75533,-93.649376
+MN0480200,Princeton Police Department,9300,MN,West North Central,Midwest,Region II,"MILLE LACS, SHERBURNE",City,True,2020-10-01T00:00:00.000Z,45.929043,-93.632996
+MN0480300,Isle Police Department,25561,MN,West North Central,Midwest,Region II,MILLE LACS,City,True,2020-10-01T00:00:00.000Z,45.929043,-93.632996
+MN0480400,Onamia Police Department,25619,MN,West North Central,Midwest,Region II,MILLE LACS,City,True,2020-10-01T00:00:00.000Z,45.929043,-93.632996
+MN0490000,Morrison County Sheriff's Office,9301,MN,West North Central,Midwest,Region II,MORRISON,County,True,2020-05-01T00:00:00.000Z,46.020484,-94.266619
+MN0490100,Little Falls Police Department,9302,MN,West North Central,Midwest,Region II,MORRISON,City,True,2020-05-01T00:00:00.000Z,45.977287,-94.3605
+MN0490200,Motley,26915,MN,West North Central,Midwest,Region II,"CASS, MORRISON",City,True,2020-05-01T00:00:00.000Z,,
+MN0490300,Pierz,26897,MN,West North Central,Midwest,Region II,MORRISON,City,True,2020-05-01T00:00:00.000Z,,
+MN0490500,Royalton,29615,MN,West North Central,Midwest,Region II,MORRISON,City,True,2020-05-01T00:00:00.000Z,,
+MN0500000,Mower County Sheriff's Office,9303,MN,West North Central,Midwest,Region II,MOWER,County,True,2020-12-01T00:00:00.000Z,43.667496,-92.9736
+MN0500100,Austin Police Department,9304,MN,West North Central,Midwest,Region II,MOWER,City,True,2020-12-01T00:00:00.000Z,43.667496,-92.9736
+MN0510000,Murray County Sheriff's Office,9305,MN,West North Central,Midwest,Region II,MURRAY,County,True,2019-03-01T00:00:00.000Z,44.015594,-95.761581
+MN0510100,Fulda Police Department,25781,MN,West North Central,Midwest,Region II,MURRAY,City,True,2019-03-01T00:00:00.000Z,44.015594,-95.761581
+MN0510200,Slayton Police Department,9306,MN,West North Central,Midwest,Region II,MURRAY,City,True,2019-03-01T00:00:00.000Z,44.015594,-95.761581
+MN0520000,Nicollet County Sheriff's Office,9307,MN,West North Central,Midwest,Region II,NICOLLET,County,True,2020-07-01T00:00:00.000Z,44.358819,-94.245685
+MN0520100,North Mankato Police Department,9308,MN,West North Central,Midwest,Region II,"BLUE EARTH, NICOLLET",City,True,2020-07-01T00:00:00.000Z,44.168804,-94.02725
+MN0520200,St. Peter Police Department,9309,MN,West North Central,Midwest,Region II,NICOLLET,City,True,2018-04-01T00:00:00.000Z,44.324257,-93.95509
+MN0530000,Nobles County Sheriff's Office,9310,MN,West North Central,Midwest,Region II,NOBLES,County,True,2017-11-01T00:00:00.000Z,43.677686,-95.763132
+MN0530100,Worthington Police Department,9311,MN,West North Central,Midwest,Region II,NOBLES,City,True,2017-11-01T00:00:00.000Z,43.677686,-95.763132
+MN0530200,Adrian,27292,MN,West North Central,Midwest,Region II,NOBLES,City,True,2017-12-01T00:00:00.000Z,,
+MN0540000,Norman County Sheriff's Office,9312,MN,West North Central,Midwest,Region II,NORMAN,County,True,2020-08-01T00:00:00.000Z,47.297764,-96.51433
+MN0540100,Ada,31375,MN,West North Central,Midwest,Region II,NORMAN,City,True,2020-08-01T00:00:00.000Z,,
+MN0540400,Twin Valley,26989,MN,West North Central,Midwest,Region II,NORMAN,City,True,2020-08-01T00:00:00.000Z,,
+MN0550000,Olmsted County Sheriff's Office,9313,MN,West North Central,Midwest,Region II,OLMSTED,County,True,2019-05-01T00:00:00.000Z,44.019302,-92.460846
+MN0550100,Rochester Police Department,9314,MN,West North Central,Midwest,Region II,OLMSTED,City,True,2019-05-01T00:00:00.000Z,44.019302,-92.460846
+MN0560000,Otter Tail County Sheriff's Office,9316,MN,West North Central,Midwest,Region II,OTTER TAIL,County,True,2018-02-01T00:00:00.000Z,46.405725,-95.714578
+MN0560100,Fergus Falls Police Department,9317,MN,West North Central,Midwest,Region II,OTTER TAIL,City,True,2017-11-01T00:00:00.000Z,46.283745,-96.07096
+MN0560200,Pelican Rapids Police Department,23296,MN,West North Central,Midwest,Region II,OTTER TAIL,City,True,2017-11-01T00:00:00.000Z,46.405725,-95.714578
+MN0560300,Perham,27375,MN,West North Central,Midwest,Region II,OTTER TAIL,City,True,2018-02-01T00:00:00.000Z,,
+MN0560400,Battle Lake,27347,MN,West North Central,Midwest,Region II,OTTER TAIL,City,True,2017-11-01T00:00:00.000Z,,
+MN0560600,Henning,27345,MN,West North Central,Midwest,Region II,OTTER TAIL,City,True,2017-11-01T00:00:00.000Z,,
+MN0560700,New York Mills,27344,MN,West North Central,Midwest,Region II,OTTER TAIL,City,True,2017-11-01T00:00:00.000Z,,
+MN0560800,Parkers Prairie,27346,MN,West North Central,Midwest,Region II,OTTER TAIL,City,True,2017-11-01T00:00:00.000Z,,
+MN0570000,Pennington County Sheriff's Office,9318,MN,West North Central,Midwest,Region II,PENNINGTON,County,True,2020-07-01T00:00:00.000Z,48.069247,-96.037725
+MN0570100,Thief River Falls Police Department,9319,MN,West North Central,Midwest,Region II,PENNINGTON,City,True,2020-07-01T00:00:00.000Z,48.069247,-96.037725
+MN0580000,Pine County Sheriff's Office,9320,MN,West North Central,Midwest,Region II,PINE,County,True,2020-07-01T00:00:00.000Z,45.852814,-92.96829
+MN0590000,Pipestone County Sheriff's Office,9321,MN,West North Central,Midwest,Region II,PIPESTONE,County,True,2020-08-01T00:00:00.000Z,44.015361,-96.257015
+MN0600000,Polk County Sheriff's Office,9323,MN,West North Central,Midwest,Region II,POLK,County,True,2019-02-01T00:00:00.000Z,47.774254,-96.400027
+MN0600100,Crookston Police Department,9324,MN,West North Central,Midwest,Region II,POLK,City,True,2019-02-01T00:00:00.000Z,47.774902,-96.61002
+MN0600200,East Grand Forks Police Department,9325,MN,West North Central,Midwest,Region II,POLK,City,True,2019-02-01T00:00:00.000Z,47.93108,-97.02362
+MN0601300,Pine To Prairie Drug Task Force,28174,MN,West North Central,Midwest,Region II,POLK,Other,False,,,
+MN0610000,Pope County Sheriff's Office,9326,MN,West North Central,Midwest,Region II,POPE,County,True,2020-08-01T00:00:00.000Z,45.650215,-95.38795
+MN0610100,Glenwood Police Department,9327,MN,West North Central,Midwest,Region II,POPE,City,True,2020-07-01T00:00:00.000Z,45.65024,-95.387886
+MN0610200,Starbuck Police Department,25633,MN,West North Central,Midwest,Region II,POPE,City,True,2020-08-01T00:00:00.000Z,45.589623,-95.446705
+MN0620000,Ramsey County Sheriff's Office,9328,MN,West North Central,Midwest,Region II,RAMSEY,County,True,2018-07-01T00:00:00.000Z,45.01525,-93.100141
+MN0620400,Maplewood Police Department,9332,MN,West North Central,Midwest,Region II,RAMSEY,City,True,2018-07-01T00:00:00.000Z,45.01525,-93.100141
+MN0620500,Mounds View Police Department,9333,MN,West North Central,Midwest,Region II,RAMSEY,City,True,2018-07-01T00:00:00.000Z,45.01525,-93.100141
+MN0620600,New Brighton Police Department,9334,MN,West North Central,Midwest,Region II,RAMSEY,City,True,2018-07-01T00:00:00.000Z,45.06247,-93.19311
+MN0620700,North St. Paul Police Department,9335,MN,West North Central,Midwest,Region II,RAMSEY,City,True,2020-09-01T00:00:00.000Z,45.01377,-92.992294
+MN0620800,Roseville Police Department,9336,MN,West North Central,Midwest,Region II,RAMSEY,City,True,2020-09-01T00:00:00.000Z,45.01525,-93.100141
+MN0620900,St. Paul Police Department,9337,MN,West North Central,Midwest,Region II,RAMSEY,City,True,2020-09-01T00:00:00.000Z,44.955757,-93.0873
+MN0621000,White Bear Lake Police Department,9338,MN,West North Central,Midwest,Region II,"RAMSEY, WASHINGTON",City,True,2020-09-01T00:00:00.000Z,45.081635,-93.013336
+MN0622000,Minnesota State Fair Police,31618,MN,West North Central,Midwest,Region II,RAMSEY,Other State Agency,True,2020-09-01T00:00:00.000Z,,
+MN0630000,Red Lake County Sheriff's Office,9344,MN,West North Central,Midwest,Region II,RED LAKE,County,True,2019-05-01T00:00:00.000Z,47.865487,-96.08718
+MN0640000,Redwood County Sheriff's Office,9345,MN,West North Central,Midwest,Region II,REDWOOD,County,True,2020-07-01T00:00:00.000Z,44.403536,-95.254241
+MN0640100,Lamberton Police Department,25787,MN,West North Central,Midwest,Region II,REDWOOD,City,True,2020-08-01T00:00:00.000Z,44.403536,-95.254241
+MN0640200,Redwood Falls Police Department,9346,MN,West North Central,Midwest,Region II,REDWOOD,City,True,2020-07-01T00:00:00.000Z,44.403536,-95.254241
+MN0640400,Morgan,31619,MN,West North Central,Midwest,Region II,REDWOOD,City,True,2020-08-01T00:00:00.000Z,,
+MN0640700,Walnut Grove,31634,MN,West North Central,Midwest,Region II,REDWOOD,City,True,2020-07-01T00:00:00.000Z,,
+MN0650000,Renville County Sheriff's Office,9347,MN,West North Central,Midwest,Region II,RENVILLE,County,True,2020-06-01T00:00:00.000Z,44.77644,-94.9826
+MN0650100,Fairfax Police Department,25727,MN,West North Central,Midwest,Region II,RENVILLE,City,True,2020-06-01T00:00:00.000Z,44.723697,-94.955617
+MN0650200,Hector Police Department,25720,MN,West North Central,Midwest,Region II,RENVILLE,City,True,2020-06-01T00:00:00.000Z,44.723697,-94.955617
+MN0650300,Olivia Police Department,9348,MN,West North Central,Midwest,Region II,RENVILLE,City,True,2020-06-01T00:00:00.000Z,44.776424,-94.9826
+MN0650400,Renville Police Department,25741,MN,West North Central,Midwest,Region II,RENVILLE,City,True,2020-06-01T00:00:00.000Z,44.723697,-94.955617
+MN0650600,Buffalo Lake Police Department,25784,MN,West North Central,Midwest,Region II,RENVILLE,City,True,2020-06-01T00:00:00.000Z,44.723697,-94.955617
+MN0650700,Danube Police Department,25712,MN,West North Central,Midwest,Region II,RENVILLE,City,False,2020-06-01T00:00:00.000Z,44.723697,-94.955617
+MN0660000,Rice County Sheriff's Office,9349,MN,West North Central,Midwest,Region II,RICE,County,True,2020-09-01T00:00:00.000Z,44.350943,-93.298503
+MN0660100,Faribault Police Department,9350,MN,West North Central,Midwest,Region II,RICE,City,True,2020-09-01T00:00:00.000Z,44.350943,-93.298503
+MN0660200,Northfield Police Department,9351,MN,West North Central,Midwest,Region II,"DAKOTA, RICE",City,True,2020-09-01T00:00:00.000Z,44.455097,-93.15692
+MN0660300,Dundas,26990,MN,West North Central,Midwest,Region II,RICE,City,True,2020-09-01T00:00:00.000Z,,
+MN0660400,Lonsdale Police Department,25772,MN,West North Central,Midwest,Region II,RICE,City,True,2020-09-01T00:00:00.000Z,44.350943,-93.298503
+MN0670000,Rock County Sheriff's Office,9352,MN,West North Central,Midwest,Region II,ROCK,County,True,2020-06-01T00:00:00.000Z,43.669587,-96.263238
+MN0680000,Roseau County Sheriff's Office,9354,MN,West North Central,Midwest,Region II,ROSEAU,County,True,2020-11-01T00:00:00.000Z,48.840744,-95.76833
+MN0680100,Roseau Police Department,9355,MN,West North Central,Midwest,Region II,ROSEAU,City,True,2020-11-01T00:00:00.000Z,48.84714,-95.7626
+MN0680200,Warroad Police Department,9356,MN,West North Central,Midwest,Region II,ROSEAU,City,True,2020-11-01T00:00:00.000Z,48.761065,-95.82153
+MN0690000,St. Louis County Sheriff's Office,9357,MN,West North Central,Midwest,Region II,ST LOUIS,County,True,2019-04-01T00:00:00.000Z,46.781807,-92.103836
+MN0690200,Babbitt Police Department,9359,MN,West North Central,Midwest,Region II,ST LOUIS,City,True,2020-05-01T00:00:00.000Z,47.578635,-92.51457
+MN0690500,Chisholm Police Department,9361,MN,West North Central,Midwest,Region II,ST LOUIS,City,True,2020-05-01T00:00:00.000Z,47.489307,-92.88397
+MN0690600,Duluth Police Department,9362,MN,West North Central,Midwest,Region II,ST LOUIS,City,True,2020-11-01T00:00:00.000Z,47.578635,-92.51457
+MN0690700,Ely Police Department,9363,MN,West North Central,Midwest,Region II,ST LOUIS,City,True,2020-05-01T00:00:00.000Z,47.902294,-91.86373
+MN0690800,Eveleth Police Department,9364,MN,West North Central,Midwest,Region II,ST LOUIS,City,True,2020-04-01T00:00:00.000Z,47.46243,-92.539566
+MN0690900,Gilbert Police Department,9365,MN,West North Central,Midwest,Region II,ST LOUIS,City,True,2020-04-01T00:00:00.000Z,47.578635,-92.51457
+MN0691000,Hibbing Police Department,9366,MN,West North Central,Midwest,Region II,ST LOUIS,City,True,2020-05-01T00:00:00.000Z,47.42864,-92.92725
+MN0691300,Proctor Police Department,9369,MN,West North Central,Midwest,Region II,ST LOUIS,City,True,2020-05-01T00:00:00.000Z,46.74128,-92.22634
+MN0691400,Virginia Police Department,9370,MN,West North Central,Midwest,Region II,ST LOUIS,City,True,2020-11-01T00:00:00.000Z,47.522274,-92.53537
+MN0691500,Floodwood Police Department,9371,MN,West North Central,Midwest,Region II,ST LOUIS,City,True,2020-03-01T00:00:00.000Z,47.578635,-92.51457
+MN0691700,Hermantown Police Department,9372,MN,West North Central,Midwest,Region II,ST LOUIS,City,True,2020-04-01T00:00:00.000Z,46.80766,-92.2186
+MN0691800,University of Minnesota: Duluth,9373,MN,West North Central,Midwest,Region II,ST LOUIS,University or College,True,2020-11-01T00:00:00.000Z,47.578635,-92.51457
+MN0692100,Breitung Township Police Department,25717,MN,West North Central,Midwest,Region II,ST LOUIS,City,True,2020-04-01T00:00:00.000Z,47.578635,-92.51457
+MN0694400,East Range Police Department,25635,MN,West North Central,Midwest,Region II,ST LOUIS,City,True,2020-05-01T00:00:00.000Z,,
+MN0700000,Scott County Sheriff's Office,9374,MN,West North Central,Midwest,Region II,SCOTT,County,True,2020-06-01T00:00:00.000Z,44.79633,-93.52763
+MN0700100,Belle Plaine Police Department,9375,MN,West North Central,Midwest,Region II,SCOTT,City,True,2020-06-01T00:00:00.000Z,44.651932,-93.534553
+MN0700200,Jordan Police Department,9376,MN,West North Central,Midwest,Region II,SCOTT,City,True,2020-06-01T00:00:00.000Z,44.66629,-93.62728
+MN0700300,New Prague Police Department,9377,MN,West North Central,Midwest,Region II,"LE SUEUR, SCOTT",City,True,2020-06-01T00:00:00.000Z,44.651932,-93.534553
+MN0700400,Shakopee Police Department,9378,MN,West North Central,Midwest,Region II,SCOTT,City,True,2020-06-01T00:00:00.000Z,44.796043,-93.51105
+MN0700600,Savage Police Department,9379,MN,West North Central,Midwest,Region II,SCOTT,City,True,2020-06-01T00:00:00.000Z,44.651932,-93.534553
+MN0700900,Prior Lake Police Department,9380,MN,West North Central,Midwest,Region II,SCOTT,City,True,2020-06-01T00:00:00.000Z,44.715355,-93.42657
+MN0701000,Elko New Market Police Department,25711,MN,West North Central,Midwest,Region II,SCOTT,City,True,2020-06-01T00:00:00.000Z,44.651932,-93.534553
+MN0710000,Sherburne County Sheriff's Office,9381,MN,West North Central,Midwest,Region II,SHERBURNE,County,True,2020-09-01T00:00:00.000Z,45.306267,-93.62072
+MN0710100,Big Lake Police Department,9382,MN,West North Central,Midwest,Region II,SHERBURNE,City,True,2020-09-01T00:00:00.000Z,45.334156,-93.74585
+MN0710200,Elk River Police Department,9383,MN,West North Central,Midwest,Region II,SHERBURNE,City,True,2020-07-01T00:00:00.000Z,45.453176,-93.76913
+MN0710400,Becker Police Department,9384,MN,West North Central,Midwest,Region II,SHERBURNE,City,True,2020-09-01T00:00:00.000Z,45.453176,-93.76913
+MN0720000,Sibley County Sheriff's Office,9385,MN,West North Central,Midwest,Region II,SIBLEY,County,True,2020-09-01T00:00:00.000Z,44.575734,-94.230123
+MN0720100,Arlington Police Department,25738,MN,West North Central,Midwest,Region II,SIBLEY,City,True,2020-09-01T00:00:00.000Z,44.575734,-94.230123
+MN0720200,Gaylord Police Department,25615,MN,West North Central,Midwest,Region II,SIBLEY,City,True,2020-09-01T00:00:00.000Z,44.575734,-94.230123
+MN0720400,Gibbon,31615,MN,West North Central,Midwest,Region II,SIBLEY,City,False,2020-12-01T00:00:00.000Z,,
+MN0720500,Henderson,31616,MN,West North Central,Midwest,Region II,SIBLEY,City,True,2020-09-01T00:00:00.000Z,,
+MN0720600,Winthrop,31617,MN,West North Central,Midwest,Region II,SIBLEY,City,True,2020-09-01T00:00:00.000Z,,
+MN0730000,Stearns County Sheriff's Office,9386,MN,West North Central,Midwest,Region II,STEARNS,County,True,2020-12-01T00:00:00.000Z,45.560402,-94.16285
+MN0730100,Cold Spring/Richmond Police Department,9387,MN,West North Central,Midwest,Region II,STEARNS,City,True,2020-12-01T00:00:00.000Z,45.456127,-94.42898
+MN0730200,Melrose Police Department,9388,MN,West North Central,Midwest,Region II,STEARNS,City,True,2020-12-01T00:00:00.000Z,45.555235,-94.610482
+MN0730300,Paynesville Police Department,9389,MN,West North Central,Midwest,Region II,STEARNS,City,True,2020-12-01T00:00:00.000Z,45.381565,-94.71371
+MN0730400,St. Cloud Police Department,9390,MN,West North Central,Midwest,Region II,"BENTON, SHERBURNE, STEARNS",City,True,2020-12-01T00:00:00.000Z,45.555235,-94.610482
+MN0730500,Sauk Centre Police Department,9391,MN,West North Central,Midwest,Region II,STEARNS,City,True,2020-11-01T00:00:00.000Z,45.7368,-94.95355
+MN0730600,Waite Park Police Department,9392,MN,West North Central,Midwest,Region II,STEARNS,City,True,2020-12-01T00:00:00.000Z,45.555235,-94.610482
+MN0730800,Belgrade/Brooten Police Department,9394,MN,West North Central,Midwest,Region II,STEARNS,City,True,2020-12-01T00:00:00.000Z,45.555235,-94.610482
+MN0731100,St. Joseph Police Department,9396,MN,West North Central,Midwest,Region II,STEARNS,City,True,2020-12-01T00:00:00.000Z,45.555235,-94.610482
+MN0731200,Sartell Police Department,9397,MN,West North Central,Midwest,Region II,"BENTON, STEARNS",City,True,2020-12-01T00:00:00.000Z,45.555235,-94.610482
+MN0731400,Albany Police Department,9398,MN,West North Central,Midwest,Region II,STEARNS,City,True,2020-12-01T00:00:00.000Z,45.555235,-94.610482
+MN0731600,Avon Police Department,9399,MN,West North Central,Midwest,Region II,STEARNS,City,True,2020-12-01T00:00:00.000Z,45.555235,-94.610482
+MN0740000,Steele County Sheriff's Office,9400,MN,West North Central,Midwest,Region II,STEELE,County,True,2020-09-01T00:00:00.000Z,44.015261,-93.220453
+MN0740100,Owatonna Police Department,9401,MN,West North Central,Midwest,Region II,STEELE,City,True,2020-09-01T00:00:00.000Z,44.086746,-93.22321
+MN0740200,Blooming Prairie Police Department,9402,MN,West North Central,Midwest,Region II,STEELE,City,True,2020-09-01T00:00:00.000Z,44.015261,-93.220453
+MN0750000,Stevens County Sheriff's Office,9403,MN,West North Central,Midwest,Region II,STEVENS,County,True,2020-06-01T00:00:00.000Z,45.593461,-95.992315
+MN0750600,University of Minnesota: Morris,9405,MN,West North Central,Midwest,Region II,STEVENS,University or College,True,2020-06-01T00:00:00.000Z,45.589405,-95.9045
+MN0760000,Swift County Sheriff's Office,9406,MN,West North Central,Midwest,Region II,SWIFT,County,True,2021-01-01T00:00:00.000Z,45.316544,-95.60073
+MN0760100,Appleton Police Department,9407,MN,West North Central,Midwest,Region II,SWIFT,City,True,2021-01-01T00:00:00.000Z,45.199986,-96.021416
+MN0760200,Benson Police Department,9408,MN,West North Central,Midwest,Region II,SWIFT,City,True,2021-01-01T00:00:00.000Z,45.314045,-95.60234
+MN0770000,Todd County Sheriff's Office,9409,MN,West North Central,Midwest,Region II,TODD,County,True,2019-02-01T00:00:00.000Z,45.972816,-94.86059
+MN0770100,Long Prairie Police Department,9410,MN,West North Central,Midwest,Region II,TODD,City,True,2020-05-01T00:00:00.000Z,46.066569,-94.900576
+MN0770200,Staples Police Department,9411,MN,West North Central,Midwest,Region II,"TODD, WADENA",City,True,2020-05-01T00:00:00.000Z,46.066569,-94.900576
+MN0780000,Traverse County Sheriff's Office,9412,MN,West North Central,Midwest,Region II,TRAVERSE,County,True,2019-03-01T00:00:00.000Z,45.806145,-96.49276
+MN0780200,Wheaton Police Department,9414,MN,West North Central,Midwest,Region II,TRAVERSE,City,True,2019-03-01T00:00:00.000Z,45.806145,-96.49274
+MN0790000,Wabasha County Sheriff's Office,9415,MN,West North Central,Midwest,Region II,WABASHA,County,True,2018-11-01T00:00:00.000Z,44.289693,-92.23334
+MN0790100,Lake City Police Department,9416,MN,West North Central,Midwest,Region II,"GOODHUE, WABASHA",City,True,2018-11-01T00:00:00.000Z,44.289693,-92.23334
+MN0790200,Plainview Police Department,9417,MN,West North Central,Midwest,Region II,WABASHA,City,True,2018-11-01T00:00:00.000Z,44.164936,-92.16909
+MN0790300,Wabasha Police Department,9418,MN,West North Central,Midwest,Region II,WABASHA,City,True,2018-11-01T00:00:00.000Z,44.37677,-92.0241
+MN0800000,Wadena County Sheriff's Office,9420,MN,West North Central,Midwest,Region II,WADENA,County,True,2018-07-01T00:00:00.000Z,46.437492,-95.1396
+MN0800100,Wadena Police Department,9421,MN,West North Central,Midwest,Region II,"OTTER TAIL, WADENA",City,True,2018-07-01T00:00:00.000Z,46.43868,-95.13664
+MN0800200,Sebeka,26991,MN,West North Central,Midwest,Region II,WADENA,City,True,2018-07-01T00:00:00.000Z,,
+MN0800300,Verndale,27570,MN,West North Central,Midwest,Region II,WADENA,City,True,2018-07-01T00:00:00.000Z,,
+MN0800400,Menahga Police Department,25735,MN,West North Central,Midwest,Region II,WADENA,City,True,2018-07-01T00:00:00.000Z,46.586784,-94.988331
+MN0810000,Waseca County Sheriff's Office,9422,MN,West North Central,Midwest,Region II,WASECA,County,True,2018-04-01T00:00:00.000Z,44.01846,-93.589844
+MN0810100,Janesville Police Department,9423,MN,West North Central,Midwest,Region II,WASECA,City,True,2018-04-01T00:00:00.000Z,44.01846,-93.589844
+MN0810200,New Richland Police Department,9424,MN,West North Central,Midwest,Region II,WASECA,City,True,2018-04-01T00:00:00.000Z,44.01846,-93.589844
+MN0810300,Waseca Police Department,9425,MN,West North Central,Midwest,Region II,WASECA,City,True,2018-04-01T00:00:00.000Z,44.07499,-93.50772
+MN0820000,Washington County Sheriff's Office,9426,MN,West North Central,Midwest,Region II,WASHINGTON,County,True,2020-10-01T00:00:00.000Z,45.037929,-92.890117
+MN0820100,Bayport Police Department,9427,MN,West North Central,Midwest,Region II,WASHINGTON,City,True,2020-10-01T00:00:00.000Z,45.014347,-92.778305
+MN0820200,Forest Lake Police Department,9428,MN,West North Central,Midwest,Region II,WASHINGTON,City,True,2020-10-01T00:00:00.000Z,45.276623,-92.98469
+MN0820500,St. Paul Park Police Department,9431,MN,West North Central,Midwest,Region II,WASHINGTON,City,True,2020-09-01T00:00:00.000Z,44.847816,-92.98998
+MN0820600,Stillwater Police Department,9432,MN,West North Central,Midwest,Region II,WASHINGTON,City,True,2020-10-01T00:00:00.000Z,45.037929,-92.890117
+MN0820700,Cottage Grove Police Department,9433,MN,West North Central,Midwest,Region II,WASHINGTON,City,True,2020-10-01T00:00:00.000Z,44.833565,-92.95351
+MN0820800,Oakdale Police Department,9434,MN,West North Central,Midwest,Region II,WASHINGTON,City,True,2020-10-01T00:00:00.000Z,44.97113,-92.964584
+MN0821100,Woodbury Police Department,9437,MN,West North Central,Midwest,Region II,WASHINGTON,City,True,2020-10-01T00:00:00.000Z,45.037929,-92.890117
+MN0821400,Oak Park Heights Police Department,9439,MN,West North Central,Midwest,Region II,WASHINGTON,City,True,2020-10-01T00:00:00.000Z,45.037929,-92.890117
+MN0830000,Watonwan County Sheriff's Office,9441,MN,West North Central,Midwest,Region II,WATONWAN,County,True,2019-04-01T00:00:00.000Z,43.978366,-94.614128
+MN0830100,Madelia Police Department,25901,MN,West North Central,Midwest,Region II,WATONWAN,City,True,2019-04-01T00:00:00.000Z,43.978366,-94.614128
+MN0830200,St. James Police Department,9442,MN,West North Central,Midwest,Region II,WATONWAN,City,True,2019-04-01T00:00:00.000Z,43.978366,-94.614128
+MN0840000,Wilkin County Sheriff's Office,9443,MN,West North Central,Midwest,Region II,WILKIN,County,True,2020-06-01T00:00:00.000Z,46.362335,-96.476657
+MN0840100,Breckenridge Police Department,9444,MN,West North Central,Midwest,Region II,WILKIN,City,True,2020-06-01T00:00:00.000Z,46.362335,-96.476657
+MN0850000,Winona County Sheriff's Office,9445,MN,West North Central,Midwest,Region II,WINONA,County,True,2020-06-01T00:00:00.000Z,44.05349,-91.640564
+MN0850100,St. Charles Police Department,9446,MN,West North Central,Midwest,Region II,WINONA,City,True,2020-06-01T00:00:00.000Z,43.969685,-92.06492
+MN0850200,Winona Police Department,9447,MN,West North Central,Midwest,Region II,WINONA,City,True,2020-06-01T00:00:00.000Z,44.05349,-91.640564
+MN0850300,Goodview Police Department,9448,MN,West North Central,Midwest,Region II,WINONA,City,True,2020-06-01T00:00:00.000Z,44.063904,-91.69618
+MN0850400,Lewiston Police Department,9449,MN,West North Central,Midwest,Region II,WINONA,City,True,2020-06-01T00:00:00.000Z,43.982268,-91.776708
+MN0860000,Wright County Sheriff's Office,9450,MN,West North Central,Midwest,Region II,WRIGHT,County,True,2020-11-01T00:00:00.000Z,45.175091,-93.966396
+MN0860100,Buffalo Police Department,9451,MN,West North Central,Midwest,Region II,WRIGHT,City,True,2020-11-01T00:00:00.000Z,45.17459,-93.8748
+MN0860400,Howard Lake Police Department,25752,MN,West North Central,Midwest,Region II,WRIGHT,City,True,2020-11-01T00:00:00.000Z,45.175091,-93.966396
+MN0860600,Annandale Police Department,9454,MN,West North Central,Midwest,Region II,WRIGHT,City,True,2020-11-01T00:00:00.000Z,45.175091,-93.966396
+MN0870000,Yellow Medicine County Sheriff's Office,9456,MN,West North Central,Midwest,Region II,YELLOW MEDICINE,County,True,2020-11-01T00:00:00.000Z,44.809624,-95.5441
+MN0870100,Canby Police Department,9457,MN,West North Central,Midwest,Region II,YELLOW MEDICINE,City,True,2020-11-01T00:00:00.000Z,44.707973,-96.275215
+MN0870200,Granite Falls Police Department,9458,MN,West North Central,Midwest,Region II,"CHIPPEWA, YELLOW MEDICINE",City,True,2020-11-01T00:00:00.000Z,44.809624,-95.5441
+MNBCA0000,Bureau of Criminal Apprehension,22690,MN,West North Central,Midwest,Region II,NOT SPECIFIED,Other State Agency,True,2021-01-01T00:00:00.000Z,45.01525,-93.100141
+MNCON0000,Department of Natural Resources Enforcement Division,25715,MN,West North Central,Midwest,Region II,NOT SPECIFIED,Other State Agency,True,2020-10-01T00:00:00.000Z,,
+MNDI00500,Leech Lake Band of Ojibwe,9459,MN,West North Central,Midwest,Region II,NOT SPECIFIED,Tribal,True,2021-01-01T00:00:00.000Z,46.951786,-94.33367
+MNDI02300,Upper Sioux Community,23277,MN,West North Central,Midwest,Region II,NOT SPECIFIED,Tribal,False,2020-11-01T00:00:00.000Z,,
+MNDI02400,Mille Lacs Tribal,9461,MN,West North Central,Midwest,Region II,NOT SPECIFIED,Tribal,True,2020-06-01T00:00:00.000Z,45.929043,-93.632996
+MNDI05000,Red Lake Agency,9462,MN,West North Central,Midwest,Region II,NOT SPECIFIED,Tribal,True,2021-01-01T00:00:00.000Z,47.878825,-94.986698
+MNDI05100,Nett Lake Tribal,9463,MN,West North Central,Midwest,Region II,NOT SPECIFIED,Tribal,True,2021-01-01T00:00:00.000Z,48.058807,-93.068665
+MNDI06000,Lower Sioux Tribal,9464,MN,West North Central,Midwest,Region II,NOT SPECIFIED,Tribal,True,2021-01-01T00:00:00.000Z,44.403536,-95.254241
+MNDI07000,Fond du Lac Tribal,23179,MN,West North Central,Midwest,Region II,NOT SPECIFIED,Tribal,True,2020-07-01T00:00:00.000Z,46.713093,-92.49121
+MNGED0000,Minnesota Department of Public Safety Alcohol and Gambling Enforcement,33176,MN,West North Central,Midwest,Region II,NOT SPECIFIED,Other State Agency,True,2020-11-01T00:00:00.000Z,,
+MNMHP0100,State Patrol: Oakdale,9466,MN,West North Central,Midwest,Region II,RAMSEY,State Police,True,2019-11-01T00:00:00.000Z,44.998665,-92.96449
+MNMHP0200,State Patrol: Rochester,9467,MN,West North Central,Midwest,Region II,OLMSTED,State Police,True,2019-11-01T00:00:00.000Z,44.072666,-92.50419
+MNMHP0300,State Patrol: Marshall,9468,MN,West North Central,Midwest,Region II,LYON,State Police,True,2019-11-01T00:00:00.000Z,44.409195,-95.847268
+MNMHP0400,State Patrol: Golden Valley,9469,MN,West North Central,Midwest,Region II,HENNEPIN,State Police,True,2019-11-01T00:00:00.000Z,45.00033,-93.34986
+MNMHP0600,State Patrol: St. Cloud,9470,MN,West North Central,Midwest,Region II,STEARNS,State Police,True,2019-11-01T00:00:00.000Z,45.57311,-94.20343
+MNMHP0700,State Patrol: Brainerd,9471,MN,West North Central,Midwest,Region II,CROW WING,State Police,True,2019-11-01T00:00:00.000Z,46.491114,-94.071213
+MNMHP0800,State Patrol: Detroit Lakes,9472,MN,West North Central,Midwest,Region II,BECKER,State Police,True,2019-11-01T00:00:00.000Z,46.937629,-95.741757
+MNMHP0900,State Patrol: Thief River Falls,9473,MN,West North Central,Midwest,Region II,PENNINGTON,State Police,True,2019-11-01T00:00:00.000Z,48.069247,-96.037725
+MNMHP1000,State Patrol: Virginia,9474,MN,West North Central,Midwest,Region II,ST LOUIS,State Police,True,2019-11-01T00:00:00.000Z,47.523777,-92.559975
+MNMHP1100,State Patrol: Duluth,9475,MN,West North Central,Midwest,Region II,ST LOUIS,State Police,True,2019-11-01T00:00:00.000Z,46.799873,-92.10708
+MNMHP1200,State Patrol: Mankato,9476,MN,West North Central,Midwest,Region II,BLUE EARTH,State Police,True,2019-11-01T00:00:00.000Z,44.03371,-94.064012
+MNMHP1300,"Capitol Security, St. Paul",9477,MN,West North Central,Midwest,Region II,RAMSEY,Other State Agency,True,2019-11-01T00:00:00.000Z,44.954304,-93.09968
+MNMHP2000,Minnesota State Patrol,9465,MN,West North Central,Midwest,Region II,NOT SPECIFIED,State Police,True,2019-11-01T00:00:00.000Z,,

@@ -1,0 +1,250 @@
+ori,agency_name,agency_id,state_abbr,division_name,region_name,region_desc,county_name,agency_type_name,nibrs,nibrs_start_date,latitude,longitude
+CO0010000,Adams County Sheriff's Office,1826,CO,Mountain,West,Region IV,ADAMS,County,True,1997-01-01T00:00:00.000Z,39.874325,-104.331872
+CO0010100,Aurora Police Department,1827,CO,Mountain,West,Region IV,"ADAMS, ARAPAHOE, DOUGLAS",City,True,1985-01-01T00:00:00.000Z,39.70955,-104.81493
+CO0010200,Brighton Police Department,1828,CO,Mountain,West,Region IV,"ADAMS, WELD",City,True,2004-09-01T00:00:00.000Z,39.874325,-104.331872
+CO0010300,Commerce City Police Department,1829,CO,Mountain,West,Region IV,ADAMS,City,True,1997-01-01T00:00:00.000Z,39.874325,-104.331872
+CO0010400,Thornton Police Department,1830,CO,Mountain,West,Region IV,ADAMS,City,True,2012-01-01T00:00:00.000Z,39.868996,-104.984215
+CO0010500,Westminster Police Department,1831,CO,Mountain,West,Region IV,"ADAMS, JEFFERSON",City,True,1997-01-01T00:00:00.000Z,39.86312,-105.050415
+CO0010600,Northglenn Police Department,1832,CO,Mountain,West,Region IV,"ADAMS, WELD",City,True,1997-01-01T00:00:00.000Z,39.9079,-104.98737
+CO0010800,Federal Heights Police Department,1834,CO,Mountain,West,Region IV,ADAMS,City,True,1997-01-01T00:00:00.000Z,39.859097,-105.01396
+CO0011100,University of Colorado: Denver,1835,CO,Mountain,West,Region IV,ADAMS,University or College,True,2002-01-01T00:00:00.000Z,39.644632,-104.331733
+CO0020000,Alamosa County Sheriff's Office,1836,CO,Mountain,West,Region IV,ALAMOSA,County,True,1997-01-01T00:00:00.000Z,37.454723,-105.87713
+CO0020100,Alamosa Police Department,1837,CO,Mountain,West,Region IV,ALAMOSA,City,True,2012-01-01T00:00:00.000Z,37.568442,-105.788041
+CO0020200,Adams State University,1838,CO,Mountain,West,Region IV,ALAMOSA,University or College,True,1997-07-01T00:00:00.000Z,37.47158,-105.88075
+CO0030000,Arapahoe County Sheriff's Office,1839,CO,Mountain,West,Region IV,ARAPAHOE,County,True,1997-01-01T00:00:00.000Z,39.578564,-104.84023
+CO0030100,Englewood Police Department,1840,CO,Mountain,West,Region IV,ARAPAHOE,City,True,1992-01-01T00:00:00.000Z,39.644632,-104.331733
+CO0030200,Littleton Police Department,1841,CO,Mountain,West,Region IV,"ARAPAHOE, DOUGLAS, JEFFERSON",City,True,2011-01-01T00:00:00.000Z,39.616898,-105.01454
+CO0030300,Sheridan Police Department,1842,CO,Mountain,West,Region IV,ARAPAHOE,City,True,1997-01-01T00:00:00.000Z,39.642136,-105.02534
+CO0030400,Glendale Police Department,1843,CO,Mountain,West,Region IV,ARAPAHOE,City,True,1997-01-01T00:00:00.000Z,39.6993,-104.936356
+CO0030500,Cherry Hills Village Police Department,1844,CO,Mountain,West,Region IV,ARAPAHOE,City,True,1997-01-01T00:00:00.000Z,39.638012,-104.95837
+CO0030600,Bow Mar Police Department,1845,CO,Mountain,West,Region IV,"ARAPAHOE, JEFFERSON",City,True,1997-01-01T00:00:00.000Z,39.619427,-105.04605
+CO0030700,Greenwood Village Police Department,1846,CO,Mountain,West,Region IV,ARAPAHOE,City,True,1997-01-01T00:00:00.000Z,39.644632,-104.331733
+CO0030800,Columbine Valley Police Department,1847,CO,Mountain,West,Region IV,ARAPAHOE,City,True,1997-01-01T00:00:00.000Z,39.606247,-105.035
+CO0030900,Arapahoe Community College,1848,CO,Mountain,West,Region IV,ARAPAHOE,University or College,True,1997-01-01T00:00:00.000Z,39.61016,-105.02113
+CO0031100,Centennial Police Department,1849,CO,Mountain,West,Region IV,ARAPAHOE,City,True,2002-01-01T00:00:00.000Z,39.644632,-104.331733
+CO0040000,Archuleta County Sheriff's Office,1852,CO,Mountain,West,Region IV,ARCHULETA,County,True,1997-01-01T00:00:00.000Z,37.202395,-107.050863
+CO0040100,Pagosa Springs Police Department,1853,CO,Mountain,West,Region IV,ARCHULETA,City,True,1997-01-01T00:00:00.000Z,37.202395,-107.050863
+CO0050000,Baca County Sheriff's Office,1855,CO,Mountain,West,Region IV,BACA,County,True,1997-01-01T00:00:00.000Z,37.41247,-102.61426
+CO0050100,Springfield Police Department,1856,CO,Mountain,West,Region IV,BACA,City,True,2003-01-01T00:00:00.000Z,37.406647,-102.61652
+CO0050700,Walsh Police Department,1859,CO,Mountain,West,Region IV,BACA,City,False,2004-10-01T00:00:00.000Z,37.306678,-102.537765
+CO0060000,Bent County Sheriff's Office,1860,CO,Mountain,West,Region IV,BENT,County,True,1997-01-01T00:00:00.000Z,37.931891,-103.077584
+CO0070000,Boulder County Sheriff's Office,1862,CO,Mountain,West,Region IV,BOULDER,County,True,2015-01-01T00:00:00.000Z,40.013927,-105.28725
+CO0070100,Boulder Police Department,1863,CO,Mountain,West,Region IV,BOULDER,City,True,2010-01-01T00:00:00.000Z,40.018864,-105.24995
+CO0070300,Lafayette Police Department,1865,CO,Mountain,West,Region IV,BOULDER,City,True,2011-01-01T00:00:00.000Z,39.987686,-105.09051
+CO0070400,Longmont Police Department,1866,CO,Mountain,West,Region IV,"BOULDER, WELD",City,True,1997-01-01T00:00:00.000Z,40.162106,-105.10189
+CO0070500,University of Colorado: Boulder,1867,CO,Mountain,West,Region IV,BOULDER,University or College,True,1997-01-01T00:00:00.000Z,40.094838,-105.398376
+CO0070600,Louisville Police Department,1868,CO,Mountain,West,Region IV,BOULDER,City,True,2012-01-01T00:00:00.000Z,39.977306,-105.13216
+CO0070800,Nederland Police Department,1870,CO,Mountain,West,Region IV,BOULDER,City,True,2015-01-01T00:00:00.000Z,40.094838,-105.398376
+CO0080000,Chaffee County Sheriff's Office,1871,CO,Mountain,West,Region IV,CHAFFEE,County,True,1997-01-01T00:00:00.000Z,38.738244,-106.316955
+CO0080100,Buena Vista Police Department,1872,CO,Mountain,West,Region IV,CHAFFEE,City,True,1997-01-01T00:00:00.000Z,38.738244,-106.316955
+CO0080200,Salida Police Department,1873,CO,Mountain,West,Region IV,CHAFFEE,City,True,1997-01-01T00:00:00.000Z,38.738244,-106.316955
+CO0090000,Cheyenne County Sheriff's Office,1874,CO,Mountain,West,Region IV,CHEYENNE,County,False,1997-01-01T00:00:00.000Z,38.835386,-102.604585
+CO0100000,Clear Creek County Sheriff's Office,1876,CO,Mountain,West,Region IV,CLEAR CREEK,County,True,1997-01-01T00:00:00.000Z,39.689403,-105.670791
+CO0100100,Idaho Springs Police Department,1877,CO,Mountain,West,Region IV,CLEAR CREEK,City,True,1997-01-01T00:00:00.000Z,39.689403,-105.670791
+CO0100200,Georgetown Police Department,1878,CO,Mountain,West,Region IV,CLEAR CREEK,City,True,2001-01-01T00:00:00.000Z,39.689403,-105.670791
+CO0100300,Empire Police Department,1879,CO,Mountain,West,Region IV,CLEAR CREEK,City,True,2012-01-01T00:00:00.000Z,39.689403,-105.670791
+CO0110000,Conejos County Sheriff's Office,1880,CO,Mountain,West,Region IV,CONEJOS,County,True,1998-11-01T00:00:00.000Z,37.213406,-106.176447
+CO0110500,Sanford Police Department,1885,CO,Mountain,West,Region IV,CONEJOS,City,False,,37.213406,-106.176447
+CO0120000,Costilla County Sheriff's Office,1886,CO,Mountain,West,Region IV,COSTILLA,County,False,1997-01-01T00:00:00.000Z,37.277547,-105.42894
+CO0130000,Crowley County Sheriff's Office,1888,CO,Mountain,West,Region IV,CROWLEY,County,True,1997-01-01T00:00:00.000Z,38.221676,-103.75666
+CO0140000,Custer County Sheriff's Office,1890,CO,Mountain,West,Region IV,CUSTER,County,True,1997-01-01T00:00:00.000Z,38.101994,-105.373515
+CO0150000,Delta County Sheriff's Office,1892,CO,Mountain,West,Region IV,DELTA,County,True,1997-12-01T00:00:00.000Z,38.861756,-107.864757
+CO0150100,Delta Police Department,1893,CO,Mountain,West,Region IV,DELTA,City,True,2012-01-01T00:00:00.000Z,38.74036,-108.072365
+CO0150200,Paonia Police Department,1894,CO,Mountain,West,Region IV,DELTA,City,True,2012-01-01T00:00:00.000Z,38.861756,-107.864757
+CO0150300,Hotchkiss Police Department,1895,CO,Mountain,West,Region IV,DELTA,City,True,2012-05-01T00:00:00.000Z,38.861756,-107.864757
+CO0150400,Cedaredge Police Department,1896,CO,Mountain,West,Region IV,DELTA,City,True,2012-01-01T00:00:00.000Z,38.861756,-107.864757
+CO0160200,Auraria Higher Education Center,1899,CO,Mountain,West,Region IV,DENVER,University or College,True,1997-01-01T00:00:00.000Z,39.76185,-104.880641
+CO0170000,Dolores County Sheriff's Office,1902,CO,Mountain,West,Region IV,DOLORES,County,True,1997-01-01T00:00:00.000Z,37.747602,-108.530383
+CO0180000,Douglas County Sheriff's Office,1904,CO,Mountain,West,Region IV,DOUGLAS,County,True,1997-01-01T00:00:00.000Z,39.40472,-104.87107
+CO0180100,Castle Rock Police Department,1905,CO,Mountain,West,Region IV,DOUGLAS,City,True,1997-01-01T00:00:00.000Z,39.37022,-104.85867
+CO0180500,Parker Police Department,1906,CO,Mountain,West,Region IV,DOUGLAS,City,True,1997-01-01T00:00:00.000Z,39.326435,-104.926199
+CO0180700,Lone Tree Police Department,1908,CO,Mountain,West,Region IV,DOUGLAS,City,True,1997-08-01T00:00:00.000Z,39.326435,-104.926199
+CO0190000,Eagle County Sheriff's Office,1909,CO,Mountain,West,Region IV,EAGLE,County,True,1997-01-01T00:00:00.000Z,39.630638,-106.692944
+CO0190100,Vail Police Department,1910,CO,Mountain,West,Region IV,EAGLE,City,True,1997-01-01T00:00:00.000Z,39.627712,-106.42001
+CO0190200,Eagle Police Department,1911,CO,Mountain,West,Region IV,EAGLE,City,True,1997-01-01T00:00:00.000Z,39.630638,-106.692944
+CO0190400,Basalt Police Department,1913,CO,Mountain,West,Region IV,"EAGLE, PITKIN",City,True,2003-04-01T00:00:00.000Z,39.362366,-107.02863
+CO0190600,Avon Police Department,1914,CO,Mountain,West,Region IV,EAGLE,City,True,1997-01-01T00:00:00.000Z,39.630638,-106.692944
+CO0191000,Gypsum Police Department,25314,CO,Mountain,West,Region IV,EAGLE,City,True,2014-02-01T00:00:00.000Z,,
+CO0200000,Elbert County Sheriff's Office,1915,CO,Mountain,West,Region IV,ELBERT,County,True,2000-01-01T00:00:00.000Z,39.310582,-104.117729
+CO0200100,Elizabeth Police Department,1916,CO,Mountain,West,Region IV,ELBERT,City,True,1997-01-01T00:00:00.000Z,39.310582,-104.117729
+CO0200200,Simla Police Department,1917,CO,Mountain,West,Region IV,ELBERT,City,True,2015-01-01T00:00:00.000Z,39.310582,-104.117729
+CO0210000,El Paso County Sheriff's Office,1919,CO,Mountain,West,Region IV,EL PASO,County,True,2004-01-01T00:00:00.000Z,38.830826,-104.823685
+CO0210100,Colorado Springs Police Department,1920,CO,Mountain,West,Region IV,EL PASO,City,True,1997-01-01T00:00:00.000Z,38.82436,-104.822075
+CO0210200,Fountain Police Department,1921,CO,Mountain,West,Region IV,EL PASO,City,True,1997-01-01T00:00:00.000Z,38.695778,-104.70522
+CO0210300,Manitou Springs Police Department,1922,CO,Mountain,West,Region IV,EL PASO,City,True,1997-01-01T00:00:00.000Z,38.857506,-104.91301
+CO0210400,University of Colorado: Colorado Springs,1923,CO,Mountain,West,Region IV,EL PASO,University or College,True,1997-01-01T00:00:00.000Z,38.827383,-104.527472
+CO0210500,Pikes Peak Community College,1924,CO,Mountain,West,Region IV,EL PASO,University or College,False,1997-01-01T00:00:00.000Z,38.765526,-104.786415
+CO0210600,Palmer Lake Police Department,1925,CO,Mountain,West,Region IV,EL PASO,City,False,1997-06-01T00:00:00.000Z,38.827383,-104.527472
+CO0210700,Monument Police Department,1926,CO,Mountain,West,Region IV,EL PASO,City,True,1998-10-01T00:00:00.000Z,38.827383,-104.527472
+CO0210900,Green Mountain Falls Police Department,1927,CO,Mountain,West,Region IV,"EL PASO, TELLER",City,True,2012-01-01T00:00:00.000Z,38.827383,-104.527472
+CO0211000,Calhan Police Department,1928,CO,Mountain,West,Region IV,EL PASO,City,True,1997-01-01T00:00:00.000Z,38.827383,-104.527472
+CO0220000,Fremont County Sheriff's Office,1929,CO,Mountain,West,Region IV,FREMONT,County,True,1997-01-01T00:00:00.000Z,38.44703,-105.18325
+CO0220100,Canon City Police Department,1930,CO,Mountain,West,Region IV,FREMONT,City,True,2005-01-01T00:00:00.000Z,38.455658,-105.421438
+CO0220200,Florence Police Department,1931,CO,Mountain,West,Region IV,FREMONT,City,True,1997-01-01T00:00:00.000Z,38.394386,-105.12429
+CO0230000,Garfield County Sheriff's Office,1932,CO,Mountain,West,Region IV,GARFIELD,County,True,1997-01-01T00:00:00.000Z,39.546738,-107.32647
+CO0230100,Glenwood Springs Police Department,1933,CO,Mountain,West,Region IV,GARFIELD,City,True,1997-01-01T00:00:00.000Z,39.54674,-107.32649
+CO0230200,Parachute Police Department,1934,CO,Mountain,West,Region IV,GARFIELD,City,True,1997-01-01T00:00:00.000Z,39.599352,-107.90978
+CO0230300,Rifle Police Department,1935,CO,Mountain,West,Region IV,GARFIELD,City,True,1999-01-01T00:00:00.000Z,39.545822,-107.782364
+CO0230400,Carbondale Police Department,1936,CO,Mountain,West,Region IV,GARFIELD,City,True,2011-01-01T00:00:00.000Z,39.40172,-107.21212
+CO0230500,Silt Police Department,1937,CO,Mountain,West,Region IV,GARFIELD,City,True,2004-01-01T00:00:00.000Z,39.599352,-107.90978
+CO0230600,New Castle Police Department,1938,CO,Mountain,West,Region IV,GARFIELD,City,True,2000-01-01T00:00:00.000Z,39.599352,-107.90978
+CO0240000,Gilpin County Sheriff's Office,1940,CO,Mountain,West,Region IV,GILPIN,County,True,1997-01-01T00:00:00.000Z,39.838306,-105.482994
+CO0240200,Black Hawk Police Department,1942,CO,Mountain,West,Region IV,GILPIN,City,True,1997-01-01T00:00:00.000Z,39.861082,-105.528947
+CO0250000,Grand County Sheriff's Office,1944,CO,Mountain,West,Region IV,GRAND,County,True,1997-01-01T00:00:00.000Z,40.123289,-106.095876
+CO0250100,Granby Police Department,1945,CO,Mountain,West,Region IV,GRAND,City,True,2012-01-01T00:00:00.000Z,40.123289,-106.095876
+CO0250300,Kremmling Police Department,1947,CO,Mountain,West,Region IV,GRAND,City,True,2021-05-01T00:00:00.000Z,40.123289,-106.095876
+CO0250400,Fraser/Winter Park Police Department,1948,CO,Mountain,West,Region IV,GRAND,City,True,2014-01-01T00:00:00.000Z,40.123289,-106.095876
+CO0260000,Gunnison County Sheriff's Office,1949,CO,Mountain,West,Region IV,GUNNISON,County,True,1997-01-01T00:00:00.000Z,38.54558,-106.925606
+CO0260100,Gunnison Police Department,1950,CO,Mountain,West,Region IV,GUNNISON,City,True,2006-01-01T00:00:00.000Z,38.669679,-107.078108
+CO0260200,Mount Crested Butte Police Department,1951,CO,Mountain,West,Region IV,GUNNISON,City,True,1997-01-01T00:00:00.000Z,38.669679,-107.078108
+CO0260300,Crested Butte Police Department,1952,CO,Mountain,West,Region IV,GUNNISON,City,True,1997-01-01T00:00:00.000Z,38.669679,-107.078108
+CO0270000,Hinsdale County Sheriff's Office,1953,CO,Mountain,West,Region IV,HINSDALE,County,True,1997-01-01T00:00:00.000Z,37.811667,-107.383335
+CO0280000,Huerfano County Sheriff's Office,1954,CO,Mountain,West,Region IV,HUERFANO,County,True,1998-01-01T00:00:00.000Z,37.62409,-104.7829
+CO0280200,La Veta Police Department,1956,CO,Mountain,West,Region IV,HUERFANO,City,False,2012-01-01T00:00:00.000Z,37.687815,-104.959928
+CO0290000,Jackson County Sheriff's Office,1957,CO,Mountain,West,Region IV,JACKSON,County,True,1997-01-01T00:00:00.000Z,40.663432,-106.329248
+CO0300000,Jefferson County Sheriff's Office,1958,CO,Mountain,West,Region IV,JEFFERSON,County,True,1997-01-01T00:00:00.000Z,39.72974,-105.2028
+CO0300100,Arvada Police Department,1959,CO,Mountain,West,Region IV,"ADAMS, JEFFERSON",City,True,2006-01-01T00:00:00.000Z,39.802036,-105.08734
+CO030015Y,"Division of Gaming Criminal Enforcement and Investigations Section,",29074,CO,Mountain,West,Region IV,JEFFERSON,Other State Agency,True,2019-01-01T00:00:00.000Z,,
+CO0300200,Golden Police Department,1960,CO,Mountain,West,Region IV,JEFFERSON,City,True,1997-01-01T00:00:00.000Z,39.75706,-105.22413
+CO0300300,Edgewater Police Department,1961,CO,Mountain,West,Region IV,JEFFERSON,City,True,2012-01-01T00:00:00.000Z,39.753033,-105.06145
+CO0300400,Lakewood Police Department,1962,CO,Mountain,West,Region IV,JEFFERSON,City,True,1997-01-01T00:00:00.000Z,39.708225,-105.08569
+CO0300500,Wheat Ridge Police Department,1963,CO,Mountain,West,Region IV,JEFFERSON,City,True,1997-01-01T00:00:00.000Z,39.758446,-105.07984
+CO0300600,Lakeside Police Department,1964,CO,Mountain,West,Region IV,JEFFERSON,City,True,2012-01-01T00:00:00.000Z,39.776623,-105.061516
+CO0300700,Morrison Police Department,1965,CO,Mountain,West,Region IV,JEFFERSON,City,False,2012-01-01T00:00:00.000Z,39.65041,-105.1937
+CO0300800,Colorado School of Mines,1966,CO,Mountain,West,Region IV,JEFFERSON,University or College,True,1997-01-01T00:00:00.000Z,39.751144,-105.22222
+CO0300900,Mountain View Police Department,1967,CO,Mountain,West,Region IV,JEFFERSON,City,True,1997-01-01T00:00:00.000Z,39.773666,-105.05553
+CO0301000,Red Rocks Community College,1968,CO,Mountain,West,Region IV,JEFFERSON,University or College,True,1997-01-01T00:00:00.000Z,39.72526,-105.14929
+CO0310000,Kiowa County Sheriff's Office,1969,CO,Mountain,West,Region IV,KIOWA,County,True,1998-06-01T00:00:00.000Z,38.388466,-102.75621
+CO0320000,Kit Carson County Sheriff's Office,1971,CO,Mountain,West,Region IV,KIT CARSON,County,True,1997-01-01T00:00:00.000Z,39.30287,-102.2707
+CO0320100,Burlington Police Department,1972,CO,Mountain,West,Region IV,KIT CARSON,City,True,1997-01-01T00:00:00.000Z,39.30534,-102.603023
+CO0330000,Lake County Sheriff's Office,1975,CO,Mountain,West,Region IV,LAKE,County,True,1997-01-01T00:00:00.000Z,39.205341,-106.350079
+CO0330100,Leadville Police Department,1976,CO,Mountain,West,Region IV,LAKE,City,True,1997-01-01T00:00:00.000Z,39.25045,-106.29249
+CO0340000,La Plata County Sheriff's Office,1977,CO,Mountain,West,Region IV,LA PLATA,County,True,2012-12-01T00:00:00.000Z,37.287367,-107.839718
+CO0340100,Durango Police Department,1978,CO,Mountain,West,Region IV,LA PLATA,City,True,2012-01-01T00:00:00.000Z,37.274067,-107.87903
+CO034019E,Fort Lewis College,1982,CO,Mountain,West,Region IV,LA PLATA,University or College,True,2004-07-01T00:00:00.000Z,,
+CO0340200,Southern Ute Tribal,1979,CO,Mountain,West,Region IV,NOT SPECIFIED,Tribal,True,2021-01-01T00:00:00.000Z,37.287367,-107.839718
+CO0340300,Ignacio Police Department,1980,CO,Mountain,West,Region IV,LA PLATA,City,True,1998-11-01T00:00:00.000Z,37.287367,-107.839718
+CO0340400,Bayfield Police Department,1981,CO,Mountain,West,Region IV,LA PLATA,City,True,2012-01-01T00:00:00.000Z,37.287367,-107.839718
+CO0348000,Southwest Drug Task Force,1983,CO,Mountain,West,Region IV,LA PLATA,Other,True,2012-01-01T00:00:00.000Z,37.287367,-107.839718
+CO0350000,Larimer County Sheriff's Office,1984,CO,Mountain,West,Region IV,LARIMER,County,True,1997-01-01T00:00:00.000Z,40.663091,-105.482131
+CO0350200,Estes Park Police Department,1986,CO,Mountain,West,Region IV,LARIMER,City,True,1997-01-01T00:00:00.000Z,40.663091,-105.482131
+CO0350300,Fort Collins Police Department,1987,CO,Mountain,West,Region IV,LARIMER,City,True,2006-01-01T00:00:00.000Z,40.58892,-105.08077
+CO0350400,Loveland Police Department,1988,CO,Mountain,West,Region IV,LARIMER,City,True,2012-01-01T00:00:00.000Z,40.402042,-105.08795
+CO0350500,"Colorado State University, Fort Collins",1989,CO,Mountain,West,Region IV,LARIMER,University or College,True,2006-01-01T00:00:00.000Z,,
+CO0350900,Northern Colorado Drug Task Force,33748,CO,Mountain,West,Region IV,LARIMER,Other,True,2022-01-01T00:00:00.000Z,,
+CO0351000,Timnath Police Department,1991,CO,Mountain,West,Region IV,"LARIMER, WELD",City,True,2009-02-01T00:00:00.000Z,40.663091,-105.482131
+CO0360000,Las Animas County Sheriff's Office,1992,CO,Mountain,West,Region IV,LAS ANIMAS,County,True,1997-01-01T00:00:00.000Z,37.318831,-104.04411
+CO0360100,Trinidad Police Department,1993,CO,Mountain,West,Region IV,LAS ANIMAS,City,True,1997-01-01T00:00:00.000Z,37.318831,-104.04411
+CO0370000,Lincoln County Sheriff's Office,1994,CO,Mountain,West,Region IV,LINCOLN,County,True,1997-01-01T00:00:00.000Z,38.99374,-103.507555
+CO0370100,Limon Police Department,1995,CO,Mountain,West,Region IV,LINCOLN,City,True,1997-01-01T00:00:00.000Z,38.99374,-103.507555
+CO0370200,Hugo Police Department,1996,CO,Mountain,West,Region IV,LINCOLN,City,True,1997-01-01T00:00:00.000Z,38.99374,-103.507555
+CO0380000,Logan County Sheriff's Office,1997,CO,Mountain,West,Region IV,LOGAN,County,True,1997-01-01T00:00:00.000Z,40.728091,-103.090464
+CO0380100,Sterling Police Department,1998,CO,Mountain,West,Region IV,LOGAN,City,True,1997-01-01T00:00:00.000Z,40.728091,-103.090464
+CO0390000,Mesa County Sheriff's Office,2000,CO,Mountain,West,Region IV,MESA,County,True,1997-01-01T00:00:00.000Z,39.068436,-108.57308
+CO0390100,Grand Junction Police Department,2001,CO,Mountain,West,Region IV,MESA,City,True,1997-01-01T00:00:00.000Z,39.019492,-108.461837
+CO0390200,Fruita Police Department,2002,CO,Mountain,West,Region IV,MESA,City,True,2011-01-01T00:00:00.000Z,39.157085,-108.733734
+CO0390300,Palisade Police Department,2003,CO,Mountain,West,Region IV,MESA,City,True,1997-01-01T00:00:00.000Z,39.019492,-108.461837
+CO0390400,De Beque Police Department,2004,CO,Mountain,West,Region IV,MESA,City,False,1997-01-01T00:00:00.000Z,39.019492,-108.461837
+CO0390900,Collbran Police Department,2006,CO,Mountain,West,Region IV,MESA,City,True,2014-01-01T00:00:00.000Z,39.019492,-108.461837
+CO0400000,Mineral County Sheriff's Office,2007,CO,Mountain,West,Region IV,MINERAL,County,False,1997-01-01T00:00:00.000Z,37.651478,-106.9323
+CO0410000,Moffat County Sheriff's Office,2009,CO,Mountain,West,Region IV,MOFFAT,County,True,1997-01-01T00:00:00.000Z,40.506866,-107.558464
+CO0410100,Craig Police Department,2010,CO,Mountain,West,Region IV,MOFFAT,City,True,1997-01-01T00:00:00.000Z,40.506866,-107.558464
+CO0410200,Dinosaur Police Department,2011,CO,Mountain,West,Region IV,MOFFAT,City,True,1997-01-01T00:00:00.000Z,40.573984,-108.204521
+CO0418000,All Crimes Enforcement Team,25267,CO,Mountain,West,Region IV,MOFFAT,Other,True,2013-01-01T00:00:00.000Z,40.573984,-108.204521
+CO0420000,Montezuma County Sheriff's Office,2012,CO,Mountain,West,Region IV,MONTEZUMA,County,True,1997-01-01T00:00:00.000Z,37.338025,-108.595786
+CO0420100,Cortez Police Department,2013,CO,Mountain,West,Region IV,MONTEZUMA,City,True,1997-01-01T00:00:00.000Z,37.35523,-108.574974
+CO0420200,Mancos Police Department,2014,CO,Mountain,West,Region IV,MONTEZUMA,City,True,2011-01-01T00:00:00.000Z,37.345413,-108.28907
+CO0430000,Montrose County Sheriff's Office,2017,CO,Mountain,West,Region IV,MONTROSE,County,True,1997-01-01T00:00:00.000Z,38.489193,-107.889206
+CO0430100,Montrose Police Department,2018,CO,Mountain,West,Region IV,MONTROSE,City,True,1997-01-01T00:00:00.000Z,38.413427,-108.263042
+CO0430400,Olathe Police Department,2020,CO,Mountain,West,Region IV,MONTROSE,City,True,2000-04-01T00:00:00.000Z,38.413427,-108.263042
+CO0438000,Delta Montrose Drug Task Force,2022,CO,Mountain,West,Region IV,MONTROSE,Other,True,2009-01-01T00:00:00.000Z,38.478962,-107.87543
+CO0440000,Morgan County Sheriff's Office,2023,CO,Mountain,West,Region IV,MORGAN,County,True,1997-01-01T00:00:00.000Z,40.251266,-103.789604
+CO0440100,Brush Police Department,2024,CO,Mountain,West,Region IV,MORGAN,City,True,1997-01-01T00:00:00.000Z,40.26254,-103.807497
+CO0440200,Fort Morgan Police Department,2025,CO,Mountain,West,Region IV,MORGAN,City,True,2002-01-01T00:00:00.000Z,40.25126,-103.78875
+CO0440300,Wiggins Police Department,2026,CO,Mountain,West,Region IV,MORGAN,City,True,2005-01-01T00:00:00.000Z,40.26254,-103.807497
+CO0440400,Log Lane Village Police Department,2027,CO,Mountain,West,Region IV,MORGAN,City,False,2003-07-01T00:00:00.000Z,40.270668,-103.83202
+CO0450000,Otero County Sheriff's Office,2029,CO,Mountain,West,Region IV,OTERO,County,True,1997-01-01T00:00:00.000Z,37.986965,-103.54009
+CO0450100,La Junta Police Department,2030,CO,Mountain,West,Region IV,OTERO,City,True,1995-08-01T00:00:00.000Z,37.88417,-103.72126
+CO0450200,Rocky Ford Police Department,2031,CO,Mountain,West,Region IV,OTERO,City,True,1997-01-01T00:00:00.000Z,38.052746,-103.72137
+CO0450300,Manzanola Police Department,2032,CO,Mountain,West,Region IV,OTERO,City,False,,37.88417,-103.72126
+CO0450400,Fowler Police Department,2033,CO,Mountain,West,Region IV,OTERO,City,True,2012-01-01T00:00:00.000Z,38.130898,-104.02448
+CO0460000,Ouray County Sheriff's Office,2034,CO,Mountain,West,Region IV,OURAY,County,True,1996-05-01T00:00:00.000Z,38.1506,-107.767133
+CO0460100,Ouray Police Department,2035,CO,Mountain,West,Region IV,OURAY,City,True,1997-01-01T00:00:00.000Z,38.1506,-107.767133
+CO0460200,Ridgway Police Department,2036,CO,Mountain,West,Region IV,OURAY,City,True,2019-01-01T00:00:00.000Z,38.1506,-107.767133
+CO0470000,Park County Sheriff's Office,2037,CO,Mountain,West,Region IV,PARK,County,True,1997-01-01T00:00:00.000Z,39.118914,-105.717648
+CO0470100,Fairplay Police Department,2038,CO,Mountain,West,Region IV,PARK,City,True,1997-09-01T00:00:00.000Z,39.118914,-105.717648
+CO0480000,Phillips County Sheriff's Office,2040,CO,Mountain,West,Region IV,PHILLIPS,County,True,1997-01-01T00:00:00.000Z,40.58684,-102.302216
+CO0480100,Holyoke Police Department,2041,CO,Mountain,West,Region IV,PHILLIPS,City,True,1997-01-01T00:00:00.000Z,40.585617,-102.29797
+CO0480200,Haxtun Police Department,2042,CO,Mountain,West,Region IV,PHILLIPS,City,True,1999-01-01T00:00:00.000Z,40.594712,-102.345105
+CO0490000,Pitkin County Sheriff's Office,2043,CO,Mountain,West,Region IV,PITKIN,County,True,2009-07-01T00:00:00.000Z,39.19041,-106.81792
+CO0490100,Aspen Police Department,2044,CO,Mountain,West,Region IV,PITKIN,City,True,2011-01-01T00:00:00.000Z,39.19041,-106.81792
+CO0490200,Snowmass Village Police Department,2045,CO,Mountain,West,Region IV,PITKIN,City,True,1997-01-01T00:00:00.000Z,39.217533,-106.915943
+CO0500000,Prowers County Sheriff's Office,2046,CO,Mountain,West,Region IV,PROWERS,County,True,1997-01-01T00:00:00.000Z,38.08611,-102.618866
+CO0500100,Lamar Police Department,2047,CO,Mountain,West,Region IV,PROWERS,City,True,1997-01-01T00:00:00.000Z,38.084953,-102.618866
+CO0500400,Granada Police Department,2049,CO,Mountain,West,Region IV,PROWERS,City,True,2021-01-01T00:00:00.000Z,38.062717,-102.31013
+CO0510000,Pueblo County Sheriff's Office,2050,CO,Mountain,West,Region IV,PUEBLO,County,True,2012-01-01T00:00:00.000Z,38.170658,-104.489892
+CO0510100,Pueblo Police Department,2051,CO,Mountain,West,Region IV,PUEBLO,City,True,2009-01-01T00:00:00.000Z,38.268818,-104.6085
+CO0510200,Colorado Mental Health Institute,2052,CO,Mountain,West,Region IV,PUEBLO,Other State Agency,True,1997-01-01T00:00:00.000Z,38.291023,-104.62779
+CO0520000,Rio Blanco County Sheriff's Office,2054,CO,Mountain,West,Region IV,RIO BLANCO,County,True,1997-01-01T00:00:00.000Z,39.972606,-108.200685
+CO0520100,Meeker Police Department,2055,CO,Mountain,West,Region IV,RIO BLANCO,City,True,1997-01-01T00:00:00.000Z,40.036907,-107.90987
+CO0520200,Rangely Police Department,2056,CO,Mountain,West,Region IV,RIO BLANCO,City,True,1997-01-01T00:00:00.000Z,40.087517,-108.80293
+CO0530000,Rio Grande County Sheriff's Office,2057,CO,Mountain,West,Region IV,RIO GRANDE,County,True,1997-01-01T00:00:00.000Z,37.676933,-106.35072
+CO0530100,Monte Vista Police Department,2058,CO,Mountain,West,Region IV,RIO GRANDE,City,True,1997-01-01T00:00:00.000Z,37.485763,-106.453214
+CO0530200,Del Norte Police Department,2059,CO,Mountain,West,Region IV,RIO GRANDE,City,True,2012-01-01T00:00:00.000Z,37.485763,-106.453214
+CO0530300,South Fork Police Department,2060,CO,Mountain,West,Region IV,RIO GRANDE,City,True,2011-03-01T00:00:00.000Z,37.485763,-106.453214
+CO0540000,Routt County Sheriff's Office,2061,CO,Mountain,West,Region IV,ROUTT,County,True,1997-01-01T00:00:00.000Z,40.483155,-106.985274
+CO0540100,Steamboat Springs Police Department,2062,CO,Mountain,West,Region IV,ROUTT,City,True,1997-01-01T00:00:00.000Z,40.483155,-106.985274
+CO0540200,Hayden Police Department,2063,CO,Mountain,West,Region IV,ROUTT,City,True,2012-01-01T00:00:00.000Z,40.483155,-106.985274
+CO0540300,Oak Creek Police Department,2064,CO,Mountain,West,Region IV,ROUTT,City,True,2013-01-01T00:00:00.000Z,40.483155,-106.985274
+CO0550000,Saguache County Sheriff's Office,2067,CO,Mountain,West,Region IV,SAGUACHE,County,True,1997-01-01T00:00:00.000Z,38.031651,-106.234666
+CO0550100,Center Police Department,2068,CO,Mountain,West,Region IV,"RIO GRANDE, SAGUACHE",City,True,1997-01-01T00:00:00.000Z,38.031651,-106.234666
+CO0560000,San Juan County Sheriff's Office,2070,CO,Mountain,West,Region IV,SAN JUAN,County,True,1997-01-01T00:00:00.000Z,37.781074,-107.670257
+CO0570000,San Miguel County Sheriff's Office,2072,CO,Mountain,West,Region IV,SAN MIGUEL,County,True,2012-01-01T00:00:00.000Z,38.009374,-108.427326
+CO0570100,Telluride Police Department,2073,CO,Mountain,West,Region IV,SAN MIGUEL,City,True,2003-01-01T00:00:00.000Z,38.009374,-108.427326
+CO0570300,Mountain Village Police Department,23240,CO,Mountain,West,Region IV,SAN MIGUEL,City,True,2013-02-01T00:00:00.000Z,37.933586,-107.85683
+CO0580000,Sedgwick County Sheriff's Office,2075,CO,Mountain,West,Region IV,SEDGWICK,County,True,1997-01-01T00:00:00.000Z,40.988636,-102.264404
+CO0590000,Summit County Sheriff's Office,2077,CO,Mountain,West,Region IV,SUMMIT,County,True,1997-01-01T00:00:00.000Z,39.621023,-106.137555
+CO0590100,Breckenridge Police Department,2078,CO,Mountain,West,Region IV,SUMMIT,City,True,1997-01-01T00:00:00.000Z,39.621023,-106.137555
+CO0590200,Dillon Police Department,2079,CO,Mountain,West,Region IV,SUMMIT,City,True,2009-01-01T00:00:00.000Z,39.621023,-106.137555
+CO0590300,Silverthorne Police Department,2080,CO,Mountain,West,Region IV,SUMMIT,City,True,2004-01-01T00:00:00.000Z,39.621023,-106.137555
+CO0590400,Frisco Police Department,2081,CO,Mountain,West,Region IV,SUMMIT,City,True,1997-01-01T00:00:00.000Z,39.621023,-106.137555
+CO0590500,Blue River Police Department,2082,CO,Mountain,West,Region IV,SUMMIT,City,False,2012-01-01T00:00:00.000Z,39.621023,-106.137555
+CO0600000,Teller County Sheriff's Office,2083,CO,Mountain,West,Region IV,TELLER,County,True,1997-01-01T00:00:00.000Z,38.871994,-105.182552
+CO0600100,Woodland Park Police Department,2084,CO,Mountain,West,Region IV,TELLER,City,True,1997-01-01T00:00:00.000Z,38.871994,-105.182552
+CO060015Y,"Division of Gaming Criminal Enforcement and Investigations Section,",31374,CO,Mountain,West,Region IV,TELLER,Other State Agency,False,,,
+CO0600200,Cripple Creek Police Department,2085,CO,Mountain,West,Region IV,TELLER,City,True,1997-01-01T00:00:00.000Z,38.871994,-105.182552
+CO0610000,Washington County Sheriff's Office,2087,CO,Mountain,West,Region IV,WASHINGTON,County,True,1997-01-01T00:00:00.000Z,40.157043,-103.192566
+CO0620000,Weld County Sheriff's Office,2090,CO,Mountain,West,Region IV,WELD,County,True,2005-01-01T00:00:00.000Z,40.45202,-104.71033
+CO0620100,Fort Lupton Police Department,2091,CO,Mountain,West,Region IV,WELD,City,True,1997-01-01T00:00:00.000Z,40.080627,-104.8129
+CO0620200,Greeley Police Department,2092,CO,Mountain,West,Region IV,WELD,City,True,2005-01-01T00:00:00.000Z,40.422905,-104.72735
+CO0620300,Eaton Police Department,2093,CO,Mountain,West,Region IV,WELD,City,True,1997-01-01T00:00:00.000Z,40.526012,-104.71326
+CO0620400,Evans Police Department,2094,CO,Mountain,West,Region IV,WELD,City,True,2012-01-01T00:00:00.000Z,40.377373,-104.69789
+CO0620500,La Salle Police Department,2095,CO,Mountain,West,Region IV,WELD,City,True,2012-01-01T00:00:00.000Z,40.350674,-104.703735
+CO0620600,Windsor Police Department,2096,CO,Mountain,West,Region IV,"LARIMER, WELD",City,True,1997-01-01T00:00:00.000Z,40.555794,-104.383649
+CO0620700,Erie Police Department,2097,CO,Mountain,West,Region IV,"BOULDER, WELD",City,True,1997-01-01T00:00:00.000Z,40.555794,-104.383649
+CO0620800,Dacono Police Department,2098,CO,Mountain,West,Region IV,WELD,City,True,1997-05-01T00:00:00.000Z,40.555794,-104.383649
+CO0620900,Kersey Police Department,2099,CO,Mountain,West,Region IV,WELD,City,True,2005-01-01T00:00:00.000Z,40.555794,-104.383649
+CO0621000,Johnstown Police Department,2100,CO,Mountain,West,Region IV,"LARIMER, WELD",City,True,2005-01-01T00:00:00.000Z,40.555794,-104.383649
+CO0621100,Milliken Police Department,2101,CO,Mountain,West,Region IV,WELD,City,True,2005-01-01T00:00:00.000Z,40.555794,-104.383649
+CO0621200,Ault Police Department,2102,CO,Mountain,West,Region IV,WELD,City,True,2005-01-01T00:00:00.000Z,40.555794,-104.383649
+CO0621300,Platteville Police Department,2103,CO,Mountain,West,Region IV,WELD,City,True,2013-07-01T00:00:00.000Z,40.217316,-104.82332
+CO0621600,University of Northern Colorado,2106,CO,Mountain,West,Region IV,WELD,University or College,True,1997-01-01T00:00:00.000Z,40.40606,-104.686966
+CO0621700,Frederick Police Department,2107,CO,Mountain,West,Region IV,WELD,City,True,2006-01-01T00:00:00.000Z,40.555794,-104.383649
+CO0621800,Firestone Police Department,2108,CO,Mountain,West,Region IV,WELD,City,True,2012-01-01T00:00:00.000Z,40.555794,-104.383649
+CO0621900,Keenesburg Police Department,23103,CO,Mountain,West,Region IV,WELD,City,True,2012-01-01T00:00:00.000Z,40.555794,-104.383649
+CO0622000,Lochbuie Police Department,2109,CO,Mountain,West,Region IV,WELD,City,True,2014-12-01T00:00:00.000Z,40.010933,-104.71616
+CO0622300,Nunn,33277,CO,Mountain,West,Region IV,WELD,City,True,2021-01-01T00:00:00.000Z,,
+CO0622400,Hudson Police Department,23212,CO,Mountain,West,Region IV,WELD,City,True,2012-01-01T00:00:00.000Z,40.555794,-104.383649
+CO0622600,Mead Police Department,23111,CO,Mountain,West,Region IV,WELD,City,True,2012-01-01T00:00:00.000Z,40.555794,-104.383649
+CO0622700,Garden City Police Department,23154,CO,Mountain,West,Region IV,WELD,City,True,2012-01-01T00:00:00.000Z,40.39324,-104.68806
+CO0622800,Severance Police Department,23205,CO,Mountain,West,Region IV,WELD,City,True,2012-01-01T00:00:00.000Z,40.555794,-104.383649
+CO0622900,Aims Community College,23192,CO,Mountain,West,Region IV,WELD,University or College,True,2012-01-01T00:00:00.000Z,40.555794,-104.383649
+CO0628000,Weld County Drug Task Force ,33795,CO,Mountain,West,Region IV,WELD,Other,False,,,
+CO0630000,Yuma County Sheriff's Office,2110,CO,Mountain,West,Region IV,YUMA,County,True,1997-01-01T00:00:00.000Z,40.078796,-102.22071
+CO0630100,Wray Police Department,2111,CO,Mountain,West,Region IV,YUMA,City,True,1997-01-01T00:00:00.000Z,40.000631,-102.422649
+CO0630200,Yuma Police Department,2112,CO,Mountain,West,Region IV,YUMA,City,True,1997-01-01T00:00:00.000Z,40.000631,-102.422649
+CO0640100,Broomfield Police Department,2113,CO,Mountain,West,Region IV,BROOMFIELD,City,True,2001-01-01T00:00:00.000Z,39.921543,-105.07059
+COCBI0000,Colorado Bureau of Investigation,2114,CO,Mountain,West,Region IV,NOT SPECIFIED,Other State Agency,True,2008-01-01T00:00:00.000Z,39.727325,-105.10969
+COCSP0000,State Patrol,2115,CO,Mountain,West,Region IV,NOT SPECIFIED,State Police,True,2006-01-01T00:00:00.000Z,39.72749,-105.10969
+CODI01100,Ute Mountain Tribal,2118,CO,Mountain,West,Region IV,NOT SPECIFIED,Tribal,True,2021-01-01T00:00:00.000Z,37.338025,-108.595786
+CODPD0000,Denver Police Department,2119,CO,Mountain,West,Region IV,DENVER,City,True,2005-01-01T00:00:00.000Z,39.737377,-104.99167

@@ -1,0 +1,531 @@
+ori,agency_name,agency_id,state_abbr,division_name,region_name,region_desc,county_name,agency_type_name,nibrs,nibrs_start_date,latitude,longitude
+NC0010000,Alamance County Sheriff's Office,10873,NC,South Atlantic,South,Region III,ALAMANCE,County,True,2019-01-01T00:00:00.000Z,36.041974,-79.399935
+NC0010100,Burlington Police Department,10874,NC,South Atlantic,South,Region III,"ALAMANCE, GUILFORD",City,True,2019-01-01T00:00:00.000Z,36.041974,-79.399935
+NC0010200,Elon Police Department,10875,NC,South Atlantic,South,Region III,ALAMANCE,City,True,2019-01-01T00:00:00.000Z,36.097557,-79.50723
+NC0010300,Graham Police Department,10876,NC,South Atlantic,South,Region III,ALAMANCE,City,True,2019-01-01T00:00:00.000Z,36.041974,-79.399935
+NC0010400,Mebane Police Department,10877,NC,South Atlantic,South,Region III,"ALAMANCE, ORANGE",City,True,2019-01-01T00:00:00.000Z,36.096394,-79.26827
+NC0010500,Haw River Police Department,10878,NC,South Atlantic,South,Region III,ALAMANCE,City,True,2019-01-01T00:00:00.000Z,36.041974,-79.399935
+NC001069E,Elon University,10879,NC,South Atlantic,South,Region III,ALAMANCE,University or College,True,2019-01-01T00:00:00.000Z,,
+NC0020000,Alexander County Sheriff's Office,10882,NC,South Atlantic,South,Region III,ALEXANDER,County,True,2019-01-01T00:00:00.000Z,35.920951,-81.177467
+NC0020100,Taylorsville Police Department,10883,NC,South Atlantic,South,Region III,ALEXANDER,City,True,2019-01-01T00:00:00.000Z,35.926838,-81.17012
+NC0030000,Alleghany County Sheriff's Office,10886,NC,South Atlantic,South,Region III,ALLEGHANY,County,True,2019-01-01T00:00:00.000Z,36.489356,-81.132299
+NC0030100,Sparta Police Department,10887,NC,South Atlantic,South,Region III,ALLEGHANY,City,False,,36.489356,-81.132299
+NC0030200,State Park Rangers: Stone Mountain,10888,NC,South Atlantic,South,Region III,ALLEGHANY,Other State Agency,True,2019-01-01T00:00:00.000Z,36.382168,-81.02073
+NC0040000,Anson County Sheriff's Office,10891,NC,South Atlantic,South,Region III,ANSON,County,True,2019-01-01T00:00:00.000Z,34.974996,-80.109959
+NC0040100,Wadesboro Police Department,10892,NC,South Atlantic,South,Region III,ANSON,City,True,2019-01-01T00:00:00.000Z,34.974996,-80.109959
+NC0040200,Lilesville Police Department,10893,NC,South Atlantic,South,Region III,ANSON,City,False,,34.974996,-80.109959
+NC0040300,Morven Police Department,10894,NC,South Atlantic,South,Region III,ANSON,City,False,,34.974996,-80.109959
+NC0040400,Polkton Police Department,10895,NC,South Atlantic,South,Region III,ANSON,City,False,,35.006306,-80.203896
+NC0050000,Ashe County Sheriff's Office,10899,NC,South Atlantic,South,Region III,ASHE,County,True,2019-01-01T00:00:00.000Z,36.420254,-81.45915
+NC0050100,West Jefferson Police Department,10900,NC,South Atlantic,South,Region III,ASHE,City,True,2019-01-01T00:00:00.000Z,36.436305,-81.49877
+NC0050200,Jefferson Police Department,10901,NC,South Atlantic,South,Region III,ASHE,City,True,2019-01-01T00:00:00.000Z,36.436305,-81.49877
+NC0050300,State Park Rangers: New River-Mount Jefferson,10902,NC,South Atlantic,South,Region III,ASHE,Other State Agency,True,2019-01-01T00:00:00.000Z,36.436305,-81.49877
+NC0060000,Avery County Sheriff's Office,10905,NC,South Atlantic,South,Region III,AVERY,County,True,2019-01-01T00:00:00.000Z,36.072894,-81.920363
+NC0060100,Newland Police Department,10906,NC,South Atlantic,South,Region III,AVERY,City,True,2019-01-01T00:00:00.000Z,36.072894,-81.920363
+NC0060200,Banner Elk Police Department,10907,NC,South Atlantic,South,Region III,AVERY,City,False,2019-01-01T00:00:00.000Z,36.072894,-81.920363
+NC0060400,Elk Park Police Department,10909,NC,South Atlantic,South,Region III,AVERY,City,False,,36.072894,-81.920363
+NC0060500,Beech Mountain Police Department,10910,NC,South Atlantic,South,Region III,"AVERY, WATAUGA",City,True,2019-01-01T00:00:00.000Z,36.16426,-81.87796
+NC0060600,Sugar Mountain Police Department,10911,NC,South Atlantic,South,Region III,AVERY,City,True,2019-01-01T00:00:00.000Z,36.072894,-81.920363
+NC0060900,State Park Rangers: Grandfather Mountain,23074,NC,South Atlantic,South,Region III,AVERY,Other State Agency,False,,36.072894,-81.920363
+NC0070000,Beaufort County Sheriff's Office,10914,NC,South Atlantic,South,Region III,BEAUFORT,County,False,,35.543404,-77.05421
+NC0070100,Washington Police Department,10915,NC,South Atlantic,South,Region III,BEAUFORT,City,True,2019-01-01T00:00:00.000Z,35.54525,-77.055534
+NC0070200,Aurora Police Department,10916,NC,South Atlantic,South,Region III,BEAUFORT,City,False,,35.482313,-76.842014
+NC0070300,Belhaven Police Department,10917,NC,South Atlantic,South,Region III,BEAUFORT,City,True,2019-01-01T00:00:00.000Z,35.482313,-76.842014
+NC0070400,Chocowinity Police Department,10918,NC,South Atlantic,South,Region III,BEAUFORT,City,True,2019-01-01T00:00:00.000Z,35.482313,-76.842014
+NC0070500,State Park Rangers: Goose Creek,10919,NC,South Atlantic,South,Region III,BEAUFORT,Other State Agency,False,,35.482313,-76.842014
+NC0070600,Beaufort County Community College,10920,NC,South Atlantic,South,Region III,BEAUFORT,University or College,False,,35.482313,-76.842014
+NC0075000,Beaufort County Alcohol Beverage Control Enforcement,10921,NC,South Atlantic,South,Region III,BEAUFORT,Other,False,,35.482313,-76.842014
+NC0080000,Bertie County Sheriff's Office,10924,NC,South Atlantic,South,Region III,BERTIE,County,True,2019-01-01T00:00:00.000Z,36.06133,-76.962367
+NC0080100,Aulander Police Department,10925,NC,South Atlantic,South,Region III,BERTIE,City,False,,36.06133,-76.962367
+NC0080200,Windsor Police Department,10926,NC,South Atlantic,South,Region III,BERTIE,City,True,2019-01-01T00:00:00.000Z,36.06133,-76.962367
+NC0080300,Lewiston Woodville Police Department,10927,NC,South Atlantic,South,Region III,BERTIE,City,False,,36.06133,-76.962367
+NC0090000,Bladen County Sheriff's Office,10931,NC,South Atlantic,South,Region III,BLADEN,County,True,2019-01-01T00:00:00.000Z,34.591938,-78.539489
+NC0090100,Bladenboro Police Department,10932,NC,South Atlantic,South,Region III,BLADEN,City,False,2019-01-01T00:00:00.000Z,34.591938,-78.539489
+NC0090300,Elizabethtown Police Department,10934,NC,South Atlantic,South,Region III,BLADEN,City,True,2019-01-01T00:00:00.000Z,34.591938,-78.539489
+NC0090400,White Lake Police Department,10935,NC,South Atlantic,South,Region III,BLADEN,City,True,2019-01-01T00:00:00.000Z,34.591938,-78.539489
+NC0090700,State Park Rangers: Jones Lake,10937,NC,South Atlantic,South,Region III,BLADEN,Other State Agency,False,,34.683548,-78.594696
+NC0090800,State Park Rangers: Singletary Lake,10938,NC,South Atlantic,South,Region III,BLADEN,Other State Agency,False,,34.580315,-78.44956
+NC0100000,Brunswick County Sheriff's Office,10941,NC,South Atlantic,South,Region III,BRUNSWICK,County,True,2020-02-01T00:00:00.000Z,34.038754,-78.227765
+NC0100100,Oak Island Police Department,10942,NC,South Atlantic,South,Region III,BRUNSWICK,City,True,2019-01-01T00:00:00.000Z,33.913486,-78.116425
+NC0100200,Shallotte Police Department,10943,NC,South Atlantic,South,Region III,BRUNSWICK,City,True,2019-01-01T00:00:00.000Z,34.038754,-78.227765
+NC0100300,Southport Police Department,10944,NC,South Atlantic,South,Region III,BRUNSWICK,City,True,2019-01-01T00:00:00.000Z,33.918896,-78.01696
+NC0100400,Holden Beach Police Department,10945,NC,South Atlantic,South,Region III,BRUNSWICK,City,False,2019-07-01T00:00:00.000Z,34.038754,-78.227765
+NC0100500,Boiling Spring Lakes Police Department,10946,NC,South Atlantic,South,Region III,BRUNSWICK,City,True,2019-01-01T00:00:00.000Z,34.030685,-78.06742
+NC0100700,Sunset Beach Police Department,10948,NC,South Atlantic,South,Region III,BRUNSWICK,City,True,2019-01-01T00:00:00.000Z,33.89395,-78.49758
+NC0100800,Ocean Isle Beach Police Department,10949,NC,South Atlantic,South,Region III,BRUNSWICK,City,True,2019-01-01T00:00:00.000Z,34.038754,-78.227765
+NC0101000,Caswell Beach Police Department,10950,NC,South Atlantic,South,Region III,BRUNSWICK,City,True,2019-01-01T00:00:00.000Z,34.038754,-78.227765
+NC0101100,Bald Head Island Police Department,10951,NC,South Atlantic,South,Region III,BRUNSWICK,City,True,2019-01-01T00:00:00.000Z,34.038754,-78.227765
+NC0101300,Leland Police Department,10952,NC,South Atlantic,South,Region III,BRUNSWICK,City,True,2019-05-01T00:00:00.000Z,34.038754,-78.227765
+NC0101400,Navassa Police Department,10953,NC,South Atlantic,South,Region III,BRUNSWICK,City,True,2022-05-01T00:00:00.000Z,34.256832,-78.00998
+NC0101600,Northwest Police Department,10954,NC,South Atlantic,South,Region III,BRUNSWICK,City,True,2022-05-01T00:00:00.000Z,34.038754,-78.227765
+NC0110000,Buncombe County Sheriff's Office,10957,NC,South Atlantic,South,Region III,BUNCOMBE,County,True,2019-01-01T00:00:00.000Z,35.59564,-82.56017
+NC0110100,Asheville Police Department,10958,NC,South Atlantic,South,Region III,BUNCOMBE,City,True,2019-01-01T00:00:00.000Z,35.609371,-82.530426
+NC0110200,Black Mountain Police Department,10959,NC,South Atlantic,South,Region III,BUNCOMBE,City,True,2019-01-01T00:00:00.000Z,35.621197,-82.32169
+NC0110300,Biltmore Forest Police Department,10960,NC,South Atlantic,South,Region III,BUNCOMBE,City,True,2019-01-01T00:00:00.000Z,35.609371,-82.530426
+NC0110400,Weaverville Police Department,10961,NC,South Atlantic,South,Region III,BUNCOMBE,City,True,2019-01-01T00:00:00.000Z,35.609371,-82.530426
+NC0110500,Montreat Police Department,10962,NC,South Atlantic,South,Region III,BUNCOMBE,City,False,,35.609371,-82.530426
+NC0110600,Woodfin Police Department,10963,NC,South Atlantic,South,Region III,BUNCOMBE,City,True,2019-01-01T00:00:00.000Z,35.63204,-82.58369
+NC0110700,University of North Carolina: Asheville,10964,NC,South Atlantic,South,Region III,BUNCOMBE,University or College,True,2019-01-01T00:00:00.000Z,35.617313,-82.56365
+NC0110800,Asheville Regional Airport,10965,NC,South Atlantic,South,Region III,BUNCOMBE,Other,False,,35.609371,-82.530426
+NC0110900,Department of Heath and Human Resources,10966,NC,South Atlantic,South,Region III,BUNCOMBE,Other State Agency,False,,35.609287,-82.34647
+NC0111300,North Carolina Arboretum,10967,NC,South Atlantic,South,Region III,BUNCOMBE,Other State Agency,True,2021-04-01T00:00:00.000Z,35.609371,-82.530426
+NC0120000,Burke County Sheriff's Office,10970,NC,South Atlantic,South,Region III,BURKE,County,True,2019-01-01T00:00:00.000Z,35.746182,-81.70618
+NC0120100,Morganton Police Department,10971,NC,South Atlantic,South,Region III,BURKE,City,True,2019-01-01T00:00:00.000Z,35.74196,-81.6877
+NC0120200,Valdese Police Department,10972,NC,South Atlantic,South,Region III,BURKE,City,True,2019-01-01T00:00:00.000Z,35.746182,-81.70618
+NC0120300,Drexel Police Department,10973,NC,South Atlantic,South,Region III,BURKE,City,True,2019-01-01T00:00:00.000Z,35.746182,-81.70618
+NC0120400,Glen Alpine Police Department,10974,NC,South Atlantic,South,Region III,BURKE,City,False,,35.746182,-81.70618
+NC0120700,State Park Rangers: South Mountains,10975,NC,South Atlantic,South,Region III,BURKE,Other State Agency,False,,35.59846,-81.626465
+NC0130000,Cabarrus County Sheriff's Office,10978,NC,South Atlantic,South,Region III,CABARRUS,County,True,2019-01-01T00:00:00.000Z,35.387845,-80.552868
+NC0130100,Concord Police Department,10979,NC,South Atlantic,South,Region III,CABARRUS,City,True,2019-01-01T00:00:00.000Z,35.387845,-80.552868
+NC0130200,Kannapolis Police Department,10980,NC,South Atlantic,South,Region III,"CABARRUS, ROWAN",City,True,2019-01-01T00:00:00.000Z,35.493385,-80.62674
+NC0140000,Caldwell County Sheriff's Office,10983,NC,South Atlantic,South,Region III,CALDWELL,County,True,2019-01-01T00:00:00.000Z,35.893574,-81.571625
+NC0140100,Granite Falls Police Department,10984,NC,South Atlantic,South,Region III,CALDWELL,City,True,2019-01-01T00:00:00.000Z,35.957895,-81.530027
+NC0140200,Lenoir Police Department,10985,NC,South Atlantic,South,Region III,CALDWELL,City,True,2019-01-01T00:00:00.000Z,35.913944,-81.54191
+NC0140300,Rhodhiss Police Department,10986,NC,South Atlantic,South,Region III,"BURKE, CALDWELL",City,False,,35.957895,-81.530027
+NC0140400,Hudson Police Department,10987,NC,South Atlantic,South,Region III,CALDWELL,City,True,2019-01-01T00:00:00.000Z,35.957895,-81.530027
+NC0150000,Camden County Sheriff's Office,10990,NC,South Atlantic,South,Region III,CAMDEN,County,True,2019-01-01T00:00:00.000Z,36.342344,-76.162488
+NC0151000,State Park Rangers: Dismal Swamp,10991,NC,South Atlantic,South,Region III,CAMDEN,Other State Agency,False,,36.342344,-76.162488
+NC0160000,Carteret County Sheriff's Office,10994,NC,South Atlantic,South,Region III,CARTERET,County,True,2019-01-01T00:00:00.000Z,34.858313,-76.526967
+NC0160100,Beaufort Police Department,10995,NC,South Atlantic,South,Region III,CARTERET,City,True,2019-02-01T00:00:00.000Z,34.858313,-76.526967
+NC0160200,Morehead City Police Department,10996,NC,South Atlantic,South,Region III,CARTERET,City,True,2019-01-01T00:00:00.000Z,34.720333,-76.71276
+NC0160300,Atlantic Beach Police Department,10997,NC,South Atlantic,South,Region III,CARTERET,City,True,2019-01-01T00:00:00.000Z,34.858313,-76.526967
+NC0160400,Newport Police Department,10998,NC,South Atlantic,South,Region III,CARTERET,City,True,2019-01-01T00:00:00.000Z,34.858313,-76.526967
+NC0160500,Cape Carteret Police Department,10999,NC,South Atlantic,South,Region III,CARTERET,City,True,2019-01-01T00:00:00.000Z,34.858313,-76.526967
+NC0160600,Emerald Isle Police Department,11000,NC,South Atlantic,South,Region III,CARTERET,City,True,2019-11-01T00:00:00.000Z,34.66648,-77.02726
+NC0160700,Pine Knoll Shores Police Department,11001,NC,South Atlantic,South,Region III,CARTERET,City,True,2019-04-01T00:00:00.000Z,34.700237,-76.82064
+NC0160800,Division of Marine Fisheries,11002,NC,South Atlantic,South,Region III,CARTERET,Other State Agency,False,,34.724422,-76.75295
+NC0160900,Indian Beach Police Department,11003,NC,South Atlantic,South,Region III,CARTERET,City,True,2019-01-01T00:00:00.000Z,34.858313,-76.526967
+NC0161100,State Park Rangers: Fort Macon,11004,NC,South Atlantic,South,Region III,CARTERET,Other State Agency,True,2019-03-01T00:00:00.000Z,34.858313,-76.526967
+NC0170000,Caswell County Sheriff's Office,11007,NC,South Atlantic,South,Region III,CASWELL,County,True,2019-03-01T00:00:00.000Z,36.393097,-79.332546
+NC0180000,Catawba County Sheriff's Office,11011,NC,South Atlantic,South,Region III,CATAWBA,County,True,2019-05-01T00:00:00.000Z,35.663182,-81.214151
+NC0180100,Conover Police Department,11012,NC,South Atlantic,South,Region III,CATAWBA,City,True,2019-05-01T00:00:00.000Z,35.663182,-81.214151
+NC0180200,Hickory Police Department,11013,NC,South Atlantic,South,Region III,"BURKE, CALDWELL, CATAWBA",City,True,2019-01-01T00:00:00.000Z,35.729954,-81.343346
+NC0180300,Maiden Police Department,11014,NC,South Atlantic,South,Region III,"CATAWBA, LINCOLN",City,False,,35.57697,-81.215294
+NC0180400,Newton Police Department,11015,NC,South Atlantic,South,Region III,CATAWBA,City,True,2019-01-01T00:00:00.000Z,35.663182,-81.214151
+NC0180500,Brookford Police Department,11016,NC,South Atlantic,South,Region III,CATAWBA,City,False,,35.663182,-81.214151
+NC0180600,Claremont Police Department,11017,NC,South Atlantic,South,Region III,CATAWBA,City,False,,35.663182,-81.214151
+NC0180700,Long View Police Department,11018,NC,South Atlantic,South,Region III,"BURKE, CATAWBA",City,True,2019-01-01T00:00:00.000Z,35.728912,-81.37934
+NC0180800,Catawba Police Department,11019,NC,South Atlantic,South,Region III,CATAWBA,City,False,,35.663182,-81.214151
+NC0190000,Chatham County Sheriff's Office,11022,NC,South Atlantic,South,Region III,CHATHAM,County,True,2019-01-01T00:00:00.000Z,35.704994,-79.251454
+NC0190100,Siler City Police Department,11023,NC,South Atlantic,South,Region III,CHATHAM,City,True,2019-01-01T00:00:00.000Z,35.704994,-79.251454
+NC0190200,Pittsboro Police Department,11024,NC,South Atlantic,South,Region III,CHATHAM,City,True,2019-01-01T00:00:00.000Z,35.704994,-79.251454
+NC0200000,Cherokee County Sheriff's Office,11027,NC,South Atlantic,South,Region III,CHEROKEE,County,True,2019-01-01T00:00:00.000Z,35.136233,-84.061308
+NC0200100,Andrews Police Department,11028,NC,South Atlantic,South,Region III,CHEROKEE,City,True,2019-01-01T00:00:00.000Z,35.136233,-84.061308
+NC0200200,Murphy Police Department,11029,NC,South Atlantic,South,Region III,CHEROKEE,City,True,2019-01-01T00:00:00.000Z,35.087162,-84.03366
+NC0210000,Chowan County Sheriff's Office,11032,NC,South Atlantic,South,Region III,CHOWAN,County,True,2019-01-01T00:00:00.000Z,36.127288,-76.60207
+NC0210100,Edenton Police Department,11033,NC,South Atlantic,South,Region III,CHOWAN,City,True,2019-01-01T00:00:00.000Z,36.127288,-76.60207
+NC0220000,Clay County Sheriff's Office,11036,NC,South Atlantic,South,Region III,CLAY,County,True,2019-05-01T00:00:00.000Z,35.052997,-83.752264
+NC0230000,Cleveland County Sheriff's Office,11039,NC,South Atlantic,South,Region III,CLEVELAND,County,True,2019-01-01T00:00:00.000Z,35.33463,-81.557114
+NC0230100,Kings Mountain Police Department,11040,NC,South Atlantic,South,Region III,"CLEVELAND, GASTON",City,True,2019-01-01T00:00:00.000Z,35.33463,-81.557114
+NC0230200,Shelby Police Department,11041,NC,South Atlantic,South,Region III,CLEVELAND,City,True,2020-03-01T00:00:00.000Z,35.33463,-81.557114
+NC0230300,Boiling Springs Police Department,11042,NC,South Atlantic,South,Region III,CLEVELAND,City,False,,35.33463,-81.557114
+NC0230800,State Park Rangers: Crowders Mountain,11046,NC,South Atlantic,South,Region III,CLEVELAND,Other State Agency,True,2019-01-01T00:00:00.000Z,35.212307,-81.29299
+NC0240000,Columbus County Sheriff's Office,11051,NC,South Atlantic,South,Region III,COLUMBUS,County,False,,34.260471,-78.636378
+NC0240200,Chadbourn Police Department,11052,NC,South Atlantic,South,Region III,COLUMBUS,City,True,2019-04-01T00:00:00.000Z,34.327614,-78.82642
+NC0240300,Fair Bluff Police Department,11053,NC,South Atlantic,South,Region III,COLUMBUS,City,True,2019-01-01T00:00:00.000Z,34.260471,-78.636378
+NC0240400,Tabor City Police Department,11054,NC,South Atlantic,South,Region III,COLUMBUS,City,True,2019-01-01T00:00:00.000Z,34.260471,-78.636378
+NC0240500,Whiteville Police Department,11055,NC,South Atlantic,South,Region III,COLUMBUS,City,True,2019-01-01T00:00:00.000Z,34.260471,-78.636378
+NC0240600,Lake Waccamaw Police Department,11056,NC,South Atlantic,South,Region III,COLUMBUS,City,False,,34.260471,-78.636378
+NC0241200,State Park Rangers: Lake Waccamaw,11060,NC,South Atlantic,South,Region III,COLUMBUS,Other State Agency,False,2019-07-01T00:00:00.000Z,34.260471,-78.636378
+NC0250000,Craven County Sheriff's Office,11063,NC,South Atlantic,South,Region III,CRAVEN,County,True,2019-01-01T00:00:00.000Z,35.118179,-77.082541
+NC0250100,Havelock Police Department,11064,NC,South Atlantic,South,Region III,CRAVEN,City,True,2019-01-01T00:00:00.000Z,35.118179,-77.082541
+NC0250200,New Bern Police Department,11065,NC,South Atlantic,South,Region III,CRAVEN,City,True,2019-01-01T00:00:00.000Z,35.118179,-77.082541
+NC0250300,Vanceboro Police Department,11066,NC,South Atlantic,South,Region III,CRAVEN,City,False,,35.118179,-77.082541
+NC0250400,Trent Woods Police Department,11067,NC,South Atlantic,South,Region III,CRAVEN,City,True,2019-01-01T00:00:00.000Z,35.087193,-77.0941
+NC0250600,Bridgeton Police Department,11069,NC,South Atlantic,South,Region III,CRAVEN,City,False,,35.118179,-77.082541
+NC0250700,River Bend Police Department,11070,NC,South Atlantic,South,Region III,CRAVEN,City,False,,35.072926,-77.14792
+NC0260000,Cumberland County Sheriff's Office,11073,NC,South Atlantic,South,Region III,CUMBERLAND,County,True,2019-01-01T00:00:00.000Z,35.051033,-78.8771
+NC0260100,Fayetteville Police Department,11074,NC,South Atlantic,South,Region III,CUMBERLAND,City,True,2019-01-01T00:00:00.000Z,35.054447,-78.88379
+NC0260200,Hope Mills Police Department,11075,NC,South Atlantic,South,Region III,CUMBERLAND,City,True,2019-01-01T00:00:00.000Z,34.972656,-78.958565
+NC0260300,Spring Lake Police Department,11076,NC,South Atlantic,South,Region III,CUMBERLAND,City,True,2019-01-01T00:00:00.000Z,35.050192,-78.828719
+NC0260400,Fayetteville State University,11077,NC,South Atlantic,South,Region III,CUMBERLAND,University or College,True,2019-01-01T00:00:00.000Z,35.071533,-78.89454
+NC026089E,Methodist University,11078,NC,South Atlantic,South,Region III,CUMBERLAND,University or College,True,2019-01-01T00:00:00.000Z,,
+NC0261200,State Park Rangers: Carvers Creek,25355,NC,South Atlantic,South,Region III,CUMBERLAND,Other State Agency,False,,35.050192,-78.828719
+NC0270000,Currituck County Sheriff's Office,11081,NC,South Atlantic,South,Region III,CURRITUCK,County,True,2019-01-01T00:00:00.000Z,36.401684,-76.01981
+NC0280000,Dare County Sheriff's Office,11084,NC,South Atlantic,South,Region III,DARE,County,True,2019-01-01T00:00:00.000Z,35.606269,-75.767536
+NC0280100,Kill Devil Hills Police Department,11085,NC,South Atlantic,South,Region III,DARE,City,True,2019-01-01T00:00:00.000Z,35.606269,-75.767536
+NC0280200,Manteo Police Department,11086,NC,South Atlantic,South,Region III,DARE,City,True,2019-01-01T00:00:00.000Z,35.606269,-75.767536
+NC0280300,Nags Head Police Department,11087,NC,South Atlantic,South,Region III,DARE,City,True,2019-01-01T00:00:00.000Z,35.606269,-75.767536
+NC0280400,Southern Shores Police Department,11088,NC,South Atlantic,South,Region III,DARE,City,True,2019-01-01T00:00:00.000Z,36.09535,-75.7082
+NC0280500,Kitty Hawk Police Department,11089,NC,South Atlantic,South,Region III,DARE,City,True,2019-01-01T00:00:00.000Z,35.606269,-75.767536
+NC0280600,State Park Rangers: Jockey's Ridge,11090,NC,South Atlantic,South,Region III,DARE,Other State Agency,True,2019-01-01T00:00:00.000Z,35.606269,-75.767536
+NC0280700,Duck Police Department,11091,NC,South Atlantic,South,Region III,DARE,City,True,2019-01-01T00:00:00.000Z,36.18993,-75.76021
+NC0290000,Davidson County Sheriff's Office,11094,NC,South Atlantic,South,Region III,DAVIDSON,County,True,2019-07-01T00:00:00.000Z,35.825264,-80.2548
+NC0290100,Lexington Police Department,11095,NC,South Atlantic,South,Region III,DAVIDSON,City,True,2019-01-01T00:00:00.000Z,35.823402,-80.25406
+NC0290200,Thomasville Police Department,11096,NC,South Atlantic,South,Region III,"DAVIDSON, RANDOLPH",City,True,2019-01-01T00:00:00.000Z,35.795131,-80.207107
+NC0300000,Davie County Sheriff's Office,11100,NC,South Atlantic,South,Region III,DAVIE,County,False,,35.89376,-80.561844
+NC0300200,Cooleemee Police Department,11102,NC,South Atlantic,South,Region III,DAVIE,City,True,2019-01-01T00:00:00.000Z,35.929355,-80.542552
+NC0310000,Duplin County Sheriff's Office,11105,NC,South Atlantic,South,Region III,DUPLIN,County,True,2019-01-01T00:00:00.000Z,34.934403,-77.933543
+NC0310100,Wallace Police Department,11106,NC,South Atlantic,South,Region III,DUPLIN,City,True,2021-01-01T00:00:00.000Z,34.934403,-77.933543
+NC0310200,Beulaville Police Department,11107,NC,South Atlantic,South,Region III,DUPLIN,City,True,2019-01-01T00:00:00.000Z,34.934403,-77.933543
+NC0310400,Kenansville Police Department,11109,NC,South Atlantic,South,Region III,DUPLIN,City,True,2019-01-01T00:00:00.000Z,34.934403,-77.933543
+NC0310500,Rose Hill Police Department,11110,NC,South Atlantic,South,Region III,DUPLIN,City,False,,34.934403,-77.933543
+NC0310600,Warsaw Police Department,11111,NC,South Atlantic,South,Region III,DUPLIN,City,True,2019-01-01T00:00:00.000Z,34.934403,-77.933543
+NC0310700,Magnolia Police Department,11112,NC,South Atlantic,South,Region III,DUPLIN,City,True,2021-12-01T00:00:00.000Z,34.934403,-77.933543
+NC0320000,Durham County Sheriff's Office,11116,NC,South Atlantic,South,Region III,DURHAM,County,True,2019-01-01T00:00:00.000Z,36.036589,-78.877919
+NC0320100,Durham Police Department,11117,NC,South Atlantic,South,Region III,"DURHAM, ORANGE",City,True,2019-01-01T00:00:00.000Z,35.99697,-78.90893
+NC0320200,North Carolina Central University,11118,NC,South Atlantic,South,Region III,DURHAM,University or College,True,2020-01-01T00:00:00.000Z,35.97345,-78.90101
+NC032039E,Duke University,11119,NC,South Atlantic,South,Region III,DURHAM,University or College,True,2019-01-01T00:00:00.000Z,,
+NC0320400,State Park Rangers: Eno River,11120,NC,South Atlantic,South,Region III,DURHAM,Other State Agency,True,2019-01-01T00:00:00.000Z,36.076416,-79.00607
+NC0325000,Durham County Alcohol Beverage Control Law Enforcement Office,11121,NC,South Atlantic,South,Region III,DURHAM,Other,False,,36.036589,-78.877919
+NC0330000,Edgecombe County Sheriff's Office,11124,NC,South Atlantic,South,Region III,EDGECOMBE,County,True,2019-01-01T00:00:00.000Z,35.917055,-77.602655
+NC0330100,Rocky Mount Police Department,11125,NC,South Atlantic,South,Region III,"EDGECOMBE, NASH",City,True,2019-01-01T00:00:00.000Z,35.965945,-77.987555
+NC0330200,Tarboro Police Department,11126,NC,South Atlantic,South,Region III,EDGECOMBE,City,False,,35.917055,-77.602655
+NC0330400,Pinetops Police Department,11128,NC,South Atlantic,South,Region III,EDGECOMBE,City,False,,35.917055,-77.602655
+NC0340000,Forsyth County Sheriff's Office,11133,NC,South Atlantic,South,Region III,FORSYTH,County,True,2019-07-01T00:00:00.000Z,36.132466,-80.256961
+NC0340100,Kernersville Police Department,11134,NC,South Atlantic,South,Region III,"FORSYTH, GUILFORD",City,True,2019-01-01T00:00:00.000Z,36.132466,-80.256961
+NC0340200,Winston-Salem Police Department,11135,NC,South Atlantic,South,Region III,FORSYTH,City,True,2019-01-01T00:00:00.000Z,36.132466,-80.256961
+NC0340300,Winston-Salem State University,11136,NC,South Atlantic,South,Region III,FORSYTH,University or College,False,2019-01-01T00:00:00.000Z,36.132466,-80.256961
+NC034049E,Wake Forest University,11137,NC,South Atlantic,South,Region III,FORSYTH,University or College,True,2019-01-01T00:00:00.000Z,,
+NC0340600,North Carolina School of the Arts,11148,NC,South Atlantic,South,Region III,FORSYTH,University or College,True,2019-01-01T00:00:00.000Z,36.132466,-80.256961
+NC0345500,Triad Alcohol Beverage Control Law Enforcement,11149,NC,South Atlantic,South,Region III,FORSYTH,Other,False,2019-01-01T00:00:00.000Z,36.132466,-80.256961
+NC0350000,Franklin County Sheriff's Office,11152,NC,South Atlantic,South,Region III,FRANKLIN,County,True,2019-01-01T00:00:00.000Z,36.088241,-78.28309
+NC0350100,Louisburg Police Department,11153,NC,South Atlantic,South,Region III,FRANKLIN,City,True,2019-01-01T00:00:00.000Z,36.09812,-78.297966
+NC0350200,Franklinton Police Department,11154,NC,South Atlantic,South,Region III,FRANKLIN,City,True,2019-01-01T00:00:00.000Z,36.088241,-78.28309
+NC0350300,Youngsville Police Department,11155,NC,South Atlantic,South,Region III,FRANKLIN,City,True,2019-01-01T00:00:00.000Z,36.088241,-78.28309
+NC0350400,Bunn Police Department,11156,NC,South Atlantic,South,Region III,FRANKLIN,City,True,2019-01-01T00:00:00.000Z,36.088241,-78.28309
+NC035069P,Lake Royale Police Department,11158,NC,South Atlantic,South,Region III,FRANKLIN,City,False,,,
+NC0360000,Gaston County Sheriff's Office,11161,NC,South Atlantic,South,Region III,GASTON,County,True,2019-01-01T00:00:00.000Z,35.293344,-81.177256
+NC0360100,Belmont Police Department,11162,NC,South Atlantic,South,Region III,GASTON,City,True,2019-01-01T00:00:00.000Z,35.293344,-81.177256
+NC0360200,Bessemer City Police Department,11163,NC,South Atlantic,South,Region III,GASTON,City,True,2019-01-01T00:00:00.000Z,35.28488,-81.28466
+NC0360300,Cherryville Police Department,11164,NC,South Atlantic,South,Region III,GASTON,City,True,2019-01-01T00:00:00.000Z,35.384254,-81.37294
+NC0360400,Dallas Police Department,11165,NC,South Atlantic,South,Region III,GASTON,City,True,2019-01-01T00:00:00.000Z,35.293344,-81.177256
+NC0360500,Gaston County Police Department,11166,NC,South Atlantic,South,Region III,GASTON,County,True,2019-04-01T00:00:00.000Z,35.293344,-81.177256
+NC0360600,Gastonia Police Department,11167,NC,South Atlantic,South,Region III,GASTON,City,True,2019-01-01T00:00:00.000Z,35.293344,-81.177256
+NC0360700,Stanley Police Department,11168,NC,South Atlantic,South,Region III,GASTON,City,False,,35.293344,-81.177256
+NC0360800,Lowell Police Department,11169,NC,South Atlantic,South,Region III,GASTON,City,True,2019-01-01T00:00:00.000Z,35.26658,-81.10112
+NC0360900,Mount Holly Police Department,11170,NC,South Atlantic,South,Region III,GASTON,City,True,2020-02-01T00:00:00.000Z,35.293344,-81.177256
+NC0361100,Cramerton Police Department,11172,NC,South Atlantic,South,Region III,GASTON,City,True,2019-01-01T00:00:00.000Z,35.234676,-81.071266
+NC0361200,Ranlo Police Department,11173,NC,South Atlantic,South,Region III,GASTON,City,True,2020-02-01T00:00:00.000Z,35.28642,-81.13039
+NC036149E,Belmont Abbey College,11175,NC,South Atlantic,South,Region III,GASTON,University or College,False,,35.26362,-81.04258
+NC0370000,Gates County Sheriff's Office,11179,NC,South Atlantic,South,Region III,GATES,County,True,2019-12-01T00:00:00.000Z,36.442135,-76.702355
+NC0370200,State Park Rangers: Merchants Millpond,11181,NC,South Atlantic,South,Region III,GATES,Other State Agency,True,2019-11-01T00:00:00.000Z,36.450493,-76.693886
+NC0380000,Graham County Sheriff's Office,11184,NC,South Atlantic,South,Region III,GRAHAM,County,True,2019-07-01T00:00:00.000Z,35.348364,-83.830915
+NC0390000,Granville County Sheriff's Office,11188,NC,South Atlantic,South,Region III,GRANVILLE,County,True,2019-01-01T00:00:00.000Z,36.311695,-78.588844
+NC0390100,Oxford Police Department,11189,NC,South Atlantic,South,Region III,GRANVILLE,City,True,2019-01-01T00:00:00.000Z,36.299884,-78.657634
+NC0390200,Butner Police Department,11190,NC,South Atlantic,South,Region III,GRANVILLE,City,True,2019-01-01T00:00:00.000Z,36.13875,-78.763
+NC0390300,Creedmoor Police Department,11191,NC,South Atlantic,South,Region III,GRANVILLE,City,True,2019-01-01T00:00:00.000Z,36.299884,-78.657634
+NC0400000,Greene County Sheriff's Office,11195,NC,South Atlantic,South,Region III,GREENE,County,True,2019-01-01T00:00:00.000Z,35.451164,-77.676994
+NC0400200,Snow Hill Police Department,11197,NC,South Atlantic,South,Region III,GREENE,City,True,2019-01-01T00:00:00.000Z,35.451122,-77.67702
+NC0410000,Guilford County Sheriff's Office,11200,NC,South Atlantic,South,Region III,GUILFORD,County,True,2019-01-01T00:00:00.000Z,36.079065,-79.788665
+NC0410100,Gibsonville Police Department,11201,NC,South Atlantic,South,Region III,"ALAMANCE, GUILFORD",City,True,2019-01-01T00:00:00.000Z,36.106,-79.54236
+NC0410200,Greensboro Police Department,11202,NC,South Atlantic,South,Region III,GUILFORD,City,True,2019-01-01T00:00:00.000Z,36.070328,-79.79291
+NC0410300,High Point Police Department,11203,NC,South Atlantic,South,Region III,"DAVIDSON, FORSYTH, GUILFORD, RANDOLPH",City,True,2019-01-01T00:00:00.000Z,35.95928,-79.99295
+NC0410400,North Carolina Agricultural and Technical State University,11204,NC,South Atlantic,South,Region III,GUILFORD,University or College,True,2019-05-01T00:00:00.000Z,36.0777,-79.77362
+NC0410500,University of North Carolina: Greensboro,11205,NC,South Atlantic,South,Region III,GUILFORD,University or College,True,2019-07-01T00:00:00.000Z,36.079065,-79.788665
+NC0410600,Piedmont Triad International Airport,11206,NC,South Atlantic,South,Region III,GUILFORD,Other,False,,36.079065,-79.788665
+NC0420000,Halifax County Sheriff's Office,11210,NC,South Atlantic,South,Region III,HALIFAX,County,True,2020-07-01T00:00:00.000Z,36.251438,-77.644842
+NC0420100,Enfield Police Department,11211,NC,South Atlantic,South,Region III,HALIFAX,City,True,2019-01-01T00:00:00.000Z,36.18081,-77.666
+NC0420200,Roanoke Rapids Police Department,11212,NC,South Atlantic,South,Region III,HALIFAX,City,True,2019-01-01T00:00:00.000Z,36.251438,-77.644842
+NC0420300,Scotland Neck Police Department,11213,NC,South Atlantic,South,Region III,HALIFAX,City,True,2019-02-01T00:00:00.000Z,36.251438,-77.644842
+NC0420600,Littleton Police Department,11216,NC,South Atlantic,South,Region III,HALIFAX,City,False,,36.251438,-77.644842
+NC0420700,Weldon Police Department,11217,NC,South Atlantic,South,Region III,HALIFAX,City,True,2019-01-01T00:00:00.000Z,36.251438,-77.644842
+NC0420800,State Park Rangers: Medoc Mountain,11218,NC,South Atlantic,South,Region III,HALIFAX,Other State Agency,False,,36.251438,-77.644842
+NC0430000,Harnett County Sheriff's Office,11222,NC,South Atlantic,South,Region III,HARNETT,County,True,2020-01-01T00:00:00.000Z,35.368635,-78.87161
+NC0430100,Dunn Police Department,11223,NC,South Atlantic,South,Region III,HARNETT,City,True,2019-01-01T00:00:00.000Z,35.368635,-78.87161
+NC0430200,Angier Police Department,11224,NC,South Atlantic,South,Region III,"HARNETT, WAKE",City,True,2021-01-01T00:00:00.000Z,35.507782,-78.73971
+NC0430300,Coats Police Department,11225,NC,South Atlantic,South,Region III,HARNETT,City,True,2019-01-01T00:00:00.000Z,35.368635,-78.87161
+NC0430400,Lillington Police Department,11226,NC,South Atlantic,South,Region III,HARNETT,City,True,2019-01-01T00:00:00.000Z,35.368635,-78.87161
+NC0430500,Erwin Police Department,11227,NC,South Atlantic,South,Region III,HARNETT,City,True,2019-01-01T00:00:00.000Z,35.368635,-78.87161
+NC0430600,State Park Rangers: Raven Rock,11228,NC,South Atlantic,South,Region III,HARNETT,Other State Agency,True,2019-05-01T00:00:00.000Z,35.46041,-78.91305
+NC0440000,Haywood County Sheriff's Office,11232,NC,South Atlantic,South,Region III,HAYWOOD,County,True,2019-01-01T00:00:00.000Z,35.470844,-83.00406
+NC0440100,Canton Police Department,11233,NC,South Atlantic,South,Region III,HAYWOOD,City,True,2019-01-01T00:00:00.000Z,35.532173,-82.84069
+NC0440200,Waynesville Police Department,11234,NC,South Atlantic,South,Region III,HAYWOOD,City,True,2019-01-01T00:00:00.000Z,35.48996,-82.988
+NC0440500,Maggie Valley Police Department,11237,NC,South Atlantic,South,Region III,HAYWOOD,City,True,2019-01-01T00:00:00.000Z,35.557097,-82.972807
+NC0450000,Henderson County Sheriff's Office,11240,NC,South Atlantic,South,Region III,HENDERSON,County,True,2020-05-01T00:00:00.000Z,35.314953,-82.459854
+NC0450100,Hendersonville Police Department,11241,NC,South Atlantic,South,Region III,HENDERSON,City,True,2019-01-01T00:00:00.000Z,35.317875,-82.45966
+NC0450200,Laurel Park Police Department,11242,NC,South Atlantic,South,Region III,HENDERSON,City,False,,35.314053,-82.48461
+NC0450300,Fletcher Police Department,11243,NC,South Atlantic,South,Region III,HENDERSON,City,True,2019-02-01T00:00:00.000Z,35.428383,-82.49985
+NC0460000,Hertford County Sheriff's Office,11246,NC,South Atlantic,South,Region III,HERTFORD,County,True,2019-01-01T00:00:00.000Z,36.363517,-76.981616
+NC0460100,Ahoskie Police Department,11247,NC,South Atlantic,South,Region III,HERTFORD,City,True,2019-01-01T00:00:00.000Z,36.363517,-76.981616
+NC0460200,Murfreesboro Police Department,11248,NC,South Atlantic,South,Region III,HERTFORD,City,True,2019-01-01T00:00:00.000Z,36.363517,-76.981616
+NC0460300,Winton Police Department,11249,NC,South Atlantic,South,Region III,HERTFORD,City,False,,36.363517,-76.981616
+NC0470000,Hoke County Sheriff's Office,11252,NC,South Atlantic,South,Region III,HOKE,County,True,2020-11-01T00:00:00.000Z,35.017233,-79.241964
+NC0470100,Raeford Police Department,11253,NC,South Atlantic,South,Region III,HOKE,City,True,2019-01-01T00:00:00.000Z,34.974625,-79.22401
+NC0480000,Hyde County Sheriff's Office,11256,NC,South Atlantic,South,Region III,HYDE,County,False,,35.408157,-76.153687
+NC0490000,Iredell County Sheriff's Office,11259,NC,South Atlantic,South,Region III,IREDELL,County,True,2019-01-01T00:00:00.000Z,35.806356,-80.874545
+NC0490100,Mooresville Police Department,11260,NC,South Atlantic,South,Region III,IREDELL,City,True,2019-01-01T00:00:00.000Z,35.806356,-80.874545
+NC0490200,Statesville Police Department,11261,NC,South Atlantic,South,Region III,IREDELL,City,True,2019-01-01T00:00:00.000Z,35.806356,-80.874545
+NC0490400,Troutman Police Department,11263,NC,South Atlantic,South,Region III,IREDELL,City,True,2019-01-01T00:00:00.000Z,35.806356,-80.874545
+NC0490700,State Park Rangers: Lake Norman,11265,NC,South Atlantic,South,Region III,IREDELL,Other State Agency,True,2019-01-01T00:00:00.000Z,35.666725,-80.939674
+NC0500000,Jackson County Sheriff's Office,11268,NC,South Atlantic,South,Region III,JACKSON,County,True,2019-01-01T00:00:00.000Z,35.379642,-83.223495
+NC0500100,Sylva Police Department,11269,NC,South Atlantic,South,Region III,JACKSON,City,True,2019-01-01T00:00:00.000Z,35.37562,-83.22259
+NC0500200,Western Carolina University,11270,NC,South Atlantic,South,Region III,JACKSON,University or College,True,2019-01-01T00:00:00.000Z,35.286463,-83.130641
+NC0510000,Johnston County Sheriff's Office,11273,NC,South Atlantic,South,Region III,JOHNSTON,County,True,2019-01-01T00:00:00.000Z,35.513398,-78.36731
+NC0510100,Smithfield Police Department,11274,NC,South Atlantic,South,Region III,JOHNSTON,City,True,2019-01-01T00:00:00.000Z,35.513398,-78.36731
+NC0510200,Benson Police Department,11275,NC,South Atlantic,South,Region III,JOHNSTON,City,True,2019-01-01T00:00:00.000Z,35.38097,-78.54495
+NC0510300,Clayton Police Department,11276,NC,South Atlantic,South,Region III,JOHNSTON,City,True,2019-01-01T00:00:00.000Z,35.513398,-78.36731
+NC0510400,Four Oaks Police Department,11277,NC,South Atlantic,South,Region III,JOHNSTON,City,True,2019-01-01T00:00:00.000Z,35.513398,-78.36731
+NC0510500,Kenly Police Department,11278,NC,South Atlantic,South,Region III,"JOHNSTON, WILSON",City,False,,35.513398,-78.36731
+NC0510600,Pine Level Police Department,11279,NC,South Atlantic,South,Region III,JOHNSTON,City,True,2019-01-01T00:00:00.000Z,35.513398,-78.36731
+NC0510700,Princeton Police Department,11280,NC,South Atlantic,South,Region III,JOHNSTON,City,True,2019-01-01T00:00:00.000Z,35.513398,-78.36731
+NC0510800,Selma Police Department,11281,NC,South Atlantic,South,Region III,JOHNSTON,City,True,2019-01-01T00:00:00.000Z,35.5361,-78.28175
+NC0510900,Micro Police Department,11282,NC,South Atlantic,South,Region III,JOHNSTON,City,False,,35.513398,-78.36731
+NC0511400,Wilson's Mills Police Department,11283,NC,South Atlantic,South,Region III,JOHNSTON,City,False,,35.513398,-78.36731
+NC0520000,Jones County Sheriff's Office,11286,NC,South Atlantic,South,Region III,JONES,County,False,,35.03216,-77.356443
+NC0520200,Maysville Police Department,11287,NC,South Atlantic,South,Region III,JONES,City,True,2019-01-01T00:00:00.000Z,35.03216,-77.356443
+NC0530000,Lee County Sheriff's Office,11290,NC,South Atlantic,South,Region III,LEE,County,True,2019-01-01T00:00:00.000Z,35.476075,-79.17222
+NC0530100,Sanford Police Department,11291,NC,South Atlantic,South,Region III,LEE,City,True,2019-01-01T00:00:00.000Z,35.476075,-79.17222
+NC0530200,Broadway Police Department,11292,NC,South Atlantic,South,Region III,LEE,City,True,2020-03-01T00:00:00.000Z,35.476075,-79.17222
+NC0540000,Lenoir County Sheriff's Office,11295,NC,South Atlantic,South,Region III,LENOIR,County,False,,35.240068,-77.63551
+NC0540100,Kinston Police Department,11296,NC,South Atlantic,South,Region III,LENOIR,City,True,2020-01-01T00:00:00.000Z,35.240068,-77.63551
+NC0540300,Pink Hill Police Department,11298,NC,South Atlantic,South,Region III,LENOIR,City,False,,35.240068,-77.63551
+NC0550000,Lincoln County Sheriff's Office,11302,NC,South Atlantic,South,Region III,LINCOLN,County,True,2019-01-01T00:00:00.000Z,35.487825,-81.225176
+NC0550100,Lincolnton Police Department,11303,NC,South Atlantic,South,Region III,LINCOLN,City,True,2019-01-01T00:00:00.000Z,35.487825,-81.225176
+NC0560000,McDowell County Sheriff's Office,11307,NC,South Atlantic,South,Region III,MCDOWELL,County,True,2019-01-01T00:00:00.000Z,35.6641,-82.03428
+NC0560100,Marion Police Department,11308,NC,South Atlantic,South,Region III,MCDOWELL,City,True,2019-01-01T00:00:00.000Z,35.682232,-82.048029
+NC0560200,Old Fort Police Department,11309,NC,South Atlantic,South,Region III,MCDOWELL,City,False,,35.62854,-82.18134
+NC0560300,State Park Rangers: Lake James,11310,NC,South Atlantic,South,Region III,MCDOWELL,Other State Agency,True,2019-02-01T00:00:00.000Z,35.682232,-82.048029
+NC0570000,Macon County Sheriff's Office,11313,NC,South Atlantic,South,Region III,MACON,County,True,2019-01-01T00:00:00.000Z,35.19627,-83.371506
+NC0570100,Franklin Police Department,11314,NC,South Atlantic,South,Region III,MACON,City,True,2019-01-01T00:00:00.000Z,35.152959,-83.421901
+NC0570200,Highlands Police Department,11315,NC,South Atlantic,South,Region III,"JACKSON, MACON",City,True,2019-01-01T00:00:00.000Z,35.152959,-83.421901
+NC0580000,Madison County Sheriff's Office,11318,NC,South Atlantic,South,Region III,MADISON,County,True,2019-01-01T00:00:00.000Z,35.86408,-82.712731
+NC0580100,Marshall Police Department,11319,NC,South Atlantic,South,Region III,MADISON,City,False,,35.86408,-82.712731
+NC0580200,Hot Springs Police Department,11320,NC,South Atlantic,South,Region III,MADISON,City,False,,35.86408,-82.712731
+NC0580300,Mars Hill Police Department,11321,NC,South Atlantic,South,Region III,MADISON,City,False,2019-01-01T00:00:00.000Z,35.86408,-82.712731
+NC0590000,Martin County Sheriff's Office,11325,NC,South Atlantic,South,Region III,MARTIN,County,True,2020-05-01T00:00:00.000Z,35.841059,-77.112867
+NC0590100,Williamston Police Department,11326,NC,South Atlantic,South,Region III,MARTIN,City,True,2019-01-01T00:00:00.000Z,35.841059,-77.112867
+NC0590600,Robersonville Police Department,11330,NC,South Atlantic,South,Region III,MARTIN,City,True,2019-01-01T00:00:00.000Z,35.841059,-77.112867
+NC0600100,Charlotte-Mecklenburg Police Department,11335,NC,South Atlantic,South,Region III,MECKLENBURG,City,True,2019-01-01T00:00:00.000Z,35.222885,-80.83796
+NC0600300,Pineville Police Department,11337,NC,South Atlantic,South,Region III,MECKLENBURG,City,True,2019-01-01T00:00:00.000Z,35.246862,-80.833832
+NC0600400,Cornelius Police Department,11338,NC,South Atlantic,South,Region III,MECKLENBURG,City,True,2020-01-01T00:00:00.000Z,35.246862,-80.833832
+NC0600500,Davidson Police Department,11339,NC,South Atlantic,South,Region III,"IREDELL, MECKLENBURG",City,True,2019-01-01T00:00:00.000Z,35.246862,-80.833832
+NC0600600,Huntersville Police Department,11340,NC,South Atlantic,South,Region III,MECKLENBURG,City,True,2019-01-01T00:00:00.000Z,35.246862,-80.833832
+NC0600700,Matthews Police Department,11341,NC,South Atlantic,South,Region III,MECKLENBURG,City,True,2019-01-01T00:00:00.000Z,35.123924,-80.72272
+NC0600800,University of North Carolina: Charlotte,11342,NC,South Atlantic,South,Region III,MECKLENBURG,University or College,True,2019-01-01T00:00:00.000Z,35.302586,-80.72901
+NC060149E,Queens University,11344,NC,South Atlantic,South,Region III,MECKLENBURG,University or College,False,,,
+NC060189E,Davidson College,11345,NC,South Atlantic,South,Region III,MECKLENBURG,University or College,False,,,
+NC0602900,Mint Hill Police Department,11349,NC,South Atlantic,South,Region III,"MECKLENBURG, UNION",City,True,2019-01-01T00:00:00.000Z,35.246862,-80.833832
+NC0610000,Mitchell County Sheriff's Office,11352,NC,South Atlantic,South,Region III,MITCHELL,County,False,2019-01-01T00:00:00.000Z,36.015045,-82.158134
+NC0610100,Spruce Pine Police Department,11353,NC,South Atlantic,South,Region III,MITCHELL,City,True,2019-01-01T00:00:00.000Z,36.013102,-82.163554
+NC0610200,Bakersville Police Department,11354,NC,South Atlantic,South,Region III,MITCHELL,City,False,,36.013102,-82.163554
+NC0620000,Montgomery County Sheriff's Office,11357,NC,South Atlantic,South,Region III,MONTGOMERY,County,True,2019-01-01T00:00:00.000Z,35.358738,-79.8937
+NC0620100,Troy Police Department,11358,NC,South Atlantic,South,Region III,MONTGOMERY,City,True,2019-01-01T00:00:00.000Z,35.36522,-79.894646
+NC0620200,Biscoe Police Department,11359,NC,South Atlantic,South,Region III,MONTGOMERY,City,True,2019-01-01T00:00:00.000Z,35.338071,-79.904196
+NC0620300,Candor Police Department,11360,NC,South Atlantic,South,Region III,MONTGOMERY,City,True,2019-01-01T00:00:00.000Z,35.338071,-79.904196
+NC0620400,Mount Gilead Police Department,11361,NC,South Atlantic,South,Region III,MONTGOMERY,City,True,2019-01-01T00:00:00.000Z,35.338071,-79.904196
+NC0620500,Star Police Department,11362,NC,South Atlantic,South,Region III,MONTGOMERY,City,True,2019-01-01T00:00:00.000Z,35.338071,-79.904196
+NC0630000,Moore County Sheriff's Office,11365,NC,South Atlantic,South,Region III,MOORE,County,True,2019-01-01T00:00:00.000Z,35.310163,-79.480664
+NC0630100,Aberdeen Police Department,11366,NC,South Atlantic,South,Region III,MOORE,City,True,2019-01-01T00:00:00.000Z,35.14212,-79.42349
+NC0630200,Pinehurst Police Department,11367,NC,South Atlantic,South,Region III,MOORE,City,True,2019-01-01T00:00:00.000Z,35.310163,-79.480664
+NC0630300,Robbins Police Department,11368,NC,South Atlantic,South,Region III,MOORE,City,True,2019-01-01T00:00:00.000Z,35.310163,-79.480664
+NC0630400,Southern Pines Police Department,11369,NC,South Atlantic,South,Region III,MOORE,City,True,2019-01-01T00:00:00.000Z,35.310163,-79.480664
+NC0630500,Carthage Police Department,11370,NC,South Atlantic,South,Region III,MOORE,City,True,2019-01-01T00:00:00.000Z,35.310163,-79.480664
+NC0630600,Pinebluff Police Department,11371,NC,South Atlantic,South,Region III,MOORE,City,True,2019-01-01T00:00:00.000Z,35.310163,-79.480664
+NC0630700,Vass Police Department,11372,NC,South Atlantic,South,Region III,MOORE,City,True,2019-02-01T00:00:00.000Z,35.310163,-79.480664
+NC0630800,Whispering Pines Police Department,11373,NC,South Atlantic,South,Region III,MOORE,City,True,2019-01-01T00:00:00.000Z,35.257305,-79.37054
+NC0630900,Foxfire Village Police Department,11374,NC,South Atlantic,South,Region III,MOORE,City,False,2019-01-01T00:00:00.000Z,35.310163,-79.480664
+NC0631000,State Park Rangers: Weymouth Woods/Sandhills Nature Preserve,11375,NC,South Atlantic,South,Region III,MOORE,Other State Agency,False,,35.146805,-79.37194
+NC0631100,Taylortown Police Department,11376,NC,South Atlantic,South,Region III,MOORE,City,True,2019-01-01T00:00:00.000Z,35.310163,-79.480664
+NC0631300,Moore County Schools,30235,NC,South Atlantic,South,Region III,MOORE,Other,True,2019-01-01T00:00:00.000Z,,
+NC0640000,Nash County Sheriff's Office,11382,NC,South Atlantic,South,Region III,NASH,County,True,2020-03-01T00:00:00.000Z,35.965945,-77.987555
+NC0640100,Nashville Police Department,11383,NC,South Atlantic,South,Region III,NASH,City,True,2018-10-01T00:00:00.000Z,35.965945,-77.987555
+NC0640200,Spring Hope Police Department,11384,NC,South Atlantic,South,Region III,NASH,City,False,,35.965945,-77.987555
+NC0640300,Bailey Police Department,11385,NC,South Atlantic,South,Region III,NASH,City,True,2019-01-01T00:00:00.000Z,35.965945,-77.987555
+NC0640500,Middlesex Police Department,11387,NC,South Atlantic,South,Region III,NASH,City,True,2019-01-01T00:00:00.000Z,35.965945,-77.987555
+NC0640600,Sharpsburg Police Department,11388,NC,South Atlantic,South,Region III,"EDGECOMBE, NASH, WILSON",City,True,2019-01-01T00:00:00.000Z,35.965945,-77.987555
+NC0640700,Whitakers Police Department,11389,NC,South Atlantic,South,Region III,"EDGECOMBE, NASH",City,False,,35.965945,-77.987555
+NC0645000,Nash County Alcohol Beverage Control Enforcement,11390,NC,South Atlantic,South,Region III,NASH,Other,False,,35.965945,-77.987555
+NC0650000,New Hanover County Sheriff's Office,11393,NC,South Atlantic,South,Region III,NEW HANOVER,County,True,2019-01-01T00:00:00.000Z,34.32402,-77.89272
+NC0650100,Carolina Beach Police Department,11394,NC,South Atlantic,South,Region III,NEW HANOVER,City,True,2019-01-01T00:00:00.000Z,34.02314,-77.896935
+NC0650200,Wilmington Police Department,11395,NC,South Atlantic,South,Region III,NEW HANOVER,City,True,2019-01-01T00:00:00.000Z,34.177466,-77.871378
+NC0650300,Wrightsville Beach Police Department,11396,NC,South Atlantic,South,Region III,NEW HANOVER,City,True,2019-01-01T00:00:00.000Z,34.177466,-77.871378
+NC0650400,Kure Beach Police Department,11397,NC,South Atlantic,South,Region III,NEW HANOVER,City,False,,33.998856,-77.91089
+NC0650500,University of North Carolina: Wilmington,11398,NC,South Atlantic,South,Region III,NEW HANOVER,University or College,True,2019-12-01T00:00:00.000Z,34.25133,-77.87165
+NC0650600,North Carolina State Port Authority:,31914,NC,South Atlantic,South,Region III,NEW HANOVER,Other,True,2019-01-01T00:00:00.000Z,,
+NC0650800,State Park Rangers: Carolina Beach,11400,NC,South Atlantic,South,Region III,NEW HANOVER,Other State Agency,False,2019-04-01T00:00:00.000Z,34.177466,-77.871378
+NC0651000,State Park Rangers: Fort Fisher,11401,NC,South Atlantic,South,Region III,NEW HANOVER,Other State Agency,False,2019-03-01T00:00:00.000Z,34.177466,-77.871378
+NC0660000,Northampton County Sheriff's Office,11405,NC,South Atlantic,South,Region III,NORTHAMPTON,County,False,2020-06-01T00:00:00.000Z,36.421774,-77.398352
+NC0660100,Rich Square Police Department,11406,NC,South Atlantic,South,Region III,NORTHAMPTON,City,False,,36.421774,-77.398352
+NC0660200,Conway Police Department,11407,NC,South Atlantic,South,Region III,NORTHAMPTON,City,False,,36.421774,-77.398352
+NC0660300,Gaston Police Department,11408,NC,South Atlantic,South,Region III,NORTHAMPTON,City,False,,36.421774,-77.398352
+NC0660400,Jackson Police Department,11409,NC,South Atlantic,South,Region III,NORTHAMPTON,City,False,,36.421774,-77.398352
+NC0660600,Woodland Police Department,11411,NC,South Atlantic,South,Region III,NORTHAMPTON,City,True,2019-09-01T00:00:00.000Z,36.421774,-77.398352
+NC0660800,Garysburg Police Department,11412,NC,South Atlantic,South,Region III,NORTHAMPTON,City,False,,36.421774,-77.398352
+NC0670000,Onslow County Sheriff's Office,11415,NC,South Atlantic,South,Region III,ONSLOW,County,False,2019-01-01T00:00:00.000Z,34.751057,-77.43164
+NC0670100,Jacksonville Police Department,11416,NC,South Atlantic,South,Region III,ONSLOW,City,True,2019-01-01T00:00:00.000Z,34.763109,-77.499469
+NC0670200,Holly Ridge Police Department,11417,NC,South Atlantic,South,Region III,ONSLOW,City,True,2019-01-01T00:00:00.000Z,34.763109,-77.499469
+NC0670300,Richlands Police Department,11418,NC,South Atlantic,South,Region III,ONSLOW,City,True,2019-07-01T00:00:00.000Z,34.763109,-77.499469
+NC0670400,Swansboro Police Department,11419,NC,South Atlantic,South,Region III,ONSLOW,City,True,2019-01-01T00:00:00.000Z,34.688866,-77.12133
+NC0670700,State Park Rangers: Hammocks Beach,11420,NC,South Atlantic,South,Region III,ONSLOW,Other State Agency,True,2019-11-01T00:00:00.000Z,34.67176,-77.13878
+NC0670800,North Topsail Beach Police Department,11421,NC,South Atlantic,South,Region III,ONSLOW,City,True,2019-03-01T00:00:00.000Z,34.493202,-77.426186
+NC0680000,Orange County Sheriff's Office,11424,NC,South Atlantic,South,Region III,ORANGE,County,True,2019-01-01T00:00:00.000Z,36.0745,-79.09902
+NC0680100,Chapel Hill Police Department,11425,NC,South Atlantic,South,Region III,"DURHAM, ORANGE",City,True,2019-01-01T00:00:00.000Z,35.92805,-79.05418
+NC0680200,Hillsborough Police Department,11426,NC,South Atlantic,South,Region III,ORANGE,City,True,2019-01-01T00:00:00.000Z,36.062499,-79.119355
+NC0680300,Carrboro Police Department,11427,NC,South Atlantic,South,Region III,ORANGE,City,True,2019-11-01T00:00:00.000Z,35.910347,-79.07226
+NC0680400,University of North Carolina: Chapel Hill,11428,NC,South Atlantic,South,Region III,ORANGE,University or College,True,2019-01-01T00:00:00.000Z,35.90383,-79.04554
+NC0680500,North Carolina Memorial Hospital,11429,NC,South Atlantic,South,Region III,ORANGE,Other,True,2019-01-01T00:00:00.000Z,35.903732,-79.04443
+NC0690000,Pamlico County Sheriff's Office,11432,NC,South Atlantic,South,Region III,PAMLICO,County,True,2019-01-01T00:00:00.000Z,35.147473,-76.665069
+NC0690200,Oriental Police Department,11433,NC,South Atlantic,South,Region III,PAMLICO,City,True,2021-10-01T00:00:00.000Z,35.147473,-76.665069
+NC0700000,Pasquotank County Sheriff's Office,11436,NC,South Atlantic,South,Region III,PASQUOTANK,County,True,2019-01-01T00:00:00.000Z,36.30086,-76.22274
+NC0700100,Elizabeth City Police Department,11437,NC,South Atlantic,South,Region III,"CAMDEN, PASQUOTANK",City,True,2019-01-01T00:00:00.000Z,36.265169,-76.260712
+NC0700200,Elizabeth City State University,11438,NC,South Atlantic,South,Region III,PASQUOTANK,University or College,True,2019-01-01T00:00:00.000Z,36.265169,-76.260712
+NC0710000,Pender County Sheriff's Office,11441,NC,South Atlantic,South,Region III,PENDER,County,True,2019-12-01T00:00:00.000Z,34.512556,-77.888106
+NC0710100,Burgaw Police Department,11442,NC,South Atlantic,South,Region III,PENDER,City,True,2019-01-01T00:00:00.000Z,34.552853,-77.92579
+NC0710200,Topsail Beach Police Department,11443,NC,South Atlantic,South,Region III,PENDER,City,False,,34.383286,-77.607056
+NC0710300,Surf City Police Department,11444,NC,South Atlantic,South,Region III,"ONSLOW, PENDER",City,True,2019-02-01T00:00:00.000Z,34.512556,-77.888106
+NC0720000,Perquimans County Sheriff's Office,11447,NC,South Atlantic,South,Region III,PERQUIMANS,County,True,2021-03-01T00:00:00.000Z,36.17826,-76.404269
+NC0720200,Winfall Police Department,11449,NC,South Atlantic,South,Region III,PERQUIMANS,City,False,,36.17826,-76.404269
+NC0730000,Person County Sheriff's Office,11452,NC,South Atlantic,South,Region III,PERSON,County,True,2019-01-01T00:00:00.000Z,36.386336,-78.965644
+NC0730100,Roxboro Police Department,11453,NC,South Atlantic,South,Region III,PERSON,City,True,2019-01-01T00:00:00.000Z,36.386336,-78.965644
+NC0740000,Pitt County Sheriff's Office,11456,NC,South Atlantic,South,Region III,PITT,County,True,2019-01-01T00:00:00.000Z,35.591095,-77.372376
+NC0740100,Ayden Police Department,11457,NC,South Atlantic,South,Region III,PITT,City,True,2020-01-01T00:00:00.000Z,35.591095,-77.372376
+NC0740200,Farmville Police Department,11458,NC,South Atlantic,South,Region III,PITT,City,True,2019-01-01T00:00:00.000Z,35.591095,-77.372376
+NC0740300,Greenville Police Department,11459,NC,South Atlantic,South,Region III,PITT,City,True,2019-01-01T00:00:00.000Z,35.591095,-77.372376
+NC0740400,Bethel Police Department,11460,NC,South Atlantic,South,Region III,PITT,City,False,,35.591095,-77.372376
+NC0740600,Grifton Police Department,11462,NC,South Atlantic,South,Region III,"LENOIR, PITT",City,True,2019-05-01T00:00:00.000Z,35.591095,-77.372376
+NC0740800,Winterville Police Department,11464,NC,South Atlantic,South,Region III,PITT,City,True,2019-01-01T00:00:00.000Z,35.591095,-77.372376
+NC0740900,East Carolina University,11465,NC,South Atlantic,South,Region III,PITT,University or College,True,2019-06-01T00:00:00.000Z,35.605083,-77.36891
+NC0750000,Polk County Sheriff's Office,11473,NC,South Atlantic,South,Region III,POLK,County,True,2019-08-01T00:00:00.000Z,35.277901,-82.167621
+NC0750100,Tryon Police Department,11474,NC,South Atlantic,South,Region III,POLK,City,True,2019-01-01T00:00:00.000Z,35.277901,-82.167621
+NC0750200,Saluda Police Department,11475,NC,South Atlantic,South,Region III,"HENDERSON, POLK",City,True,2019-06-01T00:00:00.000Z,35.277901,-82.167621
+NC0750300,Columbus Police Department,11476,NC,South Atlantic,South,Region III,POLK,City,True,2019-01-01T00:00:00.000Z,35.277901,-82.167621
+NC0760000,Randolph County Sheriff's Office,11479,NC,South Atlantic,South,Region III,RANDOLPH,County,True,2020-01-01T00:00:00.000Z,35.670483,-79.832085
+NC0760100,Asheboro Police Department,11480,NC,South Atlantic,South,Region III,RANDOLPH,City,True,2020-01-01T00:00:00.000Z,35.703262,-79.81214
+NC0760300,Liberty Police Department,11482,NC,South Atlantic,South,Region III,RANDOLPH,City,False,,35.709915,-79.806215
+NC0760400,Ramseur Police Department,11483,NC,South Atlantic,South,Region III,RANDOLPH,City,True,2020-01-01T00:00:00.000Z,35.709915,-79.806215
+NC0760500,Randleman Police Department,11484,NC,South Atlantic,South,Region III,RANDOLPH,City,True,2020-01-01T00:00:00.000Z,35.81785,-79.80521
+NC0760600,Archdale Police Department,11485,NC,South Atlantic,South,Region III,"GUILFORD, RANDOLPH",City,True,2019-01-01T00:00:00.000Z,35.89999,-79.96107
+NC0760700,Seagrove Police Department,11486,NC,South Atlantic,South,Region III,RANDOLPH,City,False,,35.709915,-79.806215
+NC0770000,Richmond County Sheriff's Office,11489,NC,South Atlantic,South,Region III,RICHMOND,County,True,2019-01-01T00:00:00.000Z,34.937057,-79.77315
+NC0770200,Hamlet Police Department,11491,NC,South Atlantic,South,Region III,RICHMOND,City,False,,35.000802,-79.746082
+NC0770300,Rockingham Police Department,11492,NC,South Atlantic,South,Region III,RICHMOND,City,True,2019-01-01T00:00:00.000Z,34.938454,-79.77145
+NC0780000,Robeson County Sheriff's Office,11495,NC,South Atlantic,South,Region III,ROBESON,County,True,2019-01-01T00:00:00.000Z,34.591152,-79.05221
+NC0780100,Lumberton Police Department,11496,NC,South Atlantic,South,Region III,ROBESON,City,True,2019-04-01T00:00:00.000Z,34.63921,-79.100881
+NC0780200,Maxton Police Department,11497,NC,South Atlantic,South,Region III,"ROBESON, SCOTLAND",City,True,2019-01-01T00:00:00.000Z,34.736332,-79.35112
+NC0780300,Red Springs Police Department,11498,NC,South Atlantic,South,Region III,ROBESON,City,True,2019-01-01T00:00:00.000Z,34.63921,-79.100881
+NC0780400,St. Pauls Police Department,11499,NC,South Atlantic,South,Region III,ROBESON,City,True,2019-01-01T00:00:00.000Z,34.63921,-79.100881
+NC0780500,Fairmont Police Department,11500,NC,South Atlantic,South,Region III,ROBESON,City,True,2019-01-01T00:00:00.000Z,34.63921,-79.100881
+NC0780600,Parkton Police Department,11501,NC,South Atlantic,South,Region III,ROBESON,City,False,,34.63921,-79.100881
+NC0780700,Pembroke Police Department,11502,NC,South Atlantic,South,Region III,ROBESON,City,True,2019-01-01T00:00:00.000Z,34.63921,-79.100881
+NC0780800,Rowland Police Department,11503,NC,South Atlantic,South,Region III,ROBESON,City,True,2019-01-01T00:00:00.000Z,34.63921,-79.100881
+NC0780900,University of North Carolina: Pembroke,11504,NC,South Atlantic,South,Region III,ROBESON,University or College,True,2020-05-01T00:00:00.000Z,34.63921,-79.100881
+NC0781000,State Park Rangers: Lumber River,11505,NC,South Atlantic,South,Region III,ROBESON,Other State Agency,False,2019-01-01T00:00:00.000Z,34.390427,-79.00345
+NC0790000,Rockingham County Sheriff's Office,11508,NC,South Atlantic,South,Region III,ROCKINGHAM,County,True,2019-01-01T00:00:00.000Z,36.38109,-79.782818
+NC0790100,Eden Police Department,11509,NC,South Atlantic,South,Region III,ROCKINGHAM,City,True,2019-01-01T00:00:00.000Z,36.502537,-79.73587
+NC0790300,Madison Police Department,11510,NC,South Atlantic,South,Region III,ROCKINGHAM,City,True,2019-01-01T00:00:00.000Z,36.38109,-79.782818
+NC0790400,Mayodan Police Department,11511,NC,South Atlantic,South,Region III,ROCKINGHAM,City,True,2019-01-01T00:00:00.000Z,36.412838,-79.96784
+NC0790500,Reidsville Police Department,11512,NC,South Atlantic,South,Region III,ROCKINGHAM,City,True,2019-01-01T00:00:00.000Z,36.361576,-79.6659
+NC0790700,Stoneville Police Department,11513,NC,South Atlantic,South,Region III,ROCKINGHAM,City,True,2019-01-01T00:00:00.000Z,36.38109,-79.782818
+NC0790800,State Park Rangers: Haw River,11514,NC,South Atlantic,South,Region III,ROCKINGHAM,Other State Agency,True,2019-01-01T00:00:00.000Z,36.38109,-79.782818
+NC0791000,State Park Rangers: Mayo River,11515,NC,South Atlantic,South,Region III,ROCKINGHAM,Other State Agency,False,,36.38109,-79.782818
+NC0800000,Rowan County Sheriff's Office,11519,NC,South Atlantic,South,Region III,ROWAN,County,True,2019-01-01T00:00:00.000Z,35.66859,-80.46837
+NC0800100,China Grove Police Department,11520,NC,South Atlantic,South,Region III,ROWAN,City,True,2019-01-01T00:00:00.000Z,35.5714,-80.577835
+NC0800200,East Spencer Police Department,11521,NC,South Atlantic,South,Region III,ROWAN,City,True,2019-01-01T00:00:00.000Z,35.639218,-80.525344
+NC0800300,Landis Police Department,11522,NC,South Atlantic,South,Region III,ROWAN,City,False,,35.639218,-80.525344
+NC0800500,Salisbury Police Department,11524,NC,South Atlantic,South,Region III,ROWAN,City,True,2019-01-01T00:00:00.000Z,35.639218,-80.525344
+NC0800600,Rockwell Police Department,11525,NC,South Atlantic,South,Region III,ROWAN,City,True,2019-01-01T00:00:00.000Z,35.639218,-80.525344
+NC0800700,Spencer Police Department,11526,NC,South Atlantic,South,Region III,ROWAN,City,True,2019-01-01T00:00:00.000Z,35.695667,-80.421196
+NC0800800,Granite Quarry Police Department,11527,NC,South Atlantic,South,Region III,ROWAN,City,True,2021-08-01T00:00:00.000Z,35.639218,-80.525344
+NC0800900,Cleveland Police Department,11528,NC,South Atlantic,South,Region III,ROWAN,City,True,2019-01-01T00:00:00.000Z,35.639218,-80.525344
+NC0810000,Rutherford County Sheriff's Office,11531,NC,South Atlantic,South,Region III,RUTHERFORD,County,True,2019-01-01T00:00:00.000Z,35.37009,-81.95822
+NC0810100,Forest City Police Department,11532,NC,South Atlantic,South,Region III,RUTHERFORD,City,True,2019-01-01T00:00:00.000Z,35.402747,-81.919582
+NC0810200,Rutherfordton Police Department,11533,NC,South Atlantic,South,Region III,RUTHERFORD,City,True,2019-01-01T00:00:00.000Z,35.367447,-81.95726
+NC0810300,Spindale Police Department,11534,NC,South Atlantic,South,Region III,RUTHERFORD,City,False,,35.402747,-81.919582
+NC0810400,Lake Lure Police Department,11535,NC,South Atlantic,South,Region III,RUTHERFORD,City,True,2022-11-01T00:00:00.000Z,35.402747,-81.919582
+NC0810600,State Park Rangers: Chimney Rock,23124,NC,South Atlantic,South,Region III,RUTHERFORD,Other State Agency,True,2019-01-01T00:00:00.000Z,35.402747,-81.919582
+NC0820000,Sampson County Sheriff's Office,11539,NC,South Atlantic,South,Region III,SAMPSON,County,True,2019-01-01T00:00:00.000Z,34.995235,-78.30078
+NC0820100,Clinton Police Department,11540,NC,South Atlantic,South,Region III,SAMPSON,City,True,2019-01-01T00:00:00.000Z,34.990574,-78.371382
+NC0820300,Newton Grove Police Department,11542,NC,South Atlantic,South,Region III,SAMPSON,City,False,,34.990574,-78.371382
+NC0820500,Salemburg Police Department,11544,NC,South Atlantic,South,Region III,SAMPSON,City,False,,34.990574,-78.371382
+NC0830000,Scotland County Sheriff's Office,11547,NC,South Atlantic,South,Region III,SCOTLAND,County,True,2019-01-01T00:00:00.000Z,34.840023,-79.477337
+NC0830100,Laurinburg Police Department,11548,NC,South Atlantic,South,Region III,SCOTLAND,City,True,2019-01-01T00:00:00.000Z,34.840023,-79.477337
+NC0830300,Wagram Police Department,11550,NC,South Atlantic,South,Region III,SCOTLAND,City,False,2019-01-01T00:00:00.000Z,34.840023,-79.477337
+NC0840000,Stanly County Sheriff's Office,11553,NC,South Atlantic,South,Region III,STANLY,County,True,2019-01-01T00:00:00.000Z,35.349327,-80.19811
+NC0840100,Albemarle Police Department,11554,NC,South Atlantic,South,Region III,STANLY,City,True,2019-01-01T00:00:00.000Z,35.352398,-80.19802
+NC0840200,Norwood Police Department,11555,NC,South Atlantic,South,Region III,STANLY,City,False,,35.310523,-80.254355
+NC0840300,Oakboro Police Department,11556,NC,South Atlantic,South,Region III,STANLY,City,False,,35.310523,-80.254355
+NC0840400,Stanfield Police Department,11557,NC,South Atlantic,South,Region III,STANLY,City,False,,35.310523,-80.254355
+NC0840500,Locust Police Department,11558,NC,South Atlantic,South,Region III,"CABARRUS, STANLY",City,False,,35.310523,-80.254355
+NC0840600,State Park Rangers: Morrow Mountain,11559,NC,South Atlantic,South,Region III,STANLY,Other State Agency,True,2019-05-01T00:00:00.000Z,35.372543,-80.077095
+NC0840700,Badin Police Department,11560,NC,South Atlantic,South,Region III,STANLY,City,False,,35.310523,-80.254355
+NC0840800,Misenheimer,11562,NC,South Atlantic,South,Region III,STANLY,City,False,,,
+NC0850000,Stokes County Sheriff's Office,11565,NC,South Atlantic,South,Region III,STOKES,County,False,,36.393829,-80.265983
+NC0850300,King Police Department,11567,NC,South Atlantic,South,Region III,"FORSYTH, STOKES",City,True,2019-01-01T00:00:00.000Z,36.393829,-80.265983
+NC0850400,State Park Rangers: Hanging Rock,11568,NC,South Atlantic,South,Region III,STOKES,Other State Agency,False,2019-01-01T00:00:00.000Z,36.393829,-80.265983
+NC0860000,Surry County Sheriff's Office,11572,NC,South Atlantic,South,Region III,SURRY,County,True,2019-01-01T00:00:00.000Z,36.415416,-80.686463
+NC0860100,Elkin Police Department,11573,NC,South Atlantic,South,Region III,"SURRY, WILKES",City,True,2020-01-01T00:00:00.000Z,36.245773,-80.85112
+NC0860200,Mount Airy Police Department,11574,NC,South Atlantic,South,Region III,SURRY,City,True,2021-01-01T00:00:00.000Z,36.415416,-80.686463
+NC0860300,Pilot Mountain Police Department,11575,NC,South Atlantic,South,Region III,SURRY,City,False,,36.415416,-80.686463
+NC0860400,Dobson Police Department,11576,NC,South Atlantic,South,Region III,SURRY,City,True,2019-01-01T00:00:00.000Z,36.415416,-80.686463
+NC0860600,State Park Rangers: Pilot Mountain,23094,NC,South Atlantic,South,Region III,SURRY,Other State Agency,True,2019-01-01T00:00:00.000Z,36.415416,-80.686463
+NC0870000,Swain County Sheriff's Office,11579,NC,South Atlantic,South,Region III,SWAIN,County,True,2019-01-01T00:00:00.000Z,35.568849,-83.465614
+NC0870100,Bryson City Police Department,11580,NC,South Atlantic,South,Region III,SWAIN,City,True,2019-01-01T00:00:00.000Z,35.568849,-83.465614
+NC0870200,Cherokee Tribal,11581,NC,South Atlantic,South,Region III,NOT SPECIFIED,Tribal,True,2021-01-01T00:00:00.000Z,35.568849,-83.465614
+NC0880000,Transylvania County Sheriff's Office,11584,NC,South Atlantic,South,Region III,TRANSYLVANIA,County,True,2019-01-01T00:00:00.000Z,35.210095,-82.816696
+NC0880100,Brevard Police Department,11585,NC,South Atlantic,South,Region III,TRANSYLVANIA,City,True,2019-01-01T00:00:00.000Z,35.210095,-82.816696
+NC0880200,State Park Rangers: Gorges,11586,NC,South Atlantic,South,Region III,TRANSYLVANIA,Other State Agency,True,2019-01-01T00:00:00.000Z,35.210095,-82.816696
+NC0890000,Tyrrell County Sheriff's Office,11589,NC,South Atlantic,South,Region III,TYRRELL,County,True,2019-01-01T00:00:00.000Z,35.87042,-76.165345
+NC0900000,Union County Sheriff's Office,11593,NC,South Atlantic,South,Region III,UNION,County,True,2019-01-01T00:00:00.000Z,34.991501,-80.530131
+NC0900100,Marshville Police Department,11594,NC,South Atlantic,South,Region III,UNION,City,True,2019-01-01T00:00:00.000Z,34.98722,-80.36866
+NC0900200,Monroe Police Department,11595,NC,South Atlantic,South,Region III,UNION,City,True,2019-01-01T00:00:00.000Z,34.991501,-80.530131
+NC0900300,Waxhaw Police Department,11596,NC,South Atlantic,South,Region III,UNION,City,True,2019-01-01T00:00:00.000Z,34.991501,-80.530131
+NC0900400,Wingate Police Department,11597,NC,South Atlantic,South,Region III,UNION,City,True,2019-01-01T00:00:00.000Z,34.991501,-80.530131
+NC0900500,Stallings Police Department,11598,NC,South Atlantic,South,Region III,"MECKLENBURG, UNION",City,True,2019-01-01T00:00:00.000Z,34.991501,-80.530131
+NC0910000,Vance County Sheriff's Office,11601,NC,South Atlantic,South,Region III,VANCE,County,True,2019-01-01T00:00:00.000Z,36.365481,-78.405434
+NC0910100,Henderson Police Department,11602,NC,South Atlantic,South,Region III,VANCE,City,True,2019-01-01T00:00:00.000Z,36.365481,-78.405434
+NC0910500,State Park Rangers: Kerr Lake,11603,NC,South Atlantic,South,Region III,VANCE,Other State Agency,True,2019-01-01T00:00:00.000Z,36.43567,-78.367134
+NC0920000,Wake County Sheriff's Office,11606,NC,South Atlantic,South,Region III,WAKE,County,True,2019-01-01T00:00:00.000Z,35.789846,-78.650624
+NC0920100,Raleigh Police Department,11607,NC,South Atlantic,South,Region III,"DURHAM, WAKE",City,True,2019-01-01T00:00:00.000Z,35.789846,-78.650624
+NC0920200,Apex Police Department,11608,NC,South Atlantic,South,Region III,WAKE,City,True,2019-01-01T00:00:00.000Z,35.733063,-78.85477
+NC0920300,Cary Police Department,11609,NC,South Atlantic,South,Region III,"CHATHAM, WAKE",City,True,2019-01-01T00:00:00.000Z,35.789846,-78.650624
+NC0920400,Fuquay-Varina Police Department,11610,NC,South Atlantic,South,Region III,WAKE,City,True,2019-01-01T00:00:00.000Z,35.789846,-78.650624
+NC0920500,Garner Police Department,11611,NC,South Atlantic,South,Region III,WAKE,City,True,2019-01-01T00:00:00.000Z,35.789846,-78.650624
+NC0920600,Knightdale Police Department,11612,NC,South Atlantic,South,Region III,WAKE,City,True,2019-01-01T00:00:00.000Z,35.80251,-78.48753
+NC0920700,Wake Forest Police Department,11613,NC,South Atlantic,South,Region III,"FRANKLIN, WAKE",City,True,2019-01-01T00:00:00.000Z,35.789846,-78.650624
+NC0920800,Wendell Police Department,11614,NC,South Atlantic,South,Region III,WAKE,City,True,2019-01-01T00:00:00.000Z,35.789846,-78.650624
+NC0920900,Zebulon Police Department,11615,NC,South Atlantic,South,Region III,WAKE,City,True,2019-01-01T00:00:00.000Z,35.83458,-78.321434
+NC092109E,WakeMed Campus Police,11630,NC,South Atlantic,South,Region III,WAKE,Other,True,2019-01-01T00:00:00.000Z,35.786514,-78.58863
+NC0921100,Rolesville Police Department,11617,NC,South Atlantic,South,Region III,WAKE,City,True,2019-01-01T00:00:00.000Z,35.789846,-78.650624
+NC0921200,State Capitol Police,11618,NC,South Atlantic,South,Region III,WAKE,Other State Agency,True,2019-01-01T00:00:00.000Z,35.78535,-78.63985
+NC0921300,Morrisville Police Department,11619,NC,South Atlantic,South,Region III,"DURHAM, WAKE",City,True,2019-01-01T00:00:00.000Z,35.789846,-78.650624
+NC0921500,Raleigh-Durham International Airport,11620,NC,South Atlantic,South,Region III,WAKE,Other,True,2019-01-01T00:00:00.000Z,35.789846,-78.650624
+NC0921600,"North Carolina State University, Raleigh",11621,NC,South Atlantic,South,Region III,WAKE,University or College,True,2019-01-01T00:00:00.000Z,,
+NC0921700,Holly Springs Police Department,11622,NC,South Atlantic,South,Region III,WAKE,City,True,2019-01-01T00:00:00.000Z,35.789846,-78.650624
+NC0922100,State Fairgrounds,11624,NC,South Atlantic,South,Region III,WAKE,Other State Agency,False,,35.793465,-78.70569
+NC0922400,North Carolina General Assembly ,31915,NC,South Atlantic,South,Region III,WAKE,Other,False,2019-01-01T00:00:00.000Z,,
+NC0922600,State Park Rangers: Falls Lake Recreation Area,11625,NC,South Atlantic,South,Region III,WAKE,Other State Agency,True,2019-01-01T00:00:00.000Z,36.00843,-78.68748
+NC0922700,State Park Rangers: Jordan Lake State Recreation Area,11626,NC,South Atlantic,South,Region III,WAKE,Other State Agency,True,2019-02-01T00:00:00.000Z,35.736588,-79.016914
+NC0922800,State Park Rangers: William B. Umstead,11627,NC,South Atlantic,South,Region III,WAKE,Other State Agency,True,2019-08-01T00:00:00.000Z,35.88907,-78.74794
+NC092339E,Saint Augustine's University,11628,NC,South Atlantic,South,Region III,WAKE,University or College,False,,35.788006,-78.61738
+NC0923500,Meredith College,26733,NC,South Atlantic,South,Region III,WAKE,University or College,False,,,
+NC0925200,North Carolina Museum of Art Park Police,31934,NC,South Atlantic,South,Region III,WAKE,Other,True,2019-01-01T00:00:00.000Z,,
+NC0929000,Division of Alcohol Law Enforcement,11629,NC,South Atlantic,South,Region III,WAKE,Other State Agency,False,,35.789846,-78.650624
+NC0930000,Warren County Sheriff's Office,11633,NC,South Atlantic,South,Region III,WARREN,County,True,2019-01-01T00:00:00.000Z,36.398105,-78.099899
+NC0930100,Norlina Police Department,11634,NC,South Atlantic,South,Region III,WARREN,City,False,,36.398105,-78.099899
+NC0930200,Warrenton Police Department,11635,NC,South Atlantic,South,Region III,WARREN,City,True,2019-01-01T00:00:00.000Z,36.398105,-78.099899
+NC0940000,Washington County Sheriff's Office,11638,NC,South Atlantic,South,Region III,WASHINGTON,County,True,2019-01-01T00:00:00.000Z,35.844589,-76.572334
+NC0940100,Plymouth Police Department,11639,NC,South Atlantic,South,Region III,WASHINGTON,City,True,2019-01-01T00:00:00.000Z,35.844589,-76.572334
+NC0940400,State Park Rangers: Pettigrew,11641,NC,South Atlantic,South,Region III,WASHINGTON,Other State Agency,False,2019-03-01T00:00:00.000Z,35.792065,-76.40996
+NC0950000,Watauga County Sheriff's Office,11644,NC,South Atlantic,South,Region III,WATAUGA,County,True,2019-01-01T00:00:00.000Z,36.235371,-81.709919
+NC0950100,Boone Police Department,11645,NC,South Atlantic,South,Region III,WATAUGA,City,True,2019-01-01T00:00:00.000Z,36.235371,-81.709919
+NC0950200,Blowing Rock Police Department,11646,NC,South Atlantic,South,Region III,"CALDWELL, WATAUGA",City,True,2019-02-01T00:00:00.000Z,36.235371,-81.709919
+NC0950300,Appalachian State University,11647,NC,South Atlantic,South,Region III,WATAUGA,University or College,True,2019-06-01T00:00:00.000Z,36.235371,-81.709919
+NC0950400,Seven Devils Police Department,11648,NC,South Atlantic,South,Region III,"AVERY, WATAUGA",City,False,2019-01-01T00:00:00.000Z,36.235371,-81.709919
+NC0951000,State Park Rangers: Elk Knob,11649,NC,South Atlantic,South,Region III,WATAUGA,Other State Agency,True,2020-01-01T00:00:00.000Z,36.331154,-81.69439
+NC0960000,Wayne County Sheriff's Office,11652,NC,South Atlantic,South,Region III,WAYNE,County,True,2019-01-01T00:00:00.000Z,35.362747,-78.004819
+NC0960100,Goldsboro Police Department,11653,NC,South Atlantic,South,Region III,WAYNE,City,True,2019-01-01T00:00:00.000Z,35.362747,-78.004819
+NC0960300,Fremont Police Department,11655,NC,South Atlantic,South,Region III,WAYNE,City,False,,35.362747,-78.004819
+NC0960400,Mount Olive Police Department,11656,NC,South Atlantic,South,Region III,"DUPLIN, WAYNE",City,True,2019-01-01T00:00:00.000Z,35.362747,-78.004819
+NC0960500,Pikeville Police Department,11657,NC,South Atlantic,South,Region III,WAYNE,City,False,,35.362747,-78.004819
+NC0960700,Cherry Hospital,11658,NC,South Atlantic,South,Region III,WAYNE,Other State Agency,False,,35.362747,-78.004819
+NC0960800,Walnut Creek Police Department,11659,NC,South Atlantic,South,Region III,WAYNE,City,False,,35.362747,-78.004819
+NC0960900,State Park Rangers: Cliffs of the Neuse,11660,NC,South Atlantic,South,Region III,WAYNE,Other State Agency,True,2020-05-01T00:00:00.000Z,35.23809,-77.88943
+NC0970000,Wilkes County Sheriff's Office,11663,NC,South Atlantic,South,Region III,WILKES,County,True,2019-01-01T00:00:00.000Z,36.145123,-81.16558
+NC0970100,North Wilkesboro Police Department,11664,NC,South Atlantic,South,Region III,WILKES,City,True,2019-01-01T00:00:00.000Z,36.209303,-81.165354
+NC0970200,Wilkesboro Police Department,11665,NC,South Atlantic,South,Region III,WILKES,City,True,2019-01-01T00:00:00.000Z,36.14787,-81.15359
+NC0980000,Wilson County Sheriff's Office,11669,NC,South Atlantic,South,Region III,WILSON,County,True,2019-01-01T00:00:00.000Z,35.700351,-77.921602
+NC0980100,Wilson Police Department,11670,NC,South Atlantic,South,Region III,WILSON,City,True,2019-01-01T00:00:00.000Z,35.700351,-77.921602
+NC0980200,Black Creek Police Department,11671,NC,South Atlantic,South,Region III,WILSON,City,False,,35.700351,-77.921602
+NC0980600,Stantonsburg Police Department,11675,NC,South Atlantic,South,Region III,WILSON,City,True,2019-06-01T00:00:00.000Z,35.700351,-77.921602
+NC0990000,Yadkin County Sheriff's Office,11680,NC,South Atlantic,South,Region III,YADKIN,County,True,2019-01-01T00:00:00.000Z,36.158765,-80.665164
+NC0990100,Jonesville Police Department,11681,NC,South Atlantic,South,Region III,YADKIN,City,True,2020-01-01T00:00:00.000Z,36.158765,-80.665164
+NC0990200,Yadkinville Police Department,11682,NC,South Atlantic,South,Region III,YADKIN,City,True,2019-01-01T00:00:00.000Z,36.158765,-80.665164
+NC0990300,Boonville Police Department,11683,NC,South Atlantic,South,Region III,YADKIN,City,True,2021-04-01T00:00:00.000Z,36.158765,-80.665164
+NC0990400,East Bend Police Department,11684,NC,South Atlantic,South,Region III,YADKIN,City,False,,36.2167,-80.506935
+NC1000000,Yancey County Sheriff's Office,11688,NC,South Atlantic,South,Region III,YANCEY,County,True,2019-01-01T00:00:00.000Z,35.889505,-82.30398
+NC1000100,Burnsville Police Department,11689,NC,South Atlantic,South,Region III,YANCEY,City,True,2019-01-01T00:00:00.000Z,35.889505,-82.30398
+NC1000200,State Park Rangers: Mount Mitchell,11690,NC,South Atlantic,South,Region III,YANCEY,Other State Agency,True,2019-06-01T00:00:00.000Z,35.889505,-82.30398
+NCBCI0000,North Carolina State Bureau of Investigation,11693,NC,South Atlantic,South,Region III,NOT SPECIFIED,Other State Agency,False,,35.789846,-78.650624
+NCNHP0000,North Carolina Highway Patrol,11694,NC,South Atlantic,South,Region III,NOT SPECIFIED,State Police,False,,35.789846,-78.650624
+NCWLF0000,Department of Wildlife,11695,NC,South Atlantic,South,Region III,NOT SPECIFIED,Other State Agency,False,,35.738434,-78.62952

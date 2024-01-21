@@ -1,0 +1,450 @@
+ori,agency_name,agency_id,state_abbr,division_name,region_name,region_desc,county_name,agency_type_name,nibrs,nibrs_start_date,latitude,longitude
+AL0010000,Jefferson County Sheriff's Office,49,AL,East South Central,South,Region III,JEFFERSON,County,True,2021-01-01T00:00:00.000Z,33.553444,-86.896536
+AL0010100,Bessemer Police Department,50,AL,East South Central,South,Region III,JEFFERSON,City,True,2006-01-01T00:00:00.000Z,33.396152,-86.95345
+AL0010200,Birmingham Police Department,51,AL,East South Central,South,Region III,"JEFFERSON, SHELBY",City,True,2021-02-01T00:00:00.000Z,33.553444,-86.896536
+AL0010300,Mountain Brook Police Department,52,AL,East South Central,South,Region III,JEFFERSON,City,True,2021-01-01T00:00:00.000Z,33.50124,-86.75607
+AL0010400,Fairfield Police Department,53,AL,East South Central,South,Region III,JEFFERSON,City,False,,33.553444,-86.896536
+AL0010500,Gardendale Police Department,54,AL,East South Central,South,Region III,JEFFERSON,City,True,2021-01-01T00:00:00.000Z,33.553444,-86.896536
+AL0010600,Leeds Police Department,55,AL,East South Central,South,Region III,"JEFFERSON, SHELBY, ST CLAIR",City,True,2006-01-01T00:00:00.000Z,33.553444,-86.896536
+AL0010700,Midfield Police Department,56,AL,East South Central,South,Region III,JEFFERSON,City,True,2020-01-01T00:00:00.000Z,33.553444,-86.896536
+AL0010800,Tarrant Police Department,57,AL,East South Central,South,Region III,JEFFERSON,City,True,2021-02-01T00:00:00.000Z,33.585728,-86.775024
+AL0010900,Vestavia Hills Police Department,58,AL,East South Central,South,Region III,"JEFFERSON, SHELBY",City,True,2021-01-01T00:00:00.000Z,33.553444,-86.896536
+AL0011000,Homewood Police Department,59,AL,East South Central,South,Region III,JEFFERSON,City,True,2012-01-01T00:00:00.000Z,33.479603,-86.791016
+AL0011100,Fultondale Police Department,60,AL,East South Central,South,Region III,JEFFERSON,City,True,2006-01-01T00:00:00.000Z,33.553444,-86.896536
+AL0011200,Hoover Police Department,61,AL,East South Central,South,Region III,"JEFFERSON, SHELBY",City,True,2006-01-01T00:00:00.000Z,33.38795,-86.80636
+AL0011300,Irondale Police Department,62,AL,East South Central,South,Region III,JEFFERSON,City,True,2009-05-01T00:00:00.000Z,33.538326,-86.70705
+AL0011400,Pleasant Grove Police Department,63,AL,East South Central,South,Region III,JEFFERSON,City,True,2011-01-01T00:00:00.000Z,33.49046,-86.9703
+AL0011600,Graysville Police Department,65,AL,East South Central,South,Region III,JEFFERSON,City,False,2021-01-01T00:00:00.000Z,33.553444,-86.896536
+AL0011800,Brighton Police Department,67,AL,East South Central,South,Region III,JEFFERSON,City,False,,33.42912,-86.94988
+AL0011900,Hueytown Police Department,68,AL,East South Central,South,Region III,JEFFERSON,City,True,2012-02-01T00:00:00.000Z,33.553444,-86.896536
+AL0012000,Lipscomb Police Department,69,AL,East South Central,South,Region III,JEFFERSON,City,True,2020-01-01T00:00:00.000Z,33.553444,-86.896536
+AL0012100,Trussville Police Department,70,AL,East South Central,South,Region III,"JEFFERSON, ST CLAIR",City,True,2013-05-01T00:00:00.000Z,33.553444,-86.896536
+AL0012200,Adamsville Police Department,71,AL,East South Central,South,Region III,JEFFERSON,City,True,2020-01-01T00:00:00.000Z,33.553444,-86.896536
+AL0012300,Warrior Police Department,72,AL,East South Central,South,Region III,JEFFERSON,City,True,2021-01-01T00:00:00.000Z,33.553444,-86.896536
+AL0012400,University of Alabama: Birmingham,73,AL,East South Central,South,Region III,JEFFERSON,University or College,True,2010-04-01T00:00:00.000Z,33.49646,-86.80456
+AL0012500,Trafford Police Department,74,AL,East South Central,South,Region III,JEFFERSON,City,True,2020-12-01T00:00:00.000Z,33.553444,-86.896536
+AL0012600,Morris Police Department,75,AL,East South Central,South,Region III,JEFFERSON,City,True,2021-01-01T00:00:00.000Z,33.553444,-86.896536
+AL0012700,Brookside Police Department,76,AL,East South Central,South,Region III,JEFFERSON,City,True,2021-01-01T00:00:00.000Z,33.553444,-86.896536
+AL0012900,Kimberly Police Department,78,AL,East South Central,South,Region III,JEFFERSON,City,True,2021-01-01T00:00:00.000Z,33.553444,-86.896536
+AL0013200,Tannehill Ironworks Historic State Park,23270,AL,East South Central,South,Region III,JEFFERSON,Other State Agency,False,,33.553444,-86.896536
+AL0013400,Jefferson State Community College,23202,AL,East South Central,South,Region III,JEFFERSON,University or College,True,2020-01-01T00:00:00.000Z,33.64871,-86.7103
+AL001359E,Norfolk Southern Railway,80,AL,East South Central,South,Region III,JEFFERSON,Other,False,,,
+AL0014000,Lawson State Community College,26230,AL,East South Central,South,Region III,JEFFERSON,University or College,True,2020-01-01T00:00:00.000Z,33.553444,-86.896536
+AL001419E,Samford University,23196,AL,East South Central,South,Region III,JEFFERSON,University or College,True,2021-04-01T00:00:00.000Z,,
+AL0014500,Trussville Fire Department Fire and Explosion Investigation Unit,23194,AL,East South Central,South,Region III,JEFFERSON,Other,False,,33.6301,-86.59608
+AL0020000,Mobile County Sheriff's Office,81,AL,East South Central,South,Region III,MOBILE,County,True,2021-01-01T00:00:00.000Z,30.684572,-88.196568
+AL0020100,Mobile Police Department,82,AL,East South Central,South,Region III,MOBILE,City,True,2021-01-01T00:00:00.000Z,30.673004,-88.09793
+AL0020200,Prichard Police Department,83,AL,East South Central,South,Region III,MOBILE,City,True,2020-01-01T00:00:00.000Z,30.730814,-88.0808
+AL0020300,Chickasaw Police Department,84,AL,East South Central,South,Region III,MOBILE,City,True,2020-01-01T00:00:00.000Z,30.684572,-88.196568
+AL0020400,Citronelle Police Department,85,AL,East South Central,South,Region III,MOBILE,City,True,2021-01-01T00:00:00.000Z,31.089754,-88.22756
+AL0020500,Saraland Police Department,86,AL,East South Central,South,Region III,MOBILE,City,True,2021-01-01T00:00:00.000Z,30.80567,-88.071266
+AL0020600,Bayou La Batre Police Department,87,AL,East South Central,South,Region III,MOBILE,City,True,2020-01-01T00:00:00.000Z,30.684572,-88.196568
+AL0020700,Satsuma Police Department,88,AL,East South Central,South,Region III,MOBILE,City,True,2020-01-01T00:00:00.000Z,30.684572,-88.196568
+AL0020800,Mount Vernon Police Department,89,AL,East South Central,South,Region III,MOBILE,City,True,2020-09-01T00:00:00.000Z,30.684572,-88.196568
+AL0021200,Creola Police Department,91,AL,East South Central,South,Region III,MOBILE,City,True,2021-01-01T00:00:00.000Z,30.684572,-88.196568
+AL0021300,Mobile Regional Airport,25304,AL,East South Central,South,Region III,MOBILE,Other,True,2021-02-01T00:00:00.000Z,30.684572,-88.196568
+AL0021400,University of South Alabama,92,AL,East South Central,South,Region III,MOBILE,University or College,True,2020-09-01T00:00:00.000Z,30.69486,-88.17397
+AL0021500,Dauphin Island Police Department,93,AL,East South Central,South,Region III,MOBILE,City,True,2020-01-01T00:00:00.000Z,30.684572,-88.196568
+AL0021700,Bishop State Community College,23089,AL,East South Central,South,Region III,MOBILE,University or College,True,2022-06-01T00:00:00.000Z,30.69399,-88.056145
+AL0022200,Semmes,34186,AL,East South Central,South,Region III,MOBILE,City,True,2022-01-01T00:00:00.000Z,,
+AL0030000,Montgomery County Sheriff's Office,94,AL,East South Central,South,Region III,MONTGOMERY,County,True,2021-06-01T00:00:00.000Z,32.20365,-86.203831
+AL0030100,Montgomery Police Department,95,AL,East South Central,South,Region III,MONTGOMERY,City,False,,32.20365,-86.203831
+AL0030500,Alabama Department of Mental Health,98,AL,East South Central,South,Region III,MONTGOMERY,Other State Agency,True,2021-01-01T00:00:00.000Z,32.20365,-86.203831
+AL0030600,Alabama State University,99,AL,East South Central,South,Region III,MONTGOMERY,University or College,True,2022-01-01T00:00:00.000Z,32.20365,-86.203831
+AL0030700,Auburn University: Montgomery,100,AL,East South Central,South,Region III,MONTGOMERY,University or College,True,2020-01-01T00:00:00.000Z,32.20365,-86.203831
+AL0030800,Alabama Public Service Commission Enforcement Division,101,AL,East South Central,South,Region III,MONTGOMERY,Other State Agency,False,,32.20365,-86.203831
+AL0031400,State Fire Marshal,23191,AL,East South Central,South,Region III,MONTGOMERY,Other State Agency,False,,32.20365,-86.203831
+AL0031600,Montgomery Airport ,34151,AL,East South Central,South,Region III,MONTGOMERY,Other,True,2022-01-01T00:00:00.000Z,,
+AL0032500,"Department of Conservation, Montgomery",22499,AL,East South Central,South,Region III,MONTGOMERY,Other State Agency,True,2020-12-01T00:00:00.000Z,,
+AL0032900,Faulkner University,34155,AL,East South Central,South,Region III,MONTGOMERY,University or College,True,2022-08-01T00:00:00.000Z,,
+AL0033100,Alabama Drug Enforcement Task Force,33663,AL,East South Central,South,Region III,NOT SPECIFIED,Other State Agency,True,2021-03-01T00:00:00.000Z,,
+AL0033200,Department of Corrections Investigations and Intelligence Division,28416,AL,East South Central,South,Region III,MONTGOMERY,Other State Agency,True,2021-01-01T00:00:00.000Z,,
+AL0040000,Autauga County Sheriff's Office,106,AL,East South Central,South,Region III,AUTAUGA,County,True,2021-01-01T00:00:00.000Z,32.4632,-86.47712
+AL0040100,Prattville Police Department,107,AL,East South Central,South,Region III,"AUTAUGA, ELMORE",City,True,2021-05-01T00:00:00.000Z,32.459705,-86.47263
+AL0040200,Autaugaville Police Department,108,AL,East South Central,South,Region III,AUTAUGA,City,True,2021-01-01T00:00:00.000Z,32.536382,-86.64449
+AL0050000,Baldwin County Sheriff's Office,109,AL,East South Central,South,Region III,BALDWIN,County,True,2022-06-01T00:00:00.000Z,30.884958,-87.775055
+AL0050100,Bay Minette Police Department,110,AL,East South Central,South,Region III,BALDWIN,City,True,2010-06-01T00:00:00.000Z,30.659218,-87.746067
+AL0050200,Fairhope Police Department,111,AL,East South Central,South,Region III,BALDWIN,City,True,2015-11-01T00:00:00.000Z,30.659218,-87.746067
+AL0050300,Foley Police Department,112,AL,East South Central,South,Region III,BALDWIN,City,True,2013-01-01T00:00:00.000Z,30.659218,-87.746067
+AL0050400,Gulf Shores Police Department,113,AL,East South Central,South,Region III,BALDWIN,City,True,2021-02-01T00:00:00.000Z,30.659218,-87.746067
+AL0050500,Robertsdale Police Department,114,AL,East South Central,South,Region III,BALDWIN,City,True,2021-01-01T00:00:00.000Z,30.659218,-87.746067
+AL0050600,Loxley Police Department,115,AL,East South Central,South,Region III,BALDWIN,City,False,,30.659218,-87.746067
+AL0050700,Silverhill Police Department,116,AL,East South Central,South,Region III,BALDWIN,City,True,2020-01-01T00:00:00.000Z,30.659218,-87.746067
+AL0050800,Daphne Police Department,117,AL,East South Central,South,Region III,BALDWIN,City,True,2007-11-01T00:00:00.000Z,30.599625,-87.898056
+AL0050900,Summerdale Police Department,118,AL,East South Central,South,Region III,BALDWIN,City,True,2019-01-01T00:00:00.000Z,30.659218,-87.746067
+AL0051000,Elberta Police Department,119,AL,East South Central,South,Region III,BALDWIN,City,True,2020-01-01T00:00:00.000Z,30.659218,-87.746067
+AL0051100,Faulkner State Community College,120,AL,East South Central,South,Region III,BALDWIN,University or College,True,2020-01-01T00:00:00.000Z,30.659218,-87.746067
+AL0051200,Orange Beach Police Department,121,AL,East South Central,South,Region III,BALDWIN,City,True,2021-01-01T00:00:00.000Z,30.659218,-87.746067
+AL0051300,Spanish Fort Police Department,122,AL,East South Central,South,Region III,BALDWIN,City,True,2013-08-01T00:00:00.000Z,30.659218,-87.746067
+AL0060000,Barbour County Sheriff's Office,123,AL,East South Central,South,Region III,BARBOUR,County,True,2020-01-01T00:00:00.000Z,31.886034,-85.4849
+AL0060100,Eufaula Police Department,124,AL,East South Central,South,Region III,BARBOUR,City,True,2021-01-01T00:00:00.000Z,31.870253,-85.405104
+AL0060200,Clayton Police Department,125,AL,East South Central,South,Region III,BARBOUR,City,True,2020-01-01T00:00:00.000Z,31.870253,-85.405104
+AL0060300,Clio Police Department,126,AL,East South Central,South,Region III,BARBOUR,City,True,2022-12-01T00:00:00.000Z,31.870253,-85.405104
+AL0060400,Louisville Police Department,127,AL,East South Central,South,Region III,BARBOUR,City,True,2021-05-01T00:00:00.000Z,31.870253,-85.405104
+AL0060700,Baker Hill Police Department,128,AL,East South Central,South,Region III,BARBOUR,City,True,2022-07-01T00:00:00.000Z,31.870253,-85.405104
+AL0070000,Bibb County Sheriff's Office,129,AL,East South Central,South,Region III,BIBB,County,True,2021-01-01T00:00:00.000Z,32.939995,-87.11683
+AL0070100,Centreville Police Department,130,AL,East South Central,South,Region III,BIBB,City,True,2020-01-01T00:00:00.000Z,33.015893,-87.127148
+AL0070200,Brent Police Department,131,AL,East South Central,South,Region III,BIBB,City,True,2020-01-01T00:00:00.000Z,33.015893,-87.127148
+AL0070300,West Blocton Police Department,132,AL,East South Central,South,Region III,BIBB,City,True,2020-01-01T00:00:00.000Z,33.015893,-87.127148
+AL0070400,Woodstock Police Department,133,AL,East South Central,South,Region III,"BIBB, TUSCALOOSA",City,True,2020-01-01T00:00:00.000Z,33.015893,-87.127148
+AL0080000,Blount County Sheriff's Office,134,AL,East South Central,South,Region III,BLOUNT,County,True,2006-01-01T00:00:00.000Z,33.929085,-86.4896
+AL0080100,Oneonta Police Department,135,AL,East South Central,South,Region III,BLOUNT,City,True,2020-01-01T00:00:00.000Z,33.943935,-86.47508
+AL0080200,Blountsville Police Department,136,AL,East South Central,South,Region III,BLOUNT,City,True,2021-01-01T00:00:00.000Z,33.977448,-86.567246
+AL0080300,Cleveland Police Department,137,AL,East South Central,South,Region III,BLOUNT,City,True,2021-01-01T00:00:00.000Z,33.977448,-86.567246
+AL0080400,Snead Police Department,138,AL,East South Central,South,Region III,BLOUNT,City,True,2021-07-01T00:00:00.000Z,33.977448,-86.567246
+AL0080500,Highland Lake Police Department,139,AL,East South Central,South,Region III,BLOUNT,City,True,2021-01-01T00:00:00.000Z,33.885117,-86.41327
+AL0080600,Susan Moore,34157,AL,East South Central,South,Region III,BLOUNT,City,True,2022-01-01T00:00:00.000Z,,
+AL0080800,Hayden,29394,AL,East South Central,South,Region III,BLOUNT,City,True,2021-01-01T00:00:00.000Z,,
+AL0090000,Bullock County Sheriff's Office,140,AL,East South Central,South,Region III,BULLOCK,County,True,2021-06-01T00:00:00.000Z,32.14111,-85.71614
+AL0090100,Union Springs Police Department,141,AL,East South Central,South,Region III,BULLOCK,City,True,2021-02-01T00:00:00.000Z,32.13935,-85.716125
+AL0100000,Butler County Sheriff's Office,142,AL,East South Central,South,Region III,BUTLER,County,False,,31.751667,-86.681969
+AL0100100,Greenville Police Department,143,AL,East South Central,South,Region III,BUTLER,City,False,,31.751667,-86.681969
+AL0100200,Georgiana Police Department,144,AL,East South Central,South,Region III,BUTLER,City,True,2020-01-01T00:00:00.000Z,31.751667,-86.681969
+AL0100300,McKenzie Police Department,145,AL,East South Central,South,Region III,"BUTLER, CONECUH",City,True,2022-08-01T00:00:00.000Z,31.751667,-86.681969
+AL0110000,Calhoun County Sheriff's Office,146,AL,East South Central,South,Region III,CALHOUN,County,True,2021-02-01T00:00:00.000Z,33.771706,-85.822513
+AL0110100,Anniston Police Department,147,AL,East South Central,South,Region III,CALHOUN,City,True,2021-01-01T00:00:00.000Z,33.771706,-85.822513
+AL0110200,Jacksonville Police Department,148,AL,East South Central,South,Region III,CALHOUN,City,True,2021-02-01T00:00:00.000Z,33.813366,-85.76122
+AL0110300,Piedmont Police Department,149,AL,East South Central,South,Region III,CALHOUN,City,True,2021-01-01T00:00:00.000Z,33.771706,-85.822513
+AL0110400,Weaver Police Department,150,AL,East South Central,South,Region III,CALHOUN,City,True,2020-01-01T00:00:00.000Z,33.771706,-85.822513
+AL0110500,Oxford Police Department,151,AL,East South Central,South,Region III,"CALHOUN, TALLADEGA",City,True,2006-01-01T00:00:00.000Z,33.771706,-85.822513
+AL0110700,Ohatchee Police Department,153,AL,East South Central,South,Region III,CALHOUN,City,True,2021-01-01T00:00:00.000Z,33.771706,-85.822513
+AL0110800,Jacksonville State University,154,AL,East South Central,South,Region III,CALHOUN,University or College,True,2010-10-01T00:00:00.000Z,33.798615,-85.761284
+AL0120000,Chambers County Sheriff's Office,155,AL,East South Central,South,Region III,CHAMBERS,County,True,2021-01-01T00:00:00.000Z,32.89985,-85.40123
+AL0120100,Lafayette Police Department,156,AL,East South Central,South,Region III,CHAMBERS,City,True,2020-01-01T00:00:00.000Z,32.915504,-85.394032
+AL0120200,Lanett Police Department,157,AL,East South Central,South,Region III,CHAMBERS,City,True,2020-01-01T00:00:00.000Z,32.915504,-85.394032
+AL0120400,Valley Police Department,158,AL,East South Central,South,Region III,CHAMBERS,City,True,2020-01-01T00:00:00.000Z,32.915504,-85.394032
+AL0130000,Cherokee County Sheriff's Office,159,AL,East South Central,South,Region III,CHEROKEE,County,True,2021-01-01T00:00:00.000Z,34.163456,-85.66378
+AL0130100,Centre Police Department,160,AL,East South Central,South,Region III,CHEROKEE,City,True,2021-01-01T00:00:00.000Z,34.1512,-85.67609
+AL0130200,Cedar Bluff Police Department,161,AL,East South Central,South,Region III,CHEROKEE,City,True,2021-01-01T00:00:00.000Z,34.069515,-85.654242
+AL0130300,Leesburg Police Department,162,AL,East South Central,South,Region III,CHEROKEE,City,True,2021-01-01T00:00:00.000Z,34.069515,-85.654242
+AL0140000,Chilton County Sheriff's Office,163,AL,East South Central,South,Region III,CHILTON,County,True,2022-01-01T00:00:00.000Z,32.84005,-86.62905
+AL0140100,Clanton Police Department,164,AL,East South Central,South,Region III,CHILTON,City,True,2010-02-01T00:00:00.000Z,32.854051,-86.726607
+AL0140200,Maplesville Police Department,165,AL,East South Central,South,Region III,CHILTON,City,True,2021-01-01T00:00:00.000Z,32.854051,-86.726607
+AL0140300,Jemison Police Department,166,AL,East South Central,South,Region III,CHILTON,City,True,2012-02-01T00:00:00.000Z,32.854051,-86.726607
+AL0140400,Thorsby Police Department,167,AL,East South Central,South,Region III,CHILTON,City,True,2021-01-01T00:00:00.000Z,32.854051,-86.726607
+AL0150000,Choctaw County Sheriff's Office,168,AL,East South Central,South,Region III,CHOCTAW,County,True,2020-01-01T00:00:00.000Z,31.990997,-88.248908
+AL0150100,Butler Police Department,169,AL,East South Central,South,Region III,CHOCTAW,City,True,2020-01-01T00:00:00.000Z,31.990997,-88.248908
+AL0150200,Gilbertown Police Department,170,AL,East South Central,South,Region III,CHOCTAW,City,True,2020-01-01T00:00:00.000Z,31.990997,-88.248908
+AL0150300,Pennington Police Department,171,AL,East South Central,South,Region III,CHOCTAW,City,True,2021-01-01T00:00:00.000Z,31.990997,-88.248908
+AL0160000,Clarke County Sheriff's Office,174,AL,East South Central,South,Region III,CLARKE,County,True,2021-01-01T00:00:00.000Z,31.685521,-87.818624
+AL0160100,Jackson Police Department,175,AL,East South Central,South,Region III,CLARKE,City,True,2021-01-01T00:00:00.000Z,31.685521,-87.818624
+AL0160200,Thomasville Police Department,176,AL,East South Central,South,Region III,CLARKE,City,True,2021-01-01T00:00:00.000Z,31.685521,-87.818624
+AL0160300,Grove Hill Police Department,177,AL,East South Central,South,Region III,CLARKE,City,True,2021-01-01T00:00:00.000Z,31.685521,-87.818624
+AL0160400,Fulton Police Department,178,AL,East South Central,South,Region III,CLARKE,City,True,2021-01-01T00:00:00.000Z,31.685521,-87.818624
+AL0160600,Coffeeville Police Department,179,AL,East South Central,South,Region III,CLARKE,City,True,2021-02-01T00:00:00.000Z,31.685521,-87.818624
+AL0170000,Clay County Sheriff's Office,180,AL,East South Central,South,Region III,CLAY,County,True,2021-01-01T00:00:00.000Z,33.267809,-85.862051
+AL0170100,Ashland Police Department,181,AL,East South Central,South,Region III,CLAY,City,True,2015-08-01T00:00:00.000Z,33.267809,-85.862051
+AL0170200,Lineville Police Department,182,AL,East South Central,South,Region III,CLAY,City,True,2020-01-01T00:00:00.000Z,33.267809,-85.862051
+AL0180000,Cleburne County Sheriff's Office,183,AL,East South Central,South,Region III,CLEBURNE,County,True,2021-01-01T00:00:00.000Z,33.671964,-85.516126
+AL0180100,Heflin Police Department,184,AL,East South Central,South,Region III,CLEBURNE,City,True,2021-01-01T00:00:00.000Z,33.671964,-85.516126
+AL0180200,Ranburne Police Department,185,AL,East South Central,South,Region III,CLEBURNE,City,True,2020-02-01T00:00:00.000Z,33.671964,-85.516126
+AL0190000,Coffee County Sheriff's Office,186,AL,East South Central,South,Region III,COFFEE,County,True,2020-02-01T00:00:00.000Z,31.402258,-85.989602
+AL0190100,Elba Police Department,187,AL,East South Central,South,Region III,COFFEE,City,True,2020-07-01T00:00:00.000Z,31.402258,-85.989602
+AL0190200,Enterprise Police Department,188,AL,East South Central,South,Region III,"COFFEE, DALE",City,True,2021-01-01T00:00:00.000Z,31.402258,-85.989602
+AL0190300,New Brockton Police Department,189,AL,East South Central,South,Region III,COFFEE,City,True,2021-09-01T00:00:00.000Z,31.402258,-85.989602
+AL0190400,Kinston Police Department,190,AL,East South Central,South,Region III,COFFEE,City,True,2021-01-01T00:00:00.000Z,31.402258,-85.989602
+AL0190500,Enterprise State Junior College,191,AL,East South Central,South,Region III,COFFEE,University or College,True,2021-02-01T00:00:00.000Z,31.402258,-85.989602
+AL0200000,Colbert County Sheriff's Office,192,AL,East South Central,South,Region III,COLBERT,County,True,2020-03-01T00:00:00.000Z,34.73306,-87.70358
+AL0200100,Sheffield Police Department,193,AL,East South Central,South,Region III,COLBERT,City,True,2020-01-01T00:00:00.000Z,34.703112,-87.801457
+AL020015A,District Attorney:,34159,AL,East South Central,South,Region III,COLBERT,Other,True,2017-07-01T00:00:00.000Z,,
+AL0200200,Tuscumbia Police Department,194,AL,East South Central,South,Region III,COLBERT,City,True,2020-01-01T00:00:00.000Z,34.703112,-87.801457
+AL0200300,Muscle Shoals Police Department,195,AL,East South Central,South,Region III,COLBERT,City,True,2019-07-01T00:00:00.000Z,34.703112,-87.801457
+AL0200400,Cherokee Police Department,196,AL,East South Central,South,Region III,COLBERT,City,True,2020-01-01T00:00:00.000Z,34.703112,-87.801457
+AL0200500,Leighton Police Department,197,AL,East South Central,South,Region III,COLBERT,City,True,2021-01-01T00:00:00.000Z,34.703112,-87.801457
+AL0200600,Littleville Police Department,198,AL,East South Central,South,Region III,COLBERT,City,True,2021-02-01T00:00:00.000Z,34.59297,-87.67472
+AL0210000,Conecuh County Sheriff's Office,199,AL,East South Central,South,Region III,CONECUH,County,True,2020-01-01T00:00:00.000Z,31.435986,-86.95452
+AL0210100,Evergreen Police Department,200,AL,East South Central,South,Region III,CONECUH,City,True,2020-01-01T00:00:00.000Z,31.428292,-86.992029
+AL0210200,Castleberry Police Department,201,AL,East South Central,South,Region III,CONECUH,City,True,2020-01-01T00:00:00.000Z,31.428292,-86.992029
+AL0210300,Repton Police Department,23139,AL,East South Central,South,Region III,CONECUH,City,True,2021-08-01T00:00:00.000Z,31.428292,-86.992029
+AL0220000,Coosa County Sheriff's Office,202,AL,East South Central,South,Region III,COOSA,County,True,2021-09-01T00:00:00.000Z,32.931445,-86.243482
+AL0220100,Goodwater Police Department,203,AL,East South Central,South,Region III,COOSA,City,True,2020-01-01T00:00:00.000Z,32.931445,-86.243482
+AL0220200,Rockford Police Department,204,AL,East South Central,South,Region III,COOSA,City,True,2021-05-01T00:00:00.000Z,32.931445,-86.243482
+AL0230000,Covington County Sheriff's Office,205,AL,East South Central,South,Region III,COVINGTON,County,True,2020-01-01T00:00:00.000Z,31.31337,-86.50222
+AL0230100,Andalusia Police Department,206,AL,East South Central,South,Region III,COVINGTON,City,True,2012-01-01T00:00:00.000Z,31.243987,-86.448721
+AL0230200,Opp Police Department,207,AL,East South Central,South,Region III,COVINGTON,City,True,2020-01-01T00:00:00.000Z,31.243987,-86.448721
+AL0230300,Florala Police Department,208,AL,East South Central,South,Region III,COVINGTON,City,True,2021-02-01T00:00:00.000Z,31.243987,-86.448721
+AL0230400,Gantt Police Department,209,AL,East South Central,South,Region III,COVINGTON,City,True,2020-01-01T00:00:00.000Z,31.243987,-86.448721
+AL0230500,Red Level Police Department,210,AL,East South Central,South,Region III,COVINGTON,City,True,2019-01-01T00:00:00.000Z,31.243987,-86.448721
+AL0230600,Lockhart Police Department,211,AL,East South Central,South,Region III,COVINGTON,City,True,2021-08-01T00:00:00.000Z,31.243987,-86.448721
+AL0230700,River Falls Police Department,212,AL,East South Central,South,Region III,COVINGTON,City,True,2020-03-01T00:00:00.000Z,31.243987,-86.448721
+AL0230800,22nd Judicial Circuit Drug Task Force,213,AL,East South Central,South,Region III,COVINGTON,Other,True,2021-01-01T00:00:00.000Z,31.243987,-86.448721
+AL0230900,Lurleen B. Wallace Community College,33659,AL,East South Central,South,Region III,COVINGTON,University or College,True,2021-09-01T00:00:00.000Z,,
+AL0240000,Crenshaw County Sheriff's Office,214,AL,East South Central,South,Region III,CRENSHAW,County,True,2020-01-01T00:00:00.000Z,31.732826,-86.319222
+AL0240100,Luverne Police Department,215,AL,East South Central,South,Region III,CRENSHAW,City,True,2020-01-01T00:00:00.000Z,31.732826,-86.319222
+AL0240200,Brantley Police Department,216,AL,East South Central,South,Region III,CRENSHAW,City,True,2021-01-01T00:00:00.000Z,31.732826,-86.319222
+AL0250000,Cullman County Sheriff's Office,219,AL,East South Central,South,Region III,CULLMAN,County,True,2021-01-01T00:00:00.000Z,34.131923,-86.869267
+AL0250100,Cullman Police Department,220,AL,East South Central,South,Region III,CULLMAN,City,True,2021-01-01T00:00:00.000Z,34.131923,-86.869267
+AL0250200,Hanceville Police Department,221,AL,East South Central,South,Region III,CULLMAN,City,True,2021-01-01T00:00:00.000Z,34.131923,-86.869267
+AL0250500,Wallace State Community College,26245,AL,East South Central,South,Region III,CULLMAN,University or College,True,2021-02-01T00:00:00.000Z,,
+AL0260000,Dale County Sheriff's Office,224,AL,East South Central,South,Region III,DALE,County,True,2006-01-01T00:00:00.000Z,31.430654,-85.609476
+AL0260100,Ozark Police Department,225,AL,East South Central,South,Region III,DALE,City,True,2015-11-01T00:00:00.000Z,31.430654,-85.609476
+AL0260200,Daleville Police Department,226,AL,East South Central,South,Region III,DALE,City,True,2021-01-01T00:00:00.000Z,31.430654,-85.609476
+AL0260300,Level Plains Police Department,227,AL,East South Central,South,Region III,DALE,City,True,2021-01-01T00:00:00.000Z,31.430654,-85.609476
+AL0260400,Napier Field Police Department,228,AL,East South Central,South,Region III,DALE,City,True,2021-05-01T00:00:00.000Z,31.314436,-85.453896
+AL0260500,Newton Police Department,229,AL,East South Central,South,Region III,DALE,City,True,2020-01-01T00:00:00.000Z,31.430654,-85.609476
+AL0260600,Midland City Police Department,230,AL,East South Central,South,Region III,DALE,City,True,2020-01-01T00:00:00.000Z,31.430654,-85.609476
+AL0260700,Pinckard Police Department,231,AL,East South Central,South,Region III,DALE,City,True,2020-01-01T00:00:00.000Z,31.430654,-85.609476
+AL0260900,Clayhatchee Police Department,233,AL,East South Central,South,Region III,DALE,City,True,2020-10-01T00:00:00.000Z,31.23572,-85.72021
+AL0270000,Dallas County Sheriff's Office,234,AL,East South Central,South,Region III,DALLAS,County,True,2020-01-01T00:00:00.000Z,32.33354,-87.114356
+AL0270100,Selma Police Department,235,AL,East South Central,South,Region III,DALLAS,City,True,2021-03-01T00:00:00.000Z,32.33354,-87.114356
+AL0270200,Wallace Community College: Selma,23132,AL,East South Central,South,Region III,DALLAS,University or College,False,,32.33354,-87.114356
+AL0280000,DeKalb County Sheriff's Office,236,AL,East South Central,South,Region III,DEKALB,County,True,2020-01-01T00:00:00.000Z,34.460929,-85.803992
+AL0280100,Fort Payne Police Department,237,AL,East South Central,South,Region III,DEKALB,City,True,2006-01-01T00:00:00.000Z,34.440315,-85.72332
+AL0280200,Collinsville Police Department,238,AL,East South Central,South,Region III,"CHEROKEE, DEKALB",City,True,2020-01-01T00:00:00.000Z,34.460929,-85.803992
+AL0280300,Geraldine Police Department,239,AL,East South Central,South,Region III,DEKALB,City,True,2020-01-01T00:00:00.000Z,34.460929,-85.803992
+AL0280400,Henagar Police Department,240,AL,East South Central,South,Region III,DEKALB,City,True,2020-01-01T00:00:00.000Z,34.460929,-85.803992
+AL0280500,Powell Police Department,241,AL,East South Central,South,Region III,DEKALB,City,True,2020-01-01T00:00:00.000Z,34.460929,-85.803992
+AL0280600,Mentone Police Department,242,AL,East South Central,South,Region III,DEKALB,City,True,2021-02-01T00:00:00.000Z,34.460929,-85.803992
+AL0280700,Rainsville Police Department,243,AL,East South Central,South,Region III,DEKALB,City,True,2020-01-01T00:00:00.000Z,34.460929,-85.803992
+AL0280800,Hammondville Police Department,244,AL,East South Central,South,Region III,DEKALB,City,True,2021-06-01T00:00:00.000Z,34.57885,-85.62933
+AL0281000,Crossville Police Department,245,AL,East South Central,South,Region III,DEKALB,City,True,2020-01-01T00:00:00.000Z,34.460929,-85.803992
+AL0281100,Fyffe Police Department,246,AL,East South Central,South,Region III,DEKALB,City,True,2021-01-01T00:00:00.000Z,34.460929,-85.803992
+AL0281200,Sylvania Police Department,247,AL,East South Central,South,Region III,DEKALB,City,True,2021-01-01T00:00:00.000Z,34.460929,-85.803992
+AL0281300,Valley Head Police Department,248,AL,East South Central,South,Region III,DEKALB,City,True,2020-02-01T00:00:00.000Z,34.460929,-85.803992
+AL0281400,Ider Police Department,249,AL,East South Central,South,Region III,DEKALB,City,True,2020-01-01T00:00:00.000Z,34.460929,-85.803992
+AL0290000,Elmore County Sheriff's Office,250,AL,East South Central,South,Region III,ELMORE,County,True,2017-06-01T00:00:00.000Z,32.597229,-86.142738
+AL0290100,Wetumpka Police Department,251,AL,East South Central,South,Region III,ELMORE,City,True,2014-10-01T00:00:00.000Z,32.597229,-86.142738
+AL0290200,Tallassee Police Department,252,AL,East South Central,South,Region III,"ELMORE, TALLAPOOSA",City,True,2020-05-01T00:00:00.000Z,32.597229,-86.142738
+AL0290300,Eclectic Police Department,253,AL,East South Central,South,Region III,ELMORE,City,True,2020-05-01T00:00:00.000Z,32.597229,-86.142738
+AL0290400,Coosada Police Department,254,AL,East South Central,South,Region III,ELMORE,City,True,2020-01-01T00:00:00.000Z,32.597229,-86.142738
+AL0290600,Millbrook Police Department,255,AL,East South Central,South,Region III,"AUTAUGA, ELMORE",City,True,2011-03-01T00:00:00.000Z,32.597229,-86.142738
+AL0290700,Central Alabama Drug Task Force,23203,AL,East South Central,South,Region III,ELMORE,Other,False,,,
+AL0300000,Escambia County Sheriff's Office,256,AL,East South Central,South,Region III,ESCAMBIA,County,False,,31.106821,-87.071945
+AL0300100,Atmore Police Department,257,AL,East South Central,South,Region III,ESCAMBIA,City,True,2011-11-01T00:00:00.000Z,31.121747,-87.168429
+AL0300200,Brewton Police Department,258,AL,East South Central,South,Region III,ESCAMBIA,City,True,2020-01-01T00:00:00.000Z,31.121747,-87.168429
+AL0300300,East Brewton Police Department,259,AL,East South Central,South,Region III,ESCAMBIA,City,True,2011-11-01T00:00:00.000Z,31.121747,-87.168429
+AL0300400,Flomaton Police Department,260,AL,East South Central,South,Region III,ESCAMBIA,City,True,2020-02-01T00:00:00.000Z,31.121747,-87.168429
+AL0310000,Etowah County Sheriff's Office,261,AL,East South Central,South,Region III,ETOWAH,County,True,2020-01-01T00:00:00.000Z,34.01584,-86.011925
+AL0310100,Attalla Police Department,262,AL,East South Central,South,Region III,ETOWAH,City,True,2006-01-01T00:00:00.000Z,34.022778,-86.08711
+AL0310200,Gadsden Police Department,263,AL,East South Central,South,Region III,ETOWAH,City,True,2021-01-01T00:00:00.000Z,34.047648,-86.034522
+AL0310400,Glencoe Police Department,264,AL,East South Central,South,Region III,"CALHOUN, ETOWAH",City,True,2021-01-01T00:00:00.000Z,34.047648,-86.034522
+AL0310500,Rainbow City Police Department,265,AL,East South Central,South,Region III,ETOWAH,City,True,2020-12-01T00:00:00.000Z,33.951508,-86.044334
+AL0310600,Hokes Bluff Police Department,266,AL,East South Central,South,Region III,ETOWAH,City,True,2021-01-01T00:00:00.000Z,34.047648,-86.034522
+AL0310700,Southside Police Department,267,AL,East South Central,South,Region III,"CALHOUN, ETOWAH",City,True,2021-01-01T00:00:00.000Z,33.92092,-86.02231
+AL0310800,Sardis City Police Department,268,AL,East South Central,South,Region III,"ETOWAH, MARSHALL",City,True,2020-01-01T00:00:00.000Z,34.047648,-86.034522
+AL0310900,Altoona Police Department,269,AL,East South Central,South,Region III,"BLOUNT, ETOWAH",City,True,2021-01-01T00:00:00.000Z,34.047648,-86.034522
+AL0311000,Walnut Grove Police Department,23071,AL,East South Central,South,Region III,ETOWAH,City,True,2021-04-01T00:00:00.000Z,34.047648,-86.034522
+AL0312200,Etowah County Drug Enforcement Unit,23134,AL,East South Central,South,Region III,ETOWAH,Other,True,2021-01-01T00:00:00.000Z,34.047648,-86.034522
+AL0320000,Fayette County Sheriff's Office,270,AL,East South Central,South,Region III,FAYETTE,County,True,2020-01-01T00:00:00.000Z,33.685856,-87.83186
+AL0320100,Fayette Police Department,271,AL,East South Central,South,Region III,FAYETTE,City,True,2020-01-01T00:00:00.000Z,33.716157,-87.764292
+AL0320200,Berry Police Department,272,AL,East South Central,South,Region III,FAYETTE,City,True,2021-05-01T00:00:00.000Z,33.661625,-87.60143
+AL0330000,Franklin County Sheriff's Office,273,AL,East South Central,South,Region III,FRANKLIN,County,True,2020-01-01T00:00:00.000Z,34.441989,-87.842814
+AL0330100,Russellville Police Department,274,AL,East South Central,South,Region III,FRANKLIN,City,True,2006-01-01T00:00:00.000Z,34.476738,-87.72945
+AL0330200,Phil Campbell Police Department,275,AL,East South Central,South,Region III,FRANKLIN,City,True,2021-01-01T00:00:00.000Z,34.441989,-87.842814
+AL0330300,Red Bay Police Department,276,AL,East South Central,South,Region III,FRANKLIN,City,True,2020-01-01T00:00:00.000Z,34.441989,-87.842814
+AL0330500,Hodges Police Department,278,AL,East South Central,South,Region III,FRANKLIN,City,False,,34.441989,-87.842814
+AL0340000,Geneva County Sheriff's Office,279,AL,East South Central,South,Region III,GENEVA,County,True,2020-01-01T00:00:00.000Z,31.092392,-85.821011
+AL0340100,Geneva Police Department,280,AL,East South Central,South,Region III,GENEVA,City,True,2020-01-01T00:00:00.000Z,31.092392,-85.821011
+AL0340200,Samson Police Department,281,AL,East South Central,South,Region III,GENEVA,City,True,2020-01-01T00:00:00.000Z,31.092392,-85.821011
+AL0340300,Hartford Police Department,282,AL,East South Central,South,Region III,GENEVA,City,True,2020-11-01T00:00:00.000Z,31.092392,-85.821011
+AL0340400,Slocomb Police Department,283,AL,East South Central,South,Region III,GENEVA,City,True,2020-01-01T00:00:00.000Z,31.092392,-85.821011
+AL0350000,Greene County Sheriff's Office,285,AL,East South Central,South,Region III,GREENE,County,True,2021-01-01T00:00:00.000Z,32.844497,-87.9642
+AL0350100,Eutaw Police Department,286,AL,East South Central,South,Region III,GREENE,City,True,2021-05-01T00:00:00.000Z,32.844497,-87.9642
+AL0350200,Forkland Police Department,287,AL,East South Central,South,Region III,GREENE,City,True,2021-06-01T00:00:00.000Z,32.844497,-87.9642
+AL0360000,Hale County Sheriff's Office,288,AL,East South Central,South,Region III,HALE,County,False,,32.752796,-87.623061
+AL0360100,Greensboro Police Department,289,AL,East South Central,South,Region III,HALE,City,True,2020-08-01T00:00:00.000Z,32.7041,-87.59217
+AL0360200,Moundville Police Department,290,AL,East South Central,South,Region III,"HALE, TUSCALOOSA",City,False,,32.752796,-87.623061
+AL0370000,Henry County Sheriff's Office,291,AL,East South Central,South,Region III,HENRY,County,True,2020-01-01T00:00:00.000Z,31.516978,-85.239971
+AL0370100,Abbeville Police Department,292,AL,East South Central,South,Region III,HENRY,City,True,2020-01-01T00:00:00.000Z,31.516978,-85.239971
+AL0370200,Headland Police Department,293,AL,East South Central,South,Region III,HENRY,City,True,2020-01-01T00:00:00.000Z,31.35161,-85.34198
+AL0370300,Newville Police Department,294,AL,East South Central,South,Region III,HENRY,City,True,2022-11-01T00:00:00.000Z,31.516978,-85.239971
+AL0380000,Houston County Sheriff's Office,295,AL,East South Central,South,Region III,HOUSTON,County,True,2006-01-01T00:00:00.000Z,31.224411,-85.393456
+AL0380100,Dothan Police Department,296,AL,East South Central,South,Region III,"DALE, HENRY, HOUSTON",City,True,2017-05-01T00:00:00.000Z,31.225441,-85.3914
+AL0380200,Ashford Police Department,297,AL,East South Central,South,Region III,HOUSTON,City,True,2020-01-01T00:00:00.000Z,31.158193,-85.296398
+AL0380300,Gordon Police Department,298,AL,East South Central,South,Region III,HOUSTON,City,True,2021-03-01T00:00:00.000Z,31.14179,-85.096176
+AL0380400,Columbia Police Department,299,AL,East South Central,South,Region III,HOUSTON,City,True,2020-01-01T00:00:00.000Z,31.158193,-85.296398
+AL0380500,Cottonwood Police Department,300,AL,East South Central,South,Region III,HOUSTON,City,True,2021-01-01T00:00:00.000Z,31.158193,-85.296398
+AL0380600,Kinsey Police Department,301,AL,East South Central,South,Region III,HOUSTON,City,True,2021-08-01T00:00:00.000Z,31.298319,-85.344284
+AL0380700,Dothan-Houston County Airport Authority,31134,AL,East South Central,South,Region III,HOUSTON,Other,True,2021-02-01T00:00:00.000Z,,
+AL0380800,Wallace Community College: Dothan,302,AL,East South Central,South,Region III,HOUSTON,University or College,False,,31.158193,-85.296398
+AL0380900,Taylor Police Department,303,AL,East South Central,South,Region III,"GENEVA, HOUSTON",City,True,2020-01-01T00:00:00.000Z,31.160837,-85.46916
+AL0381000,Webb Police Department,304,AL,East South Central,South,Region III,HOUSTON,City,False,,31.158193,-85.296398
+AL0390000,Jackson County Sheriff's Office,305,AL,East South Central,South,Region III,JACKSON,County,True,2022-05-01T00:00:00.000Z,34.67283,-86.03464
+AL0390100,Scottsboro Police Department,306,AL,East South Central,South,Region III,JACKSON,City,False,,34.66247,-86.035
+AL0390200,Bridgeport Police Department,307,AL,East South Central,South,Region III,JACKSON,City,True,2020-01-01T00:00:00.000Z,34.764095,-85.979956
+AL0390300,Stevenson Police Department,308,AL,East South Central,South,Region III,JACKSON,City,True,2021-01-01T00:00:00.000Z,34.867935,-85.837616
+AL0390400,Hollywood Police Department,309,AL,East South Central,South,Region III,JACKSON,City,True,2010-06-01T00:00:00.000Z,34.764095,-85.979956
+AL0390500,Pisgah Police Department,310,AL,East South Central,South,Region III,JACKSON,City,True,2021-01-01T00:00:00.000Z,34.764095,-85.979956
+AL0390700,Section Police Department,312,AL,East South Central,South,Region III,JACKSON,City,False,,34.764095,-85.979956
+AL0390800,Woodville Police Department,313,AL,East South Central,South,Region III,JACKSON,City,False,,34.764095,-85.979956
+AL0390900,Skyline Police Department,314,AL,East South Central,South,Region III,JACKSON,City,True,2021-01-01T00:00:00.000Z,34.764095,-85.979956
+AL0400000,Lamar County Sheriff's Office,315,AL,East South Central,South,Region III,LAMAR,County,True,2020-01-01T00:00:00.000Z,33.787085,-88.087431
+AL0400100,Sulligent Police Department,316,AL,East South Central,South,Region III,LAMAR,City,True,2020-01-01T00:00:00.000Z,33.787085,-88.087431
+AL0400200,Vernon Police Department,317,AL,East South Central,South,Region III,LAMAR,City,True,2020-01-01T00:00:00.000Z,33.787085,-88.087431
+AL0400400,Millport Police Department,319,AL,East South Central,South,Region III,LAMAR,City,True,2020-02-01T00:00:00.000Z,33.787085,-88.087431
+AL0410000,Lauderdale County Sheriff's Office,320,AL,East South Central,South,Region III,LAUDERDALE,County,True,2020-12-01T00:00:00.000Z,34.904122,-87.650997
+AL0410100,Florence Police Department,321,AL,East South Central,South,Region III,LAUDERDALE,City,True,2021-01-01T00:00:00.000Z,34.904122,-87.650997
+AL0410300,Anderson Police Department,323,AL,East South Central,South,Region III,LAUDERDALE,City,False,,34.904122,-87.650997
+AL0410400,St. Florian Police Department,324,AL,East South Central,South,Region III,LAUDERDALE,City,True,2021-01-01T00:00:00.000Z,34.904122,-87.650997
+AL0410500,Lexington Police Department,325,AL,East South Central,South,Region III,LAUDERDALE,City,True,2020-01-01T00:00:00.000Z,34.904122,-87.650997
+AL0410600,Rogersville Police Department,326,AL,East South Central,South,Region III,LAUDERDALE,City,True,2021-01-01T00:00:00.000Z,34.904122,-87.650997
+AL0410700,Killen Police Department,327,AL,East South Central,South,Region III,LAUDERDALE,City,True,2020-01-01T00:00:00.000Z,34.904122,-87.650997
+AL0410800,University of North Alabama,328,AL,East South Central,South,Region III,LAUDERDALE,University or College,True,2020-01-01T00:00:00.000Z,34.904122,-87.650997
+AL0420000,Lawrence County Sheriff's Office,329,AL,East South Central,South,Region III,LAWRENCE,County,True,2021-01-01T00:00:00.000Z,34.51096,-87.2851
+AL0420100,Moulton Police Department,330,AL,East South Central,South,Region III,LAWRENCE,City,True,2021-02-01T00:00:00.000Z,34.48087,-87.29011
+AL0420200,Town Creek Police Department,331,AL,East South Central,South,Region III,LAWRENCE,City,True,2020-01-01T00:00:00.000Z,34.529776,-87.321865
+AL0420300,Courtland Police Department,332,AL,East South Central,South,Region III,LAWRENCE,City,True,2021-01-01T00:00:00.000Z,34.529776,-87.321865
+AL0420400,Hillsboro Police Department,333,AL,East South Central,South,Region III,LAWRENCE,City,True,2022-01-01T00:00:00.000Z,34.529776,-87.321865
+AL0420500,North Courtland Police Department,334,AL,East South Central,South,Region III,LAWRENCE,City,True,2021-07-01T00:00:00.000Z,34.529776,-87.321865
+AL0420600,Lawrence County Drug and Violent Crime Task Force,23108,AL,East South Central,South,Region III,LAWRENCE,Other,False,,34.51096,-87.2851
+AL0430000,Lee County Sheriff's Office,335,AL,East South Central,South,Region III,LEE,County,True,2012-04-01T00:00:00.000Z,32.604064,-85.353048
+AL0430100,Auburn Police Department,336,AL,East South Central,South,Region III,LEE,City,True,2020-12-01T00:00:00.000Z,32.608086,-85.475136
+AL0430200,Opelika Police Department,337,AL,East South Central,South,Region III,LEE,City,True,2021-01-01T00:00:00.000Z,32.604064,-85.353048
+AL0440000,Limestone County Sheriff's Office,339,AL,East South Central,South,Region III,LIMESTONE,County,False,,34.81945,-86.96882
+AL0440100,Athens Police Department,340,AL,East South Central,South,Region III,LIMESTONE,City,True,2013-11-01T00:00:00.000Z,34.803825,-86.95889
+AL0440200,Ardmore Police Department,341,AL,East South Central,South,Region III,LIMESTONE,City,True,2021-01-01T00:00:00.000Z,34.810239,-86.981399
+AL0440300,Elkmont Police Department,342,AL,East South Central,South,Region III,LIMESTONE,City,False,,34.810239,-86.981399
+AL0450000,Lowndes County Sheriff's Office,343,AL,East South Central,South,Region III,LOWNDES,County,True,2020-01-01T00:00:00.000Z,32.147888,-86.650586
+AL0450100,Fort Deposit Police Department,344,AL,East South Central,South,Region III,LOWNDES,City,True,2020-01-01T00:00:00.000Z,32.147888,-86.650586
+AL0450200,Hayneville Police Department,345,AL,East South Central,South,Region III,LOWNDES,City,True,2020-01-01T00:00:00.000Z,32.147888,-86.650586
+AL0450500,White Hall Police Department,22501,AL,East South Central,South,Region III,LOWNDES,City,True,2021-01-01T00:00:00.000Z,32.147888,-86.650586
+AL0460000,Macon County Sheriff's Office,348,AL,East South Central,South,Region III,MACON,County,True,2021-01-01T00:00:00.000Z,32.40025,-85.63693
+AL0460100,Tuskegee Police Department,349,AL,East South Central,South,Region III,MACON,City,True,2020-01-01T00:00:00.000Z,32.436695,-85.69221
+AL0460200,Notasulga Police Department,350,AL,East South Central,South,Region III,"LEE, MACON",City,True,2021-01-01T00:00:00.000Z,32.387027,-85.692887
+AL0460400,Franklin,27631,AL,East South Central,South,Region III,MACON,City,True,2021-01-01T00:00:00.000Z,,
+AL0460600,Shorter Police Department,351,AL,East South Central,South,Region III,MACON,City,True,2022-01-01T00:00:00.000Z,32.387027,-85.692887
+AL0460700,Tuskegee University,23115,AL,East South Central,South,Region III,MACON,University or College,True,2020-11-01T00:00:00.000Z,32.387027,-85.692887
+AL0470000,Madison County Sheriff's Office,352,AL,East South Central,South,Region III,MADISON,County,True,2022-05-01T00:00:00.000Z,34.730453,-86.58588
+AL0470100,Huntsville Police Department,353,AL,East South Central,South,Region III,"LIMESTONE, MADISON",City,True,2021-01-01T00:00:00.000Z,34.764238,-86.55108
+AL0470200,Madison Police Department,354,AL,East South Central,South,Region III,"LIMESTONE, MADISON",City,False,2023-01-01T00:00:00.000Z,34.6994,-86.74227
+AL0470300,Gurley Police Department,355,AL,East South Central,South,Region III,MADISON,City,True,2021-02-01T00:00:00.000Z,34.764238,-86.55108
+AL0470400,New Hope Police Department,356,AL,East South Central,South,Region III,MADISON,City,True,2020-01-01T00:00:00.000Z,34.764238,-86.55108
+AL0470500,Owens Crossroads Police Department,357,AL,East South Central,South,Region III,MADISON,City,True,2020-01-01T00:00:00.000Z,34.764238,-86.55108
+AL0470600,Triana Police Department,358,AL,East South Central,South,Region III,MADISON,City,True,2020-01-01T00:00:00.000Z,34.583607,-86.73393
+AL0470700,University of Alabama: Huntsville,359,AL,East South Central,South,Region III,MADISON,University or College,True,2013-02-01T00:00:00.000Z,34.72357,-86.64402
+AL0470800,Alabama A&M University,360,AL,East South Central,South,Region III,MADISON,University or College,True,2020-01-01T00:00:00.000Z,34.764238,-86.55108
+AL0470900,Huntsville International Airport,361,AL,East South Central,South,Region III,MADISON,Other,True,2021-01-01T00:00:00.000Z,34.764238,-86.55108
+AL0480000,Marengo County Sheriff's Office,363,AL,East South Central,South,Region III,MARENGO,County,True,2021-01-01T00:00:00.000Z,32.247591,-87.791091
+AL0480100,Demopolis Police Department,364,AL,East South Central,South,Region III,MARENGO,City,True,2020-12-01T00:00:00.000Z,32.247591,-87.791091
+AL0480200,Linden Police Department,365,AL,East South Central,South,Region III,MARENGO,City,True,2020-01-01T00:00:00.000Z,32.247591,-87.791091
+AL0480300,Thomaston Police Department,366,AL,East South Central,South,Region III,MARENGO,City,True,2021-06-01T00:00:00.000Z,32.247591,-87.791091
+AL0480400,Faunsdale Police Department,367,AL,East South Central,South,Region III,MARENGO,City,False,,32.247591,-87.791091
+AL0480500,Myrtlewood Police Department,368,AL,East South Central,South,Region III,MARENGO,City,False,,32.247591,-87.791091
+AL0480600,Sweet Water Police Department,23045,AL,East South Central,South,Region III,MARENGO,City,True,2021-04-01T00:00:00.000Z,32.247591,-87.791091
+AL0480700,17th Judicial Circuit Drug Task Force,23128,AL,East South Central,South,Region III,MARENGO,Other,True,2021-02-01T00:00:00.000Z,32.247591,-87.791091
+AL0490000,Marion County Sheriff's Office,369,AL,East South Central,South,Region III,MARION,County,True,2020-01-01T00:00:00.000Z,34.138219,-87.881551
+AL0490100,Hamilton Police Department,370,AL,East South Central,South,Region III,MARION,City,True,2020-01-01T00:00:00.000Z,34.138219,-87.881551
+AL049015A,District Attorney:,33661,AL,East South Central,South,Region III,MARION,Other,True,2021-03-01T00:00:00.000Z,,
+AL0490200,Winfield Police Department,371,AL,East South Central,South,Region III,"FAYETTE, MARION",City,True,2020-01-01T00:00:00.000Z,34.138219,-87.881551
+AL0490300,Guin Police Department,372,AL,East South Central,South,Region III,MARION,City,True,2020-01-01T00:00:00.000Z,34.138219,-87.881551
+AL0490400,Hackleburg Police Department,373,AL,East South Central,South,Region III,MARION,City,True,2020-01-01T00:00:00.000Z,34.138219,-87.881551
+AL0490500,Brilliant Police Department,374,AL,East South Central,South,Region III,MARION,City,True,2020-01-01T00:00:00.000Z,34.138219,-87.881551
+AL0490700,Bear Creek Police Department,376,AL,East South Central,South,Region III,MARION,City,True,2021-01-01T00:00:00.000Z,34.138219,-87.881551
+AL0490800,Marion County Drug Task Force,23198,AL,East South Central,South,Region III,MARION,Other,False,,,
+AL0500000,Marshall County Sheriff's Office,377,AL,East South Central,South,Region III,MARSHALL,County,True,2010-02-01T00:00:00.000Z,34.3587,-86.29298
+AL0500100,Albertville Police Department,378,AL,East South Central,South,Region III,MARSHALL,City,True,2022-09-01T00:00:00.000Z,34.309564,-86.321668
+AL0500200,Guntersville Police Department,379,AL,East South Central,South,Region III,MARSHALL,City,True,2006-01-01T00:00:00.000Z,34.36029,-86.29187
+AL0500300,Arab Police Department,380,AL,East South Central,South,Region III,"CULLMAN, MARSHALL",City,True,2020-01-01T00:00:00.000Z,34.32761,-86.4977
+AL0500400,Boaz Police Department,381,AL,East South Central,South,Region III,"ETOWAH, MARSHALL",City,False,,34.1956,-86.16411
+AL0500500,Grant Police Department,382,AL,East South Central,South,Region III,MARSHALL,City,True,2020-12-01T00:00:00.000Z,34.309564,-86.321668
+AL0500600,Douglas Police Department,383,AL,East South Central,South,Region III,MARSHALL,City,True,2020-01-01T00:00:00.000Z,34.309564,-86.321668
+AL0500800,Marshall County Drug Enforcement Unit,384,AL,East South Central,South,Region III,MARSHALL,Other,True,2021-06-01T00:00:00.000Z,34.309564,-86.321668
+AL0510000,Monroe County Sheriff's Office,385,AL,East South Central,South,Region III,MONROE,County,True,2020-01-01T00:00:00.000Z,31.580332,-87.383266
+AL0510100,Monroeville Police Department,386,AL,East South Central,South,Region III,MONROE,City,True,2021-02-01T00:00:00.000Z,31.580332,-87.383266
+AL0510200,Frisco City Police Department,387,AL,East South Central,South,Region III,MONROE,City,True,2021-01-01T00:00:00.000Z,31.580332,-87.383266
+AL0510400,Excel Police Department,389,AL,East South Central,South,Region III,MONROE,City,True,2020-01-01T00:00:00.000Z,31.580332,-87.383266
+AL0520000,Morgan County Sheriff's Office,390,AL,East South Central,South,Region III,MORGAN,County,False,,34.454484,-86.846402
+AL0520100,Decatur Police Department,391,AL,East South Central,South,Region III,"LIMESTONE, MORGAN",City,True,2021-01-01T00:00:00.000Z,34.454484,-86.846402
+AL052015A,District Attorney:,34161,AL,East South Central,South,Region III,MORGAN,Other,False,,,
+AL0520200,Hartselle Police Department,392,AL,East South Central,South,Region III,MORGAN,City,True,2022-01-01T00:00:00.000Z,34.442818,-86.940285
+AL0520400,Falkville Police Department,393,AL,East South Central,South,Region III,MORGAN,City,False,,34.454484,-86.846402
+AL0520600,Somerville Police Department,395,AL,East South Central,South,Region III,MORGAN,City,True,2020-01-01T00:00:00.000Z,34.454484,-86.846402
+AL0520700,Trinity Police Department,396,AL,East South Central,South,Region III,"LAWRENCE, MORGAN",City,True,2020-01-01T00:00:00.000Z,34.610783,-87.08653
+AL0520900,Priceville Police Department,397,AL,East South Central,South,Region III,MORGAN,City,True,2020-01-01T00:00:00.000Z,34.5353,-86.90332
+AL052119E,Calhoun Community College,398,AL,East South Central,South,Region III,MORGAN,University or College,False,2021-02-01T00:00:00.000Z,,
+AL0530000,Perry County Sheriff's Office,399,AL,East South Central,South,Region III,PERRY,County,True,2021-05-01T00:00:00.000Z,32.639005,-87.293827
+AL0530100,Marion Police Department,400,AL,East South Central,South,Region III,PERRY,City,True,2021-01-01T00:00:00.000Z,32.639005,-87.293827
+AL0530200,Uniontown Police Department,401,AL,East South Central,South,Region III,PERRY,City,True,2021-01-01T00:00:00.000Z,32.639005,-87.293827
+AL0540000,Pickens County Sheriff's Office,402,AL,East South Central,South,Region III,PICKENS,County,True,2020-01-01T00:00:00.000Z,33.296808,-88.096878
+AL0540100,Aliceville Police Department,403,AL,East South Central,South,Region III,PICKENS,City,True,2021-01-01T00:00:00.000Z,33.129322,-88.15072
+AL054015A,District Attorney:,34163,AL,East South Central,South,Region III,PICKENS,Other,True,2012-10-01T00:00:00.000Z,,
+AL0540200,Gordo Police Department,404,AL,East South Central,South,Region III,PICKENS,City,True,2020-01-01T00:00:00.000Z,33.296808,-88.096878
+AL0540300,Reform Police Department,405,AL,East South Central,South,Region III,PICKENS,City,True,2021-01-01T00:00:00.000Z,33.296808,-88.096878
+AL0540400,Carrollton Police Department,406,AL,East South Central,South,Region III,PICKENS,City,True,2020-01-01T00:00:00.000Z,33.296808,-88.096878
+AL0540500,Pickensville Police Department,407,AL,East South Central,South,Region III,PICKENS,City,True,2021-08-01T00:00:00.000Z,33.296808,-88.096878
+AL0540700,24th Judicial Circuit Drug and Violent Crime Task Force,408,AL,East South Central,South,Region III,PICKENS,Other,False,,33.296808,-88.096878
+AL0550000,Pike County Sheriff's Office,409,AL,East South Central,South,Region III,PIKE,County,True,2021-08-01T00:00:00.000Z,31.80726,-85.972015
+AL0550100,Troy Police Department,410,AL,East South Central,South,Region III,PIKE,City,True,2016-03-01T00:00:00.000Z,31.798651,-85.941604
+AL0550200,Brundidge Police Department,411,AL,East South Central,South,Region III,PIKE,City,True,2021-06-01T00:00:00.000Z,31.72041,-85.81567
+AL0550300,Troy University,412,AL,East South Central,South,Region III,PIKE,University or College,True,2020-01-01T00:00:00.000Z,31.798651,-85.941604
+AL0560000,Randolph County Sheriff's Office,413,AL,East South Central,South,Region III,RANDOLPH,County,True,2021-01-01T00:00:00.000Z,33.296475,-85.464068
+AL0560100,Roanoke Police Department,414,AL,East South Central,South,Region III,RANDOLPH,City,False,,33.150887,-85.37395
+AL0560200,Wadley Police Department,415,AL,East South Central,South,Region III,RANDOLPH,City,True,2020-01-01T00:00:00.000Z,33.296475,-85.464068
+AL0560300,Wedowee Police Department,416,AL,East South Central,South,Region III,RANDOLPH,City,True,2020-01-01T00:00:00.000Z,33.296475,-85.464068
+AL0560400,Southern Union State Community College,23290,AL,East South Central,South,Region III,RANDOLPH,University or College,True,2022-01-01T00:00:00.000Z,33.296475,-85.464068
+AL0560500,5th Judicial Circuit Narcotics Unit,23097,AL,East South Central,South,Region III,RANDOLPH,Other,False,,33.296475,-85.464068
+AL0570000,Russell County Sheriff's Office,417,AL,East South Central,South,Region III,RUSSELL,County,True,2021-02-01T00:00:00.000Z,32.289811,-85.18698
+AL0570100,Phenix City Police Department,418,AL,East South Central,South,Region III,"LEE, RUSSELL",City,True,2021-01-01T00:00:00.000Z,32.46812,-85.00083
+AL0580000,St. Clair County Sheriff's Office,420,AL,East South Central,South,Region III,ST CLAIR,County,True,2016-06-01T00:00:00.000Z,33.712963,-86.315663
+AL0580100,Pell City Police Department,421,AL,East South Central,South,Region III,ST CLAIR,City,True,2006-01-01T00:00:00.000Z,33.712963,-86.315663
+AL0580200,Ashville Police Department,422,AL,East South Central,South,Region III,ST CLAIR,City,True,2020-01-01T00:00:00.000Z,33.712963,-86.315663
+AL0580300,Ragland Police Department,423,AL,East South Central,South,Region III,ST CLAIR,City,True,2021-01-01T00:00:00.000Z,33.699944,-86.25525
+AL0580400,Springville Police Department,424,AL,East South Central,South,Region III,ST CLAIR,City,True,2007-08-01T00:00:00.000Z,33.712963,-86.315663
+AL0580500,Odenville Police Department,425,AL,East South Central,South,Region III,ST CLAIR,City,True,2021-01-01T00:00:00.000Z,33.712963,-86.315663
+AL0580600,Moody Police Department,426,AL,East South Central,South,Region III,ST CLAIR,City,True,2020-02-01T00:00:00.000Z,33.712963,-86.315663
+AL0580700,Riverside Police Department,427,AL,East South Central,South,Region III,ST CLAIR,City,True,2020-08-01T00:00:00.000Z,33.712963,-86.315663
+AL0580800,Margaret Police Department,428,AL,East South Central,South,Region III,ST CLAIR,City,True,2020-01-01T00:00:00.000Z,33.712963,-86.315663
+AL0580900,Steele Police Department,429,AL,East South Central,South,Region III,ST CLAIR,City,True,2021-06-01T00:00:00.000Z,33.712963,-86.315663
+AL0581200,Argo Police Department,431,AL,East South Central,South,Region III,"JEFFERSON, ST CLAIR",City,True,2020-01-01T00:00:00.000Z,33.68995,-86.50901
+AL0590000,Shelby County Sheriff's Office,432,AL,East South Central,South,Region III,SHELBY,County,True,2018-01-01T00:00:00.000Z,33.262937,-86.678104
+AL0590100,Calera Police Department,433,AL,East South Central,South,Region III,"CHILTON, SHELBY",City,True,2022-03-01T00:00:00.000Z,33.262937,-86.678104
+AL0590200,Columbiana Police Department,434,AL,East South Central,South,Region III,SHELBY,City,True,2006-01-01T00:00:00.000Z,33.177193,-86.60668
+AL0590300,Montevallo Police Department,435,AL,East South Central,South,Region III,SHELBY,City,True,2020-01-01T00:00:00.000Z,33.099293,-86.86463
+AL0590400,Alabaster Police Department,436,AL,East South Central,South,Region III,SHELBY,City,True,2020-08-01T00:00:00.000Z,33.24704,-86.81563
+AL0590600,Pelham Police Department,438,AL,East South Central,South,Region III,SHELBY,City,True,2021-01-01T00:00:00.000Z,33.262937,-86.678104
+AL0590700,Helena Police Department,439,AL,East South Central,South,Region III,"JEFFERSON, SHELBY",City,True,2007-03-01T00:00:00.000Z,33.262937,-86.678104
+AL0590900,Harpersville Police Department,441,AL,East South Central,South,Region III,SHELBY,City,True,2020-01-01T00:00:00.000Z,33.262937,-86.678104
+AL0591100,University of Montevallo,443,AL,East South Central,South,Region III,SHELBY,University or College,True,2020-01-01T00:00:00.000Z,33.262937,-86.678104
+AL0600000,Sumter County Sheriff's Office,444,AL,East South Central,South,Region III,SUMTER,County,True,2020-01-01T00:00:00.000Z,32.597481,-88.200057
+AL0600100,York Police Department,445,AL,East South Central,South,Region III,SUMTER,City,True,2021-03-01T00:00:00.000Z,32.597481,-88.200057
+AL0600200,Livingston Police Department,446,AL,East South Central,South,Region III,SUMTER,City,True,2009-01-01T00:00:00.000Z,32.597481,-88.200057
+AL0600300,Cuba Police Department,447,AL,East South Central,South,Region III,SUMTER,City,True,2022-10-01T00:00:00.000Z,32.597481,-88.200057
+AL0600500,University of West Alabama,449,AL,East South Central,South,Region III,SUMTER,University or College,True,2021-08-01T00:00:00.000Z,32.597481,-88.200057
+AL0610000,Talladega County Sheriff's Office,450,AL,East South Central,South,Region III,TALLADEGA,County,True,2020-11-01T00:00:00.000Z,33.369277,-86.175805
+AL0610100,Sylacauga Police Department,451,AL,East South Central,South,Region III,TALLADEGA,City,True,2019-05-01T00:00:00.000Z,33.369277,-86.175805
+AL0610200,Talladega Police Department,452,AL,East South Central,South,Region III,TALLADEGA,City,True,2006-01-01T00:00:00.000Z,33.369277,-86.175805
+AL0610300,Childersburg Police Department,453,AL,East South Central,South,Region III,TALLADEGA,City,True,2009-10-01T00:00:00.000Z,33.278336,-86.35341
+AL0610400,Lincoln Police Department,454,AL,East South Central,South,Region III,TALLADEGA,City,True,2013-12-01T00:00:00.000Z,33.369277,-86.175805
+AL0611200,Munford Police Department,23199,AL,East South Central,South,Region III,TALLADEGA,City,False,,33.369277,-86.175805
+AL0620000,Tallapoosa County Sheriff's Office,457,AL,East South Central,South,Region III,TALLAPOOSA,County,True,2020-01-01T00:00:00.000Z,32.814243,-85.77444
+AL0620100,Alexander City Police Department,458,AL,East South Central,South,Region III,TALLAPOOSA,City,True,2007-05-01T00:00:00.000Z,32.863369,-85.799553
+AL0620200,Dadeville Police Department,459,AL,East South Central,South,Region III,TALLAPOOSA,City,True,2020-01-01T00:00:00.000Z,32.829388,-85.76364
+AL0620300,Camp Hill Police Department,460,AL,East South Central,South,Region III,TALLAPOOSA,City,True,2020-01-01T00:00:00.000Z,32.863369,-85.799553
+AL0620600,New Site Police Department,463,AL,East South Central,South,Region III,TALLAPOOSA,City,True,2020-01-01T00:00:00.000Z,32.863369,-85.799553
+AL0620700,Jacksons Gap Police Department,464,AL,East South Central,South,Region III,TALLAPOOSA,City,True,2021-01-01T00:00:00.000Z,32.863369,-85.799553
+AL0620800,Central Alabama Community College,34165,AL,East South Central,South,Region III,TALLAPOOSA,University or College,True,2022-09-01T00:00:00.000Z,,
+AL0630000,Tuscaloosa County Sheriff's Office,465,AL,East South Central,South,Region III,TUSCALOOSA,County,False,,33.290202,-87.52286
+AL0630100,Tuscaloosa Police Department,466,AL,East South Central,South,Region III,TUSCALOOSA,City,True,2021-09-01T00:00:00.000Z,33.173267,-87.55792
+AL0630200,Northport Police Department,467,AL,East South Central,South,Region III,TUSCALOOSA,City,True,2017-10-01T00:00:00.000Z,33.290202,-87.52286
+AL0630300,University of Alabama: Tuscaloosa,468,AL,East South Central,South,Region III,TUSCALOOSA,University or College,True,2021-01-01T00:00:00.000Z,33.290202,-87.52286
+AL0630500,Bryce State Hospital,469,AL,East South Central,South,Region III,TUSCALOOSA,Other State Agency,False,,33.290202,-87.52286
+AL0630700,Vance Police Department,470,AL,East South Central,South,Region III,"BIBB, TUSCALOOSA",City,True,2020-12-01T00:00:00.000Z,33.290202,-87.52286
+AL0630800,Brookwood Police Department,25302,AL,East South Central,South,Region III,TUSCALOOSA,City,True,2020-01-01T00:00:00.000Z,33.290202,-87.52286
+AL0631100,Lake View Police Department,471,AL,East South Central,South,Region III,"JEFFERSON, TUSCALOOSA",City,True,2021-01-01T00:00:00.000Z,33.290202,-87.52286
+AL0631400,Coaling Police Department,23215,AL,East South Central,South,Region III,TUSCALOOSA,City,True,2020-01-01T00:00:00.000Z,33.290202,-87.52286
+AL0640000,Walker County Sheriff's Office,472,AL,East South Central,South,Region III,WALKER,County,True,2020-01-01T00:00:00.000Z,33.832783,-87.276886
+AL0640100,Jasper Police Department,473,AL,East South Central,South,Region III,WALKER,City,True,2006-01-01T00:00:00.000Z,33.835384,-87.27464
+AL0640200,Carbon Hill Police Department,474,AL,East South Central,South,Region III,WALKER,City,True,2020-01-01T00:00:00.000Z,33.791558,-87.301094
+AL0640300,Cordova Police Department,475,AL,East South Central,South,Region III,WALKER,City,True,2021-06-01T00:00:00.000Z,33.791558,-87.301094
+AL0640400,Dora Police Department,476,AL,East South Central,South,Region III,WALKER,City,True,2020-01-01T00:00:00.000Z,33.738365,-87.08069
+AL0640500,Sumiton Police Department,477,AL,East South Central,South,Region III,"JEFFERSON, WALKER",City,True,2021-01-01T00:00:00.000Z,33.791558,-87.301094
+AL0640600,Parrish Police Department,478,AL,East South Central,South,Region III,WALKER,City,True,2020-07-01T00:00:00.000Z,33.791558,-87.301094
+AL0640700,Oakman Police Department,479,AL,East South Central,South,Region III,WALKER,City,False,,33.791558,-87.301094
+AL0641100,Bevill State Community College,23122,AL,East South Central,South,Region III,WALKER,University or College,False,,33.791558,-87.301094
+AL0650000,Washington County Sheriff's Office,482,AL,East South Central,South,Region III,WASHINGTON,County,True,2020-01-01T00:00:00.000Z,31.405217,-88.197564
+AL0650100,McIntosh Police Department,483,AL,East South Central,South,Region III,WASHINGTON,City,True,2020-01-01T00:00:00.000Z,31.405217,-88.197564
+AL0650200,Millry Police Department,484,AL,East South Central,South,Region III,WASHINGTON,City,True,2021-01-01T00:00:00.000Z,31.405217,-88.197564
+AL0650300,Chatom Police Department,485,AL,East South Central,South,Region III,WASHINGTON,City,True,2021-01-01T00:00:00.000Z,31.405217,-88.197564
+AL0660000,Wilcox County Sheriff's Office,486,AL,East South Central,South,Region III,WILCOX,County,True,2022-10-01T00:00:00.000Z,31.990372,-87.302216
+AL0660100,Camden Police Department,487,AL,East South Central,South,Region III,WILCOX,City,True,2021-05-01T00:00:00.000Z,31.990372,-87.302216
+AL0660200,Pine Hill Police Department,488,AL,East South Central,South,Region III,WILCOX,City,True,2021-01-01T00:00:00.000Z,31.990372,-87.302216
+AL0670000,Winston County Sheriff's Office,489,AL,East South Central,South,Region III,WINSTON,County,True,2020-01-01T00:00:00.000Z,34.155888,-87.364147
+AL0670100,Double Springs Police Department,490,AL,East South Central,South,Region III,WINSTON,City,True,2020-01-01T00:00:00.000Z,34.155888,-87.364147
+AL0670200,Haleyville Police Department,491,AL,East South Central,South,Region III,"MARION, WINSTON",City,True,2006-01-01T00:00:00.000Z,34.155888,-87.364147
+AL0670300,Addison Police Department,492,AL,East South Central,South,Region III,WINSTON,City,True,2020-01-01T00:00:00.000Z,34.155888,-87.364147
+AL0670400,Arley Police Department,493,AL,East South Central,South,Region III,WINSTON,City,True,2020-01-01T00:00:00.000Z,34.155888,-87.364147
+AL0670500,Lynn Police Department,494,AL,East South Central,South,Region III,WINSTON,City,True,2020-01-01T00:00:00.000Z,34.155888,-87.364147
+ALDI00300,Poarch Creek Tribal,496,AL,East South Central,South,Region III,NOT SPECIFIED,Tribal,False,,31.121747,-87.168429
+ALDPS0000,Alabama Highway Patrol Department of Public Safety Headquarters ,34179,AL,East South Central,South,Region III,NOT SPECIFIED,State Police,True,2021-12-01T00:00:00.000Z,,
+ALLEA0000,Alabama Law Enforcement Agency,29374,AL,East South Central,South,Region III,NOT SPECIFIED,Other State Agency,True,2021-01-01T00:00:00.000Z,,
+ALSBI0000,Alabama Law Enforcement Agency:,34177,AL,East South Central,South,Region III,NOT SPECIFIED,Other State Agency,True,2017-01-01T00:00:00.000Z,,

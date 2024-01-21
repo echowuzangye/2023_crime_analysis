@@ -1,0 +1,1486 @@
+ori,agency_name,agency_id,state_abbr,division_name,region_name,region_desc,county_name,agency_type_name,nibrs,nibrs_start_date,latitude,longitude
+PA0010000,Adams County Sheriff's Office,15651,PA,Middle Atlantic,Northeast,Region I,ADAMS,County,False,,39.869471,-77.21773
+PA0010100,Gettysburg Police Department,15652,PA,Middle Atlantic,Northeast,Region I,ADAMS,City,False,,39.82856,-77.22967
+PA0010200,Littlestown Police Department,15653,PA,Middle Atlantic,Northeast,Region I,ADAMS,City,False,,39.74472,-77.08819
+PA0010300,"Conewago Township Police Department, Adams County",15654,PA,Middle Atlantic,Northeast,Region I,ADAMS,City,False,,39.820812,-77.024734
+PA0010400,McSherrystown Police Department,15655,PA,Middle Atlantic,Northeast,Region I,ADAMS,City,False,,39.803707,-77.0196
+PA0010500,"Cumberland Township Police Department, Adams County",15656,PA,Middle Atlantic,Northeast,Region I,ADAMS,City,False,,39.824284,-77.26153
+PA0010800,East Berlin Police Department,15659,PA,Middle Atlantic,Northeast,Region I,ADAMS,City,False,,39.940853,-76.97856
+PA0011200,"Liberty Township Police Department, Adams County",15661,PA,Middle Atlantic,Northeast,Region I,ADAMS,City,True,2020-01-01T00:00:00.000Z,,
+PA0011300,Reading Township Police Department,25296,PA,Middle Atlantic,Northeast,Region I,ADAMS,City,False,,39.869471,-77.21773
+PA0011500,Biglerville Police Department,15662,PA,Middle Atlantic,Northeast,Region I,ADAMS,City,True,2013-05-01T00:00:00.000Z,39.9297,-77.24541
+PA0011600,Bonneauville Police Department,23237,PA,Middle Atlantic,Northeast,Region I,ADAMS,City,False,2023-01-01T00:00:00.000Z,39.83099,-77.2258
+PA0011800,Eastern Adams Regional Police Department,15663,PA,Middle Atlantic,Northeast,Region I,ADAMS,City,False,,39.869471,-77.21773
+PA0012100,Bendersville Police Department,15664,PA,Middle Atlantic,Northeast,Region I,ADAMS,City,False,2014-02-01T00:00:00.000Z,39.869471,-77.21773
+PA0012300,Carroll Valley Police Department,15666,PA,Middle Atlantic,Northeast,Region I,ADAMS,City,True,2013-03-01T00:00:00.000Z,39.761406,-77.38079
+PA0012400,Latimore Township Police Department,15667,PA,Middle Atlantic,Northeast,Region I,ADAMS,City,False,,39.869471,-77.21773
+PA0012500,Abbottstown,34188,PA,Middle Atlantic,Northeast,Region I,ADAMS,City,False,,,
+PA001BF0X,Bureau of Forestry: ,34224,PA,Middle Atlantic,Northeast,Region I,ADAMS,Other State Agency,False,,,
+PA001DE0X,Office of Attorney General Region 2: ,34544,PA,Middle Atlantic,Northeast,Region I,ADAMS,Other State Agency,False,,,
+PA001SP00,State Police: Adams County,15670,PA,Middle Atlantic,Northeast,Region I,ADAMS,State Police,True,2021-01-01T00:00:00.000Z,39.899014,-77.18467
+PA0020000,Allegheny County Sheriff's Office,15671,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,County,False,,40.438858,-79.99721
+PA0020100,Baldwin Borough Police Department,15672,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.38374,-79.95641
+PA0020200,Bellevue Police Department,15673,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,True,2021-01-01T00:00:00.000Z,40.49667,-80.05548
+PA0020300,Bethel Park Police Department,15674,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.338436,-80.02606
+PA0020400,Brentwood Police Department,15675,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,True,2021-05-01T00:00:00.000Z,40.46892,-79.98092
+PA0020500,Carnegie Police Department,15676,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.46892,-79.98092
+PA0020600,Clairton Police Department,15677,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.294918,-79.893585
+PA0020700,Coraopolis Police Department,15678,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.517418,-80.1642
+PA0020800,Dormont Police Department,15679,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.394184,-80.03744
+PA0020900,Duquesne Police Department,15680,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.372986,-79.84691
+PA0020A00,Baldwin Township Police Department,15681,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.380028,-80.0186
+PA0020B00,Collier Township Police Department,15682,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.390457,-80.11641
+PA0020D00,Elizabeth Township Police Department,15684,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.272415,-79.82319
+PA0020E00,Harrison Township Police Department,15685,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.46892,-79.98092
+PA0020F00,Kennedy Township Police Department,15686,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.46892,-79.98092
+PA0020G00,Reserve Township Police Department,15687,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.4741,-79.98341
+PA0020J00,South Fayette Township Police Department,15689,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.46892,-79.98092
+PA0020K00,White Oak Police Department,15690,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.33169,-79.80091
+PA0020L00,Wilkins Township Police Department,15691,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.418255,-79.828865
+PA0020P00,Fawn Township Police Department,15694,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.46892,-79.98092
+PA0020R00,Findlay Township Police Department,15695,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.46892,-79.98092
+PA0020S00,Forward Township Police Department,15696,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.22815,-79.8596
+PA0020T00,Harmar Township Police Department,15697,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.54088,-79.81971
+PA0020V00,Indiana Township Police Department,15698,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.46892,-79.98092
+PA0020Y00,North Fayette Township Police Department,15701,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,True,2022-06-01T00:00:00.000Z,40.4189,-80.206696
+PA0020Z00,O'Hara Township Police Department,15702,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.499187,-79.88365
+PA0021000,Forest Hills Police Department,15703,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.42033,-79.85066
+PA0021100,Green Tree Police Department,15704,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.418137,-80.047165
+PA0021200,Homestead Police Department,15705,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.46892,-79.98092
+PA0021300,McKeesport Police Department,15706,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.35134,-79.86673
+PA0021400,McKees Rocks Police Department,15707,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.465424,-80.0578
+PA0021500,Millvale Police Department,15708,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.48109,-79.9733
+PA0021600,Monroeville Police Department,15709,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.46892,-79.98092
+PA0021700,Mount Lebanon Police Department,15710,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,True,2021-05-01T00:00:00.000Z,40.38361,-80.04376
+PA0021800,Oakmont Police Department,15711,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.522564,-79.83878
+PA0021900,Penn Hills Police Department,15712,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.472584,-79.8198
+PA0021A00,Ohio Township Police Department,15713,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.554462,-80.10813
+PA0021B00,Northern Regional Police Department,15714,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.661926,-80.033226
+PA0021D00,West Deer Township Police Department,15716,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.46892,-79.98092
+PA0021E00,South Park Township Police Department,15717,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.46892,-79.98092
+PA0021H00,Crescent Township Police Department,15719,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.552197,-80.23415
+PA0021I00,Leet Township Police Department,15720,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.46892,-79.98092
+PA0021J00,Allegheny County Housing Authority,15721,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,Other,False,,40.46892,-79.98092
+PA0021N00,University of Pittsburgh: Pittsburgh,15722,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,University or College,False,,40.46892,-79.98092
+PA0021P00,Pennsylvania State University: McKeesport,15723,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,University or College,False,,40.34745,-79.82562
+PA0021U00,Allegheny Valley Regional,29354,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,True,2021-05-01T00:00:00.000Z,,
+PA0022100,Pleasant Hills Police Department,15727,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.330894,-79.95193
+PA0022200,Ross Township Police Department,15728,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,True,2020-12-01T00:00:00.000Z,40.441044,-79.87974
+PA0022300,Sewickley Police Department,15729,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.53823,-80.18025
+PA0022400,Sewickley Heights Police Department,15730,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,True,2022-10-01T00:00:00.000Z,40.46892,-79.98092
+PA0022500,Upper St. Clair Township Police Department,15731,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.332848,-80.07071
+PA0022600,Whitehall Police Department,15732,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.46892,-79.98092
+PA0022700,Wilkinsburg Police Department,15733,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.46892,-79.98092
+PA0022800,Allegheny County Police Department,15734,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,County,True,2021-05-01T00:00:00.000Z,40.491882,-79.89781
+PA0022900,Avalon Police Department,15735,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.50118,-80.06761
+PA0022A00,Frazer Township Police Department,15736,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.46892,-79.98092
+PA0022D00,Allegheny County Port Authority,15737,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,Other,False,,40.441807,-79.99865
+PA0022H9E,Chatham University,34220,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,University or College,False,,,
+PA0023000,Braddock Police Department,15738,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.40406,-79.869
+PA0023100,Edgewood Police Department,15739,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.434032,-79.88377
+PA0023200,Glassport Police Department,15740,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.32891,-79.89254
+PA0023300,Hampton Township Police Department,15741,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.46892,-79.98092
+PA0023400,McCandless Police Department,15742,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.59145,-80.0203
+PA0023500,Moon Township Police Department,15743,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.5054,-80.20747
+PA0023600,Munhall Police Department,15744,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.399357,-79.904495
+PA0023800,North Braddock Police Department,15745,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.402435,-79.861435
+PA0023900,North Versailles Township Police Department,15746,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,True,2022-04-01T00:00:00.000Z,40.386143,-79.82114
+PA0024000,"Robinson Township Police Department, Allegheny County",15747,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.4432,-80.147255
+PA0024100,"Scott Township Police Department, Allegheny County",15748,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,2021-06-01T00:00:00.000Z,40.387287,-80.08466
+PA0024200,Shaler Township Police Department,15749,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,True,2020-12-01T00:00:00.000Z,40.523933,-79.9689
+PA0024300,Stowe Township Police Department,15750,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.46892,-79.98092
+PA0024400,Swissvale Police Department,15751,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.420383,-79.88455
+PA0024500,Turtle Creek Police Department,15752,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.40485,-79.82496
+PA0024600,West Homestead Police Department,15753,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.408844,-79.905815
+PA0024700,West Mifflin Police Department,15754,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,True,2021-06-01T00:00:00.000Z,40.384403,-79.87857
+PA0024800,Aspinwall Police Department,15755,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.49024,-79.90448
+PA0024900,Bell Acres Police Department,15756,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.584003,-80.17451
+PA0025200,Blawnox Police Department,15759,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.494316,-79.86006
+PA0025300,Brackenridge Police Department,15760,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.604836,-79.73938
+PA0025400,Braddock Hills Police Department,15761,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.46892,-79.98092
+PA0025600,Bridgeville Police Department,15763,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.359585,-80.11072
+PA0025700,Castle Shannon Police Department,15764,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.366737,-80.00908
+PA0026000,Churchill Police Department,15767,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.445885,-79.85342
+PA0026100,Crafton Police Department,15768,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.43431,-80.066605
+PA0026300,East McKeesport Police Department,15770,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.383835,-79.80702
+PA0026500,Edgeworth Police Department,15772,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.542282,-80.18318
+PA0026600,Elizabeth Police Department,15773,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.46892,-79.98092
+PA0026800,Etna Police Department,15775,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,True,2021-05-01T00:00:00.000Z,40.498848,-79.94385
+PA0026900,Fox Chapel Police Department,15776,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.514153,-79.879074
+PA0027000,Franklin Park Police Department,15777,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.581707,-80.07932
+PA0027300,Heidelberg Police Department,15778,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.393024,-80.08791
+PA0027400,Ingram Police Department,15779,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.44577,-80.06719
+PA0027500,Jefferson Hills Borough Police Department,15780,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,True,2022-02-01T00:00:00.000Z,40.299496,-79.938126
+PA0027600,Leetsdale Police Department,15781,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.46892,-79.98092
+PA0027700,Liberty Police Department,15782,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.325478,-79.856544
+PA0027800,Lincoln Police Department,15783,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.306805,-79.85632
+PA0027900,Mount Oliver Police Department,15784,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.416286,-79.98702
+PA0028000,Oakdale Police Department,15785,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.39336,-80.19605
+PA0028300,Pitcairn Police Department,15787,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.46892,-79.98092
+PA0028500,Plum Police Department,15788,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.504036,-79.7621
+PA0028600,Port Vue Police Department,15789,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.340553,-79.8701
+PA0028700,Rankin Police Department,15790,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.46892,-79.98092
+PA0029000,Sharpsburg Police Department,15792,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,True,2021-05-01T00:00:00.000Z,40.494663,-79.925026
+PA0029100,Springdale Police Department,15793,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.46892,-79.98092
+PA0029200,Tarentum Police Department,15794,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.46892,-79.98092
+PA0029400,Verona Police Department,15796,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.505585,-79.84425
+PA0029500,Versailles Police Department,15797,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.46892,-79.98092
+PA0029800,West View Police Department,15800,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.51976,-80.032555
+PA0029900,Whitaker Borough Police Department,15801,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.46892,-79.98092
+PA0029A9E,Duquesne University,30774,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,University or College,False,,,
+PA0029D9E,Carlow University,34216,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,University or College,False,,,
+PA0029K9E,Point Park University,34418,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,University or College,False,,,
+PA002A500,Allegheny County Community College,34196,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,University or College,False,,,
+PA002A600,State Park Rangers: Point,25585,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,Other State Agency,False,,,
+PA002BF0X,Bureau of Forestry: ,34226,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,Other State Agency,False,,,
+PA002DE0X,Office of Attorney General Region 3: ,34594,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,Other State Agency,False,,,
+PA002SP00,State Police: Allegheny County,15804,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,State Police,True,2021-01-01T00:00:00.000Z,40.47954,-80.19274
+PA0030100,Apollo Police Department,15806,PA,Middle Atlantic,Northeast,Region I,ARMSTRONG,City,False,,40.81238,-79.464129
+PA0030200,Ford City Police Department,15807,PA,Middle Atlantic,Northeast,Region I,ARMSTRONG,City,False,,40.81238,-79.464129
+PA0030300,Freeport Police Department,15808,PA,Middle Atlantic,Northeast,Region I,ARMSTRONG,City,False,,40.67245,-79.68616
+PA0030400,Kittanning Police Department,15809,PA,Middle Atlantic,Northeast,Region I,ARMSTRONG,City,False,,40.81238,-79.464129
+PA0030500,Leechburg Police Department,15810,PA,Middle Atlantic,Northeast,Region I,ARMSTRONG,City,False,,40.81238,-79.464129
+PA0030800,Kiskiminetas Township Police Department,15811,PA,Middle Atlantic,Northeast,Region I,ARMSTRONG,City,False,,40.81238,-79.464129
+PA0031000,Parks Township Police Department,15813,PA,Middle Atlantic,Northeast,Region I,ARMSTRONG,City,False,,40.607243,-79.56114
+PA0031100,Rural Valley Police Department,15814,PA,Middle Atlantic,Northeast,Region I,ARMSTRONG,City,False,,40.81238,-79.464129
+PA0031200,South Buffalo Township Police Department,15815,PA,Middle Atlantic,Northeast,Region I,ARMSTRONG,City,False,,40.723885,-79.66639
+PA0031300,Gilpin Township Police Department,15816,PA,Middle Atlantic,Northeast,Region I,ARMSTRONG,City,False,,40.66138,-79.60648
+PA0031400,"Manor Township Police Department, Armstrong County",15817,PA,Middle Atlantic,Northeast,Region I,ARMSTRONG,City,False,,,
+PA0031500,North Buffalo  Police Department,15818,PA,Middle Atlantic,Northeast,Region I,ARMSTRONG,City,False,,40.78153,-79.59134
+PA0032000,West Kittanning Police Department,15820,PA,Middle Atlantic,Northeast,Region I,ARMSTRONG,City,False,,40.810535,-79.53007
+PA0032200,East Franklin Township Police Department,15822,PA,Middle Atlantic,Northeast,Region I,ARMSTRONG,City,False,,40.81238,-79.464129
+PA0032300,Parker Police Department,15823,PA,Middle Atlantic,Northeast,Region I,ARMSTRONG,City,False,,40.81238,-79.464129
+PA0032500,Worthington Police Department,15824,PA,Middle Atlantic,Northeast,Region I,ARMSTRONG,City,False,,40.81238,-79.464129
+PA0032800,Elderton Police Department,23500,PA,Middle Atlantic,Northeast,Region I,ARMSTRONG,City,False,,40.81238,-79.464129
+PA003BF0X,Bureau of Forestry: ,34228,PA,Middle Atlantic,Northeast,Region I,ARMSTRONG,Other State Agency,False,,,
+PA003DE0X,Office of Attorney General Region 3: ,34596,PA,Middle Atlantic,Northeast,Region I,ARMSTRONG,Other State Agency,False,,,
+PA003SP00,State Police: Armstrong County,15827,PA,Middle Atlantic,Northeast,Region I,ARMSTRONG,State Police,True,2021-01-01T00:00:00.000Z,40.81238,-79.464129
+PA0040000,Beaver County Sheriff's Office,15828,PA,Middle Atlantic,Northeast,Region I,BEAVER,County,False,,40.68414,-80.350721
+PA0040100,Aliquippa Police Department,15829,PA,Middle Atlantic,Northeast,Region I,BEAVER,City,False,,40.61835,-80.24516
+PA0040200,Ambridge Police Department,15830,PA,Middle Atlantic,Northeast,Region I,BEAVER,City,False,,40.59379,-80.22646
+PA0040300,County Detective: Beaver County,15831,PA,Middle Atlantic,Northeast,Region I,BEAVER,Other,False,,40.68414,-80.350721
+PA0040400,Beaver Police Department,15832,PA,Middle Atlantic,Northeast,Region I,BEAVER,City,False,,40.68414,-80.350721
+PA0040500,Beaver Falls Police Department,15833,PA,Middle Atlantic,Northeast,Region I,BEAVER,City,False,,40.739536,-80.32918
+PA0040600,Midland Police Department,15834,PA,Middle Atlantic,Northeast,Region I,BEAVER,City,False,,40.635365,-80.45076
+PA0040700,Rochester Police Department,15835,PA,Middle Atlantic,Northeast,Region I,BEAVER,City,False,,40.68414,-80.350721
+PA0040800,Baden Police Department,15836,PA,Middle Atlantic,Northeast,Region I,BEAVER,City,False,,40.629482,-80.22644
+PA0040900,Brighton Township Police Department,15837,PA,Middle Atlantic,Northeast,Region I,BEAVER,City,False,,40.704678,-80.36225
+PA0041100,Economy Police Department,15838,PA,Middle Atlantic,Northeast,Region I,BEAVER,City,True,2013-10-01T00:00:00.000Z,40.63489,-80.228485
+PA0041300,Harmony Township Police Department,15840,PA,Middle Atlantic,Northeast,Region I,BEAVER,City,False,,40.610424,-80.21733
+PA0041400,Hopewell Township Police Department,15841,PA,Middle Atlantic,Northeast,Region I,BEAVER,City,False,,40.593746,-80.26315
+PA0041500,Monaca Police Department,15842,PA,Middle Atlantic,Northeast,Region I,BEAVER,City,False,,40.69141,-80.2804
+PA0041600,New Brighton Police Department,15843,PA,Middle Atlantic,Northeast,Region I,BEAVER,City,False,,40.73693,-80.31609
+PA0041700,North Sewickley Township Police Department,15844,PA,Middle Atlantic,Northeast,Region I,BEAVER,City,False,,40.796394,-80.29049
+PA0041800,Center Township Police Department,15845,PA,Middle Atlantic,Northeast,Region I,BEAVER,City,False,,40.649357,-80.299614
+PA0041900,Chippewa Township Police Department,15846,PA,Middle Atlantic,Northeast,Region I,BEAVER,City,False,,40.781433,-80.39576
+PA0042000,Conway Police Department,15847,PA,Middle Atlantic,Northeast,Region I,BEAVER,City,False,,40.661144,-80.2375
+PA0042300,"Independence Township Police Department, Beaver County",15849,PA,Middle Atlantic,Northeast,Region I,BEAVER,City,False,,40.54471,-80.328354
+PA0042500,Patterson Township Police Department,15851,PA,Middle Atlantic,Northeast,Region I,BEAVER,City,False,,40.747253,-80.33189
+PA0042800,Raccoon Township Police Department,15853,PA,Middle Atlantic,Northeast,Region I,BEAVER,City,False,,40.68414,-80.350721
+PA0042900,Rochester Township Police Department,15854,PA,Middle Atlantic,Northeast,Region I,BEAVER,City,False,,40.68414,-80.350721
+PA0043200,Bridgewater Police Department,15856,PA,Middle Atlantic,Northeast,Region I,BEAVER,City,False,,40.69927,-80.293976
+PA0043300,Koppel Police Department,15857,PA,Middle Atlantic,Northeast,Region I,BEAVER,City,False,,40.68414,-80.350721
+PA0043600,"Franklin Township Police Department, Beaver County",15860,PA,Middle Atlantic,Northeast,Region I,BEAVER,City,False,,40.834927,-80.20601
+PA0043800,New Sewickley Township Police Department,15861,PA,Middle Atlantic,Northeast,Region I,BEAVER,City,False,,40.72601,-80.19059
+PA0043900,South Beaver Township Police Department,15862,PA,Middle Atlantic,Northeast,Region I,BEAVER,City,False,,40.71663,-80.45427
+PA0044400,"Marion Township Police Department, Beaver County",15865,PA,Middle Atlantic,Northeast,Region I,BEAVER,City,False,,40.780945,-80.20104
+PA0044900,South Heights Police Department,15867,PA,Middle Atlantic,Northeast,Region I,BEAVER,City,False,,40.68414,-80.350721
+PA0045100,Shippingport Police Department,15869,PA,Middle Atlantic,Northeast,Region I,BEAVER,City,False,,40.68414,-80.350721
+PA0045200,Ohioville Police Department,15870,PA,Middle Atlantic,Northeast,Region I,BEAVER,City,False,,40.69307,-80.4665
+PA0045300,Pennsylvania State University: Beaver,15871,PA,Middle Atlantic,Northeast,Region I,BEAVER,University or College,False,,40.679165,-80.29114
+PA0045400,Darlington Township Police Department,15872,PA,Middle Atlantic,Northeast,Region I,BEAVER,City,False,,40.80766,-80.43752
+PA0045600,State Park Rangers: Raccoon Creek,23287,PA,Middle Atlantic,Northeast,Region I,BEAVER,Other State Agency,False,,40.50291,-80.42408
+PA004BF0X,Bureau of Forestry: ,34230,PA,Middle Atlantic,Northeast,Region I,BEAVER,Other State Agency,False,,,
+PA004DE0X,Office of Attorney General Region 3: ,34598,PA,Middle Atlantic,Northeast,Region I,BEAVER,Other State Agency,False,,,
+PA004SP00,State Police: Beaver County,15876,PA,Middle Atlantic,Northeast,Region I,BEAVER,State Police,True,2021-01-01T00:00:00.000Z,40.7081,-80.36424
+PA0050000,Bedford County Sheriff's Office,15877,PA,Middle Atlantic,Northeast,Region I,BEDFORD,County,False,,40.01729,-78.50371
+PA0050100,Bedford Police Department,15878,PA,Middle Atlantic,Northeast,Region I,BEDFORD,City,False,,40.017296,-78.50657
+PA0050200,Everett Police Department,15879,PA,Middle Atlantic,Northeast,Region I,BEDFORD,City,False,,39.99862,-78.494751
+PA0050400,Saxton Police Department,15881,PA,Middle Atlantic,Northeast,Region I,BEDFORD,City,True,2018-01-01T00:00:00.000Z,39.99862,-78.494751
+PA0050900,State Park Rangers: Blue Knob,25371,PA,Middle Atlantic,Northeast,Region I,BEDFORD,Other State Agency,False,,39.99862,-78.494751
+PA0051000,State Park Rangers: Shawnee,25372,PA,Middle Atlantic,Northeast,Region I,BEDFORD,Other State Agency,False,,39.99862,-78.494751
+PA005BF0X,Bureau of Forestry: ,34232,PA,Middle Atlantic,Northeast,Region I,BEDFORD,Other State Agency,False,,,
+PA005DE0X,Office of Attorney General Region 3: ,34600,PA,Middle Atlantic,Northeast,Region I,BEDFORD,Other State Agency,False,,,
+PA005SP00,State Police: Bedford County,15886,PA,Middle Atlantic,Northeast,Region I,BEDFORD,State Police,True,2021-01-01T00:00:00.000Z,40.024338,-78.42955
+PA0060000,Berks County Sheriff's Office,15887,PA,Middle Atlantic,Northeast,Region I,BERKS,County,False,,40.336224,-75.92498
+PA0060100,Birdsboro Police Department,15888,PA,Middle Atlantic,Northeast,Region I,BERKS,City,False,,40.26186,-75.76721
+PA0060300,Cumru Township Police Department,15890,PA,Middle Atlantic,Northeast,Region I,BERKS,City,False,,40.278965,-75.9697
+PA0060400,"Exeter Township Police Department, Berks County",15891,PA,Middle Atlantic,Northeast,Region I,BERKS,City,False,,40.30446,-75.85355
+PA0060500,Fleetwood Police Department,15892,PA,Middle Atlantic,Northeast,Region I,BERKS,City,False,,40.413957,-75.92686
+PA0060600,Hamburg Police Department,15893,PA,Middle Atlantic,Northeast,Region I,BERKS,City,False,,40.55609,-75.98434
+PA0060800,Kutztown Police Department,15895,PA,Middle Atlantic,Northeast,Region I,BERKS,City,False,,40.520935,-75.77577
+PA0060900,Laureldale Police Department,15896,PA,Middle Atlantic,Northeast,Region I,BERKS,City,False,,40.387512,-75.92038
+PA0061100,Mohnton Police Department,15898,PA,Middle Atlantic,Northeast,Region I,BERKS,City,False,,40.413957,-75.92686
+PA0061300,Muhlenberg Township Police Department,15900,PA,Middle Atlantic,Northeast,Region I,BERKS,City,False,,40.41486,-75.924385
+PA0061400,Reading Police Department,15901,PA,Middle Atlantic,Northeast,Region I,BERKS,City,True,2022-08-01T00:00:00.000Z,40.33688,-75.92126
+PA0061600,Shillington Police Department,15903,PA,Middle Atlantic,Northeast,Region I,BERKS,City,False,,40.413957,-75.92686
+PA0061700,Sinking Spring Police Department,15904,PA,Middle Atlantic,Northeast,Region I,BERKS,City,False,,40.32524,-76.02203
+PA0061800,"Spring Township Police Department, Berks County",15905,PA,Middle Atlantic,Northeast,Region I,BERKS,City,False,,,
+PA0062100,West Reading Police Department,15908,PA,Middle Atlantic,Northeast,Region I,BERKS,City,False,,40.33355,-75.94796
+PA0062200,Wyomissing Police Department,15909,PA,Middle Atlantic,Northeast,Region I,BERKS,City,False,,40.335045,-75.95893
+PA0062400,"Caernarvon Township Police Department, Berks County",15911,PA,Middle Atlantic,Northeast,Region I,BERKS,City,False,,,
+PA0062800,Northern Berks Regional Police Department,15915,PA,Middle Atlantic,Northeast,Region I,BERKS,City,False,,40.413957,-75.92686
+PA0062900,Robeson Township Police Department,15916,PA,Middle Atlantic,Northeast,Region I,BERKS,City,False,,40.284084,-75.87083
+PA0063000,Bally Police Department,15917,PA,Middle Atlantic,Northeast,Region I,BERKS,City,False,,40.413957,-75.92686
+PA0063100,Bern Township Police Department,15918,PA,Middle Atlantic,Northeast,Region I,BERKS,City,False,,40.391823,-75.99295
+PA0063200,Bernville Police Department,15919,PA,Middle Atlantic,Northeast,Region I,BERKS,City,False,,40.413957,-75.92686
+PA0063400,"Douglass Township Police Department, Berks County",15920,PA,Middle Atlantic,Northeast,Region I,BERKS,City,False,,40.302307,-75.68893
+PA0063500,Central Berks Regional Police Department,15921,PA,Middle Atlantic,Northeast,Region I,BERKS,City,False,,40.327957,-75.89742
+PA0063600,Lower Heidelberg Township Police Department,15922,PA,Middle Atlantic,Northeast,Region I,BERKS,City,False,,40.413957,-75.92686
+PA0064200,"Bethel Township Police Department, Berks County",15928,PA,Middle Atlantic,Northeast,Region I,BERKS,City,False,,,
+PA0064300,"Brecknock Township Police Department, Berks County",15929,PA,Middle Atlantic,Northeast,Region I,BERKS,City,False,,40.221424,-75.96989
+PA0064700,South Heidelberg Township Police Department,15931,PA,Middle Atlantic,Northeast,Region I,BERKS,City,False,,40.413957,-75.92686
+PA0064900,County Detective: Berks County,15932,PA,Middle Atlantic,Northeast,Region I,BERKS,Other,False,,40.336224,-75.92498
+PA0065000,Amity Township Police Department,15933,PA,Middle Atlantic,Northeast,Region I,BERKS,City,False,,40.298866,-75.736664
+PA0065200,Womelsdorf Police Department,15934,PA,Middle Atlantic,Northeast,Region I,BERKS,City,False,,40.413957,-75.92686
+PA0065700,Kutztown University,15937,PA,Middle Atlantic,Northeast,Region I,BERKS,University or College,False,,40.413957,-75.92686
+PA0065900,Pennsylvania State University: Berks,15938,PA,Middle Atlantic,Northeast,Region I,BERKS,University or College,False,,40.413957,-75.92686
+PA0066000,Tulpehocken Township Police Department,15939,PA,Middle Atlantic,Northeast,Region I,BERKS,City,False,,40.413957,-75.92686
+PA0066200,Tilden Township Police Department,15940,PA,Middle Atlantic,Northeast,Region I,BERKS,City,False,,40.5381,-76.01978
+PA0066500,State Park Rangers: French Creek,23497,PA,Middle Atlantic,Northeast,Region I,BERKS,Other State Agency,False,,40.204876,-75.79139
+PA006679E,Albright University,34192,PA,Middle Atlantic,Northeast,Region I,BERKS,University or College,False,,,
+PA0067100,Eastern Berks Regional,34475,PA,Middle Atlantic,Northeast,Region I,BERKS,City,False,,,
+PA006BF0X,Bureau of Forestry: ,34234,PA,Middle Atlantic,Northeast,Region I,BERKS,Other State Agency,False,,,
+PA006DE0X,Office of Attorney General Region 1:,34504,PA,Middle Atlantic,Northeast,Region I,BERKS,Other State Agency,False,,,
+PA006SP00,State Police: Berks County,15943,PA,Middle Atlantic,Northeast,Region I,BERKS,State Police,True,2021-01-01T00:00:00.000Z,40.298645,-75.9473
+PA0070000,Blair County Sheriff's Office,15944,PA,Middle Atlantic,Northeast,Region I,BLAIR,County,False,,40.42974,-78.3929
+PA0070100,Altoona Police Department,15945,PA,Middle Atlantic,Northeast,Region I,BLAIR,City,False,,40.513184,-78.40563
+PA0070200,Hollidaysburg Police Department,15946,PA,Middle Atlantic,Northeast,Region I,BLAIR,City,False,,40.427757,-78.39209
+PA0070300,Logan Township Police Department,15947,PA,Middle Atlantic,Northeast,Region I,BLAIR,City,False,,40.497922,-78.310636
+PA0070400,Tyrone Police Department,15948,PA,Middle Atlantic,Northeast,Region I,BLAIR,City,False,,40.67215,-78.23919
+PA0070500,Bellwood Police Department,15949,PA,Middle Atlantic,Northeast,Region I,BLAIR,City,False,,40.497922,-78.310636
+PA0070600,Roaring Spring Police Department,15950,PA,Middle Atlantic,Northeast,Region I,BLAIR,City,False,,40.497922,-78.310636
+PA0070700,"Allegheny Township Police Department, Blair County",15951,PA,Middle Atlantic,Northeast,Region I,BLAIR,City,False,,40.445164,-78.43062
+PA0070800,Duncansville Police Department,15952,PA,Middle Atlantic,Northeast,Region I,BLAIR,City,False,,40.423798,-78.4321
+PA0070900,Martinsburg Police Department,15953,PA,Middle Atlantic,Northeast,Region I,BLAIR,City,False,,40.497922,-78.310636
+PA0071000,Williamsburg Police Department,15954,PA,Middle Atlantic,Northeast,Region I,BLAIR,City,False,,40.46079,-78.2003
+PA0071100,"Greenfield Township Police Department, Blair County",15955,PA,Middle Atlantic,Northeast,Region I,BLAIR,City,False,,,
+PA0071400,Pennsylvania State University: Altoona,15956,PA,Middle Atlantic,Northeast,Region I,BLAIR,University or College,False,,40.497922,-78.310636
+PA0071500,Blair Township Police Department,15957,PA,Middle Atlantic,Northeast,Region I,BLAIR,City,False,,40.497922,-78.310636
+PA0071700,North Woodbury Police Department,23044,PA,Middle Atlantic,Northeast,Region I,BLAIR,City,False,,40.497922,-78.310636
+PA0071800,Freedom Township Police Department,15959,PA,Middle Atlantic,Northeast,Region I,BLAIR,City,False,,40.36045,-78.43069
+PA0071900,State Park Rangers: Canoe Creek,25373,PA,Middle Atlantic,Northeast,Region I,BLAIR,Other State Agency,False,,40.497922,-78.310636
+PA0072000,Tyrone Area School District,15960,PA,Middle Atlantic,Northeast,Region I,BLAIR,Other,False,,40.497922,-78.310636
+PA007BF0X,Bureau of Forestry:,34238,PA,Middle Atlantic,Northeast,Region I,BLAIR,Other State Agency,False,,,
+PA007DE0X,Office of Attorney General Region 2: ,34546,PA,Middle Atlantic,Northeast,Region I,BLAIR,Other State Agency,False,,,
+PA007SP00,State Police: Blair County,15964,PA,Middle Atlantic,Northeast,Region I,BLAIR,State Police,True,2021-01-01T00:00:00.000Z,40.43484,-78.40553
+PA0080000,Bradford County Sheriff's Office,15965,PA,Middle Atlantic,Northeast,Region I,BRADFORD,County,False,,41.776455,-76.44356
+PA0080100,Athens Police Department,15966,PA,Middle Atlantic,Northeast,Region I,BRADFORD,City,False,,41.965977,-76.51614
+PA0080200,Canton Police Department,15967,PA,Middle Atlantic,Northeast,Region I,BRADFORD,City,False,,41.791495,-76.502124
+PA0080300,Sayre Police Department,15968,PA,Middle Atlantic,Northeast,Region I,BRADFORD,City,False,,41.980568,-76.51557
+PA0080400,Towanda Police Department,15969,PA,Middle Atlantic,Northeast,Region I,BRADFORD,City,False,,41.791495,-76.502124
+PA0080500,Troy Police Department,15970,PA,Middle Atlantic,Northeast,Region I,BRADFORD,City,False,,41.791495,-76.502124
+PA0080800,Athens Township Police Department,15972,PA,Middle Atlantic,Northeast,Region I,BRADFORD,City,False,,41.972282,-76.53677
+PA0082000,State Park Rangers: Mount Pisgah,25423,PA,Middle Atlantic,Northeast,Region I,BRADFORD,Other State Agency,False,,41.791495,-76.502124
+PA008BF0X,Bureau of Forestry:,34240,PA,Middle Atlantic,Northeast,Region I,BRADFORD,Other State Agency,False,,,
+PA008DE0X,Office of Attorney General Region 1: ,34506,PA,Middle Atlantic,Northeast,Region I,BRADFORD,Other State Agency,False,,,
+PA008SP00,State Police: Bradford County,15977,PA,Middle Atlantic,Northeast,Region I,BRADFORD,State Police,True,2021-01-01T00:00:00.000Z,41.791495,-76.502124
+PA0090000,Bucks County Sheriff's Office,15978,PA,Middle Atlantic,Northeast,Region I,BUCKS,County,False,,40.311745,-75.12978
+PA0090100,Bensalem Township Police Department,15979,PA,Middle Atlantic,Northeast,Region I,BUCKS,City,False,,40.110992,-74.945076
+PA0090200,Bristol Police Department,15980,PA,Middle Atlantic,Northeast,Region I,BUCKS,City,False,,40.0977,-74.857185
+PA0090300,Bristol Township Police Department,15981,PA,Middle Atlantic,Northeast,Region I,BUCKS,City,False,,40.124046,-74.86893
+PA0090500,"Falls Township Police Department, Bucks County",15983,PA,Middle Atlantic,Northeast,Region I,BUCKS,City,False,,40.18367,-74.85732
+PA0090700,Lower Makefield Township Police Department,15984,PA,Middle Atlantic,Northeast,Region I,BUCKS,City,False,,40.223843,-74.83964
+PA0090800,Lower Southampton Township Police Department,15985,PA,Middle Atlantic,Northeast,Region I,BUCKS,City,False,,40.15444,-74.99269
+PA0090900,Middletown Township Police Department,15986,PA,Middle Atlantic,Northeast,Region I,BUCKS,City,False,,40.336887,-75.10706
+PA0091000,Morrisville Police Department,15987,PA,Middle Atlantic,Northeast,Region I,BUCKS,City,False,,40.336887,-75.10706
+PA0091100,New Hope Police Department,15988,PA,Middle Atlantic,Northeast,Region I,BUCKS,City,False,,40.336887,-75.10706
+PA0091200,"Newtown Township Police Department, Bucks County",15989,PA,Middle Atlantic,Northeast,Region I,BUCKS,City,False,,40.25569,-74.9614
+PA0091300,Northampton Township Police Department,15990,PA,Middle Atlantic,Northeast,Region I,BUCKS,City,False,,40.21086,-75.00846
+PA0091400,Penndel Police Department,15991,PA,Middle Atlantic,Northeast,Region I,BUCKS,City,False,,40.156048,-74.911934
+PA0091500,Perkasie Police Department,15992,PA,Middle Atlantic,Northeast,Region I,BUCKS,City,False,,40.373386,-75.30139
+PA0091600,Quakertown Police Department,15993,PA,Middle Atlantic,Northeast,Region I,BUCKS,City,False,,40.336887,-75.10706
+PA0091700,Pennridge Regional Police Department,15994,PA,Middle Atlantic,Northeast,Region I,BUCKS,City,False,,40.361782,-75.33911
+PA0091800,Solebury Township Police Department,15995,PA,Middle Atlantic,Northeast,Region I,BUCKS,City,False,,40.336887,-75.10706
+PA0091900,Tullytown Police Department,15996,PA,Middle Atlantic,Northeast,Region I,BUCKS,City,False,,40.1421,-74.812096
+PA0092000,Upper Southampton Township Police Department,15997,PA,Middle Atlantic,Northeast,Region I,BUCKS,City,False,,40.17074,-75.03706
+PA0092100,Warminster Township Police Department,15998,PA,Middle Atlantic,Northeast,Region I,BUCKS,City,False,,40.20498,-75.10854
+PA0092200,Yardley Police Department,15999,PA,Middle Atlantic,Northeast,Region I,BUCKS,City,False,,40.24115,-74.8371
+PA0092300,Upper Makefield Township Police Department,16000,PA,Middle Atlantic,Northeast,Region I,BUCKS,City,False,2023-02-01T00:00:00.000Z,40.287224,-74.940186
+PA0092500,Hulmeville  Police Department,16001,PA,Middle Atlantic,Northeast,Region I,BUCKS,City,False,,40.151627,-75.009834
+PA0092700,Doylestown Township Police Department,16003,PA,Middle Atlantic,Northeast,Region I,BUCKS,City,False,,40.281742,-75.13471
+PA0092900,Hilltown Township Police Department,16005,PA,Middle Atlantic,Northeast,Region I,BUCKS,City,False,,40.336887,-75.10706
+PA0093000,State Park Rangers: Neshaminy,23236,PA,Middle Atlantic,Northeast,Region I,BUCKS,Other State Agency,False,,40.078186,-74.923645
+PA0093200,New Britain Township Police Department,16006,PA,Middle Atlantic,Northeast,Region I,BUCKS,City,False,,40.3,-75.20132
+PA0093300,State Park Rangers: Delaware Canal,23238,PA,Middle Atlantic,Northeast,Region I,BUCKS,Other State Agency,False,,40.550354,-75.085526
+PA0093500,"Springfield Township Police Department, Bucks County",16008,PA,Middle Atlantic,Northeast,Region I,BUCKS,City,False,,40.524467,-75.2902
+PA0093600,"Warwick Township Police Department, Bucks County",16009,PA,Middle Atlantic,Northeast,Region I,BUCKS,City,False,,,
+PA0094000,State Park Rangers: Nockamixon,23076,PA,Middle Atlantic,Northeast,Region I,BUCKS,Other State Agency,False,,40.464214,-75.24146
+PA0094100,Langhorne Manor  Police Department,16013,PA,Middle Atlantic,Northeast,Region I,BUCKS,City,False,,40.336887,-75.10706
+PA0094300,Plumstead Township Police Department,16015,PA,Middle Atlantic,Northeast,Region I,BUCKS,City,False,,40.336887,-75.10706
+PA0094500,Warrington Township Police Department,16017,PA,Middle Atlantic,Northeast,Region I,BUCKS,City,False,,40.238922,-75.13653
+PA0094700,Buckingham Township Police Department,16018,PA,Middle Atlantic,Northeast,Region I,BUCKS,City,False,,40.336887,-75.10706
+PA0094800,County Detective: Bucks County,16019,PA,Middle Atlantic,Northeast,Region I,BUCKS,Other,False,,40.311745,-75.12978
+PA0094900,State Park Rangers: Tyler,23245,PA,Middle Atlantic,Northeast,Region I,BUCKS,Other State Agency,False,,40.336887,-75.10706
+PA0095100,"Tinicum Township Police Department, Bucks County",16021,PA,Middle Atlantic,Northeast,Region I,BUCKS,City,False,,40.453526,-75.09476
+PA0095200,Ivyland Police Department,16022,PA,Middle Atlantic,Northeast,Region I,BUCKS,City,False,,40.207066,-75.074974
+PA0095300,Bedminster Township Police Department,16023,PA,Middle Atlantic,Northeast,Region I,BUCKS,City,False,,40.336887,-75.10706
+PA0095700,Dublin Borough Police Department,16024,PA,Middle Atlantic,Northeast,Region I,BUCKS,City,False,,40.370358,-75.204
+PA0096000,Newtown Police Department,16026,PA,Middle Atlantic,Northeast,Region I,BUCKS,City,False,,40.229507,-74.93538
+PA0096100,Langhorne Borough Police Department,16027,PA,Middle Atlantic,Northeast,Region I,BUCKS,City,False,,40.176228,-74.91976
+PA0096200,"Richland Township Police Department, Bucks County",16028,PA,Middle Atlantic,Northeast,Region I,BUCKS,City,False,,40.449738,-75.35334
+PA0096300,Central Bucks Regional Police Department,25374,PA,Middle Atlantic,Northeast,Region I,BUCKS,City,False,,,
+PA009BF0X,Bureau of Forestry:,34242,PA,Middle Atlantic,Northeast,Region I,BUCKS,Other State Agency,False,,,
+PA009DE0X,Office of Attorney General Region 1: ,34508,PA,Middle Atlantic,Northeast,Region I,BUCKS,Other State Agency,False,,,
+PA009SP00,State Police: Bucks County,16031,PA,Middle Atlantic,Northeast,Region I,BUCKS,State Police,True,2021-01-01T00:00:00.000Z,40.37623,-75.21089
+PA0100000,Butler County Sheriff's Office,16032,PA,Middle Atlantic,Northeast,Region I,BUTLER,County,False,,40.913834,-79.91896
+PA0100100,Butler Police Department,16033,PA,Middle Atlantic,Northeast,Region I,BUTLER,City,False,,40.86172,-79.89647
+PA0100200,"Butler Township Police Department, Butler County",16034,PA,Middle Atlantic,Northeast,Region I,BUTLER,City,False,,40.859936,-79.93951
+PA0100300,Slippery Rock Police Department,16035,PA,Middle Atlantic,Northeast,Region I,BUTLER,City,False,,41.063026,-80.06113
+PA0100400,Zelienople Police Department,16036,PA,Middle Atlantic,Northeast,Region I,BUTLER,City,False,,40.795723,-80.13738
+PA0100800,Mars Police Department,16040,PA,Middle Atlantic,Northeast,Region I,BUTLER,City,False,,40.913834,-79.91896
+PA0100900,"Middlesex Township Police Department, Butler County",16041,PA,Middle Atlantic,Northeast,Region I,BUTLER,City,False,,40.7126,-79.92743
+PA0101000,"Penn Township Police Department, Butler County",16042,PA,Middle Atlantic,Northeast,Region I,BUTLER,City,False,,40.780186,-79.93209
+PA0101100,Slippery Rock University,16043,PA,Middle Atlantic,Northeast,Region I,BUTLER,University or College,False,,41.058884,-80.04858
+PA0101200,Cranberry Township Police Department,16044,PA,Middle Atlantic,Northeast,Region I,BUTLER,City,True,2022-01-01T00:00:00.000Z,40.69898,-80.10609
+PA0101700,County Detective: Butler County,16045,PA,Middle Atlantic,Northeast,Region I,BUTLER,Other,False,,40.913834,-79.91896
+PA0101800,Buffalo Township Police Department,16046,PA,Middle Atlantic,Northeast,Region I,BUTLER,City,False,,40.706524,-79.72344
+PA0101900,Saxonburg Police Department,16047,PA,Middle Atlantic,Northeast,Region I,BUTLER,City,False,,40.750633,-79.81736
+PA0102200,"Jackson Township Police Department, Butler County",16048,PA,Middle Atlantic,Northeast,Region I,BUTLER,City,False,,40.79177,-80.10476
+PA0102300,Callery Police Department,23239,PA,Middle Atlantic,Northeast,Region I,BUTLER,City,False,,40.74023,-80.03733
+PA0102500,"Lancaster Township Police Department, Butler County",16049,PA,Middle Atlantic,Northeast,Region I,BUTLER,City,False,,,
+PA0102800,Portersville Police Department,23495,PA,Middle Atlantic,Northeast,Region I,BUTLER,City,False,,40.91134,-80.07414
+PA0102900,Harrisville Police Department,16050,PA,Middle Atlantic,Northeast,Region I,BUTLER,City,False,,40.913834,-79.91896
+PA0103000,Prospect Police Department,23503,PA,Middle Atlantic,Northeast,Region I,BUTLER,City,False,,40.90651,-80.042625
+PA0103300,"Adams Township Police Department, Butler County",16051,PA,Middle Atlantic,Northeast,Region I,BUTLER,City,False,,40.714787,-79.990135
+PA0103700,Butler County Community College,34206,PA,Middle Atlantic,Northeast,Region I,BUTLER,University or College,False,,,
+PA0103800,State Park Rangers: Moraine,25375,PA,Middle Atlantic,Northeast,Region I,BUTLER,Other State Agency,False,,40.913834,-79.91896
+PA0103900,State Park Rangers: Jennings Environmental Education Center,25376,PA,Middle Atlantic,Northeast,Region I,BUTLER,Other State Agency,False,,40.913834,-79.91896
+PA0104000,Evans City-Seven Fields Regional Police Department,25660,PA,Middle Atlantic,Northeast,Region I,BUTLER,City,False,,,
+PA010BF0X,Bureau of Forestry:,34248,PA,Middle Atlantic,Northeast,Region I,BUTLER,Other State Agency,False,,,
+PA010DE0X,Office of Attorney General Region 3: ,34602,PA,Middle Atlantic,Northeast,Region I,BUTLER,Other State Agency,False,,,
+PA010SP00,State Police: Butler County,16054,PA,Middle Atlantic,Northeast,Region I,BUTLER,State Police,True,2021-01-01T00:00:00.000Z,40.86474,-79.91555
+PA0110000,Cambria  County Sheriff's Office,16055,PA,Middle Atlantic,Northeast,Region I,CAMBRIA,County,False,,40.48423,-78.72496
+PA0110100,Northern Cambria Borough Police Department,16056,PA,Middle Atlantic,Northeast,Region I,CAMBRIA,City,False,,40.663837,-78.782425
+PA0110200,"Conemaugh Township Police Department, Cambria County",16057,PA,Middle Atlantic,Northeast,Region I,CAMBRIA,City,True,2022-01-01T00:00:00.000Z,40.32746,-78.88222
+PA0110300,Ebensburg Police Department,16058,PA,Middle Atlantic,Northeast,Region I,CAMBRIA,City,False,,40.48518,-78.72719
+PA0110400,Johnstown Police Department,16059,PA,Middle Atlantic,Northeast,Region I,CAMBRIA,City,False,,40.32745,-78.91878
+PA0110500,"Richland Township Police Department, Cambria County",16060,PA,Middle Atlantic,Northeast,Region I,CAMBRIA,City,False,,40.26905,-78.840324
+PA0110700,Cresson Police Department,16062,PA,Middle Atlantic,Northeast,Region I,CAMBRIA,City,False,,40.463924,-78.58856
+PA0110900,East Conemaugh Police Department,16064,PA,Middle Atlantic,Northeast,Region I,CAMBRIA,City,False,,40.346836,-78.88594
+PA0111000,Gallitzin Police Department,16065,PA,Middle Atlantic,Northeast,Region I,CAMBRIA,City,False,,40.482216,-78.55165
+PA0111100,Geistown Police Department,16066,PA,Middle Atlantic,Northeast,Region I,CAMBRIA,City,False,,40.497668,-78.711398
+PA0111200,Nanty Glo Police Department,16067,PA,Middle Atlantic,Northeast,Region I,CAMBRIA,City,False,,40.471565,-78.83482
+PA0111300,Patton Police Department,16068,PA,Middle Atlantic,Northeast,Region I,CAMBRIA,City,False,,40.497668,-78.711398
+PA0111400,Portage Police Department,16069,PA,Middle Atlantic,Northeast,Region I,CAMBRIA,City,False,,40.38573,-78.672966
+PA0111500,South Fork Police Department,16070,PA,Middle Atlantic,Northeast,Region I,CAMBRIA,City,False,,40.36567,-78.79145
+PA0111800,Upper Yoder Township Police Department,16073,PA,Middle Atlantic,Northeast,Region I,CAMBRIA,City,False,,40.304333,-78.93665
+PA0111900,Blacklick Township Police Department,16074,PA,Middle Atlantic,Northeast,Region I,CAMBRIA,City,False,,40.497668,-78.711398
+PA0112000,Cambria Township Police Department,16075,PA,Middle Atlantic,Northeast,Region I,CAMBRIA,City,False,,40.497668,-78.711398
+PA0112100,Carrolltown Police Department,16076,PA,Middle Atlantic,Northeast,Region I,CAMBRIA,City,False,,40.497668,-78.711398
+PA0112300,Cresson Township Police Department,16077,PA,Middle Atlantic,Northeast,Region I,CAMBRIA,City,False,,40.45644,-78.57315
+PA0112600,East Taylor Township Police Department,16078,PA,Middle Atlantic,Northeast,Region I,CAMBRIA,City,False,,40.398,-78.85356
+PA0112900,Ferndale Police Department,16080,PA,Middle Atlantic,Northeast,Region I,CAMBRIA,City,False,,40.497668,-78.711398
+PA0113100,Hastings Police Department,16082,PA,Middle Atlantic,Northeast,Region I,CAMBRIA,City,False,,40.497668,-78.711398
+PA0113200,"Jackson Township Police Department, Cambria County",16083,PA,Middle Atlantic,Northeast,Region I,CAMBRIA,City,False,,,
+PA0113500,Loretto Police Department,16085,PA,Middle Atlantic,Northeast,Region I,CAMBRIA,City,False,,40.497668,-78.711398
+PA0113700,Sankertown Police Department,16087,PA,Middle Atlantic,Northeast,Region I,CAMBRIA,City,False,,40.497668,-78.711398
+PA0114000,Stonycreek Township Police Department,16088,PA,Middle Atlantic,Northeast,Region I,CAMBRIA,City,False,,40.30336,-78.89009
+PA0114200,Summerhill Township Police Department,16089,PA,Middle Atlantic,Northeast,Region I,CAMBRIA,City,False,,40.497668,-78.711398
+PA0115100,Cambria County District Attorney's Office ,34244,PA,Middle Atlantic,Northeast,Region I,CAMBRIA,Other,False,,,
+PA0115200,"Adams Township Police Department, Cambria County",16095,PA,Middle Atlantic,Northeast,Region I,CAMBRIA,City,False,,,
+PA0115300,Croyle Township Police Department,16096,PA,Middle Atlantic,Northeast,Region I,CAMBRIA,City,False,,40.497668,-78.711398
+PA0115500,Ashville Police Department,16098,PA,Middle Atlantic,Northeast,Region I,CAMBRIA,City,False,,40.497668,-78.711398
+PA0115600,Vintondale Police Department,16099,PA,Middle Atlantic,Northeast,Region I,CAMBRIA,City,False,,40.497668,-78.711398
+PA0115800,Gallitzin Township Police Department,16100,PA,Middle Atlantic,Northeast,Region I,CAMBRIA,City,False,,40.497668,-78.711398
+PA0115900,West Hills Regional Police Department,16101,PA,Middle Atlantic,Northeast,Region I,CAMBRIA,City,False,,40.316593,-78.940544
+PA0116500,University of Pittsburgh: Johnstown,16106,PA,Middle Atlantic,Northeast,Region I,CAMBRIA,University or College,False,,40.270958,-78.83097
+PA0116800,State Park Rangers: Prince Gallitzin,16107,PA,Middle Atlantic,Northeast,Region I,CAMBRIA,Other State Agency,False,,40.65071,-78.55433
+PA0117100,Central Cambria School District,34218,PA,Middle Atlantic,Northeast,Region I,CAMBRIA,Other,False,,,
+PA011809E,Mount Aloysius University ,34416,PA,Middle Atlantic,Northeast,Region I,CAMBRIA,University or College,False,,,
+PA011BF0X,Bureau of Forestry: ,34250,PA,Middle Atlantic,Northeast,Region I,CAMBRIA,Other State Agency,False,,,
+PA011DE0X,Office of Attorney General Region 2: ,34548,PA,Middle Atlantic,Northeast,Region I,CAMBRIA,Other State Agency,False,,,
+PA011SP00,State Police: Cambria County,16110,PA,Middle Atlantic,Northeast,Region I,CAMBRIA,State Police,True,2021-01-01T00:00:00.000Z,40.461338,-78.7554
+PA0120100,Emporium Police Department,16112,PA,Middle Atlantic,Northeast,Region I,CAMERON,City,False,,41.511784,-78.237785
+PA0120300,State Park Rangers: Sizerville,25377,PA,Middle Atlantic,Northeast,Region I,CAMERON,Other State Agency,False,,41.438289,-78.198314
+PA0120500,State Park Rangers: Sinnemahoning,25378,PA,Middle Atlantic,Northeast,Region I,CAMERON,Other State Agency,False,,41.438289,-78.198314
+PA012BF0X,Bureau of Forestry: ,34252,PA,Middle Atlantic,Northeast,Region I,CAMERON,Other State Agency,False,,,
+PA012DE0X,Office of Attorney General Region 3: ,34604,PA,Middle Atlantic,Northeast,Region I,CAMERON,Other State Agency,False,,,
+PA012SP00,State Police: Cameron County,16115,PA,Middle Atlantic,Northeast,Region I,CAMERON,State Police,True,2021-01-01T00:00:00.000Z,41.438289,-78.198314
+PA0130000,Carbon County Sheriff's Office,16116,PA,Middle Atlantic,Northeast,Region I,CARBON,County,False,,40.918366,-75.705039
+PA0130200,Jim Thorpe Police Department,16117,PA,Middle Atlantic,Northeast,Region I,CARBON,City,False,,40.873787,-75.733925
+PA0130300,Lansford Police Department,16118,PA,Middle Atlantic,Northeast,Region I,CARBON,City,False,,40.918366,-75.705039
+PA0130400,Lehighton Police Department,16119,PA,Middle Atlantic,Northeast,Region I,CARBON,City,False,,40.918366,-75.705039
+PA0130500,Palmerton Police Department,16120,PA,Middle Atlantic,Northeast,Region I,CARBON,City,False,,40.80249,-75.60811
+PA0130600,Summit Hill Police Department,16121,PA,Middle Atlantic,Northeast,Region I,CARBON,City,False,,40.823647,-75.8702
+PA0130700,Weatherly Police Department,16122,PA,Middle Atlantic,Northeast,Region I,CARBON,City,False,,40.940556,-75.82907
+PA0130800,"Franklin Township Police Department, Carbon County",16123,PA,Middle Atlantic,Northeast,Region I,CARBON,City,False,,40.842754,-75.68838
+PA0130900,Kidder Township Police Department,16124,PA,Middle Atlantic,Northeast,Region I,CARBON,City,False,,40.918366,-75.705039
+PA0131000,"Mahoning Township Police Department, Carbon County",16125,PA,Middle Atlantic,Northeast,Region I,CARBON,City,False,,40.811848,-75.77388
+PA0131100,Nesquehoning Police Department,16126,PA,Middle Atlantic,Northeast,Region I,CARBON,City,False,,40.86352,-75.813286
+PA0131200,Beaver Meadows Police Department,16127,PA,Middle Atlantic,Northeast,Region I,CARBON,City,False,,40.92819,-75.910736
+PA0131600,Weissport Police Department,16129,PA,Middle Atlantic,Northeast,Region I,CARBON,City,False,,40.8311,-75.693245
+PA0132000,State Park Rangers: Beltzville,23272,PA,Middle Atlantic,Northeast,Region I,CARBON,Other State Agency,False,,40.918366,-75.705039
+PA0132100,State Park Rangers: Hickory Run,25297,PA,Middle Atlantic,Northeast,Region I,CARBON,Other State Agency,False,,40.918366,-75.705039
+PA013BF0X,Bureau of Forestry:,34254,PA,Middle Atlantic,Northeast,Region I,CAMERON,Other State Agency,False,,,
+PA013DE0X,Office of Attorney General Region 1: ,34510,PA,Middle Atlantic,Northeast,Region I,CARBON,Other State Agency,False,,,
+PA013SP00,State Police: Carbon County,16132,PA,Middle Atlantic,Northeast,Region I,CARBON,State Police,True,2021-01-01T00:00:00.000Z,40.918366,-75.705039
+PA0140000,Centre County Sheriff's Office,16133,PA,Middle Atlantic,Northeast,Region I,CENTRE,County,False,,40.912617,-77.776276
+PA0140100,Bellefonte Police Department,16134,PA,Middle Atlantic,Northeast,Region I,CENTRE,City,False,,40.914574,-77.78143
+PA0140300,State College Police Department,16136,PA,Middle Atlantic,Northeast,Region I,CENTRE,City,False,,40.79319,-77.85999
+PA0140500,"Spring Township Police Department, Centre County",16138,PA,Middle Atlantic,Northeast,Region I,CENTRE,City,True,2022-04-01T00:00:00.000Z,40.898014,-77.75188
+PA0140700,Ferguson Township Police Department,16140,PA,Middle Atlantic,Northeast,Region I,CENTRE,City,False,,40.76666,-77.88017
+PA0140900,Patton Township Police Department,16142,PA,Middle Atlantic,Northeast,Region I,CENTRE,City,False,,40.809563,-77.90925
+PA0141100,Pennsylvania State University: University Park,16143,PA,Middle Atlantic,Northeast,Region I,CENTRE,University or College,False,,40.90916,-77.84783
+PA0141700,State Park Rangers: Black Moshannon,23269,PA,Middle Atlantic,Northeast,Region I,CENTRE,Other State Agency,False,,40.90916,-77.84783
+PA0141800,State Park Rangers: Bald Eagle,25379,PA,Middle Atlantic,Northeast,Region I,CENTRE,Other State Agency,False,,40.90916,-77.84783
+PA014BF0X,Bureau of Forestry:,34256,PA,Middle Atlantic,Northeast,Region I,CENTRE,Other State Agency,False,,,
+PA014DE0X,Office of Attorney General Region 2: ,34550,PA,Middle Atlantic,Northeast,Region I,CENTRE,Other State Agency,False,,,
+PA014SP00,State Police: Centre County,16147,PA,Middle Atlantic,Northeast,Region I,CENTRE,State Police,True,2021-01-01T00:00:00.000Z,40.868366,-78.17526
+PA0150000,Chester County Sheriff's Office,16148,PA,Middle Atlantic,Northeast,Region I,CHESTER,County,False,,39.959526,-75.60604
+PA0150100,Coatesville Police Department,16149,PA,Middle Atlantic,Northeast,Region I,CHESTER,City,True,2022-01-01T00:00:00.000Z,39.973965,-75.749732
+PA0150200,Downingtown Police Department,16150,PA,Middle Atlantic,Northeast,Region I,CHESTER,City,False,,40.006084,-75.70488
+PA0150300,Easttown Township Police Department,16151,PA,Middle Atlantic,Northeast,Region I,CHESTER,City,False,,39.973965,-75.749732
+PA0150400,East Whiteland Township Police Department,16152,PA,Middle Atlantic,Northeast,Region I,CHESTER,City,False,,40.050316,-75.55806
+PA0150500,Kennett Square Police Department,16153,PA,Middle Atlantic,Northeast,Region I,CHESTER,City,False,2023-01-01T00:00:00.000Z,39.973965,-75.749732
+PA0150600,Malvern Police Department,16154,PA,Middle Atlantic,Northeast,Region I,CHESTER,City,False,,40.037907,-75.50239
+PA0150700,North Coventry Township Police Department,16155,PA,Middle Atlantic,Northeast,Region I,CHESTER,City,False,,40.23099,-75.654655
+PA0150800,Oxford Police Department,16156,PA,Middle Atlantic,Northeast,Region I,CHESTER,City,False,,39.973965,-75.749732
+PA0150900,Parkesburg Police Department,16157,PA,Middle Atlantic,Northeast,Region I,CHESTER,City,False,,39.973965,-75.749732
+PA0151000,Phoenixville Police Department,16158,PA,Middle Atlantic,Northeast,Region I,CHESTER,City,False,,40.133167,-75.51331
+PA0151100,Spring City Police Department,16159,PA,Middle Atlantic,Northeast,Region I,CHESTER,City,False,,39.973965,-75.749732
+PA0151200,Tredyffrin Township Police Department,16160,PA,Middle Atlantic,Northeast,Region I,CHESTER,City,False,,40.06619,-75.46846
+PA0151300,West Chester Police Department,16161,PA,Middle Atlantic,Northeast,Region I,CHESTER,City,False,,39.963253,-75.59906
+PA0151400,West Goshen Township Police Department,16162,PA,Middle Atlantic,Northeast,Region I,CHESTER,City,False,,39.97217,-75.58137
+PA0151600,Willistown Township Police Department,16164,PA,Middle Atlantic,Northeast,Region I,CHESTER,City,False,,39.99831,-75.506836
+PA0151700,Caln Township Police Department,16165,PA,Middle Atlantic,Northeast,Region I,CHESTER,City,False,,39.973965,-75.749732
+PA0152000,Birmingham Township Police Department,16168,PA,Middle Atlantic,Northeast,Region I,CHESTER,City,False,,39.93517,-75.543
+PA0152100,East Fallowfield Township Police Department,16169,PA,Middle Atlantic,Northeast,Region I,CHESTER,City,False,,39.950115,-75.81291
+PA0152200,"Schuylkill Township Police Department, Chester County",16170,PA,Middle Atlantic,Northeast,Region I,CHESTER,City,False,,,
+PA0152300,South Coatesville Police Department,16171,PA,Middle Atlantic,Northeast,Region I,CHESTER,City,False,,39.981186,-75.8124
+PA0152500,Upper Uwchlan Township Police Department,16173,PA,Middle Atlantic,Northeast,Region I,CHESTER,City,False,,39.973965,-75.749732
+PA0152700,Westtown-East Goshen Regional Police Department,16174,PA,Middle Atlantic,Northeast,Region I,CHESTER,City,False,,39.932426,-75.58731
+PA0152800,Uwchlan Township Police Department,16175,PA,Middle Atlantic,Northeast,Region I,CHESTER,City,False,,40.048298,-75.63043
+PA0152900,Honey Brook Police Department,16176,PA,Middle Atlantic,Northeast,Region I,CHESTER,City,False,,39.973965,-75.749732
+PA0153200,East Pikeland Township Police Department,16177,PA,Middle Atlantic,Northeast,Region I,CHESTER,City,False,,39.973965,-75.749732
+PA0153300,East Vincent Township Police Department,16178,PA,Middle Atlantic,Northeast,Region I,CHESTER,City,False,,40.160828,-75.58511
+PA0153700,West Fallowfield Township Police Department,16182,PA,Middle Atlantic,Northeast,Region I,CHESTER,City,False,,39.973965,-75.749732
+PA0153800,West Sadsbury Township Police Department,16183,PA,Middle Atlantic,Northeast,Region I,CHESTER,City,False,,39.973965,-75.749732
+PA0153900,West Vincent Township Police Department,16184,PA,Middle Atlantic,Northeast,Region I,CHESTER,City,False,,40.10628,-75.66745
+PA0154000,West Whiteland Township Police Department,16185,PA,Middle Atlantic,Northeast,Region I,CHESTER,City,False,,39.973965,-75.749732
+PA0154400,Valley Township Police Department,16187,PA,Middle Atlantic,Northeast,Region I,CHESTER,City,False,,39.973965,-75.749732
+PA0154500,County Detective: Chester County,16188,PA,Middle Atlantic,Northeast,Region I,CHESTER,Other,False,,39.95848,-75.605125
+PA0154600,West Chester University,16189,PA,Middle Atlantic,Northeast,Region I,CHESTER,University or College,False,,39.966743,-75.61157
+PA0154700,Lincoln University,16190,PA,Middle Atlantic,Northeast,Region I,CHESTER,University or College,False,,39.973965,-75.749732
+PA0154800,East Coventry Township Police Department,16191,PA,Middle Atlantic,Northeast,Region I,CHESTER,City,False,,40.197212,-75.617744
+PA0154900,East Brandywine Township Police Department,16192,PA,Middle Atlantic,Northeast,Region I,CHESTER,City,False,,40.034542,-75.7664
+PA0155000,"Sadsbury Township Police Department, Chester County",16193,PA,Middle Atlantic,Northeast,Region I,CHESTER,City,False,,,
+PA0155200,West Caln Township Police Department,16194,PA,Middle Atlantic,Northeast,Region I,CHESTER,City,False,,39.973965,-75.749732
+PA0155300,West Nottingham Township Police Department,16195,PA,Middle Atlantic,Northeast,Region I,CHESTER,City,False,,39.973965,-75.749732
+PA0155500,West Brandywine Township Police Department,16197,PA,Middle Atlantic,Northeast,Region I,CHESTER,City,False,,39.973965,-75.749732
+PA0155700,West Pikeland Township Police Department,16198,PA,Middle Atlantic,Northeast,Region I,CHESTER,City,False,,40.10014,-75.61986
+PA0155900,State Park Rangers: White Clay,23243,PA,Middle Atlantic,Northeast,Region I,CHESTER,Other State Agency,False,,39.973965,-75.749732
+PA0156000,State Park Rangers: Marsh Creek,23494,PA,Middle Atlantic,Northeast,Region I,CHESTER,Other State Agency,False,,39.973965,-75.749732
+PA0156200,East Marlborough Township Police Department,16199,PA,Middle Atlantic,Northeast,Region I,CHESTER,City,False,,39.973965,-75.749732
+PA0156500,Kennett Township Police Department,16200,PA,Middle Atlantic,Northeast,Region I,CHESTER,City,False,,39.973965,-75.749732
+PA0156600,Pennsylvania State University:,27575,PA,Middle Atlantic,Northeast,Region I,CHESTER,University or College,False,,,
+PA0156700,Southern Chester County Regional,26970,PA,Middle Atlantic,Northeast,Region I,CHESTER,City,False,,,
+PA015BF0X,Bureau of Forestry:,34258,PA,Middle Atlantic,Northeast,Region I,CHESTER,Other State Agency,False,,,
+PA015DE0X,Office of Attorney General Region 1: ,34512,PA,Middle Atlantic,Northeast,Region I,CHESTER,Other State Agency,False,,,
+PA015SP00,State Police: Chester County,16203,PA,Middle Atlantic,Northeast,Region I,CHESTER,State Police,True,2021-01-01T00:00:00.000Z,39.949505,-75.73454
+PA0160000,Clarion County Sheriff's Office,16204,PA,Middle Atlantic,Northeast,Region I,CLARION,County,False,,41.214996,-79.386406
+PA0160100,Clarion Police Department,16205,PA,Middle Atlantic,Northeast,Region I,CLARION,City,False,,41.207355,-79.36483
+PA0160400,Knox Police Department,16208,PA,Middle Atlantic,Northeast,Region I,CLARION,City,False,,41.198159,-79.420369
+PA0160600,County Detective: Clarion County,16210,PA,Middle Atlantic,Northeast,Region I,CLARION,Other,False,,41.215775,-79.384796
+PA0160700,Clarion University,16211,PA,Middle Atlantic,Northeast,Region I,CLARION,University or College,False,,41.211235,-79.38037
+PA0161100,State Park Rangers: Cook Forest,25380,PA,Middle Atlantic,Northeast,Region I,CLARION,Other State Agency,False,,41.198159,-79.420369
+PA0161600,Southern Clarion County Regional,35523,PA,Middle Atlantic,Northeast,Region I,CLARION,City,False,,,
+PA016BF0X,Bureau of Forestry: ,34260,PA,Middle Atlantic,Northeast,Region I,CLARION,Other State Agency,False,,,
+PA016DE0X,Office of Attorney General Region 3: ,34606,PA,Middle Atlantic,Northeast,Region I,CLARION,Other State Agency,False,,,
+PA016SP00,State Police: Clarion County,16214,PA,Middle Atlantic,Northeast,Region I,CLARION,State Police,True,2021-01-01T00:00:00.000Z,41.18254,-79.39601
+PA0170100,Clearfield Police Department,16216,PA,Middle Atlantic,Northeast,Region I,CLEARFIELD,City,False,,41.0219,-78.43983
+PA0170200,Du Bois Police Department,16217,PA,Middle Atlantic,Northeast,Region I,CLEARFIELD,City,False,,41.000249,-78.473749
+PA0170300,Curwensville Police Department,16218,PA,Middle Atlantic,Northeast,Region I,CLEARFIELD,City,False,,40.964508,-78.521385
+PA0170800,Sandy Township Police Department,16222,PA,Middle Atlantic,Northeast,Region I,CLEARFIELD,City,False,,41.000249,-78.473749
+PA0171100,"Lawrence Township Police Department, Clearfield County",16223,PA,Middle Atlantic,Northeast,Region I,CLEARFIELD,City,False,,,
+PA0171800,State Park Rangers: Parker Dam,25424,PA,Middle Atlantic,Northeast,Region I,CLEARFIELD,Other State Agency,False,,41.000249,-78.473749
+PA0172100,Pennsylvania State University:,27574,PA,Middle Atlantic,Northeast,Region I,CLEARFIELD,University or College,False,,,
+PA0172200,Bigler Township Regional,28634,PA,Middle Atlantic,Northeast,Region I,CLEARFIELD,City,False,,,
+PA017BF0X,Bureau of Forestry: ,34262,PA,Middle Atlantic,Northeast,Region I,CLEARFIELD,Other State Agency,False,,,
+PA017DE0X,Office of Attorney General Region 2: ,34552,PA,Middle Atlantic,Northeast,Region I,CLEARFIELD,Other State Agency,False,,,
+PA017SP00,State Police: Clearfield County,16231,PA,Middle Atlantic,Northeast,Region I,CLEARFIELD,State Police,True,2021-01-01T00:00:00.000Z,41.009964,-78.343666
+PA0180100,Lock Haven Police Department,16233,PA,Middle Atlantic,Northeast,Region I,CLINTON,City,False,,41.1429,-77.42249
+PA0180200,Renovo Police Department,16234,PA,Middle Atlantic,Northeast,Region I,CLINTON,City,False,,41.326523,-77.754776
+PA0180600,Woodward Township Police Department,16237,PA,Middle Atlantic,Northeast,Region I,CLINTON,City,False,,41.140522,-77.43013
+PA0180900,Mill Hall Police Department,16239,PA,Middle Atlantic,Northeast,Region I,CLINTON,City,False,,41.111156,-77.4933
+PA0181200,Lock Haven University,16242,PA,Middle Atlantic,Northeast,Region I,CLINTON,University or College,False,,41.129604,-77.45304
+PA0181600,Pine Creek Township Police Department,16244,PA,Middle Atlantic,Northeast,Region I,CLINTON,City,False,,41.245301,-77.649141
+PA0182500,State Park Rangers: Kettle Creek,25381,PA,Middle Atlantic,Northeast,Region I,CLINTON,Other State Agency,False,,41.245301,-77.649141
+PA018BF0X,Bureau of Forestry: ,34264,PA,Middle Atlantic,Northeast,Region I,CLINTON,Other State Agency,False,,,
+PA018DE0X,Office of Attorney General Region 2: ,34554,PA,Middle Atlantic,Northeast,Region I,CLINTON,Other State Agency,False,,,
+PA018SP00,State Police: Clinton County,16247,PA,Middle Atlantic,Northeast,Region I,CLINTON,State Police,True,2021-01-01T00:00:00.000Z,41.065517,-77.48902
+PA0190100,Benton Area Police Department,16249,PA,Middle Atlantic,Northeast,Region I,COLUMBIA,City,False,,41.045517,-76.40426
+PA0190200,Berwick Police Department,16250,PA,Middle Atlantic,Northeast,Region I,COLUMBIA,City,False,,41.045517,-76.40426
+PA0190300,Bloomsburg Town Police Department,16251,PA,Middle Atlantic,Northeast,Region I,COLUMBIA,City,False,,41.00448,-76.453636
+PA0190400,Catawissa Police Department,16252,PA,Middle Atlantic,Northeast,Region I,COLUMBIA,City,False,,41.045517,-76.40426
+PA0190500,Briar Creek Township Police Department,16253,PA,Middle Atlantic,Northeast,Region I,COLUMBIA,City,False,,41.09436,-76.27144
+PA0190800,"Scott Township Police Department, Columbia County",16255,PA,Middle Atlantic,Northeast,Region I,COLUMBIA,City,False,,,
+PA0190900,Bloomsburg University,16256,PA,Middle Atlantic,Northeast,Region I,COLUMBIA,University or College,False,,41.045517,-76.40426
+PA0191200,Montour Township Police Department,16259,PA,Middle Atlantic,Northeast,Region I,COLUMBIA,City,False,,40.98162,-76.47543
+PA0191400,Hemlock Township Police Department,16261,PA,Middle Atlantic,Northeast,Region I,COLUMBIA,City,False,,41.016376,-76.497635
+PA0191500,Locust Township Police Department,16262,PA,Middle Atlantic,Northeast,Region I,COLUMBIA,City,False,,40.877956,-76.40302
+PA0191600,South Centre Township Police Department,16263,PA,Middle Atlantic,Northeast,Region I,COLUMBIA,City,False,,41.024784,-76.34505
+PA0192200,Main Township Police Department,16268,PA,Middle Atlantic,Northeast,Region I,COLUMBIA,City,False,,40.979424,-76.37597
+PA0192400,Orangeville Area Police Department,16270,PA,Middle Atlantic,Northeast,Region I,COLUMBIA,City,False,2014-06-01T00:00:00.000Z,41.045517,-76.40426
+PA0193000,Roaring Creek Township Police Department,16276,PA,Middle Atlantic,Northeast,Region I,COLUMBIA,City,False,,41.045517,-76.40426
+PA019BF0X,Bureau of Forestry:,34266,PA,Middle Atlantic,Northeast,Region I,COLUMBIA,Other State Agency,False,,,
+PA019DE0X,Office of Attorney General Region 1: ,34514,PA,Middle Atlantic,Northeast,Region I,COLUMBIA,Other State Agency,False,,,
+PA019SP00,State Police: Columbia County,16279,PA,Middle Atlantic,Northeast,Region I,COLUMBIA,State Police,True,2021-01-01T00:00:00.000Z,41.04038,-76.36082
+PA01BCI0X,"State Police, Bureau of Criminal Investigation: Adams County",16280,PA,Middle Atlantic,Northeast,Region I,ADAMS,State Police,False,,40.294674,-76.860855
+PA0200100,Meadville Police Department,16282,PA,Middle Atlantic,Northeast,Region I,CRAWFORD,City,False,,41.637035,-80.155716
+PA0200200,Titusville Police Department,16283,PA,Middle Atlantic,Northeast,Region I,CRAWFORD,City,False,,41.629692,-79.67338
+PA0200300,Cambridge Springs Police Department,16284,PA,Middle Atlantic,Northeast,Region I,CRAWFORD,City,False,,41.804703,-80.060555
+PA0200500,Cochranton Police Department,16285,PA,Middle Atlantic,Northeast,Region I,CRAWFORD,City,False,,41.68684,-80.107811
+PA0200800,Linesville Police Department,16287,PA,Middle Atlantic,Northeast,Region I,CRAWFORD,City,False,,41.68684,-80.107811
+PA0200900,State Park Rangers: Pymatuning,16288,PA,Middle Atlantic,Northeast,Region I,CRAWFORD,Other State Agency,False,,41.68684,-80.107811
+PA0201100,Vernon Township Police Department,16290,PA,Middle Atlantic,Northeast,Region I,CRAWFORD,City,False,,41.616386,-80.204796
+PA0201400,West Mead Township Police Department,16291,PA,Middle Atlantic,Northeast,Region I,CRAWFORD,City,False,,41.68684,-80.107811
+PA0201800,Conneaut Lake Regional Police Department,16293,PA,Middle Atlantic,Northeast,Region I,CRAWFORD,City,True,2021-09-01T00:00:00.000Z,41.604202,-80.332954
+PA0201900,University of Pittsburgh: Titusville,16294,PA,Middle Atlantic,Northeast,Region I,CRAWFORD,University or College,False,,41.629498,-79.66508
+PA020239E,Allegheny College,34194,PA,Middle Atlantic,Northeast,Region I,CRAWFORD,University or College,False,,,
+PA020BF0X,Bureau of Forestry: ,34268,PA,Middle Atlantic,Northeast,Region I,CRAWFORD,Other State Agency,False,,,
+PA020DE0X,Office of Attorney General Region 3: ,34608,PA,Middle Atlantic,Northeast,Region I,CRAWFORD,Other State Agency,False,,,
+PA020SP00,State Police: Crawford County,16297,PA,Middle Atlantic,Northeast,Region I,CRAWFORD,State Police,True,2021-01-01T00:00:00.000Z,41.620087,-80.20715
+PA0210000,Cumberland County Sheriff's Office,16298,PA,Middle Atlantic,Northeast,Region I,CUMBERLAND,County,False,,40.164782,-77.26344
+PA0210100,Camp Hill Police Department,16299,PA,Middle Atlantic,Northeast,Region I,CUMBERLAND,City,True,2015-01-01T00:00:00.000Z,40.24147,-76.92213
+PA0210200,Carlisle Police Department,16300,PA,Middle Atlantic,Northeast,Region I,CUMBERLAND,City,True,2014-08-01T00:00:00.000Z,40.20692,-77.19422
+PA0210300,East Pennsboro Township Police Department,16301,PA,Middle Atlantic,Northeast,Region I,CUMBERLAND,City,True,2015-01-01T00:00:00.000Z,40.164782,-77.26344
+PA0210400,Hampden Township Police Department,16302,PA,Middle Atlantic,Northeast,Region I,CUMBERLAND,City,True,2013-05-01T00:00:00.000Z,40.232452,-76.97156
+PA0210500,West Shore Regional Police Department,16303,PA,Middle Atlantic,Northeast,Region I,CUMBERLAND,City,True,2015-01-01T00:00:00.000Z,40.24191,-76.89346
+PA0210600,Lower Allen Township Police Department,16304,PA,Middle Atlantic,Northeast,Region I,CUMBERLAND,City,False,,40.164782,-77.26344
+PA0210700,Mechanicsburg Police Department,16305,PA,Middle Atlantic,Northeast,Region I,CUMBERLAND,City,False,,40.21412,-77.0099
+PA0210800,New Cumberland Police Department,16306,PA,Middle Atlantic,Northeast,Region I,CUMBERLAND,City,True,2015-03-01T00:00:00.000Z,40.233707,-76.872
+PA0210900,Shippensburg Police Department,16307,PA,Middle Atlantic,Northeast,Region I,"CUMBERLAND, FRANKLIN",City,True,2013-03-01T00:00:00.000Z,40.052597,-77.51998
+PA0211000,Shiremanstown Police Department,16308,PA,Middle Atlantic,Northeast,Region I,CUMBERLAND,City,False,,40.22452,-76.95161
+PA0211100,West Fairview Police Department,16309,PA,Middle Atlantic,Northeast,Region I,CUMBERLAND,City,False,,40.164782,-77.26344
+PA0211300,"Middlesex Township Police Department, Cumberland County",16311,PA,Middle Atlantic,Northeast,Region I,CUMBERLAND,City,False,,,
+PA0211400,Mount Holly Springs Police Department,16312,PA,Middle Atlantic,Northeast,Region I,CUMBERLAND,City,False,,40.11565,-77.19164
+PA0211500,North Middleton Township Police Department,16313,PA,Middle Atlantic,Northeast,Region I,CUMBERLAND,City,False,,40.237446,-77.180405
+PA0211600,Shippensburg University,16314,PA,Middle Atlantic,Northeast,Region I,CUMBERLAND,University or College,False,,40.164782,-77.26344
+PA0211700,Silver Spring Township Police Department,16315,PA,Middle Atlantic,Northeast,Region I,CUMBERLAND,City,True,2013-01-01T00:00:00.000Z,40.24648,-77.01809
+PA0211800,Upper Allen Township Police Department,16316,PA,Middle Atlantic,Northeast,Region I,CUMBERLAND,City,True,2013-12-01T00:00:00.000Z,40.18524,-76.985054
+PA0211900,Newville Police Department,16317,PA,Middle Atlantic,Northeast,Region I,CUMBERLAND,City,True,2014-01-01T00:00:00.000Z,40.171104,-77.39997
+PA0212300,State Park Rangers: Colonel Denning,23306,PA,Middle Atlantic,Northeast,Region I,CUMBERLAND,Other State Agency,False,,40.164782,-77.26344
+PA0212500,State Park Rangers: Pine Grove Furnace,16319,PA,Middle Atlantic,Northeast,Region I,CUMBERLAND,Other State Agency,False,,40.164782,-77.26344
+PA0212600,Dickinson College,16320,PA,Middle Atlantic,Northeast,Region I,CUMBERLAND,University or College,False,,40.164782,-77.26344
+PA0213500,State Park Rangers: Kings Gap Environmental Education Center,25295,PA,Middle Atlantic,Northeast,Region I,CUMBERLAND,Other State Agency,False,,40.164782,-77.26344
+PA021BF0X,Bureau of Forestry: ,34270,PA,Middle Atlantic,Northeast,Region I,CUMBERLAND,Other State Agency,False,,,
+PA021DE0X,Office of Attorney General Region 2: ,34556,PA,Middle Atlantic,Northeast,Region I,CUMBERLAND,Other State Agency,False,,,
+PA021SP00,State Police: Cumberland County,16323,PA,Middle Atlantic,Northeast,Region I,CUMBERLAND,State Police,True,2021-01-01T00:00:00.000Z,40.183125,-77.23638
+PA0220200,Harrisburg Police Department,16326,PA,Middle Atlantic,Northeast,Region I,DAUPHIN,City,False,2023-01-01T00:00:00.000Z,40.260048,-76.83105
+PA0220300,Hummelstown Police Department,16327,PA,Middle Atlantic,Northeast,Region I,DAUPHIN,City,False,,40.412565,-76.792634
+PA0220400,Lower Paxton Township Police Department,16328,PA,Middle Atlantic,Northeast,Region I,DAUPHIN,City,False,,40.298607,-76.80713
+PA0220500,Middletown Police Department,16329,PA,Middle Atlantic,Northeast,Region I,DAUPHIN,City,False,,40.195194,-76.73214
+PA0220700,Steelton Police Department,16331,PA,Middle Atlantic,Northeast,Region I,DAUPHIN,City,False,,40.23526,-76.84136
+PA0220800,"Susquehanna Township, Dauphin County",16332,PA,Middle Atlantic,Northeast,Region I,DAUPHIN,City,True,2022-09-01T00:00:00.000Z,40.327747,-76.871315
+PA0220900,Swatara Township Police Department,16333,PA,Middle Atlantic,Northeast,Region I,DAUPHIN,City,False,2023-01-01T00:00:00.000Z,40.2462,-76.81056
+PA0221000,Highspire Police Department,16334,PA,Middle Atlantic,Northeast,Region I,DAUPHIN,City,False,,40.204113,-76.773605
+PA0221100,Lykens Police Department,16335,PA,Middle Atlantic,Northeast,Region I,DAUPHIN,City,False,,40.567253,-76.71007
+PA0221200,Millersburg Police Department,16336,PA,Middle Atlantic,Northeast,Region I,DAUPHIN,City,False,,40.537342,-76.96144
+PA0221300,Penbrook Police Department,16337,PA,Middle Atlantic,Northeast,Region I,DAUPHIN,City,True,2013-07-01T00:00:00.000Z,40.27838,-76.84602
+PA0221500,"Derry Township Police Department, Dauphin County",16339,PA,Middle Atlantic,Northeast,Region I,DAUPHIN,City,True,2021-11-01T00:00:00.000Z,40.282635,-76.6811
+PA0221600,Halifax Police Department,16340,PA,Middle Atlantic,Northeast,Region I,DAUPHIN,City,False,,40.412565,-76.792634
+PA0221700,Lower Swatara Township Police Department,16341,PA,Middle Atlantic,Northeast,Region I,DAUPHIN,City,False,,40.220463,-76.76824
+PA0221800,Wiconisco Township Police Department,16342,PA,Middle Atlantic,Northeast,Region I,DAUPHIN,City,False,,40.412565,-76.792634
+PA0222100,Royalton Police Department,16343,PA,Middle Atlantic,Northeast,Region I,DAUPHIN,City,True,2022-02-01T00:00:00.000Z,40.189636,-76.726875
+PA0222300,State Capitol Police,16345,PA,Middle Atlantic,Northeast,Region I,DAUPHIN,Other State Agency,True,2022-07-01T00:00:00.000Z,40.412565,-76.792634
+PA0222600,County Detective: Dauphin County,16347,PA,Middle Atlantic,Northeast,Region I,DAUPHIN,Other,False,,40.235218,-76.8394
+PA0222800,Pennsylvania State University: Harrisburg,16349,PA,Middle Atlantic,Northeast,Region I,DAUPHIN,University or College,False,,40.412565,-76.792634
+PA0223200,Harrisburg International Airport,16350,PA,Middle Atlantic,Northeast,Region I,DAUPHIN,Other,False,,40.412565,-76.792634
+PA0223400,Pennsylvania Fish and Boat Commission,16351,PA,Middle Atlantic,Northeast,Region I,DAUPHIN,Other State Agency,False,,40.412565,-76.792634
+PA022BF0X,Bureau of Forestry: ,34272,PA,Middle Atlantic,Northeast,Region I,DAUPHIN,Other State Agency,False,,,
+PA022DE0X,Office of Attorney General Region 2: ,34558,PA,Middle Atlantic,Northeast,Region I,DAUPHIN,Other State Agency,False,,,
+PA022SP00,State Police: Elizabethville,16355,PA,Middle Atlantic,Northeast,Region I,DAUPHIN,State Police,True,2021-01-01T00:00:00.000Z,40.55799,-76.794014
+PA0230100,Aston Township Police Department,16357,PA,Middle Atlantic,Northeast,Region I,DELAWARE,City,False,,39.91667,-75.398786
+PA0230200,"Bethel Township Police Department, Delaware County",16358,PA,Middle Atlantic,Northeast,Region I,DELAWARE,City,False,,39.85316,-75.48911
+PA0230300,Brookhaven Police Department,16359,PA,Middle Atlantic,Northeast,Region I,DELAWARE,City,False,,39.875076,-75.39282
+PA0230400,Chester Police Department,16360,PA,Middle Atlantic,Northeast,Region I,DELAWARE,City,False,,39.85153,-75.35874
+PA0230500,Clifton Heights Police Department,16361,PA,Middle Atlantic,Northeast,Region I,DELAWARE,City,False,,39.925457,-75.28818
+PA0230600,Collingdale Police Department,16362,PA,Middle Atlantic,Northeast,Region I,DELAWARE,City,False,,39.911636,-75.2776
+PA0230700,Colwyn Police Department,16363,PA,Middle Atlantic,Northeast,Region I,DELAWARE,City,False,,39.91368,-75.25221
+PA0230800,Darby Police Department,16364,PA,Middle Atlantic,Northeast,Region I,DELAWARE,City,False,,39.91667,-75.398786
+PA0230900,Darby Township Police Department,16365,PA,Middle Atlantic,Northeast,Region I,DELAWARE,City,False,,39.91667,-75.398786
+PA0231000,East Lansdowne Police Department,16366,PA,Middle Atlantic,Northeast,Region I,DELAWARE,City,False,,39.94437,-75.261856
+PA0231100,Eddystone Police Department,16367,PA,Middle Atlantic,Northeast,Region I,DELAWARE,City,False,,39.91667,-75.398786
+PA0231200,Folcroft Police Department,16368,PA,Middle Atlantic,Northeast,Region I,DELAWARE,City,False,,39.91667,-75.398786
+PA0231300,Glenolden Police Department,16369,PA,Middle Atlantic,Northeast,Region I,DELAWARE,City,False,,39.899624,-75.28859
+PA0231400,Haverford Township Police Department,16370,PA,Middle Atlantic,Northeast,Region I,DELAWARE,City,False,,39.976135,-75.30303
+PA0231500,Lansdowne Police Department,16371,PA,Middle Atlantic,Northeast,Region I,DELAWARE,City,False,,39.938328,-75.271706
+PA0231600,Lower Chichester Township Police Department,16372,PA,Middle Atlantic,Northeast,Region I,DELAWARE,City,False,,39.825115,-75.42116
+PA0231700,Marple Township Police Department,16373,PA,Middle Atlantic,Northeast,Region I,DELAWARE,City,False,,39.975986,-75.3633
+PA0231800,Media Police Department,16374,PA,Middle Atlantic,Northeast,Region I,DELAWARE,City,False,,39.91667,-75.398786
+PA0231900,Millbourne Police Department,16375,PA,Middle Atlantic,Northeast,Region I,DELAWARE,City,False,,39.965588,-75.28031
+PA0232000,Marcus Hook Police Department,16376,PA,Middle Atlantic,Northeast,Region I,DELAWARE,City,False,,39.91667,-75.398786
+PA0232100,Morton Police Department,16377,PA,Middle Atlantic,Northeast,Region I,DELAWARE,City,False,,39.91069,-75.321846
+PA0232200,Nether Providence Township Police Department,16378,PA,Middle Atlantic,Northeast,Region I,DELAWARE,City,False,,39.900463,-75.36943
+PA0232300,"Newtown Township Police Department, Delaware County",16379,PA,Middle Atlantic,Northeast,Region I,DELAWARE,City,False,,39.981247,-75.40614
+PA0232400,Norwood Police Department,16380,PA,Middle Atlantic,Northeast,Region I,DELAWARE,City,False,,39.91667,-75.398786
+PA0232500,Prospect Park Police Department,16381,PA,Middle Atlantic,Northeast,Region I,DELAWARE,City,False,,39.91667,-75.398786
+PA0232600,Radnor Township Police Department,16382,PA,Middle Atlantic,Northeast,Region I,DELAWARE,City,False,,40.03774,-75.3723
+PA0232700,Ridley Park Police Department,16383,PA,Middle Atlantic,Northeast,Region I,DELAWARE,City,False,,39.91667,-75.398786
+PA0232800,Ridley Township Police Department,16384,PA,Middle Atlantic,Northeast,Region I,DELAWARE,City,False,,39.91667,-75.398786
+PA0233000,Sharon Hill Police Department,16385,PA,Middle Atlantic,Northeast,Region I,DELAWARE,City,False,,39.906197,-75.27209
+PA0233100,"Springfield Township Police Department, Delaware County",16386,PA,Middle Atlantic,Northeast,Region I,DELAWARE,City,False,,39.930637,-75.32865
+PA0233200,Swarthmore Police Department,16387,PA,Middle Atlantic,Northeast,Region I,DELAWARE,City,False,,39.901455,-75.348854
+PA0233300,"Tinicum Township, Delaware County",16388,PA,Middle Atlantic,Northeast,Region I,DELAWARE,City,False,,39.87287,-75.2776
+PA0233400,Trainer Police Department,16389,PA,Middle Atlantic,Northeast,Region I,DELAWARE,City,False,,39.829185,-75.40723
+PA0233500,Upland Police Department,16390,PA,Middle Atlantic,Northeast,Region I,DELAWARE,City,False,,39.856472,-75.381775
+PA0233600,Upper Chichester Township Police Department,16391,PA,Middle Atlantic,Northeast,Region I,DELAWARE,City,False,,39.91667,-75.398786
+PA0233700,Upper Darby Township Police Department,16392,PA,Middle Atlantic,Northeast,Region I,DELAWARE,City,False,,39.96328,-75.266754
+PA0233800,"Upper Providence Township, Delaware County",16393,PA,Middle Atlantic,Northeast,Region I,DELAWARE,City,False,,39.91524,-75.32395
+PA0233900,Yeadon Police Department,16394,PA,Middle Atlantic,Northeast,Region I,DELAWARE,City,False,,39.9365,-75.253426
+PA0234000,Aldan Police Department,16395,PA,Middle Atlantic,Northeast,Region I,DELAWARE,City,False,,39.91667,-75.398786
+PA0234200,Chester Township Police Department,16396,PA,Middle Atlantic,Northeast,Region I,DELAWARE,City,False,,39.91667,-75.398786
+PA0234400,Delaware County Park,16397,PA,Middle Atlantic,Northeast,Region I,DELAWARE,Other,False,,39.91923,-75.39197
+PA0234500,Parkside Police Department,16398,PA,Middle Atlantic,Northeast,Region I,DELAWARE,City,False,,39.86822,-75.378555
+PA0234800,Delaware County District Attorney Criminal Investigation Division,16399,PA,Middle Atlantic,Northeast,Region I,DELAWARE,Other,False,,39.919167,-75.39135
+PA0235000,Cheyney University,16400,PA,Middle Atlantic,Northeast,Region I,DELAWARE,University or College,False,,39.91667,-75.398786
+PA0235300,State Park Rangers: Ridley Creek,23266,PA,Middle Atlantic,Northeast,Region I,DELAWARE,Other State Agency,False,,39.944283,-75.455956
+PA0235500,Pennsylvania State University: Brandywine,25382,PA,Middle Atlantic,Northeast,Region I,DELAWARE,University or College,False,,39.91667,-75.398786
+PA023579E,Villanova University,34469,PA,Middle Atlantic,Northeast,Region I,DELAWARE,University or College,False,,,
+PA023BF0X,Bureau of Forestry: ,34274,PA,Middle Atlantic,Northeast,Region I,DELAWARE,Other State Agency,False,,,
+PA023DE0X,Office of Attorney General Region 1: ,34516,PA,Middle Atlantic,Northeast,Region I,DELAWARE,Other State Agency,False,,,
+PA023SP00,State Police: Delaware County,16403,PA,Middle Atlantic,Northeast,Region I,DELAWARE,State Police,True,2021-01-01T00:00:00.000Z,39.913326,-75.35355
+PA0240000,Elk County Sheriff's Office,16404,PA,Middle Atlantic,Northeast,Region I,ELK,County,False,,41.42071,-78.72967
+PA0240100,Johnsonburg Police Department,16405,PA,Middle Atlantic,Northeast,Region I,ELK,City,False,,41.49899,-78.68227
+PA0240200,Ridgway Police Department,16406,PA,Middle Atlantic,Northeast,Region I,ELK,City,False,,41.42086,-78.73867
+PA0240300,St. Marys City Police Department,16407,PA,Middle Atlantic,Northeast,Region I,ELK,City,True,2022-01-01T00:00:00.000Z,41.430183,-78.5572
+PA0242500,State Park Rangers: Bendigo,25383,PA,Middle Atlantic,Northeast,Region I,ELK,Other State Agency,False,,41.427334,-78.653938
+PA024BF0X,Bureau of Forestry: ,34276,PA,Middle Atlantic,Northeast,Region I,ELK,Other State Agency,False,,,
+PA024DE0X,Office of Attorney General Region 3: ,34610,PA,Middle Atlantic,Northeast,Region I,ELK,Other State Agency,False,,,
+PA024SP00,State Police: Elk County,16413,PA,Middle Atlantic,Northeast,Region I,ELK,State Police,True,2021-01-01T00:00:00.000Z,41.427334,-78.653938
+PA0250000,Erie County Sheriff's Office,16414,PA,Middle Atlantic,Northeast,Region I,ERIE,County,False,,42.130318,-80.0829
+PA0250100,Corry Police Department,16415,PA,Middle Atlantic,Northeast,Region I,ERIE,City,False,,41.919655,-79.63973
+PA0250200,Erie Police Department,16416,PA,Middle Atlantic,Northeast,Region I,ERIE,City,True,2021-11-01T00:00:00.000Z,42.128925,-80.08493
+PA0250300,"Millcreek Township, Erie County",16417,PA,Middle Atlantic,Northeast,Region I,ERIE,City,False,,42.081562,-80.1552
+PA0250400,North East Police Department,16418,PA,Middle Atlantic,Northeast,Region I,ERIE,City,False,,42.216827,-79.83167
+PA0250500,Wesleyville Police Department,16419,PA,Middle Atlantic,Northeast,Region I,ERIE,City,False,,42.14114,-80.01333
+PA0250600,Lawrence Park Township Police Department,16420,PA,Middle Atlantic,Northeast,Region I,ERIE,City,False,,42.117952,-80.096386
+PA0250700,Union City Police Department,16421,PA,Middle Atlantic,Northeast,Region I,ERIE,City,False,,41.901356,-79.84555
+PA0250900,Edinboro Police Department,16423,PA,Middle Atlantic,Northeast,Region I,ERIE,City,False,,41.87334,-80.13154
+PA0251100,Girard Police Department,16425,PA,Middle Atlantic,Northeast,Region I,ERIE,City,False,,42.117952,-80.096386
+PA0251200,Lake City Police Department,16426,PA,Middle Atlantic,Northeast,Region I,ERIE,City,False,,42.013176,-80.342186
+PA0251300,State Park Rangers: Presque Isle,16427,PA,Middle Atlantic,Northeast,Region I,ERIE,Other State Agency,False,,42.108845,-80.15538
+PA0251600,County Detective: Erie County,16428,PA,Middle Atlantic,Northeast,Region I,ERIE,Other,False,,42.128582,-80.08761
+PA0251700,Edinboro University,16429,PA,Middle Atlantic,Northeast,Region I,ERIE,University or College,False,,42.117952,-80.096386
+PA0251900,Pennsylvania State University: Behrend,16430,PA,Middle Atlantic,Northeast,Region I,ERIE,University or College,False,,42.123653,-79.98074
+PA0252200,Erie Municipal Airport Authority,16431,PA,Middle Atlantic,Northeast,Region I,ERIE,Other,False,,42.117952,-80.096386
+PA025239E,Mercyhurst University ,34410,PA,Middle Atlantic,Northeast,Region I,ERIE,University or College,False,,,
+PA025249E,Gannon University,34378,PA,Middle Atlantic,Northeast,Region I,ERIE,University or College,False,,,
+PA0252800,Erie City School District,34372,PA,Middle Atlantic,Northeast,Region I,ERIE,Other,False,,,
+PA025BF0X,Bureau of Forestry: ,34278,PA,Middle Atlantic,Northeast,Region I,ERIE,Other State Agency,False,,,
+PA025DE0X,Office of Attorney General Region 3: ,34612,PA,Middle Atlantic,Northeast,Region I,ERIE,Other State Agency,False,,,
+PA025SP00,State Police: Erie County,16435,PA,Middle Atlantic,Northeast,Region I,ERIE,State Police,True,2021-01-01T00:00:00.000Z,42.117952,-80.096386
+PA0260100,Brownsville Police Department,16437,PA,Middle Atlantic,Northeast,Region I,FAYETTE,City,False,,40.0204,-79.89001
+PA0260200,Connellsville Police Department,16438,PA,Middle Atlantic,Northeast,Region I,FAYETTE,City,False,,40.017498,-79.5914
+PA0260300,Uniontown Police Department,16439,PA,Middle Atlantic,Northeast,Region I,FAYETTE,City,False,,39.90364,-79.72574
+PA0260400,"Southwest Regiona Police Departmentl, Fayette County",16440,PA,Middle Atlantic,Northeast,Region I,FAYETTE,City,True,2021-01-01T00:00:00.000Z,40.128674,-79.87575
+PA0260500,Masontown Police Department,16441,PA,Middle Atlantic,Northeast,Region I,FAYETTE,City,False,,39.918725,-79.639946
+PA0260700,South Connellsville Borough Police Department,16443,PA,Middle Atlantic,Northeast,Region I,FAYETTE,City,False,,40.001534,-79.58903
+PA0260800,"Washington Township Police Department, Fayette County",16444,PA,Middle Atlantic,Northeast,Region I,FAYETTE,City,False,,,
+PA0261000,Dunbar Police Department,16446,PA,Middle Atlantic,Northeast,Region I,FAYETTE,City,False,,39.974762,-79.61582
+PA0261100,Everson Police Department,16447,PA,Middle Atlantic,Northeast,Region I,FAYETTE,City,False,,39.918725,-79.639946
+PA0261500,Luzerne Township Police Department,16451,PA,Middle Atlantic,Northeast,Region I,FAYETTE,City,False,,39.968864,-79.90538
+PA0261800,Perryopolis Police Department,16454,PA,Middle Atlantic,Northeast,Region I,FAYETTE,City,False,,39.918725,-79.639946
+PA0261900,Point Marion Police Department,16455,PA,Middle Atlantic,Northeast,Region I,FAYETTE,City,False,,39.918725,-79.639946
+PA0262000,Redstone Township Police Department,16456,PA,Middle Atlantic,Northeast,Region I,FAYETTE,City,True,2022-07-01T00:00:00.000Z,39.982693,-79.85302
+PA0262500,Smithfield Police Department,16459,PA,Middle Atlantic,Northeast,Region I,FAYETTE,City,False,,39.918725,-79.639946
+PA0263600,State Park Rangers: Ohiopyle,16461,PA,Middle Atlantic,Northeast,Region I,FAYETTE,Other State Agency,False,,39.918725,-79.639946
+PA0264000,Pennsylvania State University:,26346,PA,Middle Atlantic,Northeast,Region I,FAYETTE,University or College,False,,,
+PA0264100,German Township,27553,PA,Middle Atlantic,Northeast,Region I,FAYETTE,City,False,,,
+PA026BF0X,Bureau of Forestry: ,34280,PA,Middle Atlantic,Northeast,Region I,FAYETTE,Other State Agency,False,,,
+PA026DE0X,Office of Attorney General Region 3: ,34614,PA,Middle Atlantic,Northeast,Region I,FAYETTE,Other State Agency,False,,,
+PA026SP00,State Police: Fayette County,16465,PA,Middle Atlantic,Northeast,Region I,FAYETTE,State Police,True,2021-01-01T00:00:00.000Z,39.918725,-79.639946
+PA027BF0X,Bureau of Forestry: ,34282,PA,Middle Atlantic,Northeast,Region I,FOREST,Other State Agency,False,,,
+PA027DE0X,Office of Attorney General Region 3: ,34616,PA,Middle Atlantic,Northeast,Region I,FOREST,Other State Agency,False,,,
+PA027SP00,State Police: Tionesta,16469,PA,Middle Atlantic,Northeast,Region I,FOREST,State Police,True,2021-01-01T00:00:00.000Z,41.513304,-79.249705
+PA0280000,Franklin County Sheriff's Office,16470,PA,Middle Atlantic,Northeast,Region I,FRANKLIN,County,True,2013-05-01T00:00:00.000Z,39.937965,-77.66456
+PA0280100,Chambersburg Police Department,16471,PA,Middle Atlantic,Northeast,Region I,FRANKLIN,City,False,,39.935287,-77.65959
+PA0280200,Greencastle Police Department,16472,PA,Middle Atlantic,Northeast,Region I,FRANKLIN,City,True,2013-03-01T00:00:00.000Z,39.79041,-77.72554
+PA0280300,Waynesboro Police Department,16473,PA,Middle Atlantic,Northeast,Region I,FRANKLIN,City,True,2013-01-01T00:00:00.000Z,39.926685,-77.724497
+PA0280400,Mercersburg Police Department,16474,PA,Middle Atlantic,Northeast,Region I,FRANKLIN,City,True,2013-12-01T00:00:00.000Z,39.826675,-77.90371
+PA0280600,"Washington Township Police Department, Franklin County",16476,PA,Middle Atlantic,Northeast,Region I,FRANKLIN,City,True,2013-01-01T00:00:00.000Z,39.74217,-77.55717
+PA0281000,Pennsylvania State University: Mont Alto,16477,PA,Middle Atlantic,Northeast,Region I,FRANKLIN,University or College,False,,39.926685,-77.724497
+PA0281100,State Park Rangers: Caledonia,23226,PA,Middle Atlantic,Northeast,Region I,FRANKLIN,Other State Agency,False,,39.926685,-77.724497
+PA0281400,Franklin County Drug Task Force,25773,PA,Middle Atlantic,Northeast,Region I,FRANKLIN,Other,True,2015-07-01T00:00:00.000Z,,
+PA0281800,Greencastle-Antrim School District,34380,PA,Middle Atlantic,Northeast,Region I,FRANKLIN,Other,False,,,
+PA028BF0X,Bureau of Forestry:,34284,PA,Middle Atlantic,Northeast,Region I,FRANKLIN,Other State Agency,False,,,
+PA028DE0X,Office of Attorney General Region 2: ,34560,PA,Middle Atlantic,Northeast,Region I,FRANKLIN,Other State Agency,False,,,
+PA028SP00,State Police: Franklin County,16480,PA,Middle Atlantic,Northeast,Region I,FRANKLIN,State Police,True,2021-01-01T00:00:00.000Z,39.934353,-77.62563
+PA0290300,State Park Rangers: Cowan Gap,25384,PA,Middle Atlantic,Northeast,Region I,FULTON,Other State Agency,False,,39.926685,-77.724497
+PA029BF0X,Bureau of Forestry: ,34286,PA,Middle Atlantic,Northeast,Region I,FULTON,Other State Agency,False,,,
+PA029DE0X,Office of Attorney General Region 2: ,34562,PA,Middle Atlantic,Northeast,Region I,FULTON,Other State Agency,False,,,
+PA029SP00,State Police: Fulton County,16485,PA,Middle Atlantic,Northeast,Region I,FULTON,State Police,True,2021-01-01T00:00:00.000Z,39.965958,-77.97621
+PA02BCI0X,"State Police, Bureau of Criminal Investigation: Allegheny County",16486,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,State Police,False,,40.294674,-76.860855
+PA0300000,Greene County Sheriff's Office,16487,PA,Middle Atlantic,Northeast,Region I,GREENE,County,False,,39.896446,-80.18677
+PA0300100,Waynesburg Police Department,16488,PA,Middle Atlantic,Northeast,Region I,GREENE,City,False,,39.847707,-80.225655
+PA0300300,County Detective: ,34384,PA,Middle Atlantic,Northeast,Region I,GREENE,Other,False,,,
+PA0300400,"Cumberland Township Police Department, Greene County",16490,PA,Middle Atlantic,Northeast,Region I,GREENE,City,False,,,
+PA0300800,State Park Rangers: Ryerson Station,25385,PA,Middle Atlantic,Northeast,Region I,GREENE,Other State Agency,False,,39.847707,-80.225655
+PA0301200,Greene County Regional Police Department,27551,PA,Middle Atlantic,Northeast,Region I,GREENE,City,False,,,
+PA030BF0X,Bureau of Forestry: ,34288,PA,Middle Atlantic,Northeast,Region I,GREENE,Other State Agency,False,,,
+PA030DE0X,Office of Attorney General Region 3: ,34618,PA,Middle Atlantic,Northeast,Region I,GREENE,Other State Agency,False,,,
+PA030SP00,State Police: Greene County,16495,PA,Middle Atlantic,Northeast,Region I,GREENE,State Police,True,2021-01-01T00:00:00.000Z,39.895542,-80.146515
+PA0310100,Huntingdon Police Department,16497,PA,Middle Atlantic,Northeast,Region I,HUNTINGDON,City,False,,40.422321,-77.968584
+PA0310200,Mount Union Police Department,16498,PA,Middle Atlantic,Northeast,Region I,HUNTINGDON,City,False,,40.422321,-77.968584
+PA0310900,State Park Rangers: Trough Creek,25386,PA,Middle Atlantic,Northeast,Region I,HUNTINGDON,Other State Agency,False,,40.422321,-77.968584
+PA0311000,State Park Rangers: Greenwood Furnace,23244,PA,Middle Atlantic,Northeast,Region I,HUNTINGDON,Other State Agency,False,,40.422321,-77.968584
+PA031139E,Juniata College,34390,PA,Middle Atlantic,Northeast,Region I,HUNTINGDON,University or College,False,,,
+PA031BF0X,Bureau of Forestry: ,34290,PA,Middle Atlantic,Northeast,Region I,HUNTINGDON,Other State Agency,False,,,
+PA031DE0X,Office of Attorney General Region 2: ,34564,PA,Middle Atlantic,Northeast,Region I,HUNTINGDON,Other State Agency,False,,,
+PA031SP00,State Police: Huntingdon County,16502,PA,Middle Atlantic,Northeast,Region I,HUNTINGDON,State Police,True,2021-01-01T00:00:00.000Z,40.422321,-77.968584
+PA0320000,Indiana County Sheriff's Office,16503,PA,Middle Atlantic,Northeast,Region I,INDIANA,County,False,,40.651432,-79.087545
+PA0320100,Blairsville Police Department,16504,PA,Middle Atlantic,Northeast,Region I,INDIANA,City,False,,40.43105,-79.26049
+PA0320200,Homer City Police Department,16505,PA,Middle Atlantic,Northeast,Region I,INDIANA,City,False,,40.54021,-79.15958
+PA0320300,Indiana Police Department,16506,PA,Middle Atlantic,Northeast,Region I,INDIANA,City,False,,40.6241,-79.154655
+PA0320400,Clymer Police Department,16507,PA,Middle Atlantic,Northeast,Region I,INDIANA,City,False,,40.668484,-79.01217
+PA0320500,Cherry Tree Police Department,16508,PA,Middle Atlantic,Northeast,Region I,INDIANA,City,False,,40.651432,-79.087545
+PA0320700,Saltsburg Police Department,16509,PA,Middle Atlantic,Northeast,Region I,INDIANA,City,False,,40.651432,-79.087545
+PA0320900,County Detective: ,34386,PA,Middle Atlantic,Northeast,Region I,INDIANA,Other,False,,,
+PA0321000,Indiana University,16510,PA,Middle Atlantic,Northeast,Region I,INDIANA,University or College,False,,40.614574,-79.15767
+PA0321600,State Park Rangers: Yellow Creek,25425,PA,Middle Atlantic,Northeast,Region I,INDIANA,Other State Agency,False,,40.651432,-79.087545
+PA032BF0X,Bureau of Forestry: ,34292,PA,Middle Atlantic,Northeast,Region I,INDIANA,Other State Agency,False,,,
+PA032DE0X,Office of Attorney General Region 3: ,34620,PA,Middle Atlantic,Northeast,Region I,INDIANA,Other State Agency,False,,,
+PA032SP00,State Police: Indiana County,16514,PA,Middle Atlantic,Northeast,Region I,INDIANA,State Police,True,2021-01-01T00:00:00.000Z,40.651432,-79.087545
+PA0330000,Jefferson County Sheriff's Office,16515,PA,Middle Atlantic,Northeast,Region I,JEFFERSON,County,False,,41.332973,-79.122284
+PA0330100,Brockway Police Department,16516,PA,Middle Atlantic,Northeast,Region I,JEFFERSON,City,False,,41.248997,-78.79816
+PA0330200,Brookville Police Department,16517,PA,Middle Atlantic,Northeast,Region I,JEFFERSON,City,False,,41.151104,-79.0788
+PA0330300,Punxsutawney Police Department,16518,PA,Middle Atlantic,Northeast,Region I,JEFFERSON,City,False,,41.130287,-78.999044
+PA0330400,Reynoldsville Police Department,16519,PA,Middle Atlantic,Northeast,Region I,JEFFERSON,City,False,,41.130287,-78.999044
+PA0330700,Sykesville Police Department,16522,PA,Middle Atlantic,Northeast,Region I,JEFFERSON,City,False,,41.050358,-78.8226
+PA0331300,State Park Rangers: Clear Creek,25430,PA,Middle Atlantic,Northeast,Region I,JEFFERSON,Other State Agency,False,,41.130287,-78.999044
+PA0331400,Indiana University: ,34388,PA,Middle Atlantic,Northeast,Region I,JEFFERSON,University or College,False,,,
+PA033BF0X,Bureau of Forestry: ,34294,PA,Middle Atlantic,Northeast,Region I,JEFFERSON,Other State Agency,False,,,
+PA033DE0X,Office of Attorney General Region 3: ,34622,PA,Middle Atlantic,Northeast,Region I,JEFFERSON,Other State Agency,False,,,
+PA033SP00,State Police: Jefferson County,16527,PA,Middle Atlantic,Northeast,Region I,JEFFERSON,State Police,True,2021-01-01T00:00:00.000Z,41.1486,-78.81128
+PA0340000,Juniata County Sheriff's Office,16528,PA,Middle Atlantic,Northeast,Region I,JUNIATA,County,False,,40.530673,-77.400438
+PA0340400,Mifflin Police Department,16529,PA,Middle Atlantic,Northeast,Region I,JUNIATA,City,False,,40.530673,-77.400438
+PA034BF0X,Bureau of Forestry:,34296,PA,Middle Atlantic,Northeast,Region I,JUNIATA,Other State Agency,False,,,
+PA034DE0X,Office of Attorney General Region 2: ,34566,PA,Middle Atlantic,Northeast,Region I,JUNIATA,Other State Agency,False,,,
+PA034SP00,State Police: Juniata County,16534,PA,Middle Atlantic,Northeast,Region I,JUNIATA,State Police,True,2021-01-01T00:00:00.000Z,40.183125,-77.23638
+PA0350100,Carbondale Police Department,16536,PA,Middle Atlantic,Northeast,Region I,LACKAWANNA,City,False,,41.550587,-75.53077
+PA0350200,Dunmore Police Department,16537,PA,Middle Atlantic,Northeast,Region I,LACKAWANNA,City,False,,41.42446,-75.627716
+PA0350300,Old Forge Police Department,16538,PA,Middle Atlantic,Northeast,Region I,LACKAWANNA,City,False,,41.36968,-75.73633
+PA0350400,Scranton Police Department,16539,PA,Middle Atlantic,Northeast,Region I,LACKAWANNA,City,True,2021-01-01T00:00:00.000Z,41.374607,-75.70051
+PA0350500,Archbald Police Department,16540,PA,Middle Atlantic,Northeast,Region I,LACKAWANNA,City,False,,41.49735,-75.53952
+PA0350600,Blakely Police Department,16541,PA,Middle Atlantic,Northeast,Region I,LACKAWANNA,City,False,,41.47956,-75.59749
+PA0350700,Clarks Summit Police Department,16542,PA,Middle Atlantic,Northeast,Region I,LACKAWANNA,City,False,,41.498665,-75.70773
+PA0350800,Dickson City Police Department,16543,PA,Middle Atlantic,Northeast,Region I,LACKAWANNA,City,False,,41.458817,-75.62387
+PA0350900,Jermyn Police Department,16544,PA,Middle Atlantic,Northeast,Region I,LACKAWANNA,City,False,,41.528305,-75.55012
+PA0351100,Olyphant Police Department,16545,PA,Middle Atlantic,Northeast,Region I,LACKAWANNA,City,False,,41.467472,-75.59708
+PA0351200,Taylor Police Department,16546,PA,Middle Atlantic,Northeast,Region I,LACKAWANNA,City,False,,41.38433,-75.71006
+PA0351300,Throop Police Department,16547,PA,Middle Atlantic,Northeast,Region I,LACKAWANNA,City,False,,41.44548,-75.62125
+PA0351500,Dalton Police Department,16548,PA,Middle Atlantic,Northeast,Region I,LACKAWANNA,City,False,,41.534504,-75.736115
+PA0351600,Jessup Police Department,16549,PA,Middle Atlantic,Northeast,Region I,LACKAWANNA,City,False,,41.44025,-75.609587
+PA0351700,Mayfield Police Department,16550,PA,Middle Atlantic,Northeast,Region I,LACKAWANNA,City,False,,41.53979,-75.53756
+PA0351800,Moscow Police Department,16551,PA,Middle Atlantic,Northeast,Region I,LACKAWANNA,City,False,,41.336052,-75.51951
+PA0351900,South Abington Township Police Department,16552,PA,Middle Atlantic,Northeast,Region I,LACKAWANNA,City,False,,41.44025,-75.609587
+PA0352100,State Park Rangers: Lackawanna,23265,PA,Middle Atlantic,Northeast,Region I,LACKAWANNA,Other State Agency,False,,41.44025,-75.609587
+PA0352300,Moosic Police Department,16555,PA,Middle Atlantic,Northeast,Region I,LACKAWANNA,City,False,,41.354935,-75.7316
+PA0352400,Waverly Township Police Department,16556,PA,Middle Atlantic,Northeast,Region I,LACKAWANNA,City,False,,41.44025,-75.609587
+PA0352700,"Scott Township Police Department, Lackawanna County",16559,PA,Middle Atlantic,Northeast,Region I,LACKAWANNA,City,False,,,
+PA0352800,County Detective: Lackawanna County,16560,PA,Middle Atlantic,Northeast,Region I,LACKAWANNA,Other,False,,41.44025,-75.609587
+PA0353000,Greenfield Township Police Department,16562,PA,Middle Atlantic,Northeast,Region I,LACKAWANNA,City,False,,41.44025,-75.609587
+PA0353100,Roaring Brook Township Police Department,16563,PA,Middle Atlantic,Northeast,Region I,LACKAWANNA,City,False,,41.361904,-75.561264
+PA0353300,Covington Township Police Department,16564,PA,Middle Atlantic,Northeast,Region I,LACKAWANNA,City,False,,41.44025,-75.609587
+PA0353500,Carbondale Township,26348,PA,Middle Atlantic,Northeast,Region I,LACKAWANNA,City,False,,,
+PA0353600,Jefferson Township Police Department,25286,PA,Middle Atlantic,Northeast,Region I,LACKAWANNA,City,False,,41.44025,-75.609587
+PA0353700,Pennsylvania State University: Worthington Scranton,25596,PA,Middle Atlantic,Northeast,Region I,LACKAWANNA,University or College,False,,41.44025,-75.609587
+PA035389E,Canadian Pacific Railway,16565,PA,Middle Atlantic,Northeast,Region I,LACKAWANNA,Other,False,,,
+PA035399E,University of Scranton,34467,PA,Middle Atlantic,Northeast,Region I,LACKAWANNA,University or College,False,,,
+PA035BF0X,Bureau of Forestry: ,34298,PA,Middle Atlantic,Northeast,Region I,LACKAWANNA,Other State Agency,False,,,
+PA035DE0X,Office of Attorney General Region 1: ,34518,PA,Middle Atlantic,Northeast,Region I,LACKAWANNA,Other State Agency,False,,,
+PA035SP00,State Police: Lackawanna County,16568,PA,Middle Atlantic,Northeast,Region I,LACKAWANNA,State Police,True,2021-01-01T00:00:00.000Z,41.44025,-75.609587
+PA0360000,Lancaster  County Sheriff's Office,16569,PA,Middle Atlantic,Northeast,Region I,LANCASTER,County,False,,40.041992,-76.250198
+PA0360100,Columbia Police Department,16570,PA,Middle Atlantic,Northeast,Region I,LANCASTER,City,False,,40.041992,-76.250198
+PA0360200,Elizabethtown Police Department,16571,PA,Middle Atlantic,Northeast,Region I,LANCASTER,City,False,,40.041992,-76.250198
+PA0360300,Ephrata Police Department,16572,PA,Middle Atlantic,Northeast,Region I,LANCASTER,City,False,,40.179855,-76.17506
+PA0360500,Lancaster Police Department,16574,PA,Middle Atlantic,Northeast,Region I,LANCASTER,City,False,,40.041264,-76.30506
+PA0360600,Lititz Police Department,16575,PA,Middle Atlantic,Northeast,Region I,LANCASTER,City,False,,40.156704,-76.30725
+PA0360700,Manheim Police Department,16576,PA,Middle Atlantic,Northeast,Region I,LANCASTER,City,False,,40.164032,-76.394066
+PA0360800,Manheim Township Police Department,16577,PA,Middle Atlantic,Northeast,Region I,LANCASTER,City,False,,40.075886,-76.298225
+PA0361000,Mount Joy Police Department,16579,PA,Middle Atlantic,Northeast,Region I,LANCASTER,City,False,,40.041992,-76.250198
+PA0361100,New Holland Police Department,16580,PA,Middle Atlantic,Northeast,Region I,LANCASTER,City,False,,40.09903,-76.10034
+PA0361300,Millersville Police Department,16582,PA,Middle Atlantic,Northeast,Region I,LANCASTER,City,False,,40.005447,-76.3598
+PA0361400,West Lampeter Township Police Department,16583,PA,Middle Atlantic,Northeast,Region I,LANCASTER,City,False,,40.041992,-76.250198
+PA0361800,Christiana Police Department,16587,PA,Middle Atlantic,Northeast,Region I,LANCASTER,City,False,,40.041992,-76.250198
+PA0362000,Denver Police Department,16589,PA,Middle Atlantic,Northeast,Region I,LANCASTER,City,False,,40.22669,-76.093124
+PA0362300,East Hempfield Township Police Department,16591,PA,Middle Atlantic,Northeast,Region I,LANCASTER,City,False,,40.041992,-76.250198
+PA0362500,"Manor Township Police Department, Lancaster County",16593,PA,Middle Atlantic,Northeast,Region I,LANCASTER,City,False,,40.027744,-76.36464
+PA0362600,Northwest Lancaster County Regional Police Department,16594,PA,Middle Atlantic,Northeast,Region I,LANCASTER,City,False,,40.144543,-76.55959
+PA0362700,Pequea Township Police Department,16595,PA,Middle Atlantic,Northeast,Region I,LANCASTER,City,False,,39.9627,-76.28871
+PA0362900,Quarryville Police Department,16597,PA,Middle Atlantic,Northeast,Region I,LANCASTER,City,False,,39.893456,-76.16142
+PA0363000,Strasburg Police Department,16598,PA,Middle Atlantic,Northeast,Region I,LANCASTER,City,False,,39.98434,-76.1955
+PA0363400,West Hempfield Township Police Department,16602,PA,Middle Atlantic,Northeast,Region I,LANCASTER,City,False,,40.061794,-76.42305
+PA0363700,East Cocalico Township Police Department,16605,PA,Middle Atlantic,Northeast,Region I,LANCASTER,City,False,,40.22669,-76.093124
+PA0363800,Susquehanna Regional Police Department,16606,PA,Middle Atlantic,Northeast,Region I,LANCASTER,City,False,,40.041992,-76.250198
+PA0363900,East Earl Township Police Department,16607,PA,Middle Atlantic,Northeast,Region I,LANCASTER,City,True,2013-11-01T00:00:00.000Z,40.11361,-76.03118
+PA0364000,East Lampeter Township Police Department,16608,PA,Middle Atlantic,Northeast,Region I,LANCASTER,City,True,2022-01-01T00:00:00.000Z,40.039825,-76.22134
+PA0364500,County Detective: Lancaster County,16613,PA,Middle Atlantic,Northeast,Region I,LANCASTER,Other,False,,40.041992,-76.250198
+PA0364800,West Earl Township Police Department,16615,PA,Middle Atlantic,Northeast,Region I,LANCASTER,City,False,,40.041992,-76.250198
+PA0365000,Elizabethtown College,16616,PA,Middle Atlantic,Northeast,Region I,LANCASTER,University or College,False,,40.148903,-76.59043
+PA0365100,Millersville University,16617,PA,Middle Atlantic,Northeast,Region I,LANCASTER,University or College,False,,40.041992,-76.250198
+PA0365800,Northern Lancaster County Regional Police Department,23086,PA,Middle Atlantic,Northeast,Region I,LANCASTER,City,False,,40.2377,-76.22981
+PA0365900,State Park Rangers: Susquehannock,25387,PA,Middle Atlantic,Northeast,Region I,LANCASTER,Other State Agency,False,,,
+PA036BF0X,Bureau of Forestry: ,34300,PA,Middle Atlantic,Northeast,Region I,LANCASTER,Other State Agency,False,,,
+PA036DE0X,Office of Attorney General Region 2: ,34568,PA,Middle Atlantic,Northeast,Region I,LANCASTER,Other State Agency,False,,,
+PA036SP00,State Police: Lancaster County,16622,PA,Middle Atlantic,Northeast,Region I,LANCASTER,State Police,True,2021-01-01T00:00:00.000Z,40.041992,-76.250198
+PA0370000,Lawrence  County Sheriff's Office,16623,PA,Middle Atlantic,Northeast,Region I,LAWRENCE,County,False,,40.992735,-80.334446
+PA0370100,Ellwood City Police Department,16624,PA,Middle Atlantic,Northeast,Region I,"BEAVER, LAWRENCE",City,False,,40.858498,-80.28771
+PA0370200,New Castle Police Department,16625,PA,Middle Atlantic,Northeast,Region I,LAWRENCE,City,False,,41.002735,-80.347244
+PA0370300,"Shenango Township Police Department, Lawrence County",16626,PA,Middle Atlantic,Northeast,Region I,LAWRENCE,City,False,,40.973076,-80.313774
+PA0370400,Bessemer Police Department,16627,PA,Middle Atlantic,Northeast,Region I,LAWRENCE,City,False,,40.992735,-80.334446
+PA0370500,Neshannock Township Police Department,16628,PA,Middle Atlantic,Northeast,Region I,LAWRENCE,City,False,,41.050587,-80.33378
+PA0370600,New Wilmington Police Department,16629,PA,Middle Atlantic,Northeast,Region I,LAWRENCE,City,False,,41.123135,-80.334656
+PA0370700,North Beaver  Police Department,16630,PA,Middle Atlantic,Northeast,Region I,LAWRENCE,City,False,,40.966408,-80.426926
+PA0370800,"Union Township Police Department, Lawrence County",16631,PA,Middle Atlantic,Northeast,Region I,LAWRENCE,City,False,,41.002007,-80.37713
+PA0371000,Wayne Township Police Department,23498,PA,Middle Atlantic,Northeast,Region I,LAWRENCE,City,False,,40.86643,-80.31529
+PA0371200,County Detective: Lawrence County,25654,PA,Middle Atlantic,Northeast,Region I,LAWRENCE,Other,False,,40.992735,-80.334446
+PA0371400,Pulaski Township Police Department,16634,PA,Middle Atlantic,Northeast,Region I,LAWRENCE,City,False,,40.992735,-80.334446
+PA0371700,Wampum Police Department,16635,PA,Middle Atlantic,Northeast,Region I,LAWRENCE,City,False,,40.992735,-80.334446
+PA0371800,New Beaver Police Department,16636,PA,Middle Atlantic,Northeast,Region I,LAWRENCE,City,False,,40.992735,-80.334446
+PA0371900,Hickory Township  Police Department,16637,PA,Middle Atlantic,Northeast,Region I,LAWRENCE,City,False,,40.992735,-80.334446
+PA0372000,"Mahoning Township Police Department, Lawrence County",16638,PA,Middle Atlantic,Northeast,Region I,LAWRENCE,City,False,,,
+PA0372100,Little Beaver Township  Police Department,16639,PA,Middle Atlantic,Northeast,Region I,LAWRENCE,City,False,,40.992735,-80.334446
+PA037239E,Westminster College,34471,PA,Middle Atlantic,Northeast,Region I,LAWRENCE,University or College,False,,,
+PA037BF0X,Bureau of Forestry: ,34302,PA,Middle Atlantic,Northeast,Region I,LAWRENCE,Other State Agency,False,,,
+PA037DE0X,Office of Attorney General Region 3: ,34624,PA,Middle Atlantic,Northeast,Region I,LAWRENCE,Other State Agency,False,,,
+PA037SP00,State Police: Lawrence County,16642,PA,Middle Atlantic,Northeast,Region I,LAWRENCE,State Police,True,2021-01-01T00:00:00.000Z,41.065224,-80.360054
+PA0380100,Annville Township Police Department,16644,PA,Middle Atlantic,Northeast,Region I,LEBANON,City,False,,40.329697,-76.517426
+PA0380200,Lebanon Police Department,16645,PA,Middle Atlantic,Northeast,Region I,LEBANON,City,False,,40.367344,-76.458009
+PA0380300,Palmyra Police Department,16646,PA,Middle Atlantic,Northeast,Region I,LEBANON,City,True,2021-07-01T00:00:00.000Z,40.367344,-76.458009
+PA0380600,South Lebanon Township Police Department,16649,PA,Middle Atlantic,Northeast,Region I,LEBANON,City,False,,40.367344,-76.458009
+PA0380800,Cleona Police Department,25388,PA,Middle Atlantic,Northeast,Region I,LEBANON,Other State Agency,False,,40.33744,-76.41349
+PA0380900,Cornwall Police Department,16652,PA,Middle Atlantic,Northeast,Region I,LEBANON,City,False,,40.367344,-76.458009
+PA0381200,North Cornwall Township Police Department,16655,PA,Middle Atlantic,Northeast,Region I,LEBANON,City,False,,40.333412,-76.44141
+PA0381300,North Lebanon Township Police Department,16656,PA,Middle Atlantic,Northeast,Region I,LEBANON,City,False,,40.365482,-76.41117
+PA0381400,Cleona Police Department,16657,PA,Middle Atlantic,Northeast,Region I,LEBANON,City,False,,40.33744,-76.41349
+PA0381600,North Londonderry Township Police Department,16658,PA,Middle Atlantic,Northeast,Region I,LEBANON,City,False,,40.367344,-76.458009
+PA0382100,County Detective: Lebanon County,16661,PA,Middle Atlantic,Northeast,Region I,LEBANON,Other,False,,40.333393,-76.42378
+PA0382200,South Londonderry Township Police Department,16662,PA,Middle Atlantic,Northeast,Region I,LEBANON,City,True,2021-12-01T00:00:00.000Z,40.367344,-76.458009
+PA0382300,West Lebanon Township Police Department,16663,PA,Middle Atlantic,Northeast,Region I,LEBANON,City,False,,40.34446,-76.45022
+PA0382400,"Millcreek Township Police Department, Lebanon County",16664,PA,Middle Atlantic,Northeast,Region I,LEBANON,City,False,,,
+PA0382500,Fort Indiantown Gap,16665,PA,Middle Atlantic,Northeast,Region I,LEBANON,Other,False,,40.367344,-76.458009
+PA038BF0X,Bureau of Forestry: ,34304,PA,Middle Atlantic,Northeast,Region I,LEBANON,Other State Agency,False,,,
+PA038DE0X,Office of Attorney General Region 2: ,34570,PA,Middle Atlantic,Northeast,Region I,LEBANON,Other State Agency,False,,,
+PA038SP00,State Police: Lebanon County,16668,PA,Middle Atlantic,Northeast,Region I,LEBANON,State Police,True,2021-01-01T00:00:00.000Z,40.431187,-76.50493
+PA0390000,Lehigh County Sheriff's Office,16669,PA,Middle Atlantic,Northeast,Region I,LEHIGH,County,False,,40.610233,-75.44639
+PA0390100,Allentown Police Department,16670,PA,Middle Atlantic,Northeast,Region I,LEHIGH,City,False,,40.610153,-75.44659
+PA0390200,Catasauqua Police Department,16671,PA,Middle Atlantic,Northeast,Region I,LEHIGH,City,False,,40.65374,-75.47418
+PA0390300,Coopersburg Police Department,16672,PA,Middle Atlantic,Northeast,Region I,LEHIGH,City,False,,40.511448,-75.390854
+PA0390400,Emmaus Police Department,16673,PA,Middle Atlantic,Northeast,Region I,LEHIGH,City,False,,40.53404,-75.491394
+PA0390500,Fountain Hill Police Department,16674,PA,Middle Atlantic,Northeast,Region I,LEHIGH,City,False,,40.60512,-75.39206
+PA0390600,Salisbury Township Police Department,16675,PA,Middle Atlantic,Northeast,Region I,LEHIGH,City,False,,40.56441,-75.44921
+PA0390700,Slatington Police Department,16676,PA,Middle Atlantic,Northeast,Region I,LEHIGH,City,False,,40.750504,-75.605515
+PA0390800,Whitehall Township Police Department,16677,PA,Middle Atlantic,Northeast,Region I,LEHIGH,City,True,2022-09-01T00:00:00.000Z,40.65474,-75.49844
+PA0390900,Coplay Police Department,16678,PA,Middle Atlantic,Northeast,Region I,LEHIGH,City,False,,40.67022,-75.49187
+PA0391100,Upper Saucon Township Police Department,16680,PA,Middle Atlantic,Northeast,Region I,LEHIGH,City,False,,40.53528,-75.40316
+PA0391200,Macungie Police Department,16681,PA,Middle Atlantic,Northeast,Region I,LEHIGH,City,False,,40.514797,-75.55704
+PA0391300,South Whitehall Township Police Department,16682,PA,Middle Atlantic,Northeast,Region I,LEHIGH,City,False,,40.611725,-75.56682
+PA0391400,Alburtis Police Department,16683,PA,Middle Atlantic,Northeast,Region I,LEHIGH,City,False,,40.614241,-75.590627
+PA0391900,County Detective: Lehigh County,16685,PA,Middle Atlantic,Northeast,Region I,LEHIGH,Other,False,,40.61023,-75.44639
+PA0392100,Lehigh Valley International Airport,16686,PA,Middle Atlantic,Northeast,Region I,LEHIGH,Other,False,,40.655144,-75.42878
+PA039249E,Desales University ,34368,PA,Middle Atlantic,Northeast,Region I,LEHIGH,University or College,False,,,
+PA0392700,Upper Macungie Township Police Department,23256,PA,Middle Atlantic,Northeast,Region I,LEHIGH,City,False,,40.56693,-75.62926
+PA0392900,Lehigh Career and Technical Institute,34400,PA,Middle Atlantic,Northeast,Region I,LEHIGH,University or College,False,,,
+PA0393100,Pennsylvania State University:,27552,PA,Middle Atlantic,Northeast,Region I,LEHIGH,University or College,False,,,
+PA039BF0X,Bureau of Forestry:,34306,PA,Middle Atlantic,Northeast,Region I,LEHIGH,Other State Agency,False,,,
+PA039DE0X,Office of Attorney General Region 1: ,34520,PA,Middle Atlantic,Northeast,Region I,LEHIGH,Other State Agency,False,,,
+PA039SP00,State Police: Lehigh County,16689,PA,Middle Atlantic,Northeast,Region I,LEHIGH,State Police,True,2021-01-01T00:00:00.000Z,40.614241,-75.590627
+PA03BCI0X,"State Police, Bureau of Criminal Investigation: Armstrong County",16690,PA,Middle Atlantic,Northeast,Region I,ARMSTRONG,State Police,False,,,
+PA0400100,Dallas Police Department,16692,PA,Middle Atlantic,Northeast,Region I,LUZERNE,City,False,,41.335674,-75.96281
+PA0400200,Dupont Police Department,16693,PA,Middle Atlantic,Northeast,Region I,LUZERNE,City,False,,41.31965,-75.74863
+PA0400300,Duryea Police Department,16694,PA,Middle Atlantic,Northeast,Region I,LUZERNE,City,False,,41.350792,-75.76391
+PA0400400,Edwardsville Police Department,16695,PA,Middle Atlantic,Northeast,Region I,LUZERNE,City,False,,41.26432,-75.90523
+PA0400500,Freeland Police Department,16696,PA,Middle Atlantic,Northeast,Region I,LUZERNE,City,False,,41.172787,-75.976035
+PA0400600,"Hanover Township Police Department, Luzerne County",16697,PA,Middle Atlantic,Northeast,Region I,LUZERNE,City,False,,41.225445,-75.93432
+PA0400700,Hazleton Police Department,16698,PA,Middle Atlantic,Northeast,Region I,LUZERNE,City,False,,41.172787,-75.976035
+PA0400800,Kingston Police Department,16699,PA,Middle Atlantic,Northeast,Region I,LUZERNE,City,False,,41.172787,-75.976035
+PA0400900,Luzerne Police Department,16700,PA,Middle Atlantic,Northeast,Region I,LUZERNE,City,False,,41.172787,-75.976035
+PA0401000,Nanticoke Police Department,16701,PA,Middle Atlantic,Northeast,Region I,LUZERNE,City,False,,41.199192,-76.00124
+PA0401100,Pittston Police Department,16702,PA,Middle Atlantic,Northeast,Region I,LUZERNE,City,False,,41.172787,-75.976035
+PA0401200,Plymouth Police Department,16703,PA,Middle Atlantic,Northeast,Region I,LUZERNE,City,False,,41.242863,-75.95062
+PA0401300,Wilkes-Barre Police Department,16704,PA,Middle Atlantic,Northeast,Region I,LUZERNE,City,False,,41.272366,-75.91723
+PA0401400,Wyoming Police Department,16705,PA,Middle Atlantic,Northeast,Region I,LUZERNE,City,False,,41.172787,-75.976035
+PA0401500,Ashley Police Department,16706,PA,Middle Atlantic,Northeast,Region I,LUZERNE,City,False,,41.21422,-75.89933
+PA0401600,Avoca Police Department,16707,PA,Middle Atlantic,Northeast,Region I,LUZERNE,City,False,,41.338696,-75.741165
+PA0401700,Exeter Police Department,16708,PA,Middle Atlantic,Northeast,Region I,LUZERNE,City,False,,41.172787,-75.976035
+PA0401800,Forty Fort Police Department,16709,PA,Middle Atlantic,Northeast,Region I,LUZERNE,City,True,2022-10-01T00:00:00.000Z,41.28529,-75.8732
+PA0401900,Larksville Police Department,16710,PA,Middle Atlantic,Northeast,Region I,LUZERNE,City,False,,41.264694,-75.92542
+PA0402000,Newport Township Police Department,16711,PA,Middle Atlantic,Northeast,Region I,LUZERNE,City,False,,41.176582,-76.038155
+PA0402100,Plains Township Police Department,16712,PA,Middle Atlantic,Northeast,Region I,LUZERNE,City,False,,41.2903,-75.804115
+PA0402200,Sugar Notch Police Department,16713,PA,Middle Atlantic,Northeast,Region I,LUZERNE,City,False,,41.172787,-75.976035
+PA0402300,Swoyersville Police Department,16714,PA,Middle Atlantic,Northeast,Region I,LUZERNE,City,False,,41.305714,-75.86965
+PA0402400,West Hazleton Police Department,16715,PA,Middle Atlantic,Northeast,Region I,LUZERNE,City,False,,40.95775,-75.99247
+PA0402500,West Pittston Police Department,16716,PA,Middle Atlantic,Northeast,Region I,LUZERNE,City,False,,41.33367,-75.79929
+PA0402600,West Wyoming Police Department,16717,PA,Middle Atlantic,Northeast,Region I,LUZERNE,City,False,,41.172787,-75.976035
+PA0402700,Wilkes-Barre Township Police Department,16718,PA,Middle Atlantic,Northeast,Region I,LUZERNE,City,False,,41.22712,-75.87171
+PA0402900,Conyngham Police Department,16719,PA,Middle Atlantic,Northeast,Region I,LUZERNE,City,False,,41.172787,-75.976035
+PA0403000,State Park Rangers: Ricketts Glen,25292,PA,Middle Atlantic,Northeast,Region I,LUZERNE,Other State Agency,False,,41.172787,-75.976035
+PA0403100,"Fairview Township Police Department, Luzerne County",16720,PA,Middle Atlantic,Northeast,Region I,LUZERNE,City,False,,41.151527,-75.88333
+PA0403300,Lehman Township Police Department,16722,PA,Middle Atlantic,Northeast,Region I,LUZERNE,City,False,,41.172787,-75.976035
+PA0403400,Nescopeck Police Department,16723,PA,Middle Atlantic,Northeast,Region I,LUZERNE,City,False,,41.053753,-76.22091
+PA0403800,White Haven Borough Police Department,16726,PA,Middle Atlantic,Northeast,Region I,LUZERNE,City,False,,41.06135,-75.773285
+PA0403900,Wright Township Police Department,16727,PA,Middle Atlantic,Northeast,Region I,LUZERNE,City,False,,41.134808,-75.903725
+PA0404000,Harveys Lake Police Department,16728,PA,Middle Atlantic,Northeast,Region I,LUZERNE,City,False,,41.172787,-75.976035
+PA0404100,"Jackson Township Police Department, Luzerne County",16729,PA,Middle Atlantic,Northeast,Region I,LUZERNE,City,False,,41.29935,-75.973816
+PA0404400,"Exeter Township Police Department, Luzerne County",16731,PA,Middle Atlantic,Northeast,Region I,LUZERNE,City,False,,,
+PA0404500,Jenkins Township Police Department,16732,PA,Middle Atlantic,Northeast,Region I,LUZERNE,City,False,,41.172787,-75.976035
+PA0404700,"Salem Township Police Department, Luzerne County",16733,PA,Middle Atlantic,Northeast,Region I,LUZERNE,City,False,,41.06771,-76.21288
+PA0404900,Pittston Township Police Department,16734,PA,Middle Atlantic,Northeast,Region I,LUZERNE,City,False,,41.318214,-75.77875
+PA0405000,Dallas Township Police Department,16735,PA,Middle Atlantic,Northeast,Region I,LUZERNE,City,False,2023-01-01T00:00:00.000Z,41.172787,-75.976035
+PA0405100,Kingston Township Police Department,16736,PA,Middle Atlantic,Northeast,Region I,LUZERNE,City,False,,41.327374,-75.9308
+PA0405500,County Detective: Luzerne County,16737,PA,Middle Atlantic,Northeast,Region I,LUZERNE,Other,False,,41.27997,-75.87229
+PA0405600,"Butler Township Police Department, Luzerne County",16738,PA,Middle Atlantic,Northeast,Region I,LUZERNE,City,False,,41.014385,-76.00398
+PA0405700,Rice Township Police Department,16739,PA,Middle Atlantic,Northeast,Region I,LUZERNE,City,False,,41.14681,-75.95773
+PA0406000,"Sugarloaf Township Police Department, Luzerne County",16740,PA,Middle Atlantic,Northeast,Region I,LUZERNE,City,False,,,
+PA0406100,Courtdale Police Department,16741,PA,Middle Atlantic,Northeast,Region I,LUZERNE,City,False,,41.27998,-75.91294
+PA0406500,Hughestown Police Department,16744,PA,Middle Atlantic,Northeast,Region I,LUZERNE,City,False,,41.326714,-75.785385
+PA0407100,Pennsylvania State University: Hazleton,16745,PA,Middle Atlantic,Northeast,Region I,LUZERNE,University or College,False,,40.98473,-76.03081
+PA0407200,Pennsylvania State University: Wilkes-Barre,25631,PA,Middle Atlantic,Northeast,Region I,LUZERNE,University or College,False,,41.172787,-75.976035
+PA0407500,State Park Rangers: Frances Slocum,23284,PA,Middle Atlantic,Northeast,Region I,LUZERNE,Other State Agency,False,,41.3482,-75.891106
+PA0407800,Wilkes-Barre Area School District,16746,PA,Middle Atlantic,Northeast,Region I,LUZERNE,Other,False,,41.26916,-75.909966
+PA0407900,Wyoming Area School District,23141,PA,Middle Atlantic,Northeast,Region I,LUZERNE,Other,False,,41.323368,-75.810295
+PA040859E,Wilkes University,29094,PA,Middle Atlantic,Northeast,Region I,LUZERNE,University or College,False,,,
+PA040BF0X,Bureau of Forestry: ,34308,PA,Middle Atlantic,Northeast,Region I,LUZERNE,Other State Agency,False,,,
+PA040DE0X,Office of Attorney General Region 1: ,34522,PA,Middle Atlantic,Northeast,Region I,LUZERNE,Other State Agency,False,,,
+PA040SP00,State Police: Luzerne County,16749,PA,Middle Atlantic,Northeast,Region I,LUZERNE,State Police,True,2021-01-01T00:00:00.000Z,40.977283,-76.02468
+PA0410000,Lycoming County Sheriff's Office,16750,PA,Middle Atlantic,Northeast,Region I,LYCOMING,County,False,,41.240692,-77.00193
+PA0410100,Tiadaghton Valley Regional Police Department,16751,PA,Middle Atlantic,Northeast,Region I,LYCOMING,City,False,,41.203648,-77.255
+PA0410200,Montoursville Police Department,16752,PA,Middle Atlantic,Northeast,Region I,LYCOMING,City,False,,41.25751,-76.922005
+PA0410300,Muncy Police Department,16753,PA,Middle Atlantic,Northeast,Region I,LYCOMING,City,False,,41.34362,-77.055225
+PA0410400,South Williamsport Police Department,16754,PA,Middle Atlantic,Northeast,Region I,LYCOMING,City,False,,41.232227,-76.99831
+PA0410500,Williamsport Police Department,16755,PA,Middle Atlantic,Northeast,Region I,LYCOMING,City,False,,41.24036,-77.00589
+PA0410800,Hughesville Police Department,16757,PA,Middle Atlantic,Northeast,Region I,LYCOMING,City,False,,41.235615,-76.72198
+PA0410900,Montgomery Police Department,16758,PA,Middle Atlantic,Northeast,Region I,LYCOMING,City,False,,41.171585,-76.87729
+PA0411500,Old Lycoming Township Police Department,16760,PA,Middle Atlantic,Northeast,Region I,LYCOMING,City,False,,41.34362,-77.055225
+PA0411700,Muncy Township Police Department,23945,PA,Middle Atlantic,Northeast,Region I,LYCOMING,City,False,,41.242695,-76.80092
+PA0412100,State Park Rangers: Little Pine,25389,PA,Middle Atlantic,Northeast,Region I,LYCOMING,Other State Agency,False,,41.34362,-77.055225
+PA0412500,Loyalsock Township School District,34404,PA,Middle Atlantic,Northeast,Region I,LYCOMING,Other,False,,,
+PA0412600,Montgomery Area School District,34414,PA,Middle Atlantic,Northeast,Region I,LYCOMING,Other,False,,,
+PA041BF0X,Bureau of Forestry: ,34310,PA,Middle Atlantic,Northeast,Region I,LYCOMING,Other State Agency,False,,,
+PA041DE0X,Office of Attorney General Region 2: ,34572,PA,Middle Atlantic,Northeast,Region I,LYCOMING,Other State Agency,False,,,
+PA041SP00,State Police: Lycoming County,16764,PA,Middle Atlantic,Northeast,Region I,LYCOMING,State Police,True,2021-01-01T00:00:00.000Z,41.24915,-76.91398
+PA0420100,Bradford Police Department,16766,PA,Middle Atlantic,Northeast,Region I,MCKEAN,City,False,,41.95654,-78.64737
+PA0420200,Kane Police Department,16767,PA,Middle Atlantic,Northeast,Region I,MCKEAN,City,False,,41.661198,-78.80932
+PA0420300,Port Allegany Police Department,16768,PA,Middle Atlantic,Northeast,Region I,MCKEAN,City,False,,41.811737,-78.2805
+PA0420400,Bradford Township Police Department,16769,PA,Middle Atlantic,Northeast,Region I,MCKEAN,City,False,,41.93141,-78.65207
+PA0420500,Foster Township Police Department,16770,PA,Middle Atlantic,Northeast,Region I,MCKEAN,City,False,,41.989273,-78.61736
+PA0420700,Otto Eldred Regional Police Department,16772,PA,Middle Atlantic,Northeast,Region I,MCKEAN,City,False,,41.81459,-78.572463
+PA0420800,Smethport Police Department,16773,PA,Middle Atlantic,Northeast,Region I,MCKEAN,City,False,,41.809586,-78.44318
+PA0421100,County Detective: McKean County,23299,PA,Middle Atlantic,Northeast,Region I,MCKEAN,Other,False,,41.811337,-78.43707
+PA0421500,University of Pittsburgh: Bradford,16775,PA,Middle Atlantic,Northeast,Region I,MCKEAN,University or College,False,,41.948418,-78.66883
+PA042BF0X,Bureau of Forestry: ,34312,PA,Middle Atlantic,Northeast,Region I,MCKEAN,Other State Agency,False,,,
+PA042DE0X,Office of Attorney General Region 3: ,34626,PA,Middle Atlantic,Northeast,Region I,MCKEAN,Other State Agency,False,,,
+PA042SP00,State Police: McKean County,16778,PA,Middle Atlantic,Northeast,Region I,MCKEAN,State Police,True,2021-01-01T00:00:00.000Z,41.81459,-78.572463
+PA0430000,Mercer County Sheriff's Office,16779,PA,Middle Atlantic,Northeast,Region I,MERCER,County,False,,41.225105,-80.23991
+PA0430200,Greenville Police Department,16781,PA,Middle Atlantic,Northeast,Region I,MERCER,City,False,,41.300014,-80.252786
+PA0430300,Grove City Police Department,16782,PA,Middle Atlantic,Northeast,Region I,MERCER,City,False,,41.158787,-80.079216
+PA0430400,Hermitage Police Department,16783,PA,Middle Atlantic,Northeast,Region I,MERCER,City,False,,41.22321,-80.452965
+PA0430500,Mercer Police Department,16784,PA,Middle Atlantic,Northeast,Region I,MERCER,City,False,,41.22806,-80.23794
+PA0430600,Sharon Police Department,16785,PA,Middle Atlantic,Northeast,Region I,MERCER,City,False,,41.23026,-80.512985
+PA0430700,Sharpsville Police Department,16786,PA,Middle Atlantic,Northeast,Region I,MERCER,City,False,,41.26262,-80.47529
+PA0430800,Pymatuning Township Police Department,16787,PA,Middle Atlantic,Northeast,Region I,MERCER,City,False,,41.300014,-80.252786
+PA0430900,"Hempfield Township Police Department, Mercer County",16788,PA,Middle Atlantic,Northeast,Region I,MERCER,City,False,,41.39376,-80.372444
+PA0431000,Sandy Lake Police Department,16789,PA,Middle Atlantic,Northeast,Region I,MERCER,City,True,2021-10-01T00:00:00.000Z,41.300014,-80.252786
+PA0431100,Shenango Township Police Department,16790,PA,Middle Atlantic,Northeast,Region I,MERCER,City,False,,41.300014,-80.252786
+PA0431400,Stoneboro Police Department,16793,PA,Middle Atlantic,Northeast,Region I,MERCER,City,False,,41.339104,-80.10702
+PA0431500,"Jefferson Township Police Department, Mercer County",16794,PA,Middle Atlantic,Northeast,Region I,MERCER,City,False,,,
+PA0432100,Jamestown Police Department,16797,PA,Middle Atlantic,Northeast,Region I,MERCER,City,True,2020-08-01T00:00:00.000Z,41.300014,-80.252786
+PA0432400,South Pymatuning Township Police Department,16799,PA,Middle Atlantic,Northeast,Region I,MERCER,City,False,,41.281067,-80.48511
+PA043259E,Thiel College,34438,PA,Middle Atlantic,Northeast,Region I,MERCER,University or College,False,,,
+PA0432600,State Park Rangers: Maurice K. Goddard,23307,PA,Middle Atlantic,Northeast,Region I,MERCER,Other State Agency,False,,41.300014,-80.252786
+PA0432800,Farrell,26349,PA,Middle Atlantic,Northeast,Region I,MERCER,City,False,,,
+PA043BF0X,Bureau of Forestry: ,34314,PA,Middle Atlantic,Northeast,Region I,MERCER,Other State Agency,False,,,
+PA043DE0X,Office of Attorney General Region 3: ,34628,PA,Middle Atlantic,Northeast,Region I,MERCER,Other State Agency,False,,,
+PA043SP00,State Police: Mercer County,16802,PA,Middle Atlantic,Northeast,Region I,MERCER,State Police,True,2021-01-01T00:00:00.000Z,41.263557,-80.17558
+PA0440100,Mifflin County Regional Police Department,16804,PA,Middle Atlantic,Northeast,Region I,MIFFLIN,City,False,,40.634007,-77.58102
+PA0440700,Granville Township Police Department,16808,PA,Middle Atlantic,Northeast,Region I,MIFFLIN,City,False,,40.58998,-77.57761
+PA0441100,State Park Rangers: Reeds Gap,25390,PA,Middle Atlantic,Northeast,Region I,MIFFLIN,Other State Agency,False,,40.61189,-77.620661
+PA0441200,Lewistown Police Department,16810,PA,Middle Atlantic,Northeast,Region I,MIFFLIN,City,False,,40.598545,-77.57556
+PA044BF0X,Bureau of Forestry: ,34316,PA,Middle Atlantic,Northeast,Region I,MIFFLIN,Other State Agency,False,,,
+PA044DE0X,Office of Attorney General Region 2: ,34574,PA,Middle Atlantic,Northeast,Region I,MIFFLIN,Other State Agency,False,,,
+PA044SP00,State Police: Mifflin County,16813,PA,Middle Atlantic,Northeast,Region I,MIFFLIN,State Police,True,2021-01-01T00:00:00.000Z,40.634007,-77.58102
+PA0450000,Monroe County Sheriff's Office,16814,PA,Middle Atlantic,Northeast,Region I,MONROE,County,False,,41.05624,-75.329065
+PA0450100,Delaware Water Gap Police Department,16815,PA,Middle Atlantic,Northeast,Region I,MONROE,City,False,,41.05624,-75.329065
+PA0450700,Pocono Township Police Department,16821,PA,Middle Atlantic,Northeast,Region I,MONROE,City,False,,41.05624,-75.329065
+PA0450800,Stroud Area Regional Police Department,16822,PA,Middle Atlantic,Northeast,Region I,MONROE,City,False,2023-01-01T00:00:00.000Z,40.999195,-75.18668
+PA0450900,Pocono Mountain Regional Police Department,16823,PA,Middle Atlantic,Northeast,Region I,MONROE,City,False,,41.05624,-75.329065
+PA0451000,County Detective: Monroe County,23235,PA,Middle Atlantic,Northeast,Region I,MONROE,Other,False,,40.986588,-75.19453
+PA0451100,East Stroudsburg University,16824,PA,Middle Atlantic,Northeast,Region I,MONROE,University or College,False,,40.9971,-75.17144
+PA0451200,State Park Rangers: Tobyhanna,25290,PA,Middle Atlantic,Northeast,Region I,MONROE,Other State Agency,False,,41.05624,-75.329065
+PA045BF0X,Bureau of Forestry: ,34318,PA,Middle Atlantic,Northeast,Region I,MONROE,Other State Agency,False,,,
+PA045DE0X,Office of Attorney General Region 1: ,34524,PA,Middle Atlantic,Northeast,Region I,MONROE,Other State Agency,False,,,
+PA045SP00,State Police: Monroe County,16828,PA,Middle Atlantic,Northeast,Region I,MONROE,State Police,True,2021-01-01T00:00:00.000Z,41.05624,-75.329065
+PA0460000,Montgomery County Sheriff's Office,16829,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,County,False,,40.209999,-75.370201
+PA0460100,Abington Township Police Department,16830,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,City,False,,40.116787,-75.12057
+PA0460200,Ambler Police Department,16831,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,City,False,,40.154785,-75.22126
+PA0460300,Bridgeport Police Department,16832,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,City,False,,40.209999,-75.370201
+PA0460400,Bryn Athyn Police Department,16833,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,City,False,,40.209999,-75.370201
+PA0460500,Cheltenham Township Police Department,16834,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,City,False,,40.082043,-75.12711
+PA0460600,Collegeville Police Department,16835,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,City,False,,40.256855,-75.46376
+PA0460700,Conshohocken Police Department,16836,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,City,False,,40.079075,-75.30114
+PA0460800,East Norriton Township Police Department,16837,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,City,False,,40.209999,-75.370201
+PA0460900,Hatboro Police Department,16838,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,City,False,,40.17804,-75.10128
+PA0461000,Horsham Township Police Department,16839,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,City,False,,40.209999,-75.370201
+PA0461100,Jenkintown Police Department,16840,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,City,False,,40.0943,-75.12669
+PA0461200,Lansdale Police Department,16841,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,City,False,,40.241356,-75.28672
+PA0461300,Lower Gwynedd Township Police Department,16842,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,City,False,,40.209999,-75.370201
+PA0461400,Lower Merion Township Police Department,16843,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,City,False,,40.00618,-75.28757
+PA0461500,Lower Moreland Township Police Department,16844,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,City,False,,40.209999,-75.370201
+PA0461600,Lower Pottsgrove Township Police Department,16845,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,City,False,,40.25385,-75.58842
+PA0461700,Lower Providence Township Police Department,16846,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,City,False,,40.16107,-75.40705
+PA0461800,Montgomery Township Police Department,16847,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,City,False,,40.209999,-75.370201
+PA0461900,Norristown Police Department,16848,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,City,False,,40.114376,-75.33891
+PA0462000,North Wales Police Department,16849,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,City,False,,40.21266,-75.279076
+PA0462100,"Plymouth Township Police Department, Montgomery County",16850,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,City,False,,,
+PA0462200,Pottstown Police Department,16851,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,City,False,,40.209999,-75.370201
+PA0462300,"Springfield Township Police Department, Montgomery County",16852,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,City,False,,,
+PA0462400,Rockledge Police Department,16853,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,City,False,,40.08209,-75.09063
+PA0462500,Royersford Police Department,16854,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,City,False,,40.183838,-75.5408
+PA0462600,Souderton Police Department,16855,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,City,False,,40.209999,-75.370201
+PA0462700,Upper Dublin Township Police Department,16856,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,City,False,,40.209999,-75.370201
+PA0462800,Upper Gwynedd Township Police Department,16857,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,City,False,,40.209999,-75.370201
+PA0462900,Upper Merion Township Police Department,16858,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,City,False,,40.10308,-75.365616
+PA0463000,Upper Moreland Township Police Department,16859,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,City,False,,40.14413,-75.117645
+PA0463100,West Norriton Township Police Department,16860,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,City,False,,40.129494,-75.36553
+PA0463200,Whitemarsh Township Police Department,16861,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,City,False,,40.087276,-75.25336
+PA0463300,Whitpain Township Police Department,16862,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,City,False,,40.209999,-75.370201
+PA0463500,Narberth Police Department,16863,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,City,False,,40.209999,-75.370201
+PA0463600,West Conshohocken Police Department,16864,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,City,False,,40.067127,-75.32686
+PA0463700,Telford Police Department,16865,PA,Middle Atlantic,Northeast,Region I,"BUCKS, MONTGOMERY",City,False,,40.209999,-75.370201
+PA0463800,"Upper Providence Township, Montgomery County",16866,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,City,False,,,
+PA0463900,State Park Rangers: Evansburg,23250,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,Other State Agency,False,,40.197376,-75.407455
+PA0464100,Hatfield Township Police Department,16868,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,City,False,,40.285416,-75.285904
+PA0464200,Lower Frederick Township Police Department,16869,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,City,False,,40.209999,-75.370201
+PA0464300,Lower Salford Township Police Department,16870,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,City,False,,40.209999,-75.370201
+PA0464600,Upper Pottsgrove Township Police Department,16872,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,City,False,,40.277706,-75.64667
+PA0464800,West Pottsgrove Township Police Department,16874,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,City,False,,40.209999,-75.370201
+PA0464900,"Douglass Township, Montgomery County",16875,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,City,False,,40.320686,-75.61098
+PA0465100,Franconia Township Police Department,16877,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,City,False,,40.209999,-75.370201
+PA0465200,County Detective: Montgomery County,16878,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,Other,False,,40.209999,-75.370201
+PA0465300,Limerick Township Police Department,16879,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,City,False,,40.209999,-75.370201
+PA0465400,New Hanover Township Police Department,16880,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,City,False,,40.302433,-75.58217
+PA0465600,State Park Rangers: Fort Washington,23301,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,Other State Agency,False,,40.13113,-75.216324
+PA0465700,Marlborough Township Police Department,16882,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,City,False,,40.209999,-75.370201
+PA0465900,Towamencin Township Police Department,16884,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,City,False,,40.209999,-75.370201
+PA0466000,Upper Perkiomen,16876,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,City,False,,,
+PA0466200,Pennsylvania State University:,27339,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,University or College,False,,,
+PA0466900,East Greenville,27248,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,City,False,,,
+PA046BF0X,Bureau of Forestry: ,34320,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,Other State Agency,False,,,
+PA046DE0X,Office of Attorney General Region 1: ,34526,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,Other State Agency,False,,,
+PA046SP00,State Police: Skippack,16887,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,State Police,True,2021-01-01T00:00:00.000Z,40.209999,-75.370201
+PA0470100,Danville Police Department,16889,PA,Middle Atlantic,Northeast,Region I,MONTOUR,City,False,,40.961903,-76.61777
+PA0470200,"Mahoning Township Police Department, Montour County",16890,PA,Middle Atlantic,Northeast,Region I,MONTOUR,City,False,,40.9653,-76.598404
+PA0470300,County Detective: Montour County,23085,PA,Middle Atlantic,Northeast,Region I,MONTOUR,Other,False,,40.959698,-76.61924
+PA047BF0X,Bureau of Forestry: ,34322,PA,Middle Atlantic,Northeast,Region I,MONTOUR,Other State Agency,False,,,
+PA047DE0X,Office of Attorney General Region 2: ,34576,PA,Middle Atlantic,Northeast,Region I,MONTOUR,Other State Agency,False,,,
+PA047SP00,State Police: Montour County,16893,PA,Middle Atlantic,Northeast,Region I,MONTOUR,State Police,True,2021-01-01T00:00:00.000Z,41.029261,-76.665259
+PA0480000,Northampton County Sheriff's Office,16894,PA,Middle Atlantic,Northeast,Region I,NORTHAMPTON,County,False,,40.68706,-75.21745
+PA0480100,Bangor Police Department,16895,PA,Middle Atlantic,Northeast,Region I,NORTHAMPTON,City,False,,40.86778,-75.20641
+PA0480200,Colonial Regional Police Department,16896,PA,Middle Atlantic,Northeast,Region I,NORTHAMPTON,City,False,,40.752791,-75.307447
+PA0480300,Bethlehem Police Department,16897,PA,Middle Atlantic,Northeast,Region I,"LEHIGH, NORTHAMPTON",City,True,2022-12-01T00:00:00.000Z,40.625484,-75.33419
+PA0480400,Easton Police Department,16898,PA,Middle Atlantic,Northeast,Region I,NORTHAMPTON,City,False,,40.66601,-75.235176
+PA0480500,Hellertown Police Department,16899,PA,Middle Atlantic,Northeast,Region I,NORTHAMPTON,City,False,,40.752791,-75.307447
+PA0480600,"Lehigh Township Police Department, Northampton County",16900,PA,Middle Atlantic,Northeast,Region I,NORTHAMPTON,City,False,,40.776165,-75.55153
+PA0480700,Nazareth  Police Department,16901,PA,Middle Atlantic,Northeast,Region I,NORTHAMPTON,City,False,,40.73969,-75.311905
+PA0480800,Northampton Police Department,16902,PA,Middle Atlantic,Northeast,Region I,NORTHAMPTON,City,False,,40.683475,-75.49101
+PA0480900,Palmer Township Police Department,16903,PA,Middle Atlantic,Northeast,Region I,NORTHAMPTON,City,False,,40.752791,-75.307447
+PA0481000,Wilson Police Department,16904,PA,Middle Atlantic,Northeast,Region I,NORTHAMPTON,City,False,,40.68409,-75.24159
+PA0481200,Bethlehem Township Police Department,16906,PA,Middle Atlantic,Northeast,Region I,NORTHAMPTON,City,False,,40.752791,-75.307447
+PA0481300,Bushkill Township Police Department,16907,PA,Middle Atlantic,Northeast,Region I,NORTHAMPTON,City,False,,40.79878,-75.33245
+PA0481400,East Bangor Police Department,16908,PA,Middle Atlantic,Northeast,Region I,NORTHAMPTON,City,False,,40.879463,-75.18421
+PA0481500,Forks Township Police Department,16909,PA,Middle Atlantic,Northeast,Region I,NORTHAMPTON,City,False,,40.712894,-75.218445
+PA0481700,Lower Saucon Township Police Department,16911,PA,Middle Atlantic,Northeast,Region I,NORTHAMPTON,City,False,,40.586395,-75.38862
+PA0481800,Moore Township Police Department,16912,PA,Middle Atlantic,Northeast,Region I,NORTHAMPTON,City,False,,40.752791,-75.307447
+PA0481900,North Catasauqua Police Department,16913,PA,Middle Atlantic,Northeast,Region I,NORTHAMPTON,City,False,,40.752791,-75.307447
+PA0482100,Portland Police Department,16915,PA,Middle Atlantic,Northeast,Region I,NORTHAMPTON,City,False,,40.752791,-75.307447
+PA0482200,Roseto Police Department,16916,PA,Middle Atlantic,Northeast,Region I,NORTHAMPTON,City,False,,40.878487,-75.21427
+PA0482300,Tatamy Police Department,16917,PA,Middle Atlantic,Northeast,Region I,NORTHAMPTON,City,False,,40.752791,-75.307447
+PA0482500,"Washington Township Police Department, Northampton County",16919,PA,Middle Atlantic,Northeast,Region I,NORTHAMPTON,City,False,,40.83227,-75.223595
+PA0482800,Walnutport Police Department,16921,PA,Middle Atlantic,Northeast,Region I,NORTHAMPTON,City,False,,40.75189,-75.59461
+PA0483000,County Detective:,35886,PA,Middle Atlantic,Northeast,Region I,NORTHAMPTON,Other,False,,,
+PA0483100,Freemansburg Police Department,16922,PA,Middle Atlantic,Northeast,Region I,NORTHAMPTON,City,False,,40.6259,-75.34045
+PA0483200,Upper Nazareth Township Police Department,16923,PA,Middle Atlantic,Northeast,Region I,NORTHAMPTON,City,False,,40.751488,-75.298096
+PA0483400,Stockertown Police Department,16924,PA,Middle Atlantic,Northeast,Region I,NORTHAMPTON,City,False,,40.752791,-75.307447
+PA048359E,Lehigh University,16925,PA,Middle Atlantic,Northeast,Region I,NORTHAMPTON,University or College,False,,,
+PA048369E,Moravian College,16926,PA,Middle Atlantic,Northeast,Region I,NORTHAMPTON,University or College,False,,40.6321,-75.38183
+PA0483700,Bangor Area School District,16927,PA,Middle Atlantic,Northeast,Region I,NORTHAMPTON,Other,False,,40.88744,-75.152466
+PA0483800,State Park Rangers: Jacobsburg Environmental Education Center,25391,PA,Middle Atlantic,Northeast,Region I,NORTHAMPTON,Other State Agency,False,,40.752791,-75.307447
+PA0484100,Easton Area School District,16928,PA,Middle Atlantic,Northeast,Region I,NORTHAMPTON,Other,False,,40.752791,-75.307447
+PA048439E,Lafayette College ,34394,PA,Middle Atlantic,Northeast,Region I,NORTHAMPTON,University or College,False,,,
+PA0484800,Slate Belt Regional Police Department,25616,PA,Middle Atlantic,Northeast,Region I,NORTHAMPTON,City,False,,,
+PA048BF0X,Bureau of Forestry: ,34324,PA,Middle Atlantic,Northeast,Region I,NORTHAMPTON,Other State Agency,False,,,
+PA048DE0X,Office of Attorney General Region 1: ,34528,PA,Middle Atlantic,Northeast,Region I,NORTHAMPTON,Other State Agency,False,,,
+PA048SP00,State Police: Northampton County,16931,PA,Middle Atlantic,Northeast,Region I,NORTHAMPTON,State Police,True,2021-01-01T00:00:00.000Z,40.773144,-75.27
+PA0490000,Northumberland County Sheriff's Office,16932,PA,Middle Atlantic,Northeast,Region I,NORTHUMBERLAND,County,False,,40.862114,-76.79484
+PA0490100,Milton Police Department,16933,PA,Middle Atlantic,Northeast,Region I,NORTHUMBERLAND,City,False,,41.020256,-76.85222
+PA0490200,Mount Carmel Police Department,16934,PA,Middle Atlantic,Northeast,Region I,NORTHUMBERLAND,City,False,,40.79621,-76.410614
+PA0490300,Northumberland Police Department,16935,PA,Middle Atlantic,Northeast,Region I,NORTHUMBERLAND,City,False,,40.89152,-76.794136
+PA0490400,Shamokin Police Department,16936,PA,Middle Atlantic,Northeast,Region I,NORTHUMBERLAND,City,False,,40.851524,-76.709877
+PA0490500,Sunbury Police Department,16937,PA,Middle Atlantic,Northeast,Region I,NORTHUMBERLAND,City,False,,40.860977,-76.79035
+PA0490600,Coal Township Police Department,16938,PA,Middle Atlantic,Northeast,Region I,NORTHUMBERLAND,City,False,,40.78806,-76.56569
+PA0490700,Kulpmont Police Department,16939,PA,Middle Atlantic,Northeast,Region I,NORTHUMBERLAND,City,False,,40.794846,-76.47192
+PA0490900,Zerbe Township Police Department,16940,PA,Middle Atlantic,Northeast,Region I,NORTHUMBERLAND,City,False,,40.78262,-76.678314
+PA0491200,Ralpho Township Police Department,16941,PA,Middle Atlantic,Northeast,Region I,NORTHUMBERLAND,City,False,,40.851524,-76.709877
+PA0491300,Riverside Police Department,16942,PA,Middle Atlantic,Northeast,Region I,NORTHUMBERLAND,City,False,,40.851524,-76.709877
+PA0491400,Watsontown Police Department,16943,PA,Middle Atlantic,Northeast,Region I,NORTHUMBERLAND,City,False,,40.851524,-76.709877
+PA0491600,Point Township Police Department,16944,PA,Middle Atlantic,Northeast,Region I,NORTHUMBERLAND,City,False,,40.918793,-76.81919
+PA0491800,Mount Carmel Township Police Department,16945,PA,Middle Atlantic,Northeast,Region I,NORTHUMBERLAND,City,False,,40.851524,-76.709877
+PA0492100,State Park Rangers: Shikellamy,25392,PA,Middle Atlantic,Northeast,Region I,NORTHUMBERLAND,Other State Agency,False,,40.851524,-76.709877
+PA049BF0X,Bureau of Forestry: ,34326,PA,Middle Atlantic,Northeast,Region I,NORTHUMBERLAND,Other State Agency,False,,,
+PA049DE0X,Office of Attorney General Region 2: ,34578,PA,Middle Atlantic,Northeast,Region I,NORTHUMBERLAND,Other State Agency,False,,,
+PA049SP00,State Police: Northumberland County,16949,PA,Middle Atlantic,Northeast,Region I,NORTHUMBERLAND,State Police,True,2021-01-01T00:00:00.000Z,40.851524,-76.709877
+PA04BCI0X,"State Police, Bureau of Criminal Investigation: Beaver County",16950,PA,Middle Atlantic,Northeast,Region I,BEAVER,State Police,False,,40.294674,-76.860855
+PA0500100,Marysville Police Department,16952,PA,Middle Atlantic,Northeast,Region I,PERRY,City,False,,40.39778,-77.266328
+PA0501500,State Park Rangers: Little Buffalo,23283,PA,Middle Atlantic,Northeast,Region I,PERRY,Other State Agency,False,,40.39778,-77.266328
+PA050BF0X,Bureau of Forestry: ,34328,PA,Middle Atlantic,Northeast,Region I,PERRY,Other State Agency,False,,,
+PA050DE0X,Office of Attorney General Region 2: ,34580,PA,Middle Atlantic,Northeast,Region I,PERRY,Other State Agency,False,,,
+PA050SP00,State Police: Perry County,16960,PA,Middle Atlantic,Northeast,Region I,PERRY,State Police,True,2021-01-01T00:00:00.000Z,40.490772,-77.114075
+PA0510600,Temple University,35424,PA,Middle Atlantic,Northeast,Region I,PHILADELPHIA,University or College,False,,,
+PA051189E,Drexel University ,34370,PA,Middle Atlantic,Northeast,Region I,PHILADELPHIA,University or College,False,,,
+PA0512600,State Park Rangers: Ben Rush,23289,PA,Middle Atlantic,Northeast,Region I,PHILADELPHIA,Other State Agency,False,,40.13113,-75.216324
+PA051BF0X,Bureau of Forestry: ,34330,PA,Middle Atlantic,Northeast,Region I,PHILADELPHIA,Other State Agency,False,,,
+PA051DE0X,Office of Attorney General Region 1: ,34530,PA,Middle Atlantic,Northeast,Region I,PHILADELPHIA,Other State Agency,False,,,
+PA051SP00,State Police: Philadelphia County,16965,PA,Middle Atlantic,Northeast,Region I,PHILADELPHIA,State Police,True,2021-01-01T00:00:00.000Z,39.99555,-75.21833
+PA0520000,Pike County Sheriff's Office,16966,PA,Middle Atlantic,Northeast,Region I,PIKE,County,False,,41.324516,-74.80054
+PA0520200,Milford Police Department,16968,PA,Middle Atlantic,Northeast,Region I,PIKE,City,False,,41.325949,-75.031514
+PA0520300,County Detective: Pike County,16969,PA,Middle Atlantic,Northeast,Region I,PIKE,Other,False,,41.32456,-74.80048
+PA0520400,Eastern Pike Regional Police Department,16970,PA,Middle Atlantic,Northeast,Region I,PIKE,City,False,,41.371593,-74.69973
+PA0520600,Shohola Township Police Department,16972,PA,Middle Atlantic,Northeast,Region I,PIKE,City,False,,41.370556,-74.9038
+PA0520700,State Park Rangers: Promised Land,25289,PA,Middle Atlantic,Northeast,Region I,PIKE,Other State Agency,False,,41.325949,-75.031514
+PA052BF0X,Bureau of Forestry: ,34332,PA,Middle Atlantic,Northeast,Region I,PIKE,Other State Agency,False,,,
+PA052DE0X,Office of Attorney General Region 1: ,34532,PA,Middle Atlantic,Northeast,Region I,PIKE,Other State Agency,False,,,
+PA052SP00,State Police: Pike County,16975,PA,Middle Atlantic,Northeast,Region I,PIKE,State Police,True,2021-01-01T00:00:00.000Z,41.325949,-75.031514
+PA0530100,Coudersport Police Department,16977,PA,Middle Atlantic,Northeast,Region I,POTTER,City,False,,41.775597,-78.022194
+PA0530200,Galeton Police Department,16978,PA,Middle Atlantic,Northeast,Region I,POTTER,City,False,,41.732307,-77.64077
+PA0530400,Shinglehouse Police Department,16980,PA,Middle Atlantic,Northeast,Region I,POTTER,City,False,,41.748587,-77.894436
+PA0531300,Sweden Township Police Department,16982,PA,Middle Atlantic,Northeast,Region I,POTTER,City,False,,41.757977,-77.950874
+PA0531400,State Park Rangers: Ole Bull,25393,PA,Middle Atlantic,Northeast,Region I,POTTER,Other State Agency,False,,40.200005,-80.252132
+PA0531500,State Park Rangers: Lyman Run,25394,PA,Middle Atlantic,Northeast,Region I,POTTER,Other State Agency,False,,41.748587,-77.894436
+PA053BF0X,Bureau of Forestry: ,34334,PA,Middle Atlantic,Northeast,Region I,POTTER,Other State Agency,False,,,
+PA053DE0X,Office of Attorney General Region 2: ,34582,PA,Middle Atlantic,Northeast,Region I,POTTER,Other State Agency,False,,,
+PA053SP00,State Police: Potter County,16985,PA,Middle Atlantic,Northeast,Region I,POTTER,State Police,True,2021-01-01T00:00:00.000Z,41.748587,-77.894436
+PA0540000,Schuylkill  County Sheriff's Office,16986,PA,Middle Atlantic,Northeast,Region I,SCHUYLKILL,County,False,,40.688305,-76.19832
+PA0540200,Frackville Police Department,16988,PA,Middle Atlantic,Northeast,Region I,SCHUYLKILL,City,False,,40.783447,-76.23461
+PA0540300,Girardville Police Department,16989,PA,Middle Atlantic,Northeast,Region I,SCHUYLKILL,City,False,,40.703682,-76.217788
+PA0540500,Mahanoy City Police Department,16991,PA,Middle Atlantic,Northeast,Region I,SCHUYLKILL,City,False,,40.812244,-76.138916
+PA0540600,Minersville Police Department,16992,PA,Middle Atlantic,Northeast,Region I,SCHUYLKILL,City,False,,40.69043,-76.25795
+PA0540700,Pottsville Police Department,16993,PA,Middle Atlantic,Northeast,Region I,SCHUYLKILL,City,False,,40.68771,-76.197014
+PA0540800,St. Clair Boro Police Department,16994,PA,Middle Atlantic,Northeast,Region I,SCHUYLKILL,City,False,,40.719845,-76.190575
+PA0540900,Schuylkill Haven Police Department,16995,PA,Middle Atlantic,Northeast,Region I,SCHUYLKILL,City,False,,40.627518,-76.12421
+PA0541000,Shenandoah Police Department,16996,PA,Middle Atlantic,Northeast,Region I,SCHUYLKILL,City,False,,40.823364,-76.202194
+PA0541100,Tamaqua Police Department,16997,PA,Middle Atlantic,Northeast,Region I,SCHUYLKILL,City,False,,40.796623,-75.97702
+PA0541200,Ashland Police Department,16998,PA,Middle Atlantic,Northeast,Region I,SCHUYLKILL,City,False,,40.77952,-76.35154
+PA0541300,Coaldale Police Department,16999,PA,Middle Atlantic,Northeast,Region I,SCHUYLKILL,City,False,,40.703682,-76.217788
+PA0541500,Hegins Township Police Department,17001,PA,Middle Atlantic,Northeast,Region I,SCHUYLKILL,City,False,,40.703682,-76.217788
+PA0541600,New Philadelphia Police Department,17002,PA,Middle Atlantic,Northeast,Region I,SCHUYLKILL,City,False,,40.7211,-76.11683
+PA0541700,Port Carbon Police Department,17003,PA,Middle Atlantic,Northeast,Region I,SCHUYLKILL,City,False,,40.703682,-76.217788
+PA0542000,Mahanoy Township Police Department,17006,PA,Middle Atlantic,Northeast,Region I,SCHUYLKILL,City,False,,40.703682,-76.217788
+PA0542200,Orwigsburg Police Department,17008,PA,Middle Atlantic,Northeast,Region I,SCHUYLKILL,City,False,,40.703682,-76.217788
+PA0542400,Pine Grove Police Department,17010,PA,Middle Atlantic,Northeast,Region I,SCHUYLKILL,City,False,,40.54913,-76.38475
+PA0542600,Ringtown Police Department,17011,PA,Middle Atlantic,Northeast,Region I,SCHUYLKILL,City,False,,40.703682,-76.217788
+PA0542700,Schuylkill Township Police Department,17012,PA,Middle Atlantic,Northeast,Region I,SCHUYLKILL,City,False,,40.703682,-76.217788
+PA0542800,Tower City Police Department,17013,PA,Middle Atlantic,Northeast,Region I,SCHUYLKILL,City,False,,40.58959,-76.55712
+PA0543000,"Union Township Police Department, Schuylkill County",17015,PA,Middle Atlantic,Northeast,Region I,SCHUYLKILL,City,False,,40.86188,-76.23264
+PA0543100,"Butler Township Police Department, Schuylkill County",17016,PA,Middle Atlantic,Northeast,Region I,SCHUYLKILL,City,False,,40.771168,-76.326836
+PA0543200,Cass Township Police Department,17017,PA,Middle Atlantic,Northeast,Region I,SCHUYLKILL,City,False,,40.703682,-76.217788
+PA0543400,Ryan Township Police Department,17018,PA,Middle Atlantic,Northeast,Region I,SCHUYLKILL,City,False,,40.703682,-76.217788
+PA0543500,County Detective: Schuylkill County,17019,PA,Middle Atlantic,Northeast,Region I,SCHUYLKILL,Other,False,,40.688305,-76.19832
+PA0543600,Rush Township Police Department,17020,PA,Middle Atlantic,Northeast,Region I,SCHUYLKILL,City,False,,40.822018,-75.98968
+PA0543700,West Mahanoy Township Police Department,17021,PA,Middle Atlantic,Northeast,Region I,SCHUYLKILL,City,False,,40.82566,-76.20683
+PA0543800,Kline Township Police Department,17022,PA,Middle Atlantic,Northeast,Region I,SCHUYLKILL,City,False,,40.703682,-76.217788
+PA0544200,North Union Township Police Department,17026,PA,Middle Atlantic,Northeast,Region I,SCHUYLKILL,City,False,,40.703682,-76.217788
+PA0544300,West Penn Township Police Department,17027,PA,Middle Atlantic,Northeast,Region I,SCHUYLKILL,City,False,,40.74995,-75.9012
+PA0544500,Walker Township Police Department,17028,PA,Middle Atlantic,Northeast,Region I,SCHUYLKILL,City,False,,40.703682,-76.217788
+PA0544700,Branch Township Police Department,17029,PA,Middle Atlantic,Northeast,Region I,SCHUYLKILL,City,False,,40.703682,-76.217788
+PA0545200,Pennsylvania State University: Schuylkill,17034,PA,Middle Atlantic,Northeast,Region I,SCHUYLKILL,University or College,False,,40.64197,-76.167206
+PA0545300,East Union Township Police Department,17035,PA,Middle Atlantic,Northeast,Region I,SCHUYLKILL,City,False,,40.703682,-76.217788
+PA0545400,State Park Rangers: Tuscarora,23949,PA,Middle Atlantic,Northeast,Region I,SCHUYLKILL,Other State Agency,False,,40.703682,-76.217788
+PA0545700,Foster Township Police Department,23146,PA,Middle Atlantic,Northeast,Region I,SCHUYLKILL,City,False,,40.706352,-76.32887
+PA054BF0X,Bureau of Forestry: ,34336,PA,Middle Atlantic,Northeast,Region I,SCHUYLKILL,Other State Agency,False,,,
+PA054DE0X,Office of Attorney General Region 1: ,34534,PA,Middle Atlantic,Northeast,Region I,SCHUYLKILL,Other State Agency,False,,,
+PA054SP00,State Police: Schuylkill County,17038,PA,Middle Atlantic,Northeast,Region I,SCHUYLKILL,State Police,True,2021-01-01T00:00:00.000Z,40.703682,-76.217788
+PA0550000,Snyder County Sheriff's Office,17039,PA,Middle Atlantic,Northeast,Region I,SNYDER,County,False,,40.792522,-77.04613
+PA0550100,Selinsgrove Police Department,17040,PA,Middle Atlantic,Northeast,Region I,SNYDER,City,False,,40.799637,-76.86337
+PA0550200,Middleburg Police Department,17041,PA,Middle Atlantic,Northeast,Region I,SNYDER,City,False,,40.79262,-77.04618
+PA0550300,Shamokin Dam Police Department,17042,PA,Middle Atlantic,Northeast,Region I,SNYDER,City,False,,40.755353,-77.072953
+PA055BF0X,Bureau of Forestry: ,34338,PA,Middle Atlantic,Northeast,Region I,SNYDER,Other State Agency,False,,,
+PA055DE0X,Office of Attorney General Region 2: ,34584,PA,Middle Atlantic,Northeast,Region I,SNYDER,Other State Agency,False,,,
+PA055SP00,State Police: Snyder County,17046,PA,Middle Atlantic,Northeast,Region I,SNYDER,State Police,True,2021-01-01T00:00:00.000Z,40.755353,-77.072953
+PA0560100,Meyersdale Police Department,17048,PA,Middle Atlantic,Northeast,Region I,SOMERSET,City,False,,39.981297,-79.028486
+PA0560200,Somerset Police Department,17049,PA,Middle Atlantic,Northeast,Region I,SOMERSET,City,False,,39.981297,-79.028486
+PA0560300,Windber Police Department,17050,PA,Middle Atlantic,Northeast,Region I,SOMERSET,City,False,,39.981297,-79.028486
+PA0560400,Berlin Police Department,17051,PA,Middle Atlantic,Northeast,Region I,SOMERSET,City,False,,39.92163,-78.95445
+PA0560500,Boswell Police Department,17052,PA,Middle Atlantic,Northeast,Region I,SOMERSET,City,False,,39.981297,-79.028486
+PA0560600,Central City Police Department,17053,PA,Middle Atlantic,Northeast,Region I,SOMERSET,City,False,,40.105907,-78.80734
+PA0560700,"Conemaugh Township Police Department, Somerset County",17054,PA,Middle Atlantic,Northeast,Region I,SOMERSET,City,False,,40.257977,-78.91224
+PA0560900,Hooversville Police Department,17056,PA,Middle Atlantic,Northeast,Region I,SOMERSET,City,False,,39.981297,-79.028486
+PA0561100,Jennerstown Police Department,17058,PA,Middle Atlantic,Northeast,Region I,SOMERSET,City,False,,39.981297,-79.028486
+PA0561700,Indian Lake Police Department,17061,PA,Middle Atlantic,Northeast,Region I,SOMERSET,City,False,,40.024597,-78.87002
+PA0561800,Rockwood Police Department,17062,PA,Middle Atlantic,Northeast,Region I,SOMERSET,City,False,,39.916557,-79.15413
+PA0562500,Elk Lick Township Police Department,17066,PA,Middle Atlantic,Northeast,Region I,SOMERSET,City,False,,39.981297,-79.028486
+PA0562600,Summit Township Police Department,17067,PA,Middle Atlantic,Northeast,Region I,SOMERSET,City,False,,39.981297,-79.028486
+PA0562700,State Park Rangers: Kooser,23227,PA,Middle Atlantic,Northeast,Region I,SOMERSET,Other State Agency,False,,39.981297,-79.028486
+PA0562800,State Park Rangers: Laurel Ridge,23276,PA,Middle Atlantic,Northeast,Region I,SOMERSET,Other State Agency,False,,39.981297,-79.028486
+PA0562900,State Park Rangers: Laurel Hill,23274,PA,Middle Atlantic,Northeast,Region I,SOMERSET,Other State Agency,False,,40.009586,-79.22356
+PA056BF0X,Bureau of Forestry: ,34340,PA,Middle Atlantic,Northeast,Region I,SOMERSET,Other State Agency,False,,,
+PA056DE0X,Office of Attorney General Region 3: ,34630,PA,Middle Atlantic,Northeast,Region I,SOMERSET,Other State Agency,False,,,
+PA056SP00,State Police: Somerset County,17070,PA,Middle Atlantic,Northeast,Region I,SOMERSET,State Police,True,2021-01-01T00:00:00.000Z,40.029655,-79.083565
+PA0570400,State Park Rangers: Worlds End,25288,PA,Middle Atlantic,Northeast,Region I,SULLIVAN,Other State Agency,False,,41.43979,-76.511525
+PA057BF0X,Bureau of Forestry: ,34342,PA,Middle Atlantic,Northeast,Region I,SULLIVAN,Other State Agency,False,,,
+PA057DE0X,Office of Attorney General Region 1: ,34536,PA,Middle Atlantic,Northeast,Region I,SULLIVAN,Other State Agency,False,,,
+PA057SP00,State Police: Sullivan County,17075,PA,Middle Atlantic,Northeast,Region I,SULLIVAN,State Police,True,2021-01-01T00:00:00.000Z,41.43979,-76.511525
+PA0580100,Susquehanna  Police Department,17077,PA,Middle Atlantic,Northeast,Region I,SUSQUEHANNA,City,False,,41.819665,-75.800969
+PA0580200,Forest City Police Department,17078,PA,Middle Atlantic,Northeast,Region I,"LACKAWANNA, SUSQUEHANNA",City,False,,41.819665,-75.800969
+PA0580300,Lanesboro Police Department,17079,PA,Middle Atlantic,Northeast,Region I,SUSQUEHANNA,City,False,,41.819665,-75.800969
+PA0580400,Montrose Police Department,17080,PA,Middle Atlantic,Northeast,Region I,SUSQUEHANNA,City,False,,41.819665,-75.800969
+PA0581300,Silver Lake Township Police Department,17086,PA,Middle Atlantic,Northeast,Region I,SUSQUEHANNA,City,False,,41.819665,-75.800969
+PA0581900,Great Bend Police Department,25287,PA,Middle Atlantic,Northeast,Region I,SUSQUEHANNA,City,False,,41.819665,-75.800969
+PA058BF0X,Bureau of Forestry: ,34344,PA,Middle Atlantic,Northeast,Region I,SUSQUEHANNA,Other State Agency,False,,,
+PA058DE0X,Office of Attorney General Region 1: ,34538,PA,Middle Atlantic,Northeast,Region I,SUSQUEHANNA,Other State Agency,False,,,
+PA058SP00,State Police: Susquehanna County,17091,PA,Middle Atlantic,Northeast,Region I,SUSQUEHANNA,State Police,True,2021-01-01T00:00:00.000Z,41.819665,-75.800969
+PA0590000,Tioga County Sheriff's Office,17092,PA,Middle Atlantic,Northeast,Region I,TIOGA,County,False,,41.766859,-77.257288
+PA0590100,Wellsboro Police Department,17093,PA,Middle Atlantic,Northeast,Region I,TIOGA,City,False,,41.766859,-77.257288
+PA0590200,Mansfield Police Department,17094,PA,Middle Atlantic,Northeast,Region I,TIOGA,City,False,,41.80688,-77.07885
+PA0590300,Blossburg Police Department,17095,PA,Middle Atlantic,Northeast,Region I,TIOGA,City,False,,41.68118,-77.06476
+PA0590400,Elkland Police Department,17096,PA,Middle Atlantic,Northeast,Region I,TIOGA,City,False,,41.98656,-77.3133
+PA0590600,"Lawrence Township Police Department, Tioga County",17097,PA,Middle Atlantic,Northeast,Region I,TIOGA,City,False,,41.982613,-77.11866
+PA0590700,Westfield Police Department,17098,PA,Middle Atlantic,Northeast,Region I,TIOGA,City,False,,41.92147,-77.532776
+PA0590900,Mansfield University,17099,PA,Middle Atlantic,Northeast,Region I,TIOGA,University or College,False,,41.80308,-77.07238
+PA0591100,Lawrenceville Police Department,23102,PA,Middle Atlantic,Northeast,Region I,TIOGA,City,False,,41.766859,-77.257288
+PA0591200,Tioga Police Department,17100,PA,Middle Atlantic,Northeast,Region I,TIOGA,City,False,,41.90766,-77.133415
+PA0591700,Osceola Township Police Department,17102,PA,Middle Atlantic,Northeast,Region I,TIOGA,City,False,,41.766859,-77.257288
+PA0591800,Gaines Township Police Department,17103,PA,Middle Atlantic,Northeast,Region I,TIOGA,City,False,,41.751667,-77.554924
+PA0592000,State Park Rangers: Hills Creek,25395,PA,Middle Atlantic,Northeast,Region I,TIOGA,Other State Agency,False,,41.766859,-77.257288
+PA0592100,State Park Rangers: Leonard Harrison,25396,PA,Middle Atlantic,Northeast,Region I,TIOGA,Other State Agency,False,,41.766859,-77.257288
+PA059BF0X,Bureau of Forestry: ,34346,PA,Middle Atlantic,Northeast,Region I,TIOGA,Other State Agency,False,,,
+PA059DE0X,Office of Attorney General Region 2: ,34586,PA,Middle Atlantic,Northeast,Region I,TIOGA,Other State Agency,False,,,
+PA059SP00,State Police: Tioga County,17107,PA,Middle Atlantic,Northeast,Region I,TIOGA,State Police,True,2021-01-01T00:00:00.000Z,41.8072,-77.077515
+PA05BCI0X,"State Police, Bureau of Criminal Investigation: Bedford County",17108,PA,Middle Atlantic,Northeast,Region I,BEDFORD,State Police,False,,40.294674,-76.860855
+PA0600000,Union County Sheriff's Office,17109,PA,Middle Atlantic,Northeast,Region I,UNION,County,True,2022-01-01T00:00:00.000Z,40.963734,-76.88233
+PA0600300,Mifflinburg Police Department,17112,PA,Middle Atlantic,Northeast,Region I,UNION,City,True,2021-10-01T00:00:00.000Z,40.929447,-77.05431
+PA0600600,New Berlin Police Department,17113,PA,Middle Atlantic,Northeast,Region I,UNION,City,False,,40.962179,-77.055475
+PA0600800,Hartleton Police Department,17115,PA,Middle Atlantic,Northeast,Region I,UNION,City,False,,40.962179,-77.055475
+PA0600900,State Park Rangers: Raymond B. Winter,25397,PA,Middle Atlantic,Northeast,Region I,UNION,Other State Agency,False,,40.962179,-77.055475
+PA0601100,Buffalo Valley Regional Police Department,23187,PA,Middle Atlantic,Northeast,Region I,UNION,City,False,,40.962179,-77.055475
+PA060BF0X,Bureau of Forestry: ,34348,PA,Middle Atlantic,Northeast,Region I,UNION,Other State Agency,False,,,
+PA060DE0X,Office of Attorney General Region 2: ,34588,PA,Middle Atlantic,Northeast,Region I,UNION,Other State Agency,False,,,
+PA060SP00,State Police: Union County,17118,PA,Middle Atlantic,Northeast,Region I,UNION,State Police,True,2021-01-01T00:00:00.000Z,40.962179,-77.055475
+PA0610100,Franklin Police Department,17120,PA,Middle Atlantic,Northeast,Region I,VENANGO,City,False,,41.39759,-79.831535
+PA0610200,Oil City Police Department,17121,PA,Middle Atlantic,Northeast,Region I,VENANGO,City,False,,41.43294,-79.70821
+PA0610500,Sugarcreek Police Department,17123,PA,Middle Atlantic,Northeast,Region I,VENANGO,City,False,,41.40753,-79.826805
+PA0611100,Emlenton Borough Police Department,17124,PA,Middle Atlantic,Northeast,Region I,"CLARION, VENANGO",City,False,,41.40198,-79.754418
+PA0611400,Polk Police Department,17125,PA,Middle Atlantic,Northeast,Region I,VENANGO,City,False,,41.40198,-79.754418
+PA0611500,State Park Rangers: Oil Creek,23258,PA,Middle Atlantic,Northeast,Region I,VENANGO,Other State Agency,False,,41.51294,-79.67862
+PA061BF0X,Bureau of Forestry: ,34350,PA,Middle Atlantic,Northeast,Region I,VENANGO,Other State Agency,False,,,
+PA061DE0X,Office of Attorney General Region 3: ,34632,PA,Middle Atlantic,Northeast,Region I,VENANGO,Other State Agency,False,,,
+PA061SP00,State Police: Venango County,17128,PA,Middle Atlantic,Northeast,Region I,VENANGO,State Police,True,2021-01-01T00:00:00.000Z,41.40198,-79.754418
+PA0620000,Warren County Sheriff's Office,17129,PA,Middle Atlantic,Northeast,Region I,WARREN,County,False,,41.84826,-79.14625
+PA0620100,Warren Police Department,17130,PA,Middle Atlantic,Northeast,Region I,WARREN,City,False,,41.846287,-79.148186
+PA0620200,Conewango Township Police Department,17131,PA,Middle Atlantic,Northeast,Region I,WARREN,City,False,,41.8403,-79.205284
+PA0620600,Youngsville Police Department,17134,PA,Middle Atlantic,Northeast,Region I,WARREN,City,False,,41.851112,-79.3169
+PA0620700,County Detective: Warren County,25398,PA,Middle Atlantic,Northeast,Region I,WARREN,Other,False,,41.843669,-79.313173
+PA0621200,State Park Rangers: Chapman,25399,PA,Middle Atlantic,Northeast,Region I,WARREN,Other State Agency,False,,41.843669,-79.313173
+PA062BF0X,Bureau of Forestry: ,34352,PA,Middle Atlantic,Northeast,Region I,WARREN,Other State Agency,False,,,
+PA062DE0X,Office of Attorney General Region 3: ,34634,PA,Middle Atlantic,Northeast,Region I,WARREN,Other State Agency,False,,,
+PA062SP00,State Police: Warren County,17139,PA,Middle Atlantic,Northeast,Region I,WARREN,State Police,True,2021-01-01T00:00:00.000Z,41.843669,-79.313173
+PA0630000,Washington County Sheriff's Office,17140,PA,Middle Atlantic,Northeast,Region I,WASHINGTON,County,False,,40.171257,-80.24282
+PA0630100,Canonsburg Police Department,17141,PA,Middle Atlantic,Northeast,Region I,WASHINGTON,City,False,,40.25907,-80.18511
+PA0630300,Monongahela Police Department,17143,PA,Middle Atlantic,Northeast,Region I,WASHINGTON,City,False,,40.203613,-79.92723
+PA0630400,Peters Township Police Department,17144,PA,Middle Atlantic,Northeast,Region I,WASHINGTON,City,False,,40.200005,-80.252132
+PA0630500,"Washington Police Department, Washington County",17145,PA,Middle Atlantic,Northeast,Region I,WASHINGTON,City,False,,,
+PA0630600,Donora Police Department,17146,PA,Middle Atlantic,Northeast,Region I,WASHINGTON,City,False,,40.17786,-79.85522
+PA0630700,California Police Department,17147,PA,Middle Atlantic,Northeast,Region I,WASHINGTON,City,False,,40.066727,-79.89201
+PA0630900,McDonald Borough Police Department,17149,PA,Middle Atlantic,Northeast,Region I,"ALLEGHENY, WASHINGTON",City,True,2021-10-01T00:00:00.000Z,40.37005,-80.23433
+PA0631000,Bentleyville Police Department,17150,PA,Middle Atlantic,Northeast,Region I,WASHINGTON,City,False,,40.121326,-80.005974
+PA0631400,"Carroll Township Police Department, Washington County",17153,PA,Middle Atlantic,Northeast,Region I,WASHINGTON,City,False,,40.1692,-79.914505
+PA0631500,Cecil Township Police Department,17154,PA,Middle Atlantic,Northeast,Region I,WASHINGTON,City,True,2022-05-01T00:00:00.000Z,40.318935,-80.2055
+PA0631600,Centerville Police Department,17155,PA,Middle Atlantic,Northeast,Region I,WASHINGTON,City,False,,40.200005,-80.252132
+PA0631700,Chartiers Township Police Department,17156,PA,Middle Atlantic,Northeast,Region I,WASHINGTON,City,False,,40.224365,-80.21785
+PA0632100,Donegal Township Police Department,17160,PA,Middle Atlantic,Northeast,Region I,WASHINGTON,City,False,,40.200005,-80.252132
+PA0632300,East Washington Police Department,17162,PA,Middle Atlantic,Northeast,Region I,WASHINGTON,City,False,,40.172626,-80.23419
+PA0632600,Houston Police Department,17164,PA,Middle Atlantic,Northeast,Region I,WASHINGTON,City,False,,40.24924,-80.211494
+PA0633200,Smith Township Police Department,17170,PA,Middle Atlantic,Northeast,Region I,WASHINGTON,City,False,,40.200005,-80.252132
+PA0633300,South Strabane Township Police Department,17171,PA,Middle Atlantic,Northeast,Region I,WASHINGTON,City,False,,40.190937,-80.21269
+PA0633600,West Brownsville Police Department,17174,PA,Middle Atlantic,Northeast,Region I,WASHINGTON,City,False,,40.026123,-79.887474
+PA0633900,"Hanover Township Police Department, Washington County",17177,PA,Middle Atlantic,Northeast,Region I,WASHINGTON,City,False,,,
+PA0634000,Mount Pleasant Township Police Department,17178,PA,Middle Atlantic,Northeast,Region I,WASHINGTON,City,False,,40.294567,-80.31341
+PA0634100,North Strabane Township Police Department,17179,PA,Middle Atlantic,Northeast,Region I,WASHINGTON,City,False,,40.236603,-80.17157
+PA0634400,California University,17180,PA,Middle Atlantic,Northeast,Region I,WASHINGTON,University or College,False,,40.065945,-79.88645
+PA0634900,Resa Regional Police Department,17184,PA,Middle Atlantic,Northeast,Region I,WASHINGTON,City,False,,40.200005,-80.252132
+PA0635000,West Pike Run Police Department,17185,PA,Middle Atlantic,Northeast,Region I,WASHINGTON,City,False,,40.200005,-80.252132
+PA0635300,Jefferson Township Police Department,23298,PA,Middle Atlantic,Northeast,Region I,WASHINGTON,City,False,,40.200005,-80.252132
+PA0636000,Charelroi Regional Police Department,23069,PA,Middle Atlantic,Northeast,Region I,WASHINGTON,City,False,,40.200005,-80.252132
+PA063BF0X,Bureau of Forestry: ,34354,PA,Middle Atlantic,Northeast,Region I,WASHINGTON,Other State Agency,False,,,
+PA063DE0X,Office of Attorney General Region 3: ,34636,PA,Middle Atlantic,Northeast,Region I,WASHINGTON,Other State Agency,False,,,
+PA063SP00,State Police: Washington County,17191,PA,Middle Atlantic,Northeast,Region I,WASHINGTON,State Police,True,2021-01-01T00:00:00.000Z,40.200005,-80.252132
+PA0640000,Wayne  County Sheriff's Office,17192,PA,Middle Atlantic,Northeast,Region I,WAYNE,County,False,,41.574387,-75.2543
+PA0640100,Honesdale Police Department,17193,PA,Middle Atlantic,Northeast,Region I,WAYNE,City,False,,41.647007,-75.293195
+PA0640200,Hawley Police Department,17194,PA,Middle Atlantic,Northeast,Region I,WAYNE,City,False,,41.647007,-75.293195
+PA0640300,Waymart Police Department,17195,PA,Middle Atlantic,Northeast,Region I,WAYNE,City,False,,41.647007,-75.293195
+PA0640400,Lehigh Township Police Department,17196,PA,Middle Atlantic,Northeast,Region I,WAYNE,City,False,,41.647007,-75.293195
+PA0640500,County Detective: Wayne County,17197,PA,Middle Atlantic,Northeast,Region I,WAYNE,Other,False,,41.574387,-75.2543
+PA064BF0X,Bureau of Forestry: ,34356,PA,Middle Atlantic,Northeast,Region I,WAYNE,Other State Agency,False,,,
+PA064DE0X,Office of Attorney General Region 1: ,34540,PA,Middle Atlantic,Northeast,Region I,WAYNE,Other State Agency,False,,,
+PA064SP00,State Police: Wayne County,17201,PA,Middle Atlantic,Northeast,Region I,WAYNE,State Police,True,2021-01-01T00:00:00.000Z,41.647007,-75.293195
+PA0650000,Westmoreland County Sheriff's Office,17202,PA,Middle Atlantic,Northeast,Region I,WESTMORELAND,County,False,,40.303574,-79.54467
+PA0650100,Murrysville Police Department,17203,PA,Middle Atlantic,Northeast,Region I,WESTMORELAND,City,False,,40.45808,-79.6645
+PA0650200,Greensburg Police Department,17204,PA,Middle Atlantic,Northeast,Region I,WESTMORELAND,City,False,,40.311068,-79.466688
+PA0650300,Irwin Police Department,17205,PA,Middle Atlantic,Northeast,Region I,WESTMORELAND,City,False,,40.331726,-79.7111
+PA0650400,Jeannette Police Department,17206,PA,Middle Atlantic,Northeast,Region I,WESTMORELAND,City,False,,40.32698,-79.61566
+PA0650500,Latrobe Police Department,17207,PA,Middle Atlantic,Northeast,Region I,WESTMORELAND,City,False,,40.315666,-79.385475
+PA0650600,Lower Burrell Police Department,17208,PA,Middle Atlantic,Northeast,Region I,WESTMORELAND,City,False,,40.589146,-79.727844
+PA0650700,Monessen Police Department,17209,PA,Middle Atlantic,Northeast,Region I,WESTMORELAND,City,False,,40.16109,-79.882095
+PA0650800,Mount Pleasant Police Department,17210,PA,Middle Atlantic,Northeast,Region I,WESTMORELAND,City,False,,40.311068,-79.466688
+PA0650900,North Huntingdon Township Police Department,17211,PA,Middle Atlantic,Northeast,Region I,WESTMORELAND,City,False,,40.311068,-79.466688
+PA0651000,New Kensington Police Department,17212,PA,Middle Atlantic,Northeast,Region I,WESTMORELAND,City,False,,40.567955,-79.768074
+PA0651100,"Penn Township Police Department, Westmoreland County",17213,PA,Middle Atlantic,Northeast,Region I,WESTMORELAND,City,False,,,
+PA0651200,Scottdale Police Department,17214,PA,Middle Atlantic,Northeast,Region I,WESTMORELAND,City,False,,40.104176,-79.58493
+PA0651300,Vandergrift Police Department,17215,PA,Middle Atlantic,Northeast,Region I,WESTMORELAND,City,False,,40.603886,-79.56406
+PA0651400,Arnold Police Department,17216,PA,Middle Atlantic,Northeast,Region I,WESTMORELAND,City,False,,40.57986,-79.76703
+PA0651500,Derry Police Department,17217,PA,Middle Atlantic,Northeast,Region I,WESTMORELAND,City,False,,40.333336,-79.29876
+PA0651900,North Belle Vernon Police Department,17220,PA,Middle Atlantic,Northeast,Region I,WESTMORELAND,City,False,,40.12941,-79.86579
+PA0652100,South Greensburg Police Department,17222,PA,Middle Atlantic,Northeast,Region I,WESTMORELAND,City,False,,40.277237,-79.54686
+PA0652300,Southwest Greensburg Police Department,17224,PA,Middle Atlantic,Northeast,Region I,WESTMORELAND,City,False,,40.295452,-79.55215
+PA0652400,Trafford Police Department,17225,PA,Middle Atlantic,Northeast,Region I,"ALLEGHENY, WESTMORELAND",City,False,,40.311068,-79.466688
+PA0652500,West Newton Police Department,17226,PA,Middle Atlantic,Northeast,Region I,WESTMORELAND,City,False,,40.210144,-79.768234
+PA0652800,"Allegheny Township Police Department, Westmoreland County",17229,PA,Middle Atlantic,Northeast,Region I,WESTMORELAND,City,False,,40.61059,-79.61124
+PA0652900,Avonmore Boro Police Department,17230,PA,Middle Atlantic,Northeast,Region I,WESTMORELAND,City,False,,40.311068,-79.466688
+PA0653500,Penn Police Department,17234,PA,Middle Atlantic,Northeast,Region I,WESTMORELAND,City,False,,40.311068,-79.466688
+PA0653700,Upper Burrell Township Police Department,17236,PA,Middle Atlantic,Northeast,Region I,WESTMORELAND,City,False,,40.311068,-79.466688
+PA0653800,Delmont Police Department,17237,PA,Middle Atlantic,Northeast,Region I,WESTMORELAND,City,False,,40.41041,-79.57217
+PA0654000,Manor Police Department,17239,PA,Middle Atlantic,Northeast,Region I,WESTMORELAND,City,False,,40.311068,-79.466688
+PA0654200,West Leechburg Police Department,23304,PA,Middle Atlantic,Northeast,Region I,WESTMORELAND,City,False,,40.634224,-79.6125
+PA0654400,County Detective: Westmoreland County,17241,PA,Middle Atlantic,Northeast,Region I,WESTMORELAND,Other,False,,40.311068,-79.466688
+PA0654500,Rostraver Township Police Department,17242,PA,Middle Atlantic,Northeast,Region I,WESTMORELAND,City,False,,40.164333,-79.77472
+PA0654900,"Washington Township Police Department, Westmoreland County",17244,PA,Middle Atlantic,Northeast,Region I,WESTMORELAND,City,False,,40.54701,-79.60362
+PA0655200,Westmoreland County Park,17246,PA,Middle Atlantic,Northeast,Region I,WESTMORELAND,Other,False,,40.309593,-79.49991
+PA0655300,St. Clair Township Police Department,17247,PA,Middle Atlantic,Northeast,Region I,WESTMORELAND,City,False,,40.311068,-79.466688
+PA0655600,University of Pittsburgh: Greensburg,17248,PA,Middle Atlantic,Northeast,Region I,WESTMORELAND,University or College,False,,40.277306,-79.52988
+PA0656000,State Park Rangers: Keystone,25294,PA,Middle Atlantic,Northeast,Region I,WESTMORELAND,Other State Agency,False,,40.311068,-79.466688
+PA0656100,State Park Rangers: Linn Run,25293,PA,Middle Atlantic,Northeast,Region I,WESTMORELAND,Other State Agency,False,,40.311068,-79.466688
+PA0656300,Smithton Borough Police Department,17250,PA,Middle Atlantic,Northeast,Region I,WESTMORELAND,City,False,,40.311068,-79.466688
+PA0656800,Pennsylvania State University:,26347,PA,Middle Atlantic,Northeast,Region I,WESTMORELAND,University or College,False,,,
+PA0657200,Ligonier Valley Regional,34502,PA,Middle Atlantic,Northeast,Region I,WESTMORELAND,City,False,,,
+PA065BF0X,Bureau of Forestry: ,34358,PA,Middle Atlantic,Northeast,Region I,WESTMORELAND,Other State Agency,False,,,
+PA065DE0X,Office of Attorney General Region 3: ,34638,PA,Middle Atlantic,Northeast,Region I,WESTMORELAND,Other State Agency,False,,,
+PA065SP00,State Police: Westmoreland County,17253,PA,Middle Atlantic,Northeast,Region I,WESTMORELAND,State Police,True,2021-01-01T00:00:00.000Z,40.17718,-79.80703
+PA0660000,Wyoming County Sheriff's Office,17254,PA,Middle Atlantic,Northeast,Region I,WYOMING,County,False,,41.525219,-76.008709
+PA0660200,Meshoppen Police Department,17256,PA,Middle Atlantic,Northeast,Region I,WYOMING,City,False,,41.525219,-76.008709
+PA0660400,Tunkhannock Police Department,17258,PA,Middle Atlantic,Northeast,Region I,WYOMING,City,False,,41.539486,-75.947784
+PA0660500,County Detective: Wyoming County,23104,PA,Middle Atlantic,Northeast,Region I,WYOMING,Other,False,,41.525219,-76.008709
+PA0661200,"Tunkhannock Township Police Department, Wyoming County",17263,PA,Middle Atlantic,Northeast,Region I,WYOMING,City,False,,41.507835,-75.9282
+PA066BF0X,Bureau of Forestry: ,34360,PA,Middle Atlantic,Northeast,Region I,WYOMING,Other State Agency,False,,,
+PA066DE0X,Office of Attorney General Region 1: ,34542,PA,Middle Atlantic,Northeast,Region I,WYOMING,Other State Agency,False,,,
+PA066SP00,State Police: Wyoming County,17266,PA,Middle Atlantic,Northeast,Region I,WYOMING,State Police,True,2021-01-01T00:00:00.000Z,41.525219,-76.008709
+PA0670000,York County Sheriff's Office,17267,PA,Middle Atlantic,Northeast,Region I,YORK,County,False,,39.963314,-76.72817
+PA0670100,Hanover Police Department,17268,PA,Middle Atlantic,Northeast,Region I,YORK,City,False,,39.80002,-76.98398
+PA0670200,York Police Department,17269,PA,Middle Atlantic,Northeast,Region I,YORK,City,False,,39.960655,-76.72831
+PA0670300,Spring Garden Township Police Department,17270,PA,Middle Atlantic,Northeast,Region I,YORK,City,False,,39.94378,-76.70773
+PA0670400,Springettsbury Township Police Department,17271,PA,Middle Atlantic,Northeast,Region I,YORK,City,False,,39.99148,-76.671074
+PA0670600,"Fairview Township Police Department, York County",17273,PA,Middle Atlantic,Northeast,Region I,YORK,City,False,,40.189552,-76.88996
+PA0670700,State Park Rangers: Codorus,22492,PA,Middle Atlantic,Northeast,Region I,YORK,Other State Agency,False,,39.921751,-76.728889
+PA0670900,West Manchester Township Police Department,17275,PA,Middle Atlantic,Northeast,Region I,YORK,City,False,,39.952354,-76.78324
+PA0671000,West York Police Department,17276,PA,Middle Atlantic,Northeast,Region I,YORK,City,False,,39.95471,-76.765045
+PA0671100,State Park Rangers: Gifford Pinchot,25291,PA,Middle Atlantic,Northeast,Region I,YORK,Other State Agency,False,,39.921751,-76.728889
+PA0671500,Northern York Regional Police Department,17279,PA,Middle Atlantic,Northeast,Region I,YORK,City,False,,39.921751,-76.728889
+PA0672000,Hellam Township Police Department,17283,PA,Middle Atlantic,Northeast,Region I,YORK,City,False,,40.014397,-76.583496
+PA0672700,West Manheim Township Police Department,17288,PA,Middle Atlantic,Northeast,Region I,YORK,City,False,,39.748047,-76.9492
+PA0673200,York Area Regional Police Department,17293,PA,Middle Atlantic,Northeast,Region I,YORK,City,False,,40.007378,-76.59927
+PA0674100,"Penn Township Police Department, York County",17297,PA,Middle Atlantic,Northeast,Region I,YORK,City,False,,39.793297,-76.969025
+PA0674500,County Detective: York County,17299,PA,Middle Atlantic,Northeast,Region I,YORK,Other,False,,39.963314,-76.72817
+PA0674600,"Carroll Township Police Department, York County",17300,PA,Middle Atlantic,Northeast,Region I,YORK,City,False,,40.10802,-76.98768
+PA0674700,Newberry Township Police Department,17301,PA,Middle Atlantic,Northeast,Region I,YORK,City,False,,40.163296,-76.81814
+PA0674800,Southern Regional York County Police Department,17302,PA,Middle Atlantic,Northeast,Region I,YORK,City,False,,39.735317,-76.70257
+PA0675100,North Hopewell Township Police Department,23223,PA,Middle Atlantic,Northeast,Region I,YORK,City,False,,39.921751,-76.728889
+PA0676000,Lower Windsor Township Police Department,17306,PA,Middle Atlantic,Northeast,Region I,YORK,City,False,,39.940807,-76.52434
+PA067619E,York College of Pennsylvania,34473,PA,Middle Atlantic,Northeast,Region I,YORK,University or College,False,,,
+PA0676400,State Park Rangers: Samuel S. Lewis,25400,PA,Middle Atlantic,Northeast,Region I,YORK,Other State Agency,False,,,
+PA0676500,Pennsylvania State University:,27592,PA,Middle Atlantic,Northeast,Region I,YORK,University or College,False,,,
+PA0676600,York County Regional,34500,PA,Middle Atlantic,Northeast,Region I,YORK,City,False,,,
+PA067BF0X,Bureau of Forestry: ,34362,PA,Middle Atlantic,Northeast,Region I,YORK,Other State Agency,False,,,
+PA067DE0X,Office of Attorney General Region 2: ,34592,PA,Middle Atlantic,Northeast,Region I,YORK,Other State Agency,False,,,
+PA06BCI0X,"State Police, Bureau of Criminal Investigation: Berks County",17313,PA,Middle Atlantic,Northeast,Region I,BERKS,State Police,False,,40.294674,-76.860855
+PA07BCI0X,"State Police, Bureau of Criminal Investigation: Blair County",17314,PA,Middle Atlantic,Northeast,Region I,BLAIR,State Police,False,,40.294674,-76.860855
+PA08BCI0X,"State Police, Bureau of Criminal Investigation: Bradford County",17315,PA,Middle Atlantic,Northeast,Region I,BRADFORD,State Police,False,,40.294674,-76.860855
+PA09BCI0X,"State Police, Bureau of Criminal Investigation: Bucks County",17316,PA,Middle Atlantic,Northeast,Region I,BUCKS,State Police,False,,,
+PA10BCI0X,"State Police, Bureau of Criminal Investigation: Butler County",17317,PA,Middle Atlantic,Northeast,Region I,BUTLER,State Police,False,,40.294674,-76.860855
+PA11BCI0X,"State Police, Bureau of Criminal Investigation: Cambria County",17318,PA,Middle Atlantic,Northeast,Region I,CAMBRIA,State Police,False,,40.294674,-76.860855
+PA12BCI0X,"State Police, Bureau of Criminal Investigation: Cameron County",17319,PA,Middle Atlantic,Northeast,Region I,CAMERON,State Police,False,,40.294674,-76.860855
+PA13BCI0X,"State Police, Bureau of Criminal Investigation: Carbon County",17320,PA,Middle Atlantic,Northeast,Region I,CARBON,State Police,False,,,
+PA14BCI0X,"State Police, Bureau of Criminal Investigation: Centre County",17321,PA,Middle Atlantic,Northeast,Region I,CENTRE,State Police,False,,,
+PA15BCI0X,"State Police, Bureau of Criminal Investigation: Chester County",17322,PA,Middle Atlantic,Northeast,Region I,CHESTER,State Police,False,,40.294674,-76.860855
+PA16BCI0X,"State Police, Bureau of Criminal Investigation: Clarion County",17323,PA,Middle Atlantic,Northeast,Region I,CLARION,State Police,False,,40.294674,-76.860855
+PA17BCI0X,"State Police, Bureau of Criminal Investigation: Clearfield County",17324,PA,Middle Atlantic,Northeast,Region I,CLEARFIELD,State Police,False,,40.294674,-76.860855
+PA18BCI0X,"State Police, Bureau of Criminal Investigation: Clinton County",17325,PA,Middle Atlantic,Northeast,Region I,CLINTON,State Police,False,,40.294674,-76.860855
+PA19BCI0X,"State Police, Bureau of Criminal Investigation: Columbia County",17326,PA,Middle Atlantic,Northeast,Region I,COLUMBIA,State Police,False,,40.294674,-76.860855
+PA20BCI0X,"State Police, Bureau of Criminal Investigation: Crawford County",17327,PA,Middle Atlantic,Northeast,Region I,CRAWFORD,State Police,False,,40.294674,-76.860855
+PA21BCI0X,"State Police, Bureau of Criminal Investigation: Cumberland County",17328,PA,Middle Atlantic,Northeast,Region I,CUMBERLAND,State Police,False,,40.294674,-76.860855
+PA22BCI0X,"State Police, Bureau of Criminal Investigation: Dauphin County",17329,PA,Middle Atlantic,Northeast,Region I,DAUPHIN,State Police,False,,40.294674,-76.860855
+PA23BCI0X,"State Police, Bureau of Criminal Investigation: Delaware County",17330,PA,Middle Atlantic,Northeast,Region I,DELAWARE,State Police,False,,40.294674,-76.860855
+PA24BCI0X,"State Police, Bureau of Criminal Investigation: Elk County",17331,PA,Middle Atlantic,Northeast,Region I,ELK,State Police,False,,40.294674,-76.860855
+PA25BCI0X,"State Police, Bureau of Criminal Investigation: Erie County",17332,PA,Middle Atlantic,Northeast,Region I,ERIE,State Police,False,,40.294674,-76.860855
+PA26BCI0X,"State Police, Bureau of Criminal Investigation: Fayette County",17333,PA,Middle Atlantic,Northeast,Region I,FAYETTE,State Police,False,,40.294674,-76.860855
+PA27BCI0X,"State Police, Bureau of Criminal Investigation: Forest County",17334,PA,Middle Atlantic,Northeast,Region I,FOREST,State Police,False,,40.294674,-76.860855
+PA28BCI0X,"State Police, Bureau of Criminal Investigation: Franklin County",17335,PA,Middle Atlantic,Northeast,Region I,FRANKLIN,State Police,False,,40.294674,-76.860855
+PA29BCI0X,"State Police, Bureau of Criminal Investigation: Fulton County",17336,PA,Middle Atlantic,Northeast,Region I,FULTON,State Police,False,,40.294674,-76.860855
+PA30BCI0X,"State Police, Bureau of Criminal Investigation: Greene County",17337,PA,Middle Atlantic,Northeast,Region I,GREENE,State Police,False,,40.294674,-76.860855
+PA31BCI0X,"State Police, Bureau of Criminal Investigation: Huntingdon County",17338,PA,Middle Atlantic,Northeast,Region I,HUNTINGDON,State Police,False,,,
+PA32BCI0X,"State Police, Bureau of Criminal Investigation: Indiana County",17339,PA,Middle Atlantic,Northeast,Region I,INDIANA,State Police,False,,40.294674,-76.860855
+PA33BCI0X,"State Police, Bureau of Criminal Investigation: Jefferson County",17340,PA,Middle Atlantic,Northeast,Region I,JEFFERSON,State Police,False,,40.294674,-76.860855
+PA34BCI0X,"State Police, Bureau of Criminal Investigation: Juniata County",17341,PA,Middle Atlantic,Northeast,Region I,JUNIATA,State Police,False,,40.294674,-76.860855
+PA35BCI0X,"State Police, Bureau of Criminal Investigation: Lackawanna County",17342,PA,Middle Atlantic,Northeast,Region I,LACKAWANNA,State Police,False,,40.294674,-76.860855
+PA36BCI0X,"State Police, Bureau of Criminal Investigation: Lancaster County",17343,PA,Middle Atlantic,Northeast,Region I,LANCASTER,State Police,False,,40.294674,-76.860855
+PA37BCI0X,"State Police, Bureau of Criminal Investigation: Lawrence County",17344,PA,Middle Atlantic,Northeast,Region I,LAWRENCE,State Police,False,,40.294674,-76.860855
+PA38BCI0X,"State Police, Bureau of Criminal Investigation: Lebanon County",17345,PA,Middle Atlantic,Northeast,Region I,LEBANON,State Police,False,,40.294674,-76.860855
+PA39BCI0X,"State Police, Bureau of Criminal Investigation: Lehigh County",17346,PA,Middle Atlantic,Northeast,Region I,LEHIGH,State Police,False,,40.294674,-76.860855
+PA40BCI0X,"State Police, Bureau of Criminal Investigation: Luzerne County",17347,PA,Middle Atlantic,Northeast,Region I,LUZERNE,State Police,False,,,
+PA41BCI0X,"State Police, Bureau of Criminal Investigation: Lycoming County",17348,PA,Middle Atlantic,Northeast,Region I,LYCOMING,State Police,False,,40.294674,-76.860855
+PA42BCI0X,"State Police, Bureau of Criminal Investigation: McKean County",17349,PA,Middle Atlantic,Northeast,Region I,MCKEAN,State Police,False,,40.294674,-76.860855
+PA43BCI0X,"State Police, Bureau of Criminal Investigation: Mercer County",17350,PA,Middle Atlantic,Northeast,Region I,MERCER,State Police,False,,40.294674,-76.860855
+PA44BCI0X,"State Police, Bureau of Criminal Investigation: Mifflin County",17351,PA,Middle Atlantic,Northeast,Region I,MIFFLIN,State Police,False,,40.294674,-76.860855
+PA45BCI0X,"State Police, Bureau of Criminal Investigation: Monroe County",17352,PA,Middle Atlantic,Northeast,Region I,MONROE,State Police,False,,40.294674,-76.860855
+PA46BCI0X,"State Police, Bureau of Criminal Investigation: Montgomery County",17353,PA,Middle Atlantic,Northeast,Region I,MONTGOMERY,State Police,False,,40.294674,-76.860855
+PA47BCI0X,"State Police, Bureau of Criminal Investigation: Montour County",17354,PA,Middle Atlantic,Northeast,Region I,MONTOUR,State Police,False,,40.294674,-76.860855
+PA48BCI0X,"State Police, Bureau of Criminal Investigation: Northampton County",17355,PA,Middle Atlantic,Northeast,Region I,NORTHAMPTON,State Police,False,,40.294674,-76.860855
+PA49BCI0X,"State Police, Bureau of Criminal Investigation: Northumberland County",17356,PA,Middle Atlantic,Northeast,Region I,NORTHUMBERLAND,State Police,False,,40.294674,-76.860855
+PA50BCI0X,"State Police, Bureau of Criminal Investigation: Perry County",17357,PA,Middle Atlantic,Northeast,Region I,PERRY,State Police,False,,40.294674,-76.860855
+PA51BCI0X,"State Police, Bureau of Criminal Investigation: Philadelphia County",17358,PA,Middle Atlantic,Northeast,Region I,PHILADELPHIA,State Police,False,,40.294674,-76.860855
+PA52BCI0X,"State Police, Bureau of Criminal Investigation: Pike County",17359,PA,Middle Atlantic,Northeast,Region I,PIKE,State Police,False,,40.294674,-76.860855
+PA53BCI0X,"State Police, Bureau of Criminal Investigation: Potter County",17360,PA,Middle Atlantic,Northeast,Region I,POTTER,State Police,False,,40.294674,-76.860855
+PA54BCI0X,"State Police, Bureau of Criminal Investigation: Schuylkill County",17361,PA,Middle Atlantic,Northeast,Region I,SCHUYLKILL,State Police,False,,40.294674,-76.860855
+PA55BCI0X,"State Police, Bureau of Criminal Investigation: Snyder County",17362,PA,Middle Atlantic,Northeast,Region I,SNYDER,State Police,False,,,
+PA56BCI0X,"State Police, Bureau of Criminal Investigation: Somerset County",17363,PA,Middle Atlantic,Northeast,Region I,SOMERSET,State Police,False,,40.294674,-76.860855
+PA57BCI0X,"State Police, Bureau of Criminal Investigation: Sullivan County",17364,PA,Middle Atlantic,Northeast,Region I,SULLIVAN,State Police,False,,40.294674,-76.860855
+PA58BCI0X,"State Police, Bureau of Criminal Investigation: Susquehanna County",17365,PA,Middle Atlantic,Northeast,Region I,SUSQUEHANNA,State Police,False,,40.294674,-76.860855
+PA59BCI0X,"State Police, Bureau of Criminal Investigation: Tioga County",17366,PA,Middle Atlantic,Northeast,Region I,TIOGA,State Police,False,,40.294674,-76.860855
+PA60BCI0X,"State Police, Bureau of Criminal Investigation: Union County",17367,PA,Middle Atlantic,Northeast,Region I,UNION,State Police,False,,40.294674,-76.860855
+PA61BCI0X,"State Police, Bureau of Criminal Investigation: Venango County",17368,PA,Middle Atlantic,Northeast,Region I,VENANGO,State Police,False,,,
+PA62BCI0X,"State Police, Bureau of Criminal Investigation: Warren County",17369,PA,Middle Atlantic,Northeast,Region I,WARREN,State Police,False,,40.294674,-76.860855
+PA63BCI0X,"State Police, Bureau of Criminal Investigation: Washington County",17370,PA,Middle Atlantic,Northeast,Region I,WASHINGTON,State Police,False,,,
+PA64BCI0X,"State Police, Bureau of Criminal Investigation: Wayne County",17371,PA,Middle Atlantic,Northeast,Region I,WAYNE,State Police,False,,40.294674,-76.860855
+PA65BCI0X,"State Police, Bureau of Criminal Investigation: Westmoreland County",17372,PA,Middle Atlantic,Northeast,Region I,WESTMORELAND,State Police,False,,40.294674,-76.860855
+PA66BCI0X,"State Police, Bureau of Criminal Investigation: Wyoming County",17373,PA,Middle Atlantic,Northeast,Region I,WYOMING,State Police,False,,40.294674,-76.860855
+PA67BCI0X,"State Police, Bureau of Criminal Investigation: York County",17374,PA,Middle Atlantic,Northeast,Region I,YORK,State Police,False,,40.294674,-76.860855
+PADAA020X,Allegheny County District Attorney:,34198,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,Other,False,,,
+PADAA210X,Cumberland County District Attorney,34222,PA,Middle Atlantic,Northeast,Region I,CUMBERLAND,Other,False,,,
+PADAA390X,Lehigh County District Attorney,34402,PA,Middle Atlantic,Northeast,Region I,LEHIGH,Other,False,,,
+PADAA440X,County Detective: ,34412,PA,Middle Atlantic,Northeast,Region I,MIFFLIN,Other,False,,,
+PADTF010X,Adams County Drug Task Force ,34246,PA,Middle Atlantic,Northeast,Region I,ADAMS,Other,False,,,
+PAPDB020X,Fort Cherry School District ,34374,PA,Middle Atlantic,Northeast,Region I,WASHINGTON,Other,False,,,
+PAPDB260X,Brownsville Area School District ,34202,PA,Middle Atlantic,Northeast,Region I,FAYETTE,Other,False,,,
+PAPDH020X,County Detective:,34190,PA,Middle Atlantic,Northeast,Region I,ADAMS,Other,False,,,
+PAPDJ390X,Lancaster County Detectives Drug Task Force,34398,PA,Middle Atlantic,Northeast,Region I,LANCASTER,Other,False,,,
+PAPDR350X,Lackawanna College:,34392,PA,Middle Atlantic,Northeast,Region I,LACKAWANNA,University or College,False,,,
+PAPEP0000,Philadelphia Police Department,17376,PA,Middle Atlantic,Northeast,Region I,PHILADELPHIA,City,True,2021-04-01T00:00:00.000Z,40.004668,-75.188079
+PAPPD0000,Pittsburgh Bureau of Police,17377,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,City,False,,40.45084,-80.022484
+PAPSP0000,State Police,17378,PA,Middle Atlantic,Northeast,Region I,UNMAPPED COUNTY,State Police,False,,40.294674,-76.860855
+PAPSP9400,State Police: York County,17312,PA,Middle Atlantic,Northeast,Region I,YORK,State Police,True,2021-01-01T00:00:00.000Z,39.863747,-76.70151
+PAUNI020X,Robert Morris University,34420,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,University or College,False,,,
+PAUNI090X,Delaware Valley University ,34366,PA,Middle Atlantic,Northeast,Region I,BUCKS,University or College,False,,,
+PAUNI110X,Saint Francis University,34422,PA,Middle Atlantic,Northeast,Region I,ALLEGHENY,University or College,False,,,
+PAUNI360X,Franklin and Marshall College,34376,PA,Middle Atlantic,Northeast,Region I,LANCASTER,University or College,False,,,
+PAUNI400X,Luzerne County Community College,34408,PA,Middle Atlantic,Northeast,Region I,LUZERNE,University or College,False,,,
+PAUNI600X,Bucknell University,34204,PA,Middle Atlantic,Northeast,Region I,UNION,University or College,False,,,
+PAUNI650X,Seton Hill University,34424,PA,Middle Atlantic,Northeast,Region I,WESTMORELAND,University or College,False,,,

@@ -1,0 +1,128 @@
+ori,agency_name,agency_id,state_abbr,division_name,region_name,region_desc,county_name,agency_type_name,nibrs,nibrs_start_date,latitude,longitude
+AZ0010000,Apache County Sheriff's Office,801,AZ,Mountain,West,Region IV,APACHE,County,False,,35.385084,-109.490172
+AZ0010100,Eagar Police Department,802,AZ,Mountain,West,Region IV,APACHE,City,True,2019-01-01T00:00:00.000Z,35.385084,-109.490172
+AZ0010300,St. Johns Police Department,803,AZ,Mountain,West,Region IV,APACHE,City,False,,35.385084,-109.490172
+AZ0010500,Springerville Police Department,804,AZ,Mountain,West,Region IV,APACHE,City,True,2021-01-01T00:00:00.000Z,34.118523,-109.29155
+AZ0018900,Navajo Nation,805,AZ,Mountain,West,Region IV,NOT SPECIFIED,Tribal,True,2021-01-01T00:00:00.000Z,35.385084,-109.490172
+AZ0020000,Cochise County Sheriff's Office,806,AZ,Mountain,West,Region IV,COCHISE,County,True,2021-01-01T00:00:00.000Z,31.840129,-109.775163
+AZ0020100,Benson Police Department,807,AZ,Mountain,West,Region IV,COCHISE,City,False,,31.840129,-109.775163
+AZ0020300,Bisbee Police Department,808,AZ,Mountain,West,Region IV,COCHISE,City,True,2020-12-01T00:00:00.000Z,31.840129,-109.775163
+AZ0020500,Douglas Police Department,809,AZ,Mountain,West,Region IV,COCHISE,City,True,2021-01-01T00:00:00.000Z,31.840129,-109.775163
+AZ0020700,Huachuca City Police Department,810,AZ,Mountain,West,Region IV,COCHISE,City,True,2011-01-01T00:00:00.000Z,31.631521,-110.33541
+AZ0020900,Sierra Vista Police Department,811,AZ,Mountain,West,Region IV,COCHISE,City,True,2020-12-01T00:00:00.000Z,31.56594,-110.27322
+AZ0021100,Tombstone Police Department,812,AZ,Mountain,West,Region IV,COCHISE,City,True,2020-01-01T00:00:00.000Z,31.840129,-109.775163
+AZ0021300,Willcox Police Department,813,AZ,Mountain,West,Region IV,COCHISE,City,True,2021-01-01T00:00:00.000Z,32.26314,-109.82966
+AZ0030000,Coconino County Sheriff's Office,814,AZ,Mountain,West,Region IV,COCONINO,County,True,2021-01-01T00:00:00.000Z,35.188972,-111.64146
+AZ0030100,Flagstaff Police Department,815,AZ,Mountain,West,Region IV,COCONINO,City,True,2020-11-01T00:00:00.000Z,35.188972,-111.64146
+AZ0030300,Fredonia Police Department,816,AZ,Mountain,West,Region IV,COCONINO,City,True,2020-01-01T00:00:00.000Z,35.829692,-111.773728
+AZ0030700,Williams Police Department,817,AZ,Mountain,West,Region IV,COCONINO,City,True,2021-01-01T00:00:00.000Z,35.252357,-112.18281
+AZ0030800,Page Police Department,818,AZ,Mountain,West,Region IV,COCONINO,City,True,2021-01-01T00:00:00.000Z,35.829692,-111.773728
+AZ0039700,Northern Arizona University,820,AZ,Mountain,West,Region IV,COCONINO,University or College,True,2021-01-01T00:00:00.000Z,35.829692,-111.773728
+AZ0040000,Gila County Sheriff's Office,821,AZ,Mountain,West,Region IV,GILA,County,False,,33.789618,-110.81187
+AZ0040100,Globe Police Department,822,AZ,Mountain,West,Region IV,GILA,City,False,,33.395485,-110.788
+AZ0040300,Hayden Police Department,823,AZ,Mountain,West,Region IV,GILA,City,False,,33.789618,-110.81187
+AZ0040500,Miami Police Department,824,AZ,Mountain,West,Region IV,GILA,City,False,,33.398,-110.873184
+AZ0040600,Payson Police Department,825,AZ,Mountain,West,Region IV,GILA,City,True,2020-01-01T00:00:00.000Z,34.242653,-111.322914
+AZ0048900,San Carlos Apache,827,AZ,Mountain,West,Region IV,NOT SPECIFIED,Tribal,True,2021-01-01T00:00:00.000Z,33.789618,-110.81187
+AZ0050000,Graham County Sheriff's Office,828,AZ,Mountain,West,Region IV,GRAHAM,County,False,,32.931828,-109.87831
+AZ0050100,Pima Police Department,829,AZ,Mountain,West,Region IV,GRAHAM,City,False,,32.931828,-109.87831
+AZ0050300,Safford Police Department,830,AZ,Mountain,West,Region IV,GRAHAM,City,False,,32.834446,-109.71882
+AZ0050500,Thatcher Police Department,831,AZ,Mountain,West,Region IV,GRAHAM,City,False,,32.931828,-109.87831
+AZ0060000,Greenlee County Sheriff's Office,833,AZ,Mountain,West,Region IV,GREENLEE,County,True,2021-01-01T00:00:00.000Z,33.238872,-109.242323
+AZ0060100,Clifton Police Department,834,AZ,Mountain,West,Region IV,GREENLEE,City,False,,33.238872,-109.242323
+AZ0070000,Maricopa County Sheriff's Office,836,AZ,Mountain,West,Region IV,MARICOPA,County,False,,33.446075,-112.07512
+AZ0070100,Avondale Police Department,837,AZ,Mountain,West,Region IV,MARICOPA,City,True,2021-01-01T00:00:00.000Z,33.346541,-112.495534
+AZ0070300,Buckeye Police Department,838,AZ,Mountain,West,Region IV,MARICOPA,City,True,2021-01-01T00:00:00.000Z,33.375275,-112.573135
+AZ0070500,Chandler Police Department,839,AZ,Mountain,West,Region IV,MARICOPA,City,True,2021-01-01T00:00:00.000Z,33.300625,-111.8382
+AZ0070700,El Mirage Police Department,840,AZ,Mountain,West,Region IV,MARICOPA,City,True,2021-01-01T00:00:00.000Z,33.346541,-112.495534
+AZ0071100,Gilbert Police Department,842,AZ,Mountain,West,Region IV,MARICOPA,City,True,2008-11-01T00:00:00.000Z,33.330627,-111.78834
+AZ0071300,Glendale Police Department,843,AZ,Mountain,West,Region IV,MARICOPA,City,True,2022-07-01T00:00:00.000Z,33.536736,-112.18246
+AZ0071500,Goodyear Police Department,844,AZ,Mountain,West,Region IV,MARICOPA,City,True,2021-01-01T00:00:00.000Z,33.490746,-112.362495
+AZ0071700,Mesa Police Department,845,AZ,Mountain,West,Region IV,MARICOPA,City,True,2020-01-01T00:00:00.000Z,33.41802,-111.83668
+AZ0071900,Paradise Valley Police Department,846,AZ,Mountain,West,Region IV,MARICOPA,City,True,2021-01-01T00:00:00.000Z,33.531094,-111.94291
+AZ0071F00,Queen Creek,33703,AZ,Mountain,West,Region IV,"MARICOPA, PINAL",City,True,2022-01-01T00:00:00.000Z,,
+AZ0072100,Peoria Police Department,847,AZ,Mountain,West,Region IV,MARICOPA,City,True,2021-01-01T00:00:00.000Z,33.346541,-112.495534
+AZ0072300,Phoenix Police Department,848,AZ,Mountain,West,Region IV,MARICOPA,City,False,,33.44825,-112.0817
+AZ0072500,Scottsdale Police Department,849,AZ,Mountain,West,Region IV,MARICOPA,City,True,2021-01-01T00:00:00.000Z,33.5695,-111.88542
+AZ0072700,Surprise Police Department,850,AZ,Mountain,West,Region IV,MARICOPA,City,True,2020-01-01T00:00:00.000Z,33.346541,-112.495534
+AZ0072900,Tempe Police Department,851,AZ,Mountain,West,Region IV,MARICOPA,City,True,2022-01-01T00:00:00.000Z,33.346541,-112.495534
+AZ0073100,Tolleson Police Department,852,AZ,Mountain,West,Region IV,MARICOPA,City,True,2021-01-01T00:00:00.000Z,33.450283,-112.26505
+AZ0073300,Wickenburg Police Department,853,AZ,Mountain,West,Region IV,"MARICOPA, YAVAPAI",City,False,,33.969975,-112.731514
+AZ0076200,Maricopa Community College,33695,AZ,Mountain,West,Region IV,MARICOPA,University or College,True,2012-05-01T00:00:00.000Z,,
+AZ0078900,Salt River Tribal,859,AZ,Mountain,West,Region IV,NOT SPECIFIED,Tribal,False,2021-01-01T00:00:00.000Z,33.487743,-111.86525
+AZ0079700,Arizona State University: Main Campus,860,AZ,Mountain,West,Region IV,MARICOPA,University or College,True,2022-01-01T00:00:00.000Z,33.346541,-112.495534
+AZ007990X,Litchfield Park,33337,AZ,Mountain,West,Region IV,MARICOPA,City,True,2021-07-01T00:00:00.000Z,,
+AZ007B300,Fort McDowell Tribal,25590,AZ,Mountain,West,Region IV,NOT SPECIFIED,Tribal,True,2021-01-01T00:00:00.000Z,33.346541,-112.495534
+AZ0080000,Mohave County Sheriff's Office,861,AZ,Mountain,West,Region IV,MOHAVE,County,True,2020-10-01T00:00:00.000Z,35.717705,-113.749689
+AZ0080100,Kingman Police Department,862,AZ,Mountain,West,Region IV,MOHAVE,City,True,2022-01-01T00:00:00.000Z,35.190815,-114.053375
+AZ0080300,Fort Mojave Tribal,863,AZ,Mountain,West,Region IV,NOT SPECIFIED,Tribal,False,2021-01-01T00:00:00.000Z,35.717705,-113.749689
+AZ0080400,Lake Havasu City Police Department,864,AZ,Mountain,West,Region IV,MOHAVE,City,True,2020-01-01T00:00:00.000Z,34.47879,-114.31841
+AZ0080500,Bullhead City Police Department,865,AZ,Mountain,West,Region IV,MOHAVE,City,True,2022-07-01T00:00:00.000Z,35.717705,-113.749689
+AZ0080600,Colorado City Police Department,866,AZ,Mountain,West,Region IV,MOHAVE,City,True,2022-06-01T00:00:00.000Z,35.717705,-113.749689
+AZ0080700,Kaibab Paiute Tribal,867,AZ,Mountain,West,Region IV,NOT SPECIFIED,Tribal,True,2021-01-01T00:00:00.000Z,35.829692,-111.773728
+AZ0090000,Navajo County Sheriff's Office,868,AZ,Mountain,West,Region IV,NAVAJO,County,True,2022-01-01T00:00:00.000Z,35.390934,-110.320908
+AZ0090100,Holbrook Police Department,869,AZ,Mountain,West,Region IV,NAVAJO,City,False,,35.390934,-110.320908
+AZ0090300,Show Low Police Department,870,AZ,Mountain,West,Region IV,NAVAJO,City,True,2021-01-01T00:00:00.000Z,35.390934,-110.320908
+AZ0090500,Snowflake-Taylor Police Department,871,AZ,Mountain,West,Region IV,NAVAJO,City,True,2021-01-01T00:00:00.000Z,34.500626,-110.07909
+AZ0090900,Winslow Police Department,873,AZ,Mountain,West,Region IV,NAVAJO,City,False,,35.026752,-110.70396
+AZ0091300,Pinetop-Lakeside Police Department,874,AZ,Mountain,West,Region IV,NAVAJO,City,True,2021-01-01T00:00:00.000Z,34.15297,-109.97676
+AZ0098900,White Mountain Apache Tribal,875,AZ,Mountain,West,Region IV,NOT SPECIFIED,Tribal,True,2021-01-01T00:00:00.000Z,35.390934,-110.320908
+AZ0100000,Pima County Sheriff's Office,876,AZ,Mountain,West,Region IV,PIMA,County,True,2020-01-01T00:00:00.000Z,32.170643,-110.94519
+AZ0100100,South Tucson Police Department,877,AZ,Mountain,West,Region IV,PIMA,City,False,,32.2026,-110.96844
+AZ0100300,Tucson Police Department,878,AZ,Mountain,West,Region IV,PIMA,City,False,,32.21807,-110.9706
+AZ0100400,Sahuarita Police Department,879,AZ,Mountain,West,Region IV,PIMA,City,True,2021-01-01T00:00:00.000Z,32.128238,-111.783018
+AZ0100700,Oro Valley Police Department,881,AZ,Mountain,West,Region IV,PIMA,City,True,2020-01-01T00:00:00.000Z,32.406918,-110.99574
+AZ0100900,Marana Police Department,882,AZ,Mountain,West,Region IV,PIMA,City,True,2021-01-01T00:00:00.000Z,32.447636,-111.20846
+AZ0101000,Tucson Airport Authority,883,AZ,Mountain,West,Region IV,PIMA,Other,True,2020-01-01T00:00:00.000Z,32.12488,-110.93995
+AZ0101200,Tohono O'odham Nation,884,AZ,Mountain,West,Region IV,NOT SPECIFIED,Tribal,False,,32.128238,-111.783018
+AZ0109700,University of Arizona,885,AZ,Mountain,West,Region IV,PIMA,University or College,False,,32.128238,-111.783018
+AZ0109800,Pima Community College,886,AZ,Mountain,West,Region IV,PIMA,University or College,True,2021-01-01T00:00:00.000Z,32.224987,-111.012276
+AZ0110000,Pinal County Sheriff's Office,887,AZ,Mountain,West,Region IV,PINAL,County,True,2021-01-01T00:00:00.000Z,32.919038,-111.367005
+AZ0110100,Casa Grande Police Department,888,AZ,Mountain,West,Region IV,PINAL,City,True,2019-07-01T00:00:00.000Z,32.878384,-111.751495
+AZ0110300,Coolidge Police Department,889,AZ,Mountain,West,Region IV,PINAL,City,True,2019-01-01T00:00:00.000Z,32.977688,-111.51674
+AZ0110500,Eloy Police Department,890,AZ,Mountain,West,Region IV,PINAL,City,True,2020-12-01T00:00:00.000Z,32.755123,-111.55495
+AZ0110700,Florence Police Department,891,AZ,Mountain,West,Region IV,PINAL,City,False,,32.919038,-111.367005
+AZ0110900,Kearny Police Department,892,AZ,Mountain,West,Region IV,PINAL,City,False,,32.919038,-111.367005
+AZ0111100,Mammoth Police Department,893,AZ,Mountain,West,Region IV,PINAL,City,False,,32.919038,-111.367005
+AZ0111200,Superior Police Department,894,AZ,Mountain,West,Region IV,PINAL,City,True,2021-01-01T00:00:00.000Z,33.289993,-111.10822
+AZ0111300,Apache Junction Police Department,895,AZ,Mountain,West,Region IV,"MARICOPA, PINAL",City,True,2004-07-01T00:00:00.000Z,33.422348,-111.543236
+AZ0111500,Gila River Indian Community,896,AZ,Mountain,West,Region IV,NOT SPECIFIED,Tribal,True,2021-01-01T00:00:00.000Z,32.919038,-111.367005
+AZ0111700,Maricopa Police Department,897,AZ,Mountain,West,Region IV,PINAL,City,True,2021-01-01T00:00:00.000Z,32.919038,-111.367005
+AZ0119700,Central Arizona College,898,AZ,Mountain,West,Region IV,PINAL,University or College,True,2020-01-01T00:00:00.000Z,32.919038,-111.367005
+AZ0120000,Santa Cruz County Sheriff's Office,899,AZ,Mountain,West,Region IV,SANTA CRUZ,County,True,2022-01-01T00:00:00.000Z,31.525733,-110.845228
+AZ0120100,Nogales Police Department,900,AZ,Mountain,West,Region IV,SANTA CRUZ,City,False,,31.346354,-110.930916
+AZ0130000,Yavapai County Sheriff's Office,902,AZ,Mountain,West,Region IV,YAVAPAI,County,True,2021-01-01T00:00:00.000Z,34.54184,-112.466515
+AZ0130100,Clarkdale Police Department,903,AZ,Mountain,West,Region IV,YAVAPAI,City,True,2021-01-01T00:00:00.000Z,34.630044,-112.573745
+AZ0130300,Cottonwood Police Department,904,AZ,Mountain,West,Region IV,YAVAPAI,City,False,,34.735905,-112.02273
+AZ0130500,Jerome Police Department,905,AZ,Mountain,West,Region IV,YAVAPAI,City,False,,34.630044,-112.573745
+AZ0130700,Prescott Police Department,906,AZ,Mountain,West,Region IV,YAVAPAI,City,True,2021-01-01T00:00:00.000Z,34.630044,-112.573745
+AZ0130800,Yavapai College,907,AZ,Mountain,West,Region IV,YAVAPAI,University or College,False,,34.545082,-112.45563
+AZ0131100,Prescott Valley Police Department,908,AZ,Mountain,West,Region IV,YAVAPAI,City,True,2021-01-01T00:00:00.000Z,34.59638,-112.33222
+AZ0131200,Chino Valley Police Department,909,AZ,Mountain,West,Region IV,YAVAPAI,City,True,2021-01-01T00:00:00.000Z,34.630044,-112.573745
+AZ0131300,Camp Verde Police Department,910,AZ,Mountain,West,Region IV,YAVAPAI,City,True,2021-01-01T00:00:00.000Z,34.630044,-112.573745
+AZ0131400,Sedona Police Department,911,AZ,Mountain,West,Region IV,"COCONINO, YAVAPAI",City,False,,34.865772,-111.81422
+AZ0140000,Yuma County Sheriff's Office,912,AZ,Mountain,West,Region IV,YUMA,County,True,2006-06-01T00:00:00.000Z,32.723854,-114.62336
+AZ0140300,Somerton Police Department,913,AZ,Mountain,West,Region IV,YUMA,City,True,2019-07-01T00:00:00.000Z,32.773942,-113.910905
+AZ0140500,Yuma Police Department,914,AZ,Mountain,West,Region IV,YUMA,City,True,2012-01-01T00:00:00.000Z,32.700336,-114.62042
+AZ0140700,Cocopah Tribal,915,AZ,Mountain,West,Region IV,NOT SPECIFIED,Tribal,True,2021-01-01T00:00:00.000Z,32.773942,-113.910905
+AZ0140800,San Luis Police Department,916,AZ,Mountain,West,Region IV,YUMA,City,True,2019-07-01T00:00:00.000Z,32.773942,-113.910905
+AZ0140900,Wellton Police Department,917,AZ,Mountain,West,Region IV,YUMA,City,True,2016-01-01T00:00:00.000Z,32.773942,-113.910905
+AZ0141000,Quechan Tribal,918,AZ,Mountain,West,Region IV,NOT SPECIFIED,Tribal,False,,32.773942,-113.910905
+AZ0149700,Arizona Western College,919,AZ,Mountain,West,Region IV,YUMA,University or College,True,2020-01-01T00:00:00.000Z,32.773942,-113.910905
+AZ0150000,La Paz County Sheriff's Office,920,AZ,Mountain,West,Region IV,LA PAZ,County,True,2021-01-01T00:00:00.000Z,34.14631,-114.28976
+AZ0150100,Parker Police Department,921,AZ,Mountain,West,Region IV,LA PAZ,City,True,2020-01-01T00:00:00.000Z,33.727625,-114.038793
+AZ0150200,Colorado River Tribal,922,AZ,Mountain,West,Region IV,NOT SPECIFIED,Tribal,True,2021-01-01T00:00:00.000Z,33.944565,-114.42316
+AZ0150300,Quartzsite Police Department,923,AZ,Mountain,West,Region IV,LA PAZ,City,True,2020-01-01T00:00:00.000Z,33.727625,-114.038793
+AZCCHPX00,Arizona Department of Public Safety,924,AZ,Mountain,West,Region IV,NOT SPECIFIED,State Police,False,,33.346541,-112.495534
+AZDI02300,Yavapai-Prescott Tribal,925,AZ,Mountain,West,Region IV,NOT SPECIFIED,Tribal,True,2021-01-01T00:00:00.000Z,34.55496,-112.46609
+AZDI05200,San Carlos Agency,926,AZ,Mountain,West,Region IV,NOT SPECIFIED,Tribal,False,,33.789618,-110.81187
+AZDI05300,Hopi Tribal,927,AZ,Mountain,West,Region IV,NOT SPECIFIED,Tribal,False,2022-01-01T00:00:00.000Z,35.390934,-110.320908
+AZDI05900,Colorado River Agency,928,AZ,Mountain,West,Region IV,NOT SPECIFIED,Tribal,False,2022-01-01T00:00:00.000Z,33.944565,-114.42316
+AZDI06000,Truxton Canon Agency,929,AZ,Mountain,West,Region IV,NOT SPECIFIED,Tribal,True,2021-02-01T00:00:00.000Z,35.717705,-113.749689
+AZDI06200,Fort Apache Agency,931,AZ,Mountain,West,Region IV,NOT SPECIFIED,Tribal,False,2022-01-01T00:00:00.000Z,32.931828,-109.87831
+AZDI06500,Ak-Chin Tribal,932,AZ,Mountain,West,Region IV,NOT SPECIFIED,Tribal,True,2021-01-01T00:00:00.000Z,33.02903,-112.076256
+AZDI06600,Pascua Yaqui Tribal,933,AZ,Mountain,West,Region IV,NOT SPECIFIED,Tribal,True,2021-01-01T00:00:00.000Z,32.128238,-111.783018
+AZDI06700,Hualapai Tribal,934,AZ,Mountain,West,Region IV,NOT SPECIFIED,Tribal,True,2021-01-01T00:00:00.000Z,35.717705,-113.749689
+AZDI06900,Yavapai-Apache Nation,935,AZ,Mountain,West,Region IV,NOT SPECIFIED,Tribal,True,2021-01-01T00:00:00.000Z,34.620434,-111.89374
+AZDI08100,Tonto Apache Tribal,936,AZ,Mountain,West,Region IV,NOT SPECIFIED,Tribal,False,2021-01-01T00:00:00.000Z,33.789618,-110.81187
+AZDI08900,Hopi Resource Enforcement Agency,29734,AZ,Mountain,West,Region IV,NOT SPECIFIED,Tribal,True,2021-01-01T00:00:00.000Z,,

@@ -1,0 +1,288 @@
+ori,agency_name,agency_id,state_abbr,division_name,region_name,region_desc,county_name,agency_type_name,nibrs,nibrs_start_date,latitude,longitude
+NB0010000,Adams County Sheriff's Office,10543,NE,West North Central,Midwest,Region II,ADAMS,County,True,2002-01-01T00:00:00.000Z,40.520632,-98.500044
+NB0010100,Hastings Police Department,10544,NE,West North Central,Midwest,Region II,ADAMS,City,True,2002-07-01T00:00:00.000Z,40.520632,-98.500044
+NB0020000,Antelope County Sheriff's Office,10545,NE,West North Central,Midwest,Region II,ANTELOPE,County,False,2019-03-01T00:00:00.000Z,42.183225,-98.058037
+NB0020100,Neligh Police Department,10546,NE,West North Central,Midwest,Region II,ANTELOPE,City,False,2019-03-01T00:00:00.000Z,42.183225,-98.058037
+NB0030000,Arthur County Sheriff's Office,10548,NE,West North Central,Midwest,Region II,ARTHUR,County,True,2021-01-01T00:00:00.000Z,41.571944,-101.695898
+NB0040000,Banner County Sheriff's Office,10549,NE,West North Central,Midwest,Region II,BANNER,County,True,2021-01-01T00:00:00.000Z,41.53975,-103.726263
+NB0050000,Blaine County Sheriff's Office,10550,NE,West North Central,Midwest,Region II,BLAINE,County,False,2019-01-01T00:00:00.000Z,41.92523,-99.990771
+NB0060000,Boone County Sheriff's Office,10551,NE,West North Central,Midwest,Region II,BOONE,County,True,2003-03-01T00:00:00.000Z,41.7054,-98.066794
+NB0060100,Albion Police Department,10552,NE,West North Central,Midwest,Region II,BOONE,City,True,2020-05-01T00:00:00.000Z,41.7054,-98.066794
+NB0060200,St. Edward Police Department,10553,NE,West North Central,Midwest,Region II,BOONE,City,True,2022-01-01T00:00:00.000Z,41.7054,-98.066794
+NB0070000,Box Butte County Sheriff's Office,10556,NE,West North Central,Midwest,Region II,BOX BUTTE,County,True,2021-01-01T00:00:00.000Z,42.215665,-103.087821
+NB0070100,Alliance Police Department,10557,NE,West North Central,Midwest,Region II,BOX BUTTE,City,True,2013-01-01T00:00:00.000Z,42.215665,-103.087821
+NB0080000,Boyd County Sheriff's Office,10558,NE,West North Central,Midwest,Region II,BOYD,County,True,2021-01-01T00:00:00.000Z,42.894448,-98.773022
+NB0090000,Brown County Sheriff's Office,10560,NE,West North Central,Midwest,Region II,BROWN,County,True,2021-01-01T00:00:00.000Z,42.34939,-99.923176
+NB0100000,Buffalo County Sheriff's Office,10562,NE,West North Central,Midwest,Region II,BUFFALO,County,True,1998-01-01T00:00:00.000Z,40.855226,-99.074983
+NB0100100,Kearney Police Department,10563,NE,West North Central,Midwest,Region II,BUFFALO,City,True,1998-01-01T00:00:00.000Z,40.855226,-99.074983
+NB0100300,Ravenna Police Department,10565,NE,West North Central,Midwest,Region II,BUFFALO,City,True,2019-01-01T00:00:00.000Z,40.855226,-99.074983
+NB0100600,University of Nebraska: Kearney,25753,NE,West North Central,Midwest,Region II,BUFFALO,University or College,True,2014-10-01T00:00:00.000Z,40.855226,-99.074983
+NB0110000,Burt County Sheriff's Office,10568,NE,West North Central,Midwest,Region II,BURT,County,True,2019-04-01T00:00:00.000Z,41.854179,-96.337746
+NB0110100,Lyons Police Department,10569,NE,West North Central,Midwest,Region II,BURT,City,False,,41.854179,-96.337746
+NB0110200,Oakland Police Department,10570,NE,West North Central,Midwest,Region II,BURT,City,False,2021-01-01T00:00:00.000Z,41.854179,-96.337746
+NB0110300,Tekamah Police Department,10571,NE,West North Central,Midwest,Region II,BURT,City,True,2019-05-01T00:00:00.000Z,41.854179,-96.337746
+NB0110400,Decatur,22430,NE,West North Central,Midwest,Region II,BURT,City,False,2021-01-01T00:00:00.000Z,41.854179,-96.337746
+NB0120000,Butler County Sheriff's Office,10572,NE,West North Central,Midwest,Region II,BUTLER,County,True,2012-07-01T00:00:00.000Z,41.226072,-97.132039
+NB0130000,Cass County Sheriff's Office,10574,NE,West North Central,Midwest,Region II,CASS,County,True,2004-05-01T00:00:00.000Z,40.909878,-96.140609
+NB0130100,Plattsmouth Police Department,10575,NE,West North Central,Midwest,Region II,CASS,City,True,1998-01-01T00:00:00.000Z,40.909878,-96.140609
+NB0140000,Cedar County Sheriff's Office,10578,NE,West North Central,Midwest,Region II,CEDAR,County,True,2020-08-01T00:00:00.000Z,42.604511,-97.256824
+NB0140200,Randolph Police Department,10580,NE,West North Central,Midwest,Region II,CEDAR,City,False,2021-01-01T00:00:00.000Z,42.604511,-97.256824
+NB0140300,Laurel Police Department,10581,NE,West North Central,Midwest,Region II,CEDAR,City,True,2021-01-01T00:00:00.000Z,42.604511,-97.256824
+NB0150000,Chase County Sheriff's Office,10583,NE,West North Central,Midwest,Region II,CHASE,County,True,2019-01-01T00:00:00.000Z,40.53039,-101.694192
+NB0150100,Imperial Police Department,10584,NE,West North Central,Midwest,Region II,CHASE,City,True,2017-11-01T00:00:00.000Z,40.53039,-101.694192
+NB0160000,Cherry County Sheriff's Office,10586,NE,West North Central,Midwest,Region II,CHERRY,County,True,2021-01-01T00:00:00.000Z,42.566619,-101.070416
+NB0160100,Valentine Police Department,10587,NE,West North Central,Midwest,Region II,CHERRY,City,True,2007-01-01T00:00:00.000Z,42.566619,-101.070416
+NB0170000,Cheyenne County Sheriff's Office,10588,NE,West North Central,Midwest,Region II,CHEYENNE,County,True,2014-01-01T00:00:00.000Z,41.214236,-103.011929
+NB0170100,Sidney Police Department,10589,NE,West North Central,Midwest,Region II,CHEYENNE,City,True,2012-08-01T00:00:00.000Z,41.214236,-103.011929
+NB0180000,Clay County Sheriff's Office,10590,NE,West North Central,Midwest,Region II,CLAY,County,True,2014-12-01T00:00:00.000Z,40.523669,-98.05105
+NB0180100,Harvard Police Department,10591,NE,West North Central,Midwest,Region II,CLAY,City,True,2017-04-01T00:00:00.000Z,40.523669,-98.05105
+NB0180200,Sutton Police Department,10592,NE,West North Central,Midwest,Region II,CLAY,City,False,2021-01-01T00:00:00.000Z,40.523669,-98.05105
+NB0190000,Colfax County Sheriff's Office,10593,NE,West North Central,Midwest,Region II,COLFAX,County,True,2015-12-01T00:00:00.000Z,41.574675,-97.089455
+NB0190100,Schuyler Police Department,10594,NE,West North Central,Midwest,Region II,COLFAX,City,True,2001-11-01T00:00:00.000Z,41.574675,-97.089455
+NB0200000,Cuming County Sheriff's Office,10595,NE,West North Central,Midwest,Region II,CUMING,County,True,2018-07-01T00:00:00.000Z,41.915865,-96.788517
+NB0200100,West Point Police Department,10596,NE,West North Central,Midwest,Region II,CUMING,City,True,2003-07-01T00:00:00.000Z,41.915865,-96.788517
+NB0200200,Wisner Police Department,10597,NE,West North Central,Midwest,Region II,CUMING,City,True,2021-01-01T00:00:00.000Z,41.915865,-96.788517
+NB0210000,Custer County Sheriff's Office,10599,NE,West North Central,Midwest,Region II,CUSTER,County,True,2002-01-01T00:00:00.000Z,41.393893,-99.726866
+NB0210100,Broken Bow Police Department,10600,NE,West North Central,Midwest,Region II,CUSTER,City,True,2002-01-01T00:00:00.000Z,41.393893,-99.726866
+NB0220000,Dakota County Sheriff's Office,10601,NE,West North Central,Midwest,Region II,DAKOTA,County,True,2021-01-01T00:00:00.000Z,42.390456,-96.562549
+NB0220100,South Sioux City Police Department,10602,NE,West North Central,Midwest,Region II,DAKOTA,City,True,2015-10-01T00:00:00.000Z,42.390456,-96.562549
+NB0220300,Emerson Police Department,10604,NE,West North Central,Midwest,Region II,"DAKOTA, DIXON, THURSTON",City,True,2004-06-01T00:00:00.000Z,42.48528,-96.855862
+NB0230000,Dawes County Sheriff's Office,10605,NE,West North Central,Midwest,Region II,DAWES,County,True,2021-01-01T00:00:00.000Z,42.711214,-103.134872
+NB0230100,Chadron Police Department,10606,NE,West North Central,Midwest,Region II,DAWES,City,True,2002-01-01T00:00:00.000Z,42.711214,-103.134872
+NB0240000,Dawson County Sheriff's Office,10608,NE,West North Central,Midwest,Region II,DAWSON,County,True,2013-10-01T00:00:00.000Z,40.867378,-99.815154
+NB0240100,Cozad Police Department,10609,NE,West North Central,Midwest,Region II,DAWSON,City,True,2013-09-01T00:00:00.000Z,40.867378,-99.815154
+NB0240200,Gothenburg Police Department,10610,NE,West North Central,Midwest,Region II,DAWSON,City,True,2004-01-01T00:00:00.000Z,40.867378,-99.815154
+NB0240300,Lexington Police Department,10611,NE,West North Central,Midwest,Region II,DAWSON,City,True,2013-09-01T00:00:00.000Z,40.867378,-99.815154
+NB0250000,Deuel County Sheriff's Office,10612,NE,West North Central,Midwest,Region II,DEUEL,County,True,2013-07-01T00:00:00.000Z,41.111903,-102.332609
+NB0260000,Dixon County Sheriff's Office,10614,NE,West North Central,Midwest,Region II,DIXON,County,True,2003-01-01T00:00:00.000Z,42.48528,-96.855862
+NB0270000,Dodge County Sheriff's Office,10615,NE,West North Central,Midwest,Region II,DODGE,County,True,2020-11-01T00:00:00.000Z,41.577008,-96.645853
+NB0270100,Fremont Police Department,10616,NE,West North Central,Midwest,Region II,DODGE,City,True,2004-09-01T00:00:00.000Z,41.577008,-96.645853
+NB0270300,Scribner Police Department,10617,NE,West North Central,Midwest,Region II,DODGE,City,False,2021-01-01T00:00:00.000Z,41.577008,-96.645853
+NB0280000,Douglas County Sheriff's Office,10618,NE,West North Central,Midwest,Region II,DOUGLAS,County,True,2018-04-01T00:00:00.000Z,41.297091,-96.154066
+NB0280200,Omaha Police Department,10620,NE,West North Central,Midwest,Region II,DOUGLAS,City,False,,41.297091,-96.154066
+NB0280400,Ralston Police Department,10622,NE,West North Central,Midwest,Region II,DOUGLAS,City,True,2002-04-01T00:00:00.000Z,41.297091,-96.154066
+NB0280500,Valley Police Department,10623,NE,West North Central,Midwest,Region II,DOUGLAS,City,True,2018-07-01T00:00:00.000Z,41.297091,-96.154066
+NB0280600,Boys Town Police Department,10624,NE,West North Central,Midwest,Region II,DOUGLAS,City,True,2020-02-01T00:00:00.000Z,41.297091,-96.154066
+NB0280700,Bennington Police Department,10625,NE,West North Central,Midwest,Region II,DOUGLAS,City,True,2020-01-01T00:00:00.000Z,41.297091,-96.154066
+NB0280800,Waterloo Police Department,10626,NE,West North Central,Midwest,Region II,DOUGLAS,City,True,2004-06-01T00:00:00.000Z,41.297091,-96.154066
+NB0280900,University of Nebraska:,32856,NE,West North Central,Midwest,Region II,DOUGLAS,University or College,True,2021-01-01T00:00:00.000Z,,
+NB028119E,Union Pacific Railroad Police Department,22710,NE,West North Central,Midwest,Region II,DOUGLAS,Other,True,2022-01-01T00:00:00.000Z,,
+NB0282400,Metropolitan Community College: Douglas County,10627,NE,West North Central,Midwest,Region II,DOUGLAS,University or College,True,2019-01-01T00:00:00.000Z,41.297091,-96.154066
+NB0290000,Dundy County Sheriff's Office,10628,NE,West North Central,Midwest,Region II,DUNDY,County,True,2021-01-01T00:00:00.000Z,40.180165,-101.681133
+NB0300000,Fillmore County Sheriff's Office,10630,NE,West North Central,Midwest,Region II,FILLMORE,County,True,2018-01-01T00:00:00.000Z,40.52504,-97.596705
+NB0310000,Franklin County Sheriff's Office,10632,NE,West North Central,Midwest,Region II,FRANKLIN,County,True,2021-01-01T00:00:00.000Z,40.183203,-98.96208
+NB0310100,Franklin,33687,NE,West North Central,Midwest,Region II,FRANKLIN,City,True,2021-01-01T00:00:00.000Z,,
+NB0320000,Frontier County Sheriff's Office,10633,NE,West North Central,Midwest,Region II,FRONTIER,County,False,2002-01-01T00:00:00.000Z,40.530947,-100.406683
+NB0330000,Furnas County Sheriff's Office,10635,NE,West North Central,Midwest,Region II,FURNAS,County,True,2014-03-01T00:00:00.000Z,40.191865,-99.909663
+NB0340000,Gage County Sheriff's Office,10639,NE,West North Central,Midwest,Region II,GAGE,County,True,1998-01-01T00:00:00.000Z,40.255234,-96.683453
+NB0340100,Beatrice Police Department,10640,NE,West North Central,Midwest,Region II,GAGE,City,True,1998-01-01T00:00:00.000Z,40.255234,-96.683453
+NB0340200,Wymore Police Department,10641,NE,West North Central,Midwest,Region II,GAGE,City,True,2001-05-01T00:00:00.000Z,40.255234,-96.683453
+NB0350000,Garden County Sheriff's Office,10642,NE,West North Central,Midwest,Region II,GARDEN,County,False,2011-07-01T00:00:00.000Z,41.659381,-102.328229
+NB0360000,Garfield County Sheriff's Office,10644,NE,West North Central,Midwest,Region II,GARFIELD,County,True,2015-06-01T00:00:00.000Z,41.905571,-98.922998
+NB0360100,Burwell Police Department,10645,NE,West North Central,Midwest,Region II,GARFIELD,City,True,2018-07-01T00:00:00.000Z,41.905571,-98.922998
+NB0370000,Gosper County Sheriff's Office,10646,NE,West North Central,Midwest,Region II,GOSPER,County,True,2013-10-01T00:00:00.000Z,40.509838,-99.824078
+NB0380000,Grant County Sheriff's Office,10647,NE,West North Central,Midwest,Region II,GRANT,County,True,2021-01-01T00:00:00.000Z,41.915867,-101.756875
+NB0390000,Greeley County Sheriff's Office,10648,NE,West North Central,Midwest,Region II,GREELEY,County,True,2018-07-01T00:00:00.000Z,41.5676,-98.530566
+NB0390100,Scotia,33685,NE,West North Central,Midwest,Region II,GREELEY,City,True,2021-01-01T00:00:00.000Z,,
+NB0400000,Hall County Sheriff's Office,10649,NE,West North Central,Midwest,Region II,HALL,County,True,2006-01-01T00:00:00.000Z,40.866023,-98.498004
+NB0400100,Grand Island Police Department,10650,NE,West North Central,Midwest,Region II,HALL,City,True,2016-01-01T00:00:00.000Z,40.866023,-98.498004
+NB0410000,Hamilton County Sheriff's Office,10652,NE,West North Central,Midwest,Region II,HAMILTON,County,True,2002-10-01T00:00:00.000Z,40.877145,-98.021943
+NB0410100,Aurora Police Department,10653,NE,West North Central,Midwest,Region II,HAMILTON,City,True,2005-05-01T00:00:00.000Z,40.877145,-98.021943
+NB0420000,Harlan County Sheriff's Office,10654,NE,West North Central,Midwest,Region II,HARLAN,County,True,2001-01-01T00:00:00.000Z,40.178766,-99.403418
+NB0430000,Hayes County Sheriff's Office,10656,NE,West North Central,Midwest,Region II,HAYES,County,False,2019-05-01T00:00:00.000Z,40.535786,-101.05558
+NB0440000,Hitchcock County Sheriff's Office,10657,NE,West North Central,Midwest,Region II,HITCHCOCK,County,True,2019-02-01T00:00:00.000Z,40.176896,-101.044217
+NB0450000,Holt County Sheriff's Office,10658,NE,West North Central,Midwest,Region II,HOLT,County,True,2019-01-01T00:00:00.000Z,42.459287,-98.784766
+NB0450100,O'Neill Police Department,10659,NE,West North Central,Midwest,Region II,HOLT,City,True,2019-04-01T00:00:00.000Z,42.459287,-98.784766
+NB0460000,Hooker County Sheriff's Office,10661,NE,West North Central,Midwest,Region II,HOOKER,County,True,2019-01-01T00:00:00.000Z,41.9187,-101.11681
+NB0470000,Howard County Sheriff's Office,10662,NE,West North Central,Midwest,Region II,HOWARD,County,True,2018-01-01T00:00:00.000Z,41.216851,-98.513342
+NB0470100,St. Paul Police Department,10663,NE,West North Central,Midwest,Region II,HOWARD,City,True,2003-12-01T00:00:00.000Z,41.216851,-98.513342
+NB0480000,Jefferson County Sheriff's Office,10664,NE,West North Central,Midwest,Region II,JEFFERSON,County,True,2001-01-01T00:00:00.000Z,40.175736,-97.143103
+NB0490000,Johnson County Sheriff's Office,10666,NE,West North Central,Midwest,Region II,JOHNSON,County,True,2010-01-01T00:00:00.000Z,40.395457,-96.268562
+NB0500000,Kearney County Sheriff's Office,10668,NE,West North Central,Midwest,Region II,KEARNEY,County,True,2002-01-01T00:00:00.000Z,40.506269,-98.948461
+NB0500100,Minden Police Department,10669,NE,West North Central,Midwest,Region II,KEARNEY,City,True,2002-01-01T00:00:00.000Z,40.506269,-98.948461
+NB0510000,Keith County Sheriff's Office,10670,NE,West North Central,Midwest,Region II,KEITH,County,True,2003-09-01T00:00:00.000Z,41.194413,-101.644486
+NB0510100,Ogallala Police Department,10671,NE,West North Central,Midwest,Region II,KEITH,City,True,2003-04-01T00:00:00.000Z,41.194413,-101.644486
+NB0520000,Keya Paha County Sheriff's Office,10672,NE,West North Central,Midwest,Region II,KEYA PAHA,County,True,2021-01-01T00:00:00.000Z,42.87548,-99.718351
+NB0530000,Kimball County Sheriff's Office,10673,NE,West North Central,Midwest,Region II,KIMBALL,County,True,2021-01-01T00:00:00.000Z,41.199274,-103.703153
+NB0530100,Kimball Police Department,10674,NE,West North Central,Midwest,Region II,KIMBALL,City,True,2020-01-01T00:00:00.000Z,41.199274,-103.703153
+NB0540000,Knox County Sheriff's Office,10675,NE,West North Central,Midwest,Region II,KNOX,County,True,2019-05-01T00:00:00.000Z,42.634404,-97.891349
+NB0540100,Creighton Police Department,10676,NE,West North Central,Midwest,Region II,KNOX,City,True,2021-01-01T00:00:00.000Z,42.634404,-97.891349
+NB0540500,Bloomfield,33691,NE,West North Central,Midwest,Region II,KNOX,City,True,2021-01-01T00:00:00.000Z,,
+NB0550000,Lancaster County Sheriff's Office,10680,NE,West North Central,Midwest,Region II,LANCASTER,County,True,2021-01-01T00:00:00.000Z,40.783547,-96.688658
+NB0550100,Lincoln Police Department,10681,NE,West North Central,Midwest,Region II,LANCASTER,City,True,2021-01-01T00:00:00.000Z,40.783547,-96.688658
+NB0550500,University of Nebraska: Lincoln,10683,NE,West North Central,Midwest,Region II,LANCASTER,University or College,True,2021-01-01T00:00:00.000Z,40.783547,-96.688658
+NB0550900,Nebraska State Fire Marshal,33630,NE,West North Central,Midwest,Region II,LANCASTER,Other State Agency,True,2021-01-01T00:00:00.000Z,,
+NB0560000,Lincoln County Sheriff's Office,10684,NE,West North Central,Midwest,Region II,LINCOLN,County,True,2009-07-01T00:00:00.000Z,41.050322,-100.744481
+NB0560100,North Platte Police Department,10685,NE,West North Central,Midwest,Region II,LINCOLN,City,True,2009-01-01T00:00:00.000Z,41.050322,-100.744481
+NB0570000,Logan County Sheriff's Office,10686,NE,West North Central,Midwest,Region II,LOGAN,County,True,2018-07-01T00:00:00.000Z,41.542155,-100.443665
+NB0580000,Loup County Sheriff's Office,10687,NE,West North Central,Midwest,Region II,LOUP,County,False,2018-07-01T00:00:00.000Z,41.897714,-99.509764
+NB0590000,McPherson County Sheriff's Office,10688,NE,West North Central,Midwest,Region II,MCPHERSON,County,True,2020-10-01T00:00:00.000Z,41.596473,-101.060237
+NB0600000,Madison County Sheriff's Office,10689,NE,West North Central,Midwest,Region II,MADISON,County,True,2002-08-01T00:00:00.000Z,41.909929,-97.606856
+NB0600100,Norfolk Police Department,10690,NE,West North Central,Midwest,Region II,MADISON,City,True,1998-01-01T00:00:00.000Z,41.909929,-97.606856
+NB0600200,Battle Creek Police Department,10691,NE,West North Central,Midwest,Region II,MADISON,City,True,2022-02-01T00:00:00.000Z,41.909929,-97.606856
+NB0600300,Madison Police Department,10692,NE,West North Central,Midwest,Region II,MADISON,City,True,2006-02-01T00:00:00.000Z,41.909929,-97.606856
+NB0600400,Tilden Police Department,10693,NE,West North Central,Midwest,Region II,"ANTELOPE, MADISON",City,True,2021-01-01T00:00:00.000Z,41.909929,-97.606856
+NB0610000,Merrick County Sheriff's Office,10695,NE,West North Central,Midwest,Region II,MERRICK,County,True,2014-07-01T00:00:00.000Z,41.169801,-98.031051
+NB0610100,Central City Police Department,10696,NE,West North Central,Midwest,Region II,MERRICK,City,True,2002-01-01T00:00:00.000Z,41.169801,-98.031051
+NB0620000,Morrill County Sheriff's Office,10697,NE,West North Central,Midwest,Region II,MORRILL,County,True,2019-07-01T00:00:00.000Z,41.732205,-102.990599
+NB0620100,Bayard Police Department,10698,NE,West North Central,Midwest,Region II,MORRILL,City,True,2021-01-01T00:00:00.000Z,41.732205,-102.990599
+NB0630000,Nance County Sheriff's Office,10700,NE,West North Central,Midwest,Region II,NANCE,County,True,2003-01-01T00:00:00.000Z,41.402385,-97.991408
+NB0640000,Nemaha County Sheriff's Office,10703,NE,West North Central,Midwest,Region II,NEMAHA,County,True,2003-01-01T00:00:00.000Z,40.387448,-95.850954
+NB0650000,Nuckolls County Sheriff's Office,10705,NE,West North Central,Midwest,Region II,NUCKOLLS,County,True,2021-01-01T00:00:00.000Z,40.176492,-98.046842
+NB0650100,Superior Police Department,10706,NE,West North Central,Midwest,Region II,NUCKOLLS,City,False,2020-12-01T00:00:00.000Z,40.176492,-98.046842
+NB0660000,Otoe County Sheriff's Office,10707,NE,West North Central,Midwest,Region II,OTOE,County,True,2002-01-01T00:00:00.000Z,40.637992,-96.131027
+NB0660100,Nebraska City Police Department,10708,NE,West North Central,Midwest,Region II,OTOE,City,True,2001-01-01T00:00:00.000Z,40.637992,-96.131027
+NB0670000,Pawnee County Sheriff's Office,10710,NE,West North Central,Midwest,Region II,PAWNEE,County,True,2018-01-01T00:00:00.000Z,40.13785,-96.245225
+NB0680000,Perkins County Sheriff's Office,10711,NE,West North Central,Midwest,Region II,PERKINS,County,True,2006-01-01T00:00:00.000Z,40.856065,-101.636443
+NB0690000,Phelps County Sheriff's Office,10713,NE,West North Central,Midwest,Region II,PHELPS,County,True,2002-02-01T00:00:00.000Z,40.516365,-99.406557
+NB0690100,Holdrege Police Department,10714,NE,West North Central,Midwest,Region II,PHELPS,City,True,2001-12-01T00:00:00.000Z,40.516365,-99.406557
+NB0700000,Pierce County Sheriff's Office,10716,NE,West North Central,Midwest,Region II,PIERCE,County,True,2022-01-01T00:00:00.000Z,42.271413,-97.610992
+NB0700100,Pierce Police Department,10717,NE,West North Central,Midwest,Region II,PIERCE,City,True,2021-01-01T00:00:00.000Z,42.271413,-97.610992
+NB0700200,Plainview Police Department,10718,NE,West North Central,Midwest,Region II,PIERCE,City,True,2021-01-01T00:00:00.000Z,42.271413,-97.610992
+NB0700300,Osmond Police Department,10719,NE,West North Central,Midwest,Region II,PIERCE,City,True,2021-01-01T00:00:00.000Z,42.271413,-97.610992
+NB0710000,Platte County Sheriff's Office,10720,NE,West North Central,Midwest,Region II,PLATTE,County,True,2002-01-01T00:00:00.000Z,41.576866,-97.513467
+NB0710100,Columbus Police Department,10721,NE,West North Central,Midwest,Region II,PLATTE,City,True,1998-01-01T00:00:00.000Z,41.576866,-97.513467
+NB0720000,Polk County Sheriff's Office,10723,NE,West North Central,Midwest,Region II,POLK,County,True,2003-01-01T00:00:00.000Z,41.187925,-97.570663
+NB0730000,Red Willow County Sheriff's Office,10725,NE,West North Central,Midwest,Region II,RED WILLOW,County,True,2016-01-01T00:00:00.000Z,40.16942,-100.468576
+NB0730100,McCook Police Department,10726,NE,West North Central,Midwest,Region II,RED WILLOW,City,True,2002-12-01T00:00:00.000Z,40.16942,-100.468576
+NB0740000,Richardson County Sheriff's Office,10727,NE,West North Central,Midwest,Region II,RICHARDSON,County,True,2014-12-01T00:00:00.000Z,40.123743,-95.718603
+NB0740100,Falls City Police Department,10728,NE,West North Central,Midwest,Region II,RICHARDSON,City,True,2015-11-01T00:00:00.000Z,40.123743,-95.718603
+NB0750000,Rock County Sheriff's Office,10730,NE,West North Central,Midwest,Region II,ROCK,County,True,2021-01-01T00:00:00.000Z,42.413325,-99.45853
+NB0760000,Saline County Sheriff's Office,10732,NE,West North Central,Midwest,Region II,SALINE,County,True,2003-01-01T00:00:00.000Z,40.516802,-97.131755
+NB0760200,Crete Police Department,10734,NE,West North Central,Midwest,Region II,SALINE,City,True,2015-11-01T00:00:00.000Z,40.516802,-97.131755
+NB0770000,Sarpy County Sheriff's Office,10736,NE,West North Central,Midwest,Region II,SARPY,County,True,1998-01-01T00:00:00.000Z,41.115064,-96.109125
+NB0770100,Bellevue Police Department,10737,NE,West North Central,Midwest,Region II,SARPY,City,True,1998-01-01T00:00:00.000Z,41.115064,-96.109125
+NB0770200,Papillion Police Department,10738,NE,West North Central,Midwest,Region II,SARPY,City,True,2001-01-01T00:00:00.000Z,41.115064,-96.109125
+NB0770400,La Vista Police Department,10740,NE,West North Central,Midwest,Region II,SARPY,City,True,2001-01-01T00:00:00.000Z,41.115064,-96.109125
+NB077500X,Metropolitan Community College: Sarpy County,10741,NE,West North Central,Midwest,Region II,SARPY,University or College,False,,,
+NB0780000,Saunders County Sheriff's Office,10742,NE,West North Central,Midwest,Region II,SAUNDERS,County,True,2014-05-01T00:00:00.000Z,41.223152,-96.640923
+NB0780100,Wahoo Police Department,10743,NE,West North Central,Midwest,Region II,SAUNDERS,City,True,2003-01-01T00:00:00.000Z,41.223152,-96.640923
+NB0780200,Ashland Police Department,10744,NE,West North Central,Midwest,Region II,SAUNDERS,City,True,2021-01-01T00:00:00.000Z,41.223152,-96.640923
+NB0780300,Yutan,34136,NE,West North Central,Midwest,Region II,SAUNDERS,City,True,2022-01-01T00:00:00.000Z,,
+NB0790000,Scotts Bluff County Sheriff's Office,10745,NE,West North Central,Midwest,Region II,SCOTTS BLUFF,County,True,2003-02-01T00:00:00.000Z,41.851589,-103.70586
+NB0790100,Scottsbluff Police Department,10746,NE,West North Central,Midwest,Region II,SCOTTS BLUFF,City,True,2012-01-01T00:00:00.000Z,41.851589,-103.70586
+NB0790200,Gering Police Department,10747,NE,West North Central,Midwest,Region II,SCOTTS BLUFF,City,True,2017-01-01T00:00:00.000Z,41.851589,-103.70586
+NB0790300,Mitchell Police Department,10748,NE,West North Central,Midwest,Region II,SCOTTS BLUFF,City,True,2008-01-01T00:00:00.000Z,41.851589,-103.70586
+NB0790400,Lyman Police Department,10749,NE,West North Central,Midwest,Region II,SCOTTS BLUFF,City,True,2021-01-01T00:00:00.000Z,41.851589,-103.70586
+NB0790500,Morrill,28534,NE,West North Central,Midwest,Region II,SCOTTS BLUFF,City,True,2018-07-01T00:00:00.000Z,,
+NB0790600,Minatare Police Department,10750,NE,West North Central,Midwest,Region II,SCOTTS BLUFF,City,True,2002-04-01T00:00:00.000Z,41.851589,-103.70586
+NB0800000,Seward County Sheriff's Office,10751,NE,West North Central,Midwest,Region II,SEWARD,County,True,2001-05-01T00:00:00.000Z,40.871944,-97.140383
+NB0800100,Seward Police Department,10752,NE,West North Central,Midwest,Region II,SEWARD,City,True,2002-08-01T00:00:00.000Z,40.871944,-97.140383
+NB0800200,Milford Police Department,10753,NE,West North Central,Midwest,Region II,SEWARD,City,True,2021-01-01T00:00:00.000Z,40.871944,-97.140383
+NB0810000,Sheridan County Sheriff's Office,10754,NE,West North Central,Midwest,Region II,SHERIDAN,County,True,2019-08-01T00:00:00.000Z,42.507074,-102.389698
+NB0810100,Gordon Police Department,10755,NE,West North Central,Midwest,Region II,SHERIDAN,City,True,2009-02-01T00:00:00.000Z,42.507074,-102.389698
+NB0820000,Sherman County Sheriff's Office,10757,NE,West North Central,Midwest,Region II,SHERMAN,County,False,2013-12-01T00:00:00.000Z,41.218743,-98.972849
+NB0830000,Sioux County Sheriff's Office,10759,NE,West North Central,Midwest,Region II,SIOUX,County,False,2021-01-01T00:00:00.000Z,42.485675,-103.744068
+NB0840000,Stanton County Sheriff's Office,10760,NE,West North Central,Midwest,Region II,STANTON,County,True,2021-01-01T00:00:00.000Z,41.904792,-97.174724
+NB0850000,Thayer County Sheriff's Office,10762,NE,West North Central,Midwest,Region II,THAYER,County,True,2019-01-01T00:00:00.000Z,40.173845,-97.596263
+NB0860000,Thomas County Sheriff's Office,10763,NE,West North Central,Midwest,Region II,THOMAS,County,True,2021-01-01T00:00:00.000Z,41.84862,-100.506911
+NB0870000,Thurston County Sheriff's Office,10764,NE,West North Central,Midwest,Region II,THURSTON,County,True,2014-01-01T00:00:00.000Z,42.154061,-96.533943
+NB0870200,Omaha Tribal,10765,NE,West North Central,Midwest,Region II,NOT SPECIFIED,Tribal,True,2021-01-01T00:00:00.000Z,42.154061,-96.533943
+NB0870400,Winnebago Tribal,10766,NE,West North Central,Midwest,Region II,NOT SPECIFIED,Tribal,True,2021-01-01T00:00:00.000Z,42.154061,-96.533943
+NB0870500,Walthill Police Department,26019,NE,West North Central,Midwest,Region II,THURSTON,City,False,,42.154061,-96.533943
+NB0880000,Valley County Sheriff's Office,10767,NE,West North Central,Midwest,Region II,VALLEY,County,True,2016-12-01T00:00:00.000Z,41.564094,-98.983484
+NB0880100,Ord Police Department,10768,NE,West North Central,Midwest,Region II,VALLEY,City,True,2015-04-01T00:00:00.000Z,41.564094,-98.983484
+NB0890000,Washington County Sheriff's Office,10769,NE,West North Central,Midwest,Region II,WASHINGTON,County,True,2008-06-01T00:00:00.000Z,41.533973,-96.224577
+NB0890100,Blair Police Department,10770,NE,West North Central,Midwest,Region II,WASHINGTON,City,True,2001-09-01T00:00:00.000Z,41.533973,-96.224577
+NB0900000,Wayne County Sheriff's Office,10771,NE,West North Central,Midwest,Region II,WAYNE,County,True,2005-02-01T00:00:00.000Z,42.210746,-97.126243
+NB0900100,Wayne Police Department,10772,NE,West North Central,Midwest,Region II,WAYNE,City,True,2021-01-01T00:00:00.000Z,42.210746,-97.126243
+NB0910000,Webster County Sheriff's Office,10773,NE,West North Central,Midwest,Region II,WEBSTER,County,True,2020-12-01T00:00:00.000Z,40.180646,-98.49859
+NB0920000,Wheeler County Sheriff's Office,10775,NE,West North Central,Midwest,Region II,WHEELER,County,True,2018-10-01T00:00:00.000Z,41.937859,-98.522289
+NB0930000,York County Sheriff's Office,10776,NE,West North Central,Midwest,Region II,YORK,County,True,2002-01-01T00:00:00.000Z,40.873056,-97.596742
+NB0930100,York Police Department,10777,NE,West North Central,Midwest,Region II,YORK,City,True,2020-11-01T00:00:00.000Z,40.873056,-97.596742
+NB0930200,Henderson,33776,NE,West North Central,Midwest,Region II,YORK,City,True,2022-01-01T00:00:00.000Z,,
+NBDI00800,Santee Tribal,10778,NE,West North Central,Midwest,Region II,NOT SPECIFIED,Tribal,True,2021-01-01T00:00:00.000Z,42.634404,-97.891349
+NBNSP0000,Nebraska State Patrol,10779,NE,West North Central,Midwest,Region II,NOT SPECIFIED,State Police,False,,40.783547,-96.688658
+NBNSP0100,State Patrol: Adams County,10780,NE,West North Central,Midwest,Region II,ADAMS,State Police,True,2021-01-01T00:00:00.000Z,40.520632,-98.500044
+NBNSP0200,State Patrol: Antelope County,10781,NE,West North Central,Midwest,Region II,ANTELOPE,State Police,True,2021-01-01T00:00:00.000Z,42.183225,-98.058037
+NBNSP0300,State Patrol: Arthur County,10782,NE,West North Central,Midwest,Region II,ARTHUR,State Police,True,2021-01-01T00:00:00.000Z,41.571944,-101.695898
+NBNSP0400,State Patrol: Banner County,10783,NE,West North Central,Midwest,Region II,BANNER,State Police,True,2021-01-01T00:00:00.000Z,41.53975,-103.726263
+NBNSP0500,State Patrol: Blaine County,10784,NE,West North Central,Midwest,Region II,BLAINE,State Police,True,2021-01-01T00:00:00.000Z,41.92523,-99.990771
+NBNSP0600,State Patrol: Boone County,10785,NE,West North Central,Midwest,Region II,BOONE,State Police,True,2021-01-01T00:00:00.000Z,41.7054,-98.066794
+NBNSP0700,State Patrol: Box Butte County,10786,NE,West North Central,Midwest,Region II,BOX BUTTE,State Police,True,2021-01-01T00:00:00.000Z,42.215665,-103.087821
+NBNSP0800,State Patrol: Boyd County,10787,NE,West North Central,Midwest,Region II,BOYD,State Police,True,2021-01-01T00:00:00.000Z,40.637992,-96.131027
+NBNSP0900,State Patrol: Brown County,10788,NE,West North Central,Midwest,Region II,BROWN,State Police,True,2021-01-01T00:00:00.000Z,42.34939,-99.923176
+NBNSP1000,State Patrol: Buffalo County,10789,NE,West North Central,Midwest,Region II,BUFFALO,State Police,True,2021-01-01T00:00:00.000Z,40.855226,-99.074983
+NBNSP1100,State Patrol: Burt County,10790,NE,West North Central,Midwest,Region II,BURT,State Police,True,2021-01-01T00:00:00.000Z,41.854179,-96.337746
+NBNSP1200,State Patrol: Butler County,10791,NE,West North Central,Midwest,Region II,BUTLER,State Police,True,2021-01-01T00:00:00.000Z,41.226072,-97.132039
+NBNSP1300,State Patrol: Cass County,10792,NE,West North Central,Midwest,Region II,CASS,State Police,True,2021-01-01T00:00:00.000Z,40.909878,-96.140609
+NBNSP1400,State Patrol: Cedar County,10793,NE,West North Central,Midwest,Region II,CEDAR,State Police,True,2021-01-01T00:00:00.000Z,42.604511,-97.256824
+NBNSP1500,State Patrol: Chase County,10794,NE,West North Central,Midwest,Region II,CHASE,State Police,True,2021-01-01T00:00:00.000Z,40.53039,-101.694192
+NBNSP1600,State Patrol: Cherry County,10795,NE,West North Central,Midwest,Region II,CHERRY,State Police,True,2021-01-01T00:00:00.000Z,42.566619,-101.070416
+NBNSP1700,State Patrol: Cheyenne County,10796,NE,West North Central,Midwest,Region II,CHEYENNE,State Police,True,2021-01-01T00:00:00.000Z,41.214236,-103.011929
+NBNSP1800,State Patrol: Clay County,10797,NE,West North Central,Midwest,Region II,CLAY,State Police,True,2021-01-01T00:00:00.000Z,40.523669,-98.05105
+NBNSP1900,State Patrol: Colfax County,10798,NE,West North Central,Midwest,Region II,COLFAX,State Police,True,2021-01-01T00:00:00.000Z,41.574675,-97.089455
+NBNSP2000,State Patrol: Cuming County,10799,NE,West North Central,Midwest,Region II,CUMING,State Police,True,2021-01-01T00:00:00.000Z,41.915865,-96.788517
+NBNSP2100,State Patrol: Custer County,10800,NE,West North Central,Midwest,Region II,CUSTER,State Police,True,2021-01-01T00:00:00.000Z,41.393893,-99.726866
+NBNSP2200,State Patrol: Dakota County,10801,NE,West North Central,Midwest,Region II,DAKOTA,State Police,True,2021-01-01T00:00:00.000Z,42.390456,-96.562549
+NBNSP2300,State Patrol: Dawes County,10802,NE,West North Central,Midwest,Region II,DAWES,State Police,True,2021-01-01T00:00:00.000Z,42.711214,-103.134872
+NBNSP2400,State Patrol: Dawson County,10803,NE,West North Central,Midwest,Region II,DAWSON,State Police,True,2021-01-01T00:00:00.000Z,40.867378,-99.815154
+NBNSP2500,State Patrol: Deuel County,10804,NE,West North Central,Midwest,Region II,DEUEL,State Police,True,2021-01-01T00:00:00.000Z,41.111903,-102.332609
+NBNSP2600,State Patrol: Dixon County,10805,NE,West North Central,Midwest,Region II,DIXON,State Police,True,2021-01-01T00:00:00.000Z,42.48528,-96.855862
+NBNSP2700,State Patrol: Dodge County,10806,NE,West North Central,Midwest,Region II,DODGE,State Police,True,2021-01-01T00:00:00.000Z,41.577008,-96.645853
+NBNSP2800,State Patrol: Douglas County,10807,NE,West North Central,Midwest,Region II,DOUGLAS,State Police,True,2021-01-01T00:00:00.000Z,41.297091,-96.154066
+NBNSP2900,State Patrol: Dundy County,10808,NE,West North Central,Midwest,Region II,DUNDY,State Police,True,2021-01-01T00:00:00.000Z,40.180165,-101.681133
+NBNSP3000,State Patrol: Fillmore County,10809,NE,West North Central,Midwest,Region II,FILLMORE,State Police,True,2021-01-01T00:00:00.000Z,40.52504,-97.596705
+NBNSP3100,State Patrol: Franklin County,10810,NE,West North Central,Midwest,Region II,FRANKLIN,State Police,False,2021-01-01T00:00:00.000Z,40.183203,-98.96208
+NBNSP3200,State Patrol: Frontier County,10811,NE,West North Central,Midwest,Region II,FRONTIER,State Police,True,2021-01-01T00:00:00.000Z,40.530947,-100.406683
+NBNSP3300,State Patrol: Furnas County,10812,NE,West North Central,Midwest,Region II,FURNAS,State Police,True,2021-01-01T00:00:00.000Z,40.191865,-99.909663
+NBNSP3400,State Patrol: Gage County,10813,NE,West North Central,Midwest,Region II,GAGE,State Police,True,2021-01-01T00:00:00.000Z,40.255234,-96.683453
+NBNSP3500,State Patrol: Garden County,10814,NE,West North Central,Midwest,Region II,GARDEN,State Police,False,2021-01-01T00:00:00.000Z,41.659381,-102.328229
+NBNSP3600,State Patrol: Garfield County,10815,NE,West North Central,Midwest,Region II,GARFIELD,State Police,True,2021-01-01T00:00:00.000Z,41.905571,-98.922998
+NBNSP3700,State Patrol: Gosper County,10816,NE,West North Central,Midwest,Region II,GOSPER,State Police,True,2021-01-01T00:00:00.000Z,40.509838,-99.824078
+NBNSP3800,State Patrol: Grant County,10817,NE,West North Central,Midwest,Region II,GRANT,State Police,True,2021-01-01T00:00:00.000Z,41.915867,-101.756875
+NBNSP3900,State Patrol: Greeley County,10818,NE,West North Central,Midwest,Region II,GREELEY,State Police,True,2021-01-01T00:00:00.000Z,41.5676,-98.530566
+NBNSP4000,State Patrol: Hall County,10819,NE,West North Central,Midwest,Region II,HALL,State Police,True,2021-01-01T00:00:00.000Z,40.866023,-98.498004
+NBNSP4100,State Patrol: Hamilton County,10820,NE,West North Central,Midwest,Region II,HAMILTON,State Police,True,2021-01-01T00:00:00.000Z,40.877145,-98.021943
+NBNSP4200,State Patrol: Harlan County,10821,NE,West North Central,Midwest,Region II,HARLAN,State Police,True,2021-01-01T00:00:00.000Z,40.178766,-99.403418
+NBNSP4300,State Patrol: Hayes County,10822,NE,West North Central,Midwest,Region II,HAYES,State Police,True,2021-01-01T00:00:00.000Z,40.535786,-101.05558
+NBNSP4400,State Patrol: Hitchcock County,10823,NE,West North Central,Midwest,Region II,HITCHCOCK,State Police,False,2021-01-01T00:00:00.000Z,40.176896,-101.044217
+NBNSP4500,State Patrol: Holt County,10824,NE,West North Central,Midwest,Region II,HOLT,State Police,True,2021-01-01T00:00:00.000Z,42.459287,-98.784766
+NBNSP4600,State Patrol: Hooker County,10825,NE,West North Central,Midwest,Region II,HOOKER,State Police,True,2021-01-01T00:00:00.000Z,41.9187,-101.11681
+NBNSP4700,State Patrol: Howard County,10826,NE,West North Central,Midwest,Region II,HOWARD,State Police,True,2021-01-01T00:00:00.000Z,41.216851,-98.513342
+NBNSP4800,State Patrol: Jefferson County,10827,NE,West North Central,Midwest,Region II,JEFFERSON,State Police,True,2021-01-01T00:00:00.000Z,40.175736,-97.143103
+NBNSP4900,State Patrol: Johnson County,10828,NE,West North Central,Midwest,Region II,JOHNSON,State Police,True,2021-01-01T00:00:00.000Z,40.395457,-96.268562
+NBNSP5000,State Patrol: Kearney County,10829,NE,West North Central,Midwest,Region II,KEARNEY,State Police,True,2021-01-01T00:00:00.000Z,40.506269,-98.948461
+NBNSP5100,State Patrol: Keith County,10830,NE,West North Central,Midwest,Region II,KEITH,State Police,True,2021-01-01T00:00:00.000Z,41.194413,-101.644486
+NBNSP5200,State Patrol: Keya Paha County,10831,NE,West North Central,Midwest,Region II,KEYA PAHA,State Police,False,,42.87548,-99.718351
+NBNSP5300,State Patrol: Kimball County,10832,NE,West North Central,Midwest,Region II,KIMBALL,State Police,True,2021-01-01T00:00:00.000Z,41.199274,-103.703153
+NBNSP5400,State Patrol: Knox County,10833,NE,West North Central,Midwest,Region II,KNOX,State Police,True,2021-01-01T00:00:00.000Z,42.634404,-97.891349
+NBNSP5500,State Patrol: Lancaster County,10834,NE,West North Central,Midwest,Region II,LANCASTER,State Police,True,2021-01-01T00:00:00.000Z,40.783547,-96.688658
+NBNSP5600,State Patrol: Lincoln County,10835,NE,West North Central,Midwest,Region II,LINCOLN,State Police,True,2021-01-01T00:00:00.000Z,41.050322,-100.744481
+NBNSP5700,State Patrol: Logan County,10836,NE,West North Central,Midwest,Region II,LOGAN,State Police,True,2021-01-01T00:00:00.000Z,41.542155,-100.443665
+NBNSP5800,State Patrol: Loup County,10837,NE,West North Central,Midwest,Region II,LOUP,State Police,True,2021-01-01T00:00:00.000Z,41.897714,-99.509764
+NBNSP5900,State Patrol: McPherson County,10838,NE,West North Central,Midwest,Region II,MCPHERSON,State Police,True,2021-01-01T00:00:00.000Z,41.596473,-101.060237
+NBNSP6000,State Patrol: Madison County,10839,NE,West North Central,Midwest,Region II,MADISON,State Police,True,2021-01-01T00:00:00.000Z,41.909929,-97.606856
+NBNSP6100,State Patrol: Merrick County,10840,NE,West North Central,Midwest,Region II,MERRICK,State Police,True,2021-01-01T00:00:00.000Z,41.169801,-98.031051
+NBNSP6200,State Patrol: Morrill County,10841,NE,West North Central,Midwest,Region II,MORRILL,State Police,True,2021-01-01T00:00:00.000Z,41.732205,-102.990599
+NBNSP6300,State Patrol: Nance County,10842,NE,West North Central,Midwest,Region II,NANCE,State Police,False,2021-01-01T00:00:00.000Z,41.402385,-97.991408
+NBNSP6400,State Patrol: Nemaha County,10843,NE,West North Central,Midwest,Region II,NEMAHA,State Police,True,2021-01-01T00:00:00.000Z,40.387448,-95.850954
+NBNSP6500,State Patrol: Nuckolls County,10844,NE,West North Central,Midwest,Region II,NUCKOLLS,State Police,False,2021-01-01T00:00:00.000Z,40.176492,-98.046842
+NBNSP6600,State Patrol: Otoe County,10845,NE,West North Central,Midwest,Region II,OTOE,State Police,True,2021-01-01T00:00:00.000Z,40.637992,-96.131027
+NBNSP6700,State Patrol: Pawnee County,10846,NE,West North Central,Midwest,Region II,PAWNEE,State Police,True,2021-01-01T00:00:00.000Z,40.13785,-96.245225
+NBNSP6800,State Patrol: Perkins County,10847,NE,West North Central,Midwest,Region II,PERKINS,State Police,True,2021-01-01T00:00:00.000Z,40.856065,-101.636443
+NBNSP6900,State Patrol: Phelps County,10848,NE,West North Central,Midwest,Region II,PHELPS,State Police,True,2021-01-01T00:00:00.000Z,40.516365,-99.406557
+NBNSP7000,State Patrol: Pierce County,10849,NE,West North Central,Midwest,Region II,PIERCE,State Police,True,2021-01-01T00:00:00.000Z,42.271413,-97.610992
+NBNSP7100,State Patrol: Platte County,10850,NE,West North Central,Midwest,Region II,PLATTE,State Police,True,2021-01-01T00:00:00.000Z,41.576866,-97.513467
+NBNSP7200,State Patrol: Polk County,10851,NE,West North Central,Midwest,Region II,POLK,State Police,True,2021-01-01T00:00:00.000Z,41.187925,-97.570663
+NBNSP7300,State Patrol: Red Willow County,10852,NE,West North Central,Midwest,Region II,RED WILLOW,State Police,True,2021-01-01T00:00:00.000Z,40.16942,-100.468576
+NBNSP7400,State Patrol: Richardson County,10853,NE,West North Central,Midwest,Region II,RICHARDSON,State Police,True,2021-01-01T00:00:00.000Z,40.123743,-95.718603
+NBNSP7500,State Patrol: Rock County,10854,NE,West North Central,Midwest,Region II,ROCK,State Police,True,2021-01-01T00:00:00.000Z,42.413325,-99.45853
+NBNSP7600,State Patrol: Saline County,10855,NE,West North Central,Midwest,Region II,SALINE,State Police,True,2021-01-01T00:00:00.000Z,40.516802,-97.131755
+NBNSP7700,State Patrol: Sarpy County,10856,NE,West North Central,Midwest,Region II,SARPY,State Police,True,2021-01-01T00:00:00.000Z,41.115064,-96.109125
+NBNSP7800,State Patrol: Saunders County,10857,NE,West North Central,Midwest,Region II,SAUNDERS,State Police,True,2021-01-01T00:00:00.000Z,41.223152,-96.640923
+NBNSP7900,State Patrol: Scotts Bluff County,10858,NE,West North Central,Midwest,Region II,SCOTTS BLUFF,State Police,True,2021-01-01T00:00:00.000Z,41.851589,-103.70586
+NBNSP8000,State Patrol: Seward County,10859,NE,West North Central,Midwest,Region II,SEWARD,State Police,True,2021-01-01T00:00:00.000Z,40.871944,-97.140383
+NBNSP8100,State Patrol: Sheridan County,10860,NE,West North Central,Midwest,Region II,SHERIDAN,State Police,True,2021-01-01T00:00:00.000Z,42.507074,-102.389698
+NBNSP8200,State Patrol: Sherman County,10861,NE,West North Central,Midwest,Region II,SHERMAN,State Police,True,2021-01-01T00:00:00.000Z,41.218743,-98.972849
+NBNSP8300,State Patrol: Sioux County,10862,NE,West North Central,Midwest,Region II,SIOUX,State Police,True,2021-01-01T00:00:00.000Z,42.485675,-103.744068
+NBNSP8400,State Patrol: Stanton County,10863,NE,West North Central,Midwest,Region II,STANTON,State Police,True,2021-01-01T00:00:00.000Z,41.904792,-97.174724
+NBNSP8500,State Patrol: Thayer County,10864,NE,West North Central,Midwest,Region II,THAYER,State Police,True,2021-01-01T00:00:00.000Z,40.173845,-97.596263
+NBNSP8600,State Patrol: Thomas County,10865,NE,West North Central,Midwest,Region II,THOMAS,State Police,True,2021-01-01T00:00:00.000Z,41.84862,-100.506911
+NBNSP8700,State Patrol: Thurston County,10866,NE,West North Central,Midwest,Region II,THURSTON,State Police,True,2021-01-01T00:00:00.000Z,42.154061,-96.533943
+NBNSP8800,State Patrol: Valley County,10867,NE,West North Central,Midwest,Region II,VALLEY,State Police,True,2021-01-01T00:00:00.000Z,41.564094,-98.983484
+NBNSP8900,State Patrol: Washington County,10868,NE,West North Central,Midwest,Region II,WASHINGTON,State Police,True,2021-01-01T00:00:00.000Z,41.533973,-96.224577
+NBNSP9000,State Patrol: Wayne County,10869,NE,West North Central,Midwest,Region II,WAYNE,State Police,True,2021-01-01T00:00:00.000Z,42.210746,-97.126243
+NBNSP9100,State Patrol: Webster County,10870,NE,West North Central,Midwest,Region II,WEBSTER,State Police,True,2021-01-01T00:00:00.000Z,40.180646,-98.49859
+NBNSP9200,State Patrol: Wheeler County,10871,NE,West North Central,Midwest,Region II,WHEELER,State Police,True,2021-01-01T00:00:00.000Z,41.937859,-98.522289
+NBNSP9300,State Patrol: York County,10872,NE,West North Central,Midwest,Region II,YORK,State Police,True,2021-01-01T00:00:00.000Z,40.873056,-97.596742

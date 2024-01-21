@@ -1,0 +1,71 @@
+ori,agency_name,agency_id,state_abbr,division_name,region_name,region_desc,county_name,agency_type_name,nibrs,nibrs_start_date,latitude,longitude
+WY0010000,Albany County Sheriff's Office,21857,WY,Mountain,West,Region IV,ALBANY,County,True,2021-01-01T00:00:00.000Z,41.31085,-105.59061
+WY0010100,Laramie Police Department,21858,WY,Mountain,West,Region IV,ALBANY,City,True,2018-01-01T00:00:00.000Z,41.665514,-105.721883
+WY0010200,University of Wyoming,21859,WY,Mountain,West,Region IV,ALBANY,University or College,True,2021-01-01T00:00:00.000Z,41.665514,-105.721883
+WY0020000,Big Horn County Sheriff's Office,21860,WY,Mountain,West,Region IV,BIG HORN,County,False,,44.525654,-107.99332
+WY0020100,Basin Police Department,21861,WY,Mountain,West,Region IV,BIG HORN,City,False,,44.525654,-107.99332
+WY0020200,Lovell Police Department,21862,WY,Mountain,West,Region IV,BIG HORN,City,False,,44.836075,-108.38599
+WY0020300,Greybull Police Department,21863,WY,Mountain,West,Region IV,BIG HORN,City,False,,44.525654,-107.99332
+WY0030000,Campbell County Sheriff's Office,21864,WY,Mountain,West,Region IV,CAMPBELL,County,True,2021-01-01T00:00:00.000Z,44.27725,-105.5098
+WY0030100,Gillette Police Department,21865,WY,Mountain,West,Region IV,CAMPBELL,City,True,2020-10-01T00:00:00.000Z,44.192361,-105.516978
+WY0040000,Carbon County Sheriff's Office,21866,WY,Mountain,West,Region IV,CARBON,County,False,,41.70359,-106.933153
+WY0040100,Rawlins Police Department,21867,WY,Mountain,West,Region IV,CARBON,City,False,,41.70359,-106.933153
+WY0040200,Saratoga Police Department,21868,WY,Mountain,West,Region IV,CARBON,City,False,,41.70359,-106.933153
+WY0040300,Medicine Bow Police Department,21869,WY,Mountain,West,Region IV,CARBON,City,True,2021-01-01T00:00:00.000Z,41.70359,-106.933153
+WY0040500,Hanna Police Department,21870,WY,Mountain,West,Region IV,CARBON,City,True,2022-01-01T00:00:00.000Z,41.70359,-106.933153
+WY0050000,Converse County Sheriff's Office,21873,WY,Mountain,West,Region IV,CONVERSE,County,True,2020-09-01T00:00:00.000Z,42.759663,-105.38123
+WY0050100,Douglas Police Department,21874,WY,Mountain,West,Region IV,CONVERSE,City,True,2020-11-01T00:00:00.000Z,42.972839,-105.507367
+WY0050200,Glenrock Police Department,21875,WY,Mountain,West,Region IV,CONVERSE,City,True,2020-11-01T00:00:00.000Z,42.972839,-105.507367
+WY0060000,Crook County Sheriff's Office,21876,WY,Mountain,West,Region IV,CROOK,County,True,2020-12-01T00:00:00.000Z,44.589266,-104.567298
+WY0060200,Hulett Police Department,21878,WY,Mountain,West,Region IV,CROOK,City,False,,44.589266,-104.567298
+WY0060300,Moorcroft Police Department,21879,WY,Mountain,West,Region IV,CROOK,City,True,2021-01-01T00:00:00.000Z,44.589266,-104.567298
+WY0070000,Fremont County Sheriff's Office,21880,WY,Mountain,West,Region IV,FREMONT,County,False,,42.83573,-108.72449
+WY0070100,Lander Police Department,21881,WY,Mountain,West,Region IV,FREMONT,City,False,,43.055303,-108.605531
+WY0070200,Riverton Police Department,21882,WY,Mountain,West,Region IV,FREMONT,City,True,2020-11-01T00:00:00.000Z,43.03264,-108.38061
+WY0080000,Goshen County Sheriff's Office,21885,WY,Mountain,West,Region IV,GOSHEN,County,True,2021-01-01T00:00:00.000Z,42.065266,-104.18166
+WY0080100,Torrington Police Department,21886,WY,Mountain,West,Region IV,GOSHEN,City,True,2021-01-01T00:00:00.000Z,42.066048,-104.17981
+WY0080300,Lingle,33705,WY,Mountain,West,Region IV,GOSHEN,City,True,2022-01-01T00:00:00.000Z,,
+WY0090000,Hot Springs County Sheriff's Office,21887,WY,Mountain,West,Region IV,HOT SPRINGS,County,True,2020-09-01T00:00:00.000Z,43.6472,-108.20895
+WY0090100,Thermopolis Police Department,21888,WY,Mountain,West,Region IV,HOT SPRINGS,City,True,2019-12-01T00:00:00.000Z,43.720871,-108.435652
+WY0100000,Johnson County Sheriff's Office,21890,WY,Mountain,West,Region IV,JOHNSON,County,True,2021-01-01T00:00:00.000Z,44.044048,-106.588541
+WY0100100,Buffalo Police Department,21891,WY,Mountain,West,Region IV,JOHNSON,City,True,2021-01-01T00:00:00.000Z,44.044048,-106.588541
+WY0110000,Laramie County Sheriff's Office,21892,WY,Mountain,West,Region IV,LARAMIE,County,True,2021-01-01T00:00:00.000Z,41.134678,-104.81936
+WY0110100,Cheyenne Police Department,21893,WY,Mountain,West,Region IV,LARAMIE,City,True,2021-01-01T00:00:00.000Z,41.136475,-104.81774
+WY0110200,Pine Bluffs Police Department,21894,WY,Mountain,West,Region IV,LARAMIE,City,True,2021-01-01T00:00:00.000Z,41.29283,-104.660395
+WY0110400,Wyoming Division of Criminal Investigation,33074,WY,Mountain,West,Region IV,LARAMIE,Other State Agency,True,2021-01-01T00:00:00.000Z,,
+WY0120000,Lincoln County Sheriff's Office,21895,WY,Mountain,West,Region IV,LINCOLN,County,True,2021-01-01T00:00:00.000Z,41.79181,-110.540665
+WY0120100,Afton Police Department,21896,WY,Mountain,West,Region IV,LINCOLN,City,False,,42.228788,-110.679842
+WY0120200,Kemmerer Police Department,21897,WY,Mountain,West,Region IV,LINCOLN,City,False,,41.813946,-110.53512
+WY0120300,Diamondville Police Department,21898,WY,Mountain,West,Region IV,LINCOLN,City,True,2020-10-01T00:00:00.000Z,42.228788,-110.679842
+WY0120400,La Barge Police Department,21899,WY,Mountain,West,Region IV,LINCOLN,City,False,,42.228788,-110.679842
+WY0120600,Cokeville Police Department,21901,WY,Mountain,West,Region IV,LINCOLN,City,False,,42.228788,-110.679842
+WY0130000,Natrona County Sheriff's Office,21903,WY,Mountain,West,Region IV,NATRONA,County,True,2020-12-01T00:00:00.000Z,42.849266,-106.32659
+WY0130100,Casper Police Department,21904,WY,Mountain,West,Region IV,NATRONA,City,False,,42.849266,-106.32659
+WY0130200,Mills Police Department,21905,WY,Mountain,West,Region IV,NATRONA,City,True,2021-01-01T00:00:00.000Z,42.97364,-106.764877
+WY0130400,Evansville Police Department,21906,WY,Mountain,West,Region IV,NATRONA,City,True,2020-11-01T00:00:00.000Z,42.97364,-106.764877
+WY0140000,Niobrara County Sheriff's Office,21907,WY,Mountain,West,Region IV,NIOBRARA,County,True,2021-01-01T00:00:00.000Z,43.062159,-104.468373
+WY0140100,Lusk Police Department,21908,WY,Mountain,West,Region IV,NIOBRARA,City,True,2021-01-01T00:00:00.000Z,43.062159,-104.468373
+WY0150000,Park County Sheriff's Office,21909,WY,Mountain,West,Region IV,PARK,County,True,2019-01-01T00:00:00.000Z,44.492387,-109.593597
+WY0150100,Cody Police Department,21910,WY,Mountain,West,Region IV,PARK,City,True,2019-01-01T00:00:00.000Z,44.492387,-109.593597
+WY0150200,Powell Police Department,21911,WY,Mountain,West,Region IV,PARK,City,True,2019-01-01T00:00:00.000Z,44.754875,-108.7561
+WY0160000,Platte County Sheriff's Office,21912,WY,Mountain,West,Region IV,PLATTE,County,False,,42.130319,-104.960809
+WY0160100,Wheatland Police Department,21913,WY,Mountain,West,Region IV,PLATTE,City,False,,42.053413,-104.95379
+WY0160200,Guernsey Police Department,21914,WY,Mountain,West,Region IV,PLATTE,City,False,,42.130319,-104.960809
+WY0170000,Sheridan County Sheriff's Office,21915,WY,Mountain,West,Region IV,SHERIDAN,County,True,2020-10-01T00:00:00.000Z,44.816166,-106.956215
+WY0170100,Sheridan Police Department,21916,WY,Mountain,West,Region IV,SHERIDAN,City,True,2020-10-01T00:00:00.000Z,44.814903,-106.95595
+WY0170400,Northern Wyoming Community College District,21917,WY,Mountain,West,Region IV,SHERIDAN,University or College,False,,44.781369,-106.881211
+WY0180000,Sublette County Sheriff's Office,21918,WY,Mountain,West,Region IV,SUBLETTE,County,True,2021-01-01T00:00:00.000Z,42.767928,-109.91617
+WY0190000,Sweetwater County Sheriff's Office,21922,WY,Mountain,West,Region IV,SWEETWATER,County,True,2021-01-01T00:00:00.000Z,41.660339,-108.875676
+WY0190100,Green River Police Department,21923,WY,Mountain,West,Region IV,SWEETWATER,City,True,2021-01-01T00:00:00.000Z,41.529675,-109.46611
+WY0190200,Rock Springs Police Department,21924,WY,Mountain,West,Region IV,SWEETWATER,City,True,2021-01-01T00:00:00.000Z,41.660339,-108.875676
+WY0200000,Teton County Sheriff's Office,21926,WY,Mountain,West,Region IV,TETON,County,True,2020-11-01T00:00:00.000Z,44.049325,-110.58812
+WY0200100,Jackson Police Department,21927,WY,Mountain,West,Region IV,TETON,City,True,2020-01-01T00:00:00.000Z,44.049325,-110.58812
+WY0210000,Uinta County Sheriff's Office,21928,WY,Mountain,West,Region IV,UINTA,County,True,2020-07-01T00:00:00.000Z,41.284726,-110.558947
+WY0210100,Evanston Police Department,21929,WY,Mountain,West,Region IV,UINTA,City,True,2019-04-01T00:00:00.000Z,41.269447,-110.96667
+WY0220000,Washakie County Sheriff's Office,21931,WY,Mountain,West,Region IV,WASHAKIE,County,True,2020-02-01T00:00:00.000Z,44.01688,-107.95574
+WY0220100,Worland Police Department,21932,WY,Mountain,West,Region IV,WASHAKIE,City,True,2020-01-01T00:00:00.000Z,44.01688,-107.95574
+WY0230000,Weston County Sheriff's Office,21933,WY,Mountain,West,Region IV,WESTON,County,True,2021-01-01T00:00:00.000Z,43.846213,-104.57002
+WY0230100,Newcastle Police Department,21934,WY,Mountain,West,Region IV,WESTON,City,True,2020-12-01T00:00:00.000Z,43.85474,-104.20272
+WY0230200,Upton Police Department,21935,WY,Mountain,West,Region IV,WESTON,City,True,2022-01-01T00:00:00.000Z,43.846213,-104.57002
+WYDI05000,Wind River Agency,21936,WY,Mountain,West,Region IV,NOT SPECIFIED,Tribal,True,2021-01-01T00:00:00.000Z,43.055303,-108.605531
+WYWHP0000,Wyoming Highway Patrol,21937,WY,Mountain,West,Region IV,NOT SPECIFIED,State Police,False,,41.167576,-104.84175

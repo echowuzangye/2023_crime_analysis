@@ -1,0 +1,406 @@
+ori,agency_name,agency_id,state_abbr,division_name,region_name,region_desc,county_name,agency_type_name,nibrs,nibrs_start_date,latitude,longitude
+KS0010000,Allen County Sheriff's Office,6060,KS,West North Central,Midwest,Region II,ALLEN,County,True,2000-01-01T00:00:00.000Z,37.884228,-95.300945
+KS0010100,Humboldt Police Department,6061,KS,West North Central,Midwest,Region II,ALLEN,City,True,2000-01-01T00:00:00.000Z,37.8112,-95.43778
+KS0010200,Iola Police Department,6062,KS,West North Central,Midwest,Region II,ALLEN,City,True,2000-01-01T00:00:00.000Z,37.884228,-95.300945
+KS0010300,Moran Police Department,6063,KS,West North Central,Midwest,Region II,ALLEN,City,False,2000-04-01T00:00:00.000Z,37.884228,-95.300945
+KS0010400,La Harpe Police Department,6064,KS,West North Central,Midwest,Region II,ALLEN,City,True,2004-05-01T00:00:00.000Z,37.884228,-95.300945
+KS0020000,Anderson County Sheriff's Office,6065,KS,West North Central,Midwest,Region II,ANDERSON,County,True,2000-01-01T00:00:00.000Z,38.27986,-95.241455
+KS0020100,Garnett Police Department,6066,KS,West North Central,Midwest,Region II,ANDERSON,City,True,2000-01-01T00:00:00.000Z,38.215114,-95.292046
+KS0020200,Colony Police Department,6067,KS,West North Central,Midwest,Region II,ANDERSON,City,False,2005-01-01T00:00:00.000Z,38.215114,-95.292046
+KS0030000,Atchison County Sheriff's Office,6070,KS,West North Central,Midwest,Region II,ATCHISON,County,True,2000-01-01T00:00:00.000Z,39.56617,-95.11933
+KS0030100,Atchison Police Department,6071,KS,West North Central,Midwest,Region II,ATCHISON,City,True,2000-01-01T00:00:00.000Z,39.563007,-95.1193
+KS0040000,Barber County Sheriff's Office,6072,KS,West North Central,Midwest,Region II,BARBER,County,True,2000-01-01T00:00:00.000Z,37.279503,-98.57847
+KS0040100,Kiowa Police Department,6073,KS,West North Central,Midwest,Region II,BARBER,City,False,2000-01-01T00:00:00.000Z,37.01696,-98.47919
+KS0040200,Medicine Lodge Police Department,6074,KS,West North Central,Midwest,Region II,BARBER,City,True,2000-01-01T00:00:00.000Z,37.281826,-98.57957
+KS0050000,Barton County Sheriff's Office,6075,KS,West North Central,Midwest,Region II,BARTON,County,True,2000-01-01T00:00:00.000Z,38.36569,-98.76374
+KS0050100,Ellinwood Police Department,6076,KS,West North Central,Midwest,Region II,BARTON,City,True,2000-01-01T00:00:00.000Z,38.354626,-98.58336
+KS0050200,Great Bend Police Department,6077,KS,West North Central,Midwest,Region II,BARTON,City,True,2000-01-01T00:00:00.000Z,38.36352,-98.76655
+KS0050300,Hoisington Police Department,6078,KS,West North Central,Midwest,Region II,BARTON,City,True,2000-01-01T00:00:00.000Z,38.481239,-98.767837
+KS0050400,Claflin Police Department,6079,KS,West North Central,Midwest,Region II,BARTON,City,True,2000-02-01T00:00:00.000Z,38.481239,-98.767837
+KS0060000,Bourbon County Sheriff's Office,6081,KS,West North Central,Midwest,Region II,BOURBON,County,True,2000-01-01T00:00:00.000Z,37.8561,-94.850928
+KS0060100,Fort Scott Police Department,6082,KS,West North Central,Midwest,Region II,BOURBON,City,True,2000-01-01T00:00:00.000Z,37.823025,-94.7073
+KS0070000,Brown County Sheriff's Office,6083,KS,West North Central,Midwest,Region II,BROWN,County,True,2000-01-01T00:00:00.000Z,39.851852,-95.53753
+KS0070100,Hiawatha Police Department,6084,KS,West North Central,Midwest,Region II,BROWN,City,True,2000-01-01T00:00:00.000Z,39.852924,-95.53238
+KS0070200,Horton Police Department,6085,KS,West North Central,Midwest,Region II,BROWN,City,True,2000-01-01T00:00:00.000Z,39.825931,-95.569905
+KS0080000,Butler County Sheriff's Office,6086,KS,West North Central,Midwest,Region II,BUTLER,County,True,2000-01-01T00:00:00.000Z,37.81701,-96.85115
+KS0080100,Augusta Police Department,6087,KS,West North Central,Midwest,Region II,BUTLER,City,True,2000-01-01T00:00:00.000Z,37.696346,-96.97136
+KS0080200,El Dorado Police Department,6088,KS,West North Central,Midwest,Region II,BUTLER,City,True,2000-01-01T00:00:00.000Z,37.773649,-96.83884
+KS0080500,Andover Police Department,6091,KS,West North Central,Midwest,Region II,BUTLER,City,True,2000-01-01T00:00:00.000Z,37.773649,-96.83884
+KS0080600,Rose Hill Police Department,6092,KS,West North Central,Midwest,Region II,BUTLER,City,True,2000-01-01T00:00:00.000Z,37.773649,-96.83884
+KS0080700,Leon Police Department,6093,KS,West North Central,Midwest,Region II,BUTLER,City,False,2003-01-01T00:00:00.000Z,37.773649,-96.83884
+KS0080800,Benton Police Department,6094,KS,West North Central,Midwest,Region II,BUTLER,City,True,2004-01-01T00:00:00.000Z,37.773649,-96.83884
+KS0081200,Butler Community College,25852,KS,West North Central,Midwest,Region II,BUTLER,University or College,False,2016-01-01T00:00:00.000Z,37.773649,-96.83884
+KS0081300,El Dorado School District,25853,KS,West North Central,Midwest,Region II,BUTLER,Other,True,2016-01-01T00:00:00.000Z,,
+KS0090000,Chase County Sheriff's Office,6096,KS,West North Central,Midwest,Region II,CHASE,County,True,2000-01-01T00:00:00.000Z,38.298553,-96.594064
+KS0100000,Chautauqua County Sheriff's Office,6097,KS,West North Central,Midwest,Region II,CHAUTAUQUA,County,True,2000-01-01T00:00:00.000Z,37.128136,-96.18683
+KS0100100,Sedan Police Department,6098,KS,West North Central,Midwest,Region II,CHAUTAUQUA,City,False,2000-01-01T00:00:00.000Z,37.126965,-96.18684
+KS0100200,Cedar Vale Police Department,6099,KS,West North Central,Midwest,Region II,CHAUTAUQUA,City,False,2000-01-01T00:00:00.000Z,37.154259,-96.245396
+KS0110000,Cherokee County Sheriff's Office,6100,KS,West North Central,Midwest,Region II,CHEROKEE,County,True,2000-01-01T00:00:00.000Z,37.17085,-94.842705
+KS0110100,Columbus Police Department,6101,KS,West North Central,Midwest,Region II,CHEROKEE,City,True,2000-01-01T00:00:00.000Z,37.17085,-94.84
+KS0110200,Galena Police Department,6102,KS,West North Central,Midwest,Region II,CHEROKEE,City,True,2000-01-01T00:00:00.000Z,37.169392,-94.845698
+KS0110300,Baxter Springs Police Department,6103,KS,West North Central,Midwest,Region II,CHEROKEE,City,True,2000-01-01T00:00:00.000Z,37.169392,-94.845698
+KS0120000,Cheyenne County Sheriff's Office,6106,KS,West North Central,Midwest,Region II,CHEYENNE,County,True,2000-01-01T00:00:00.000Z,39.789256,-101.727302
+KS0130000,Clark County Sheriff's Office,6109,KS,West North Central,Midwest,Region II,CLARK,County,True,2000-01-01T00:00:00.000Z,37.233831,-99.813869
+KS0140000,Clay County Sheriff's Office,6110,KS,West North Central,Midwest,Region II,CLAY,County,True,2000-01-01T00:00:00.000Z,39.344964,-97.168853
+KS0140100,Clay Center Police Department,6111,KS,West North Central,Midwest,Region II,CLAY,City,True,2000-01-01T00:00:00.000Z,39.344964,-97.168853
+KS0140200,Wakefield Police Department,6112,KS,West North Central,Midwest,Region II,CLAY,City,True,2000-01-01T00:00:00.000Z,39.22047,-97.017204
+KS0150000,Cloud County Sheriff's Office,6114,KS,West North Central,Midwest,Region II,CLOUD,County,False,2000-01-01T00:00:00.000Z,39.568485,-97.6594
+KS0150100,Concordia Police Department,6115,KS,West North Central,Midwest,Region II,CLOUD,City,True,2000-01-01T00:00:00.000Z,39.487329,-97.64139
+KS0160000,Coffey County Sheriff's Office,6118,KS,West North Central,Midwest,Region II,COFFEY,County,True,2000-01-01T00:00:00.000Z,38.23645,-95.729137
+KS0160100,Burlington Police Department,6119,KS,West North Central,Midwest,Region II,COFFEY,City,True,2000-01-01T00:00:00.000Z,38.189747,-95.73726
+KS0160300,Lebo Police Department,6120,KS,West North Central,Midwest,Region II,COFFEY,City,True,2000-01-01T00:00:00.000Z,38.23645,-95.729137
+KS0160400,Waverly Police Department,6121,KS,West North Central,Midwest,Region II,COFFEY,City,True,2004-01-01T00:00:00.000Z,38.23645,-95.729137
+KS0160500,Le Roy Police Department,6122,KS,West North Central,Midwest,Region II,COFFEY,City,False,2002-11-01T00:00:00.000Z,38.23645,-95.729137
+KS0170000,Comanche  County Sheriff's Office,6123,KS,West North Central,Midwest,Region II,COMANCHE,County,True,2004-03-01T00:00:00.000Z,37.189071,-99.254089
+KS0170100,Coldwater Police Department,6124,KS,West North Central,Midwest,Region II,COMANCHE,City,True,2005-01-01T00:00:00.000Z,37.189071,-99.254089
+KS0170200,Protection Police Department,6125,KS,West North Central,Midwest,Region II,COMANCHE,City,True,2001-06-01T00:00:00.000Z,37.189071,-99.254089
+KS0180000,Cowley County Sheriff's Office,6126,KS,West North Central,Midwest,Region II,COWLEY,County,True,2000-01-01T00:00:00.000Z,37.234507,-96.837247
+KS0180100,Arkansas City Police Department,6127,KS,West North Central,Midwest,Region II,COWLEY,City,True,2000-01-01T00:00:00.000Z,37.234507,-96.837247
+KS0180200,Winfield Police Department,6128,KS,West North Central,Midwest,Region II,COWLEY,City,True,2000-01-01T00:00:00.000Z,37.24121,-96.99589
+KS0180300,Burden Police Department,6129,KS,West North Central,Midwest,Region II,COWLEY,City,False,2001-06-01T00:00:00.000Z,37.234507,-96.837247
+KS0180400,Udall Police Department,6130,KS,West North Central,Midwest,Region II,COWLEY,City,True,2000-01-01T00:00:00.000Z,37.234507,-96.837247
+KS0190000,Crawford County Sheriff's Office,6131,KS,West North Central,Midwest,Region II,CRAWFORD,County,True,2000-01-01T00:00:00.000Z,37.512306,-94.864105
+KS0190100,Pittsburg Police Department,6132,KS,West North Central,Midwest,Region II,CRAWFORD,City,True,2000-01-01T00:00:00.000Z,37.505628,-94.853941
+KS0190200,Arma Police Department,6133,KS,West North Central,Midwest,Region II,CRAWFORD,City,True,2000-07-01T00:00:00.000Z,37.505628,-94.853941
+KS0190300,Girard Police Department,6134,KS,West North Central,Midwest,Region II,CRAWFORD,City,True,2000-01-01T00:00:00.000Z,37.511604,-94.8417
+KS0190400,Frontenac Police Department,6135,KS,West North Central,Midwest,Region II,CRAWFORD,City,True,2000-01-01T00:00:00.000Z,37.505628,-94.853941
+KS0190500,Cherokee Police Department,6136,KS,West North Central,Midwest,Region II,CRAWFORD,City,True,2000-01-01T00:00:00.000Z,37.34441,-94.8208
+KS0190700,Pittsburg State University,6138,KS,West North Central,Midwest,Region II,CRAWFORD,University or College,True,2000-01-01T00:00:00.000Z,37.505628,-94.853941
+KS0190800,Arcadia Police Department,6139,KS,West North Central,Midwest,Region II,CRAWFORD,City,True,2000-04-01T00:00:00.000Z,37.505628,-94.853941
+KS0190900,Mulberry Police Department,6140,KS,West North Central,Midwest,Region II,CRAWFORD,City,True,2000-03-01T00:00:00.000Z,37.505628,-94.853941
+KS0191200,Kansas Racing and Gaming Commission:,27010,KS,West North Central,Midwest,Region II,CRAWFORD,Other State Agency,True,2017-04-01T00:00:00.000Z,,
+KS0200000,Decatur County Sheriff's Office,6141,KS,West North Central,Midwest,Region II,DECATUR,County,True,2000-01-01T00:00:00.000Z,39.783542,-100.459708
+KS0200100,Oberlin Police Department,6142,KS,West North Central,Midwest,Region II,DECATUR,City,True,2000-01-01T00:00:00.000Z,39.783542,-100.459708
+KS0210000,Dickinson County Sheriff's Office,6143,KS,West North Central,Midwest,Region II,DICKINSON,County,True,2000-01-01T00:00:00.000Z,38.91526,-97.213745
+KS0210100,Abilene Police Department,6144,KS,West North Central,Midwest,Region II,DICKINSON,City,True,2000-01-01T00:00:00.000Z,38.867735,-97.157943
+KS0210200,Herington Police Department,6145,KS,West North Central,Midwest,Region II,DICKINSON,City,False,2000-01-01T00:00:00.000Z,38.867735,-97.157943
+KS0210300,Chapman Police Department,6146,KS,West North Central,Midwest,Region II,DICKINSON,City,False,2000-01-01T00:00:00.000Z,38.867735,-97.157943
+KS0220000,Doniphan County Sheriff's Office,6150,KS,West North Central,Midwest,Region II,DONIPHAN,County,True,2000-01-01T00:00:00.000Z,39.788502,-95.147225
+KS0220100,Elwood Police Department,6151,KS,West North Central,Midwest,Region II,DONIPHAN,City,True,2000-01-01T00:00:00.000Z,39.788502,-95.147225
+KS0220200,Troy Police Department,6152,KS,West North Central,Midwest,Region II,DONIPHAN,City,True,2000-01-01T00:00:00.000Z,39.788502,-95.147225
+KS0220300,Wathena Police Department,6153,KS,West North Central,Midwest,Region II,DONIPHAN,City,False,2000-01-01T00:00:00.000Z,39.759754,-94.94611
+KS0220400,Highland Police Department,6154,KS,West North Central,Midwest,Region II,DONIPHAN,City,True,2000-01-01T00:00:00.000Z,39.788502,-95.147225
+KS0230000,Douglas County Sheriff's Office,6155,KS,West North Central,Midwest,Region II,DOUGLAS,County,True,2000-01-01T00:00:00.000Z,38.963764,-95.23475
+KS0230100,Lawrence Police Department,6156,KS,West North Central,Midwest,Region II,DOUGLAS,City,True,2000-01-01T00:00:00.000Z,38.963764,-95.23475
+KS0230200,University of Kansas: Main Campus,6157,KS,West North Central,Midwest,Region II,DOUGLAS,University or College,True,2000-01-01T00:00:00.000Z,38.896573,-95.290529
+KS0230300,Baldwin City Police Department,6158,KS,West North Central,Midwest,Region II,DOUGLAS,City,True,2000-01-01T00:00:00.000Z,38.896573,-95.290529
+KS0230400,Eudora Police Department,6159,KS,West North Central,Midwest,Region II,DOUGLAS,City,True,2000-01-01T00:00:00.000Z,38.896573,-95.290529
+KS0240000,Edwards County Sheriff's Office,6160,KS,West North Central,Midwest,Region II,EDWARDS,County,True,2000-01-01T00:00:00.000Z,37.883595,-99.304746
+KS0250000,Elk County Sheriff's Office,6163,KS,West North Central,Midwest,Region II,ELK,County,True,2000-01-01T00:00:00.000Z,37.456026,-96.244642
+KS0250100,Howard Police Department,6164,KS,West North Central,Midwest,Region II,ELK,City,False,2007-01-01T00:00:00.000Z,37.456026,-96.244642
+KS0260000,Ellis County Sheriff's Office,6165,KS,West North Central,Midwest,Region II,ELLIS,County,True,2000-01-01T00:00:00.000Z,38.872814,-99.33015
+KS0260100,Hays Police Department,6166,KS,West North Central,Midwest,Region II,ELLIS,City,True,2000-01-01T00:00:00.000Z,38.872814,-99.33015
+KS0260200,Ellis Police Department,6167,KS,West North Central,Midwest,Region II,ELLIS,City,True,2000-01-01T00:00:00.000Z,38.939953,-99.561615
+KS0260300,Victoria Police Department,6168,KS,West North Central,Midwest,Region II,ELLIS,City,False,2008-01-01T00:00:00.000Z,38.914596,-99.317329
+KS0260400,Fort Hays State University,6169,KS,West North Central,Midwest,Region II,ELLIS,University or College,True,2000-02-01T00:00:00.000Z,38.872055,-99.33988
+KS0270000,Ellsworth County Sheriff's Office,6170,KS,West North Central,Midwest,Region II,ELLSWORTH,County,True,2000-01-01T00:00:00.000Z,38.730377,-98.231735
+KS0270100,Ellsworth Police Department,6171,KS,West North Central,Midwest,Region II,ELLSWORTH,City,True,2000-01-01T00:00:00.000Z,38.700845,-98.205355
+KS0270200,Wilson Police Department,6172,KS,West North Central,Midwest,Region II,ELLSWORTH,City,False,2000-03-01T00:00:00.000Z,38.700845,-98.205355
+KS0270300,Kanopolis Police Department,6173,KS,West North Central,Midwest,Region II,ELLSWORTH,City,True,2001-07-01T00:00:00.000Z,38.700845,-98.205355
+KS0270400,Holyrood Police Department,6174,KS,West North Central,Midwest,Region II,ELLSWORTH,City,False,2006-09-01T00:00:00.000Z,38.700845,-98.205355
+KS0280000,Finney County Sheriff's Office,6175,KS,West North Central,Midwest,Region II,FINNEY,County,True,2000-01-01T00:00:00.000Z,37.967236,-100.8765
+KS0280100,Garden City Police Department,6176,KS,West North Central,Midwest,Region II,FINNEY,City,True,2000-01-01T00:00:00.000Z,38.049855,-100.739929
+KS0280200,Holcomb Police Department,6177,KS,West North Central,Midwest,Region II,FINNEY,City,False,2000-01-01T00:00:00.000Z,38.049855,-100.739929
+KS0280300,Garden City Community College,6178,KS,West North Central,Midwest,Region II,FINNEY,University or College,True,2014-07-01T00:00:00.000Z,37.96939,-100.847374
+KS0290000,Ford County Sheriff's Office,6179,KS,West North Central,Midwest,Region II,FORD,County,True,2000-01-01T00:00:00.000Z,37.688365,-99.884734
+KS0290100,Dodge City Police Department,6180,KS,West North Central,Midwest,Region II,FORD,City,True,2000-01-01T00:00:00.000Z,37.688365,-99.884734
+KS0290200,Bucklin Police Department,6181,KS,West North Central,Midwest,Region II,FORD,City,False,2000-03-01T00:00:00.000Z,37.688365,-99.884734
+KS0290300,Spearville Police Department,6182,KS,West North Central,Midwest,Region II,FORD,City,False,2010-01-01T00:00:00.000Z,37.688365,-99.884734
+KS0290500,Kansas Racing and Gaming Commisison Boot Hill Casino Enforcement Security Division,25918,KS,West North Central,Midwest,Region II,FORD,Other State Agency,True,2016-01-01T00:00:00.000Z,37.688365,-99.884734
+KS0300000,Franklin County Sheriff's Office,6183,KS,West North Central,Midwest,Region II,FRANKLIN,County,True,2000-01-01T00:00:00.000Z,38.612923,-95.268555
+KS0300100,Ottawa Police Department,6184,KS,West North Central,Midwest,Region II,FRANKLIN,City,True,2000-01-01T00:00:00.000Z,38.615814,-95.27746
+KS0300200,Wellsville Police Department,6185,KS,West North Central,Midwest,Region II,FRANKLIN,City,True,2000-03-01T00:00:00.000Z,38.558019,-95.278962
+KS0300700,Franklin County Drug Enforcement,6188,KS,West North Central,Midwest,Region II,FRANKLIN,Other,False,2000-01-01T00:00:00.000Z,38.612923,-95.268555
+KS0310000,Geary County Sheriff's Office,6189,KS,West North Central,Midwest,Region II,GEARY,County,True,2000-01-01T00:00:00.000Z,39.002155,-96.768038
+KS0310100,Junction City Police Department,6190,KS,West North Central,Midwest,Region II,GEARY,City,True,2000-01-01T00:00:00.000Z,39.031418,-96.82725
+KS0310200,Grandview Plaza Police Department,6191,KS,West North Central,Midwest,Region II,GEARY,City,True,2000-01-01T00:00:00.000Z,39.031353,-96.79678
+KS0320000,Gove County Sheriff's Office,6192,KS,West North Central,Midwest,Region II,GOVE,County,True,2000-01-01T00:00:00.000Z,38.917239,-100.48736
+KS0330000,Graham County Sheriff's Office,6194,KS,West North Central,Midwest,Region II,GRAHAM,County,True,2000-01-01T00:00:00.000Z,39.367893,-99.84189
+KS0330100,Hill City Police Department,6195,KS,West North Central,Midwest,Region II,GRAHAM,City,True,2000-01-01T00:00:00.000Z,39.365746,-99.841965
+KS0340000,Grant County Sheriff's Office,6196,KS,West North Central,Midwest,Region II,GRANT,County,True,2000-01-01T00:00:00.000Z,37.579674,-101.35648
+KS0340100,Ulysses Police Department,6197,KS,West North Central,Midwest,Region II,GRANT,City,True,2000-01-01T00:00:00.000Z,37.579674,-101.35648
+KS0350000,Gray County Sheriff's Office,6198,KS,West North Central,Midwest,Region II,GRAY,County,True,2000-01-01T00:00:00.000Z,37.744513,-100.451716
+KS0350300,Montezuma,26653,KS,West North Central,Midwest,Region II,GRAY,City,False,2016-01-01T00:00:00.000Z,,
+KS0360000,Greeley County Sheriff's Office,6201,KS,West North Central,Midwest,Region II,GREELEY,County,True,2000-01-01T00:00:00.000Z,38.480404,-101.80597
+KS0370000,Greenwood County Sheriff's Office,6203,KS,West North Central,Midwest,Region II,GREENWOOD,County,True,2000-01-01T00:00:00.000Z,37.878659,-96.242232
+KS0380000,Hamilton County Sheriff's Office,6206,KS,West North Central,Midwest,Region II,HAMILTON,County,True,2000-01-01T00:00:00.000Z,37.995244,-101.793689
+KS0390000,Harper County Sheriff's Office,6207,KS,West North Central,Midwest,Region II,HARPER,County,True,2000-01-01T00:00:00.000Z,37.153286,-98.029884
+KS0390100,Anthony Police Department,6208,KS,West North Central,Midwest,Region II,HARPER,City,True,2000-01-01T00:00:00.000Z,37.188184,-98.06659
+KS0390200,Attica Police Department,6209,KS,West North Central,Midwest,Region II,HARPER,City,True,2000-01-01T00:00:00.000Z,37.188184,-98.06659
+KS0400000,Harvey County Sheriff's Office,6211,KS,West North Central,Midwest,Region II,HARVEY,County,True,2000-01-01T00:00:00.000Z,38.051147,-97.34464
+KS0400100,Newton Police Department,6212,KS,West North Central,Midwest,Region II,HARVEY,City,True,2000-01-01T00:00:00.000Z,38.051147,-97.34464
+KS0400200,Hesston Police Department,6213,KS,West North Central,Midwest,Region II,HARVEY,City,True,2000-01-01T00:00:00.000Z,38.050144,-97.436706
+KS0400300,Halstead Police Department,6214,KS,West North Central,Midwest,Region II,HARVEY,City,True,2000-01-01T00:00:00.000Z,38.003014,-97.50606
+KS0400400,Sedgwick Police Department,6215,KS,West North Central,Midwest,Region II,"HARVEY, SEDGWICK",City,False,2005-08-01T00:00:00.000Z,38.050144,-97.436706
+KS0400500,Burrton Police Department,6216,KS,West North Central,Midwest,Region II,HARVEY,City,True,2000-01-01T00:00:00.000Z,38.050144,-97.436706
+KS0400600,North Newton Police Department,6217,KS,West North Central,Midwest,Region II,HARVEY,City,True,2000-01-01T00:00:00.000Z,38.050144,-97.436706
+KS0400700,Walton Police Department,6218,KS,West North Central,Midwest,Region II,HARVEY,City,False,2004-01-01T00:00:00.000Z,38.050144,-97.436706
+KS0410000,Haskell County Sheriff's Office,6219,KS,West North Central,Midwest,Region II,HASKELL,County,True,2000-01-01T00:00:00.000Z,37.55855,-100.876869
+KS0420000,Hodgeman County Sheriff's Office,6222,KS,West North Central,Midwest,Region II,HODGEMAN,County,True,2000-01-01T00:00:00.000Z,38.087493,-99.898407
+KS0430000,Jackson County Sheriff's Office,6223,KS,West North Central,Midwest,Region II,JACKSON,County,True,2000-01-01T00:00:00.000Z,39.459015,-95.747894
+KS0430100,Holton Police Department,6224,KS,West North Central,Midwest,Region II,JACKSON,City,True,2000-01-01T00:00:00.000Z,39.463394,-95.7377
+KS0430200,Hoyt  Police Department,6225,KS,West North Central,Midwest,Region II,JACKSON,City,False,2000-02-01T00:00:00.000Z,39.411145,-95.794485
+KS0430400,Mayetta Police Department,6227,KS,West North Central,Midwest,Region II,JACKSON,City,False,2000-03-01T00:00:00.000Z,39.411145,-95.794485
+KS0440000,Jefferson County Sheriff's Office,6228,KS,West North Central,Midwest,Region II,JEFFERSON,County,True,2000-01-01T00:00:00.000Z,39.239644,-95.375314
+KS0440200,Valley Falls Police Department,6230,KS,West North Central,Midwest,Region II,JEFFERSON,City,True,2000-02-01T00:00:00.000Z,39.345028,-95.45757
+KS0440300,Meriden Police Department,6231,KS,West North Central,Midwest,Region II,JEFFERSON,City,True,2000-03-01T00:00:00.000Z,39.239644,-95.375314
+KS0440400,McLouth Police Department,6232,KS,West North Central,Midwest,Region II,JEFFERSON,City,True,2000-01-01T00:00:00.000Z,39.197052,-95.20833
+KS0440500,Nortonville Police Department,6233,KS,West North Central,Midwest,Region II,JEFFERSON,City,True,2000-01-01T00:00:00.000Z,39.239644,-95.375314
+KS0440600,Oskaloosa Police Department,6234,KS,West North Central,Midwest,Region II,JEFFERSON,City,True,2000-02-01T00:00:00.000Z,39.239644,-95.375314
+KS0440700,Winchester Police Department,6235,KS,West North Central,Midwest,Region II,JEFFERSON,City,True,2000-01-01T00:00:00.000Z,39.239644,-95.375314
+KS0440800,Perry Police Department,6236,KS,West North Central,Midwest,Region II,JEFFERSON,City,True,2000-01-01T00:00:00.000Z,39.239644,-95.375314
+KS0450000,Jewell County Sheriff's Office,6238,KS,West North Central,Midwest,Region II,JEWELL,County,True,2000-01-01T00:00:00.000Z,39.787975,-98.209984
+KS0460000,Johnson County Sheriff's Office,6239,KS,West North Central,Midwest,Region II,JOHNSON,County,True,2000-01-01T00:00:00.000Z,38.882427,-94.819466
+KS0460100,Fairway Police Department,6240,KS,West North Central,Midwest,Region II,JOHNSON,City,True,2000-01-01T00:00:00.000Z,39.033836,-94.616585
+KS0460200,Leawood Police Department,6241,KS,West North Central,Midwest,Region II,JOHNSON,City,True,2000-01-01T00:00:00.000Z,38.954098,-94.615425
+KS0460300,Merriam Police Department,6242,KS,West North Central,Midwest,Region II,JOHNSON,City,True,2000-01-01T00:00:00.000Z,39.017418,-94.69028
+KS0460400,Mission Police Department,6243,KS,West North Central,Midwest,Region II,JOHNSON,City,True,2019-04-01T00:00:00.000Z,39.01873,-94.65373
+KS0460500,Olathe Police Department,6244,KS,West North Central,Midwest,Region II,JOHNSON,City,True,2019-04-01T00:00:00.000Z,38.86768,-94.82552
+KS0460600,Overland Park Police Department,6245,KS,West North Central,Midwest,Region II,JOHNSON,City,True,2019-07-01T00:00:00.000Z,38.903667,-94.6714
+KS0460700,Prairie Village Police Department,6246,KS,West North Central,Midwest,Region II,JOHNSON,City,True,2000-01-01T00:00:00.000Z,38.989285,-94.6304
+KS0460800,Roeland Park Police Department,6247,KS,West North Central,Midwest,Region II,JOHNSON,City,True,2000-01-01T00:00:00.000Z,39.036415,-94.63873
+KS0460900,Shawnee Police Department,6248,KS,West North Central,Midwest,Region II,JOHNSON,City,True,2000-01-01T00:00:00.000Z,39.02212,-94.77992
+KS0461000,Lenexa Police Department,6249,KS,West North Central,Midwest,Region II,JOHNSON,City,True,2006-01-01T00:00:00.000Z,38.971035,-94.73084
+KS0461100,Westwood Police Department,6250,KS,West North Central,Midwest,Region II,JOHNSON,City,True,2000-01-01T00:00:00.000Z,39.044037,-94.61192
+KS0461200,Gardner Police Department,6251,KS,West North Central,Midwest,Region II,JOHNSON,City,True,2000-01-01T00:00:00.000Z,38.883907,-94.82233
+KS0461300,Mission Hills Police Department,6252,KS,West North Central,Midwest,Region II,JOHNSON,City,True,2000-01-01T00:00:00.000Z,38.883907,-94.82233
+KS0461700,Spring Hill Police Department,6253,KS,West North Central,Midwest,Region II,"JOHNSON, MIAMI",City,True,2000-01-01T00:00:00.000Z,38.883907,-94.82233
+KS0462000,Johnson County Park,6255,KS,West North Central,Midwest,Region II,JOHNSON,Other,True,2000-01-01T00:00:00.000Z,38.98593,-94.77974
+KS0462200,Mission Woods Police Department,6256,KS,West North Central,Midwest,Region II,JOHNSON,City,True,2000-01-01T00:00:00.000Z,39.044037,-94.61192
+KS0462300,Westwood Hills Police Department,6257,KS,West North Central,Midwest,Region II,JOHNSON,City,True,2000-01-01T00:00:00.000Z,39.044037,-94.61192
+KS0462400,Lake Quivira Police Department,6258,KS,West North Central,Midwest,Region II,"JOHNSON, WYANDOTTE",City,True,2000-05-01T00:00:00.000Z,38.883907,-94.82233
+KS0462500,Shawnee Mission Public Schools,6259,KS,West North Central,Midwest,Region II,JOHNSON,Other,True,2004-09-01T00:00:00.000Z,38.997684,-94.686424
+KS0462600,Blue Valley School District,6260,KS,West North Central,Midwest,Region II,JOHNSON,Other,True,2004-01-01T00:00:00.000Z,38.883907,-94.82233
+KS0470000,Kearny County Sheriff's Office,6261,KS,West North Central,Midwest,Region II,KEARNY,County,True,2000-01-01T00:00:00.000Z,37.994461,-101.308136
+KS0480000,Kingman County Sheriff's Office,6262,KS,West North Central,Midwest,Region II,KINGMAN,County,True,2000-01-01T00:00:00.000Z,37.64222,-98.11175
+KS0480100,Kingman Police Department,6263,KS,West North Central,Midwest,Region II,KINGMAN,City,True,2000-01-01T00:00:00.000Z,37.64223,-98.11175
+KS0490000,Kiowa County Sheriff's Office,6265,KS,West North Central,Midwest,Region II,KIOWA,County,True,2000-01-01T00:00:00.000Z,37.604126,-99.29138
+KS0490200,Greensburg Police Department,25331,KS,West North Central,Midwest,Region II,KIOWA,City,True,2013-03-01T00:00:00.000Z,,
+KS0500000,Labette County Sheriff's Office,6266,KS,West North Central,Midwest,Region II,LABETTE,County,True,2000-01-01T00:00:00.000Z,37.165993,-95.107666
+KS0500100,Parsons Police Department,6267,KS,West North Central,Midwest,Region II,LABETTE,City,True,2000-01-01T00:00:00.000Z,37.34162,-95.26402
+KS0500200,Oswego Police Department,6268,KS,West North Central,Midwest,Region II,LABETTE,City,True,2000-01-01T00:00:00.000Z,37.191468,-95.297473
+KS0500300,Chetopa Police Department,6269,KS,West North Central,Midwest,Region II,LABETTE,City,True,2000-01-01T00:00:00.000Z,37.191468,-95.297473
+KS0500400,Altamont Police Department,6270,KS,West North Central,Midwest,Region II,LABETTE,City,False,2000-01-01T00:00:00.000Z,37.191468,-95.297473
+KS0510000,Lane County Sheriff's Office,6273,KS,West North Central,Midwest,Region II,LANE,County,True,2000-01-01T00:00:00.000Z,38.481286,-100.466185
+KS0520000,Leavenworth County Sheriff's Office,6274,KS,West North Central,Midwest,Region II,LEAVENWORTH,County,True,2000-01-01T00:00:00.000Z,39.314144,-94.91131
+KS0520100,Leavenworth Police Department,6275,KS,West North Central,Midwest,Region II,LEAVENWORTH,City,True,2000-01-01T00:00:00.000Z,39.314144,-94.91131
+KS0520200,Tonganoxie Police Department,6276,KS,West North Central,Midwest,Region II,LEAVENWORTH,City,True,2000-01-01T00:00:00.000Z,39.109253,-95.08621
+KS0520300,Lansing Police Department,6277,KS,West North Central,Midwest,Region II,LEAVENWORTH,City,True,2000-01-01T00:00:00.000Z,39.240746,-94.89871
+KS0520500,Basehor Police Department,6278,KS,West North Central,Midwest,Region II,LEAVENWORTH,City,True,2000-01-01T00:00:00.000Z,39.189511,-95.038977
+KS0530000,Lincoln County Sheriff's Office,6279,KS,West North Central,Midwest,Region II,LINCOLN,County,False,2000-01-01T00:00:00.000Z,39.040707,-98.14436
+KS0540000,Linn County Sheriff's Office,6280,KS,West North Central,Midwest,Region II,LINN,County,True,2000-01-01T00:00:00.000Z,38.216549,-94.844932
+KS0540100,Mound City Police Department,6281,KS,West North Central,Midwest,Region II,LINN,City,False,2000-01-01T00:00:00.000Z,38.216549,-94.844932
+KS0540200,Pleasanton Police Department,6282,KS,West North Central,Midwest,Region II,LINN,City,True,2000-01-01T00:00:00.000Z,38.216549,-94.844932
+KS0540300,La Cygne Police Department,6283,KS,West North Central,Midwest,Region II,LINN,City,False,2000-01-01T00:00:00.000Z,38.216549,-94.844932
+KS0540500,Linn Valley Police Department,6285,KS,West North Central,Midwest,Region II,LINN,City,False,2000-05-01T00:00:00.000Z,38.216549,-94.844932
+KS0550000,Logan County Sheriff's Office,6286,KS,West North Central,Midwest,Region II,LOGAN,County,True,2000-01-01T00:00:00.000Z,39.126472,-100.860344
+KS0550100,Oakley Police Department,6287,KS,West North Central,Midwest,Region II,"GOVE, LOGAN, THOMAS",City,True,2000-01-01T00:00:00.000Z,39.12648,-100.852615
+KS0560000,Lyon County Sheriff's Office,6288,KS,West North Central,Midwest,Region II,LYON,County,True,2000-01-01T00:00:00.000Z,38.455498,-96.161589
+KS0560100,Emporia Police Department,6289,KS,West North Central,Midwest,Region II,LYON,City,False,2000-01-01T00:00:00.000Z,38.455498,-96.161589
+KS0560200,Emporia State University,6290,KS,West North Central,Midwest,Region II,LYON,University or College,True,2000-01-01T00:00:00.000Z,38.455498,-96.161589
+KS0560300,Americus Police Department,6291,KS,West North Central,Midwest,Region II,LYON,City,True,2004-01-01T00:00:00.000Z,38.455498,-96.161589
+KS0570000,McPherson County Sheriff's Office,6292,KS,West North Central,Midwest,Region II,MCPHERSON,County,True,2000-01-01T00:00:00.000Z,38.37359,-97.68325
+KS0570100,McPherson Police Department,6293,KS,West North Central,Midwest,Region II,MCPHERSON,City,True,2000-01-01T00:00:00.000Z,38.37359,-97.68325
+KS0570200,Lindsborg Police Department,6294,KS,West North Central,Midwest,Region II,MCPHERSON,City,True,2000-01-01T00:00:00.000Z,38.395812,-97.647489
+KS0570300,Galva Police Department,6295,KS,West North Central,Midwest,Region II,MCPHERSON,City,False,2000-01-01T00:00:00.000Z,38.395812,-97.647489
+KS0570400,Moundridge Police Department,6296,KS,West North Central,Midwest,Region II,MCPHERSON,City,False,2000-01-01T00:00:00.000Z,38.395812,-97.647489
+KS0570600,Marquette Police Department,6297,KS,West North Central,Midwest,Region II,MCPHERSON,City,False,2000-01-01T00:00:00.000Z,38.395812,-97.647489
+KS0570800,Inman Police Department,6298,KS,West North Central,Midwest,Region II,MCPHERSON,City,True,2000-12-01T00:00:00.000Z,38.395812,-97.647489
+KS0570900,Canton Police Department,6299,KS,West North Central,Midwest,Region II,MCPHERSON,City,True,2000-07-01T00:00:00.000Z,38.395812,-97.647489
+KS0580000,Marion County Sheriff's Office,6300,KS,West North Central,Midwest,Region II,MARION,County,True,2000-01-01T00:00:00.000Z,38.34715,-97.01915
+KS0580100,Hillsboro Police Department,6301,KS,West North Central,Midwest,Region II,MARION,City,True,2000-01-01T00:00:00.000Z,38.357906,-97.20607
+KS0580200,Marion Police Department,6302,KS,West North Central,Midwest,Region II,MARION,City,True,2000-01-01T00:00:00.000Z,38.359647,-97.102771
+KS0580300,Peabody Police Department,6303,KS,West North Central,Midwest,Region II,MARION,City,True,2003-01-01T00:00:00.000Z,38.16737,-97.10678
+KS0580400,Florence Police Department,6304,KS,West North Central,Midwest,Region II,MARION,City,False,2000-01-01T00:00:00.000Z,38.242546,-96.92626
+KS0580500,Goessel Police Department,6305,KS,West North Central,Midwest,Region II,MARION,City,False,2000-08-01T00:00:00.000Z,38.359647,-97.102771
+KS0580600,Burns Police Department,6306,KS,West North Central,Midwest,Region II,MARION,City,True,2004-01-01T00:00:00.000Z,38.359647,-97.102771
+KS0590000,Marshall County Sheriff's Office,6307,KS,West North Central,Midwest,Region II,MARSHALL,County,True,2000-01-01T00:00:00.000Z,39.84118,-96.641945
+KS0590100,Marysville Police Department,6308,KS,West North Central,Midwest,Region II,MARSHALL,City,True,2000-01-01T00:00:00.000Z,39.840675,-96.6456
+KS0590200,Blue Rapids Police Department,6309,KS,West North Central,Midwest,Region II,MARSHALL,City,True,2000-02-01T00:00:00.000Z,39.782709,-96.521243
+KS0590300,Frankfort Police Department,6310,KS,West North Central,Midwest,Region II,MARSHALL,City,True,2000-01-01T00:00:00.000Z,39.701744,-96.418724
+KS0590400,Waterville Police Department,6311,KS,West North Central,Midwest,Region II,MARSHALL,City,False,2000-01-01T00:00:00.000Z,39.782709,-96.521243
+KS0600000,Meade County Sheriff's Office,6312,KS,West North Central,Midwest,Region II,MEADE,County,False,2000-02-01T00:00:00.000Z,37.243886,-100.360094
+KS0600100,Meade Police Department,6313,KS,West North Central,Midwest,Region II,MEADE,City,False,2000-08-01T00:00:00.000Z,37.243886,-100.360094
+KS0610000,Miami County Sheriff's Office,6314,KS,West North Central,Midwest,Region II,MIAMI,County,True,2000-01-01T00:00:00.000Z,38.57153,-94.878044
+KS0610100,Paola Police Department,6315,KS,West North Central,Midwest,Region II,MIAMI,City,True,2000-01-01T00:00:00.000Z,38.566772,-94.832963
+KS0610200,Osawatomie Police Department,6316,KS,West North Central,Midwest,Region II,MIAMI,City,False,2000-01-01T00:00:00.000Z,38.566772,-94.832963
+KS0610300,Louisburg Police Department,6317,KS,West North Central,Midwest,Region II,MIAMI,City,True,2000-01-01T00:00:00.000Z,38.620853,-94.68021
+KS0620000,Mitchell County Sheriff's Office,6318,KS,West North Central,Midwest,Region II,MITCHELL,County,True,2000-01-01T00:00:00.000Z,39.393026,-98.207362
+KS0620100,Beloit Police Department,6319,KS,West North Central,Midwest,Region II,MITCHELL,City,True,2000-01-01T00:00:00.000Z,39.45889,-98.10771
+KS0630000,Montgomery County Sheriff's Office,6321,KS,West North Central,Midwest,Region II,MONTGOMERY,County,True,2000-01-01T00:00:00.000Z,37.223263,-95.703804
+KS0630100,Coffeyville Police Department,6322,KS,West North Central,Midwest,Region II,MONTGOMERY,City,True,2000-01-01T00:00:00.000Z,37.189537,-95.742403
+KS0630200,Independence Police Department,6323,KS,West North Central,Midwest,Region II,MONTGOMERY,City,True,2000-06-01T00:00:00.000Z,37.223526,-95.70527
+KS0630300,Cherryvale Police Department,6324,KS,West North Central,Midwest,Region II,MONTGOMERY,City,True,2000-11-01T00:00:00.000Z,37.268627,-95.551636
+KS0630400,Caney Police Department,6325,KS,West North Central,Midwest,Region II,MONTGOMERY,City,True,2000-02-01T00:00:00.000Z,37.189537,-95.742403
+KS0640000,Morris County Sheriff's Office,6326,KS,West North Central,Midwest,Region II,MORRIS,County,True,2000-01-01T00:00:00.000Z,38.56147,-96.84742
+KS0640100,Council Grove Police Department,6327,KS,West North Central,Midwest,Region II,MORRIS,City,True,2000-01-01T00:00:00.000Z,38.688204,-96.651448
+KS0650000,Morton County Sheriff's Office,6329,KS,West North Central,Midwest,Region II,MORTON,County,True,2000-01-01T00:00:00.000Z,37.185249,-101.809516
+KS0650100,Elkhart Police Department,6330,KS,West North Central,Midwest,Region II,MORTON,City,True,2000-01-01T00:00:00.000Z,37.185249,-101.809516
+KS0660000,Nemaha County Sheriff's Office,6332,KS,West North Central,Midwest,Region II,NEMAHA,County,True,2000-01-01T00:00:00.000Z,39.836826,-96.064064
+KS0660100,Sabetha Police Department,6333,KS,West North Central,Midwest,Region II,"BROWN, NEMAHA",City,True,2000-01-01T00:00:00.000Z,39.791043,-96.005381
+KS0660200,Seneca Police Department,6334,KS,West North Central,Midwest,Region II,NEMAHA,City,True,2000-01-01T00:00:00.000Z,39.836826,-96.064064
+KS0670000,Neosho County Sheriff's Office,6335,KS,West North Central,Midwest,Region II,NEOSHO,County,True,2000-01-01T00:00:00.000Z,37.564283,-95.315683
+KS0670100,Chanute Police Department,6336,KS,West North Central,Midwest,Region II,NEOSHO,City,False,2000-01-01T00:00:00.000Z,37.564283,-95.315683
+KS0670200,Erie Police Department,6337,KS,West North Central,Midwest,Region II,NEOSHO,City,True,2000-01-01T00:00:00.000Z,37.5684,-95.24345
+KS0680000,Ness County Sheriff's Office,6338,KS,West North Central,Midwest,Region II,NESS,County,True,2003-06-01T00:00:00.000Z,38.45391,-99.907166
+KS0690000,Norton County Sheriff's Office,6340,KS,West North Central,Midwest,Region II,NORTON,County,True,2000-01-01T00:00:00.000Z,39.783867,-99.899235
+KS0690100,Norton Police Department,6341,KS,West North Central,Midwest,Region II,NORTON,City,False,2000-01-01T00:00:00.000Z,39.783867,-99.899235
+KS0700000,Osage County Sheriff's Office,6342,KS,West North Central,Midwest,Region II,OSAGE,County,True,2000-01-01T00:00:00.000Z,38.648409,-95.707596
+KS0700100,Osage City Police Department,6343,KS,West North Central,Midwest,Region II,OSAGE,City,True,2000-01-01T00:00:00.000Z,38.648409,-95.707596
+KS0700200,Burlingame Police Department,6344,KS,West North Central,Midwest,Region II,OSAGE,City,False,2000-08-01T00:00:00.000Z,38.753666,-95.83243
+KS0700300,Carbondale Police Department,6345,KS,West North Central,Midwest,Region II,OSAGE,City,True,2001-05-01T00:00:00.000Z,38.648409,-95.707596
+KS0700400,Lyndon Police Department,6346,KS,West North Central,Midwest,Region II,OSAGE,City,True,2000-01-01T00:00:00.000Z,38.648409,-95.707596
+KS0700500,Overbrook Police Department,6347,KS,West North Central,Midwest,Region II,OSAGE,City,True,2000-01-01T00:00:00.000Z,38.648409,-95.707596
+KS0700600,Scranton Police Department,6348,KS,West North Central,Midwest,Region II,OSAGE,City,True,2000-01-01T00:00:00.000Z,38.648409,-95.707596
+KS0700800,Melvern Police Department,6350,KS,West North Central,Midwest,Region II,OSAGE,City,False,2000-03-01T00:00:00.000Z,38.648409,-95.707596
+KS0710000,Osborne County Sheriff's Office,6351,KS,West North Central,Midwest,Region II,OSBORNE,County,True,2000-12-01T00:00:00.000Z,39.348649,-98.767876
+KS0710100,Osborne Police Department,6352,KS,West North Central,Midwest,Region II,OSBORNE,City,True,2012-09-01T00:00:00.000Z,39.348649,-98.767876
+KS0720000,Ottawa County Sheriff's Office,6354,KS,West North Central,Midwest,Region II,OTTAWA,County,True,2000-01-01T00:00:00.000Z,39.137963,-97.654802
+KS0720100,Delphos Police Department,6355,KS,West North Central,Midwest,Region II,OTTAWA,City,False,2001-08-01T00:00:00.000Z,39.137963,-97.654802
+KS0720200,Minneapolis Police Department,6356,KS,West North Central,Midwest,Region II,OTTAWA,City,True,2000-01-01T00:00:00.000Z,39.122486,-97.70712
+KS0730000,Pawnee County Sheriff's Office,6357,KS,West North Central,Midwest,Region II,PAWNEE,County,True,2000-01-01T00:00:00.000Z,38.18168,-99.098625
+KS0730100,Larned Police Department,6358,KS,West North Central,Midwest,Region II,PAWNEE,City,True,2000-01-01T00:00:00.000Z,38.182873,-99.232154
+KS0740000,Phillips County Sheriff's Office,6359,KS,West North Central,Midwest,Region II,PHILLIPS,County,True,2002-02-01T00:00:00.000Z,39.75592,-99.32452
+KS0750000,Pottawatomie County Sheriff's Office,6362,KS,West North Central,Midwest,Region II,POTTAWATOMIE,County,True,2000-01-01T00:00:00.000Z,39.382187,-96.337113
+KS0750100,St. Marys Police Department,6363,KS,West North Central,Midwest,Region II,POTTAWATOMIE,City,True,2000-01-01T00:00:00.000Z,39.382187,-96.337113
+KS0750200,Wamego Police Department,6364,KS,West North Central,Midwest,Region II,"POTTAWATOMIE, WABAUNSEE",City,True,2000-01-01T00:00:00.000Z,39.382187,-96.337113
+KS0750400,St. George Police Department,6365,KS,West North Central,Midwest,Region II,POTTAWATOMIE,City,True,2001-02-01T00:00:00.000Z,39.382187,-96.337113
+KS0750500,Onaga Police Department,6366,KS,West North Central,Midwest,Region II,POTTAWATOMIE,City,False,2009-02-01T00:00:00.000Z,39.382187,-96.337113
+KS0750600,Havensville Police Department,6367,KS,West North Central,Midwest,Region II,POTTAWATOMIE,City,False,2008-04-01T00:00:00.000Z,39.382187,-96.337113
+KS0760000,Pratt County Sheriff's Office,6368,KS,West North Central,Midwest,Region II,PRATT,County,True,2000-01-01T00:00:00.000Z,37.643806,-98.736855
+KS0760100,Pratt Police Department,6369,KS,West North Central,Midwest,Region II,PRATT,City,True,2000-01-01T00:00:00.000Z,37.647594,-98.74012
+KS0760200,Kansas Department of Wildlife and Parks,6370,KS,West North Central,Midwest,Region II,PRATT,Other State Agency,True,2000-01-01T00:00:00.000Z,37.643555,-98.694336
+KS0770000,Rawlins County Sheriff's Office,6371,KS,West North Central,Midwest,Region II,RAWLINS,County,True,2000-01-01T00:00:00.000Z,39.80763,-101.03953
+KS0770100,Atwood Police Department,6372,KS,West North Central,Midwest,Region II,RAWLINS,City,True,2001-01-01T00:00:00.000Z,39.80761,-101.04342
+KS0780000,Reno County Sheriff's Office,6373,KS,West North Central,Midwest,Region II,RENO,County,True,2000-01-01T00:00:00.000Z,38.053444,-97.93571
+KS0780100,Hutchinson Police Department,6374,KS,West North Central,Midwest,Region II,RENO,City,True,2000-01-01T00:00:00.000Z,38.053444,-97.93571
+KS0780200,South Hutchinson Police Department,6375,KS,West North Central,Midwest,Region II,RENO,City,False,2000-01-01T00:00:00.000Z,38.027927,-97.94
+KS0780300,Haven Police Department,6376,KS,West North Central,Midwest,Region II,RENO,City,False,2000-02-01T00:00:00.000Z,37.9007,-97.782616
+KS0780600,Buhler Police Department,6378,KS,West North Central,Midwest,Region II,RENO,City,False,2001-01-01T00:00:00.000Z,37.948185,-98.078346
+KS0780900,Reno County Drug Enforcement Unit,26570,KS,West North Central,Midwest,Region II,RENO,Other,True,2016-01-01T00:00:00.000Z,,
+KS0781100,Unified School District:,33019,KS,West North Central,Midwest,Region II,RENO,Other,True,2021-01-01T00:00:00.000Z,,
+KS0790000,Republic County Sheriff's Office,6380,KS,West North Central,Midwest,Region II,REPUBLIC,County,True,2000-01-01T00:00:00.000Z,39.82891,-97.650921
+KS0790100,Belleville Police Department,6381,KS,West North Central,Midwest,Region II,REPUBLIC,City,True,2000-01-01T00:00:00.000Z,39.82891,-97.650921
+KS0800000,Rice County Sheriff's Office,6382,KS,West North Central,Midwest,Region II,RICE,County,True,2000-01-01T00:00:00.000Z,38.35154,-98.18535
+KS0800100,Lyons Police Department,6383,KS,West North Central,Midwest,Region II,RICE,City,True,2000-01-01T00:00:00.000Z,38.347717,-98.20034
+KS0800200,Sterling Police Department,6384,KS,West North Central,Midwest,Region II,RICE,City,True,2000-01-01T00:00:00.000Z,38.347178,-98.201415
+KS0800300,Bushton Police Department,6385,KS,West North Central,Midwest,Region II,RICE,City,False,2000-04-01T00:00:00.000Z,38.347178,-98.201415
+KS0800400,Geneseo Police Department,6386,KS,West North Central,Midwest,Region II,RICE,City,False,2012-02-01T00:00:00.000Z,38.347178,-98.201415
+KS0800500,Little River Police Department,6387,KS,West North Central,Midwest,Region II,RICE,City,False,2000-01-01T00:00:00.000Z,38.347178,-98.201415
+KS0800600,Chase Police Department,6388,KS,West North Central,Midwest,Region II,RICE,City,True,2004-01-01T00:00:00.000Z,38.347178,-98.201415
+KS0810000,Riley County Police Department,6389,KS,West North Central,Midwest,Region II,RILEY,County,True,2000-01-01T00:00:00.000Z,39.291211,-96.727489
+KS0810200,Kansas State University,6391,KS,West North Central,Midwest,Region II,RILEY,University or College,True,2000-01-01T00:00:00.000Z,39.291211,-96.727489
+KS0820000,Rooks County Sheriff's Office,6392,KS,West North Central,Midwest,Region II,ROOKS,County,True,2000-01-01T00:00:00.000Z,39.346006,-99.324492
+KS0820100,Plainville Police Department,6393,KS,West North Central,Midwest,Region II,ROOKS,City,True,2000-01-01T00:00:00.000Z,39.234444,-99.300026
+KS0830000,Rush County Sheriff's Office,6395,KS,West North Central,Midwest,Region II,RUSH,County,True,2000-01-01T00:00:00.000Z,38.523592,-99.309183
+KS0840000,Russell County Sheriff's Office,6397,KS,West North Central,Midwest,Region II,RUSSELL,County,True,2000-01-01T00:00:00.000Z,38.916839,-98.765638
+KS0840100,Russell Police Department,6398,KS,West North Central,Midwest,Region II,RUSSELL,City,True,2000-01-01T00:00:00.000Z,39.06713,-101.24713
+KS0850000,Saline County Sheriff's Office,6399,KS,West North Central,Midwest,Region II,SALINE,County,True,2000-01-01T00:00:00.000Z,38.786327,-97.650153
+KS0850100,Salina Police Department,6400,KS,West North Central,Midwest,Region II,SALINE,City,True,2000-01-01T00:00:00.000Z,38.836975,-97.61358
+KS0850200,Assaria Police Department,6401,KS,West North Central,Midwest,Region II,SALINE,City,False,2011-01-01T00:00:00.000Z,38.786327,-97.650153
+KS0860000,Scott County Sheriff's Office,6402,KS,West North Central,Midwest,Region II,SCOTT,County,True,2000-01-01T00:00:00.000Z,38.48251,-100.90089
+KS0860100,Scott City Police Department,6403,KS,West North Central,Midwest,Region II,SCOTT,City,True,2000-01-01T00:00:00.000Z,38.48251,-100.90089
+KS0870000,Sedgwick County Sheriff's Office,6404,KS,West North Central,Midwest,Region II,SEDGWICK,County,True,2001-12-01T00:00:00.000Z,37.69478,-97.33957
+KS0870100,Derby Police Department,6405,KS,West North Central,Midwest,Region II,SEDGWICK,City,True,2000-01-01T00:00:00.000Z,37.545734,-97.27021
+KS0870200,Haysville Police Department,6406,KS,West North Central,Midwest,Region II,SEDGWICK,City,True,2000-01-01T00:00:00.000Z,37.56436,-97.353874
+KS0870300,Wichita Police Department,6407,KS,West North Central,Midwest,Region II,SEDGWICK,City,True,2000-11-01T00:00:00.000Z,37.692635,-97.33823
+KS0870500,Valley Center Police Department,6408,KS,West North Central,Midwest,Region II,SEDGWICK,City,True,2000-01-01T00:00:00.000Z,37.839355,-97.365616
+KS0870600,Wichita State University,6409,KS,West North Central,Midwest,Region II,SEDGWICK,University or College,True,2000-01-01T00:00:00.000Z,37.716373,-97.29674
+KS0870700,Colwich Police Department,6410,KS,West North Central,Midwest,Region II,SEDGWICK,City,True,2003-01-01T00:00:00.000Z,37.681045,-97.461054
+KS0870800,Eastborough Police Department,6411,KS,West North Central,Midwest,Region II,SEDGWICK,City,False,2002-01-01T00:00:00.000Z,37.686478,-97.26213
+KS0870900,Cheney Police Department,6412,KS,West North Central,Midwest,Region II,SEDGWICK,City,True,2000-01-01T00:00:00.000Z,37.681045,-97.461054
+KS0871000,Clearwater Police Department,6413,KS,West North Central,Midwest,Region II,SEDGWICK,City,True,2000-01-01T00:00:00.000Z,37.681045,-97.461054
+KS0871100,Goddard Police Department,6414,KS,West North Central,Midwest,Region II,SEDGWICK,City,True,2000-01-01T00:00:00.000Z,37.681045,-97.461054
+KS0871300,Garden Plain Police Department,6415,KS,West North Central,Midwest,Region II,SEDGWICK,City,True,2000-01-01T00:00:00.000Z,37.681045,-97.461054
+KS0871400,Mount Hope Police Department,6416,KS,West North Central,Midwest,Region II,SEDGWICK,City,True,2005-01-01T00:00:00.000Z,37.681045,-97.461054
+KS0871500,Maize Police Department,6417,KS,West North Central,Midwest,Region II,SEDGWICK,City,True,2000-01-01T00:00:00.000Z,37.681045,-97.461054
+KS0871600,Park City Police Department,6418,KS,West North Central,Midwest,Region II,SEDGWICK,City,True,2000-01-01T00:00:00.000Z,37.681045,-97.461054
+KS0871800,Bel Aire Police Department,6419,KS,West North Central,Midwest,Region II,SEDGWICK,City,True,2000-02-01T00:00:00.000Z,37.775604,-97.26218
+KS0872000,Andale Police Department,6420,KS,West North Central,Midwest,Region II,SEDGWICK,City,False,2001-04-01T00:00:00.000Z,37.681045,-97.461054
+KS0872100,Kechi Police Department,6421,KS,West North Central,Midwest,Region II,SEDGWICK,City,True,2003-04-01T00:00:00.000Z,37.681045,-97.461054
+KS0872400,Unified School District: Goddard,6423,KS,West North Central,Midwest,Region II,SEDGWICK,Other,True,2000-01-01T00:00:00.000Z,37.681045,-97.461054
+KS0872500,Bentley Police Department,6424,KS,West North Central,Midwest,Region II,SEDGWICK,City,False,2006-07-01T00:00:00.000Z,37.681045,-97.461054
+KS0880000,Seward County Sheriff's Office,6425,KS,West North Central,Midwest,Region II,SEWARD,County,True,2000-01-01T00:00:00.000Z,37.042725,-100.921
+KS0880100,Liberal Police Department,6426,KS,West North Central,Midwest,Region II,SEWARD,City,True,2000-01-01T00:00:00.000Z,37.180585,-100.854741
+KS0890000,Shawnee County Sheriff's Office,6428,KS,West North Central,Midwest,Region II,SHAWNEE,County,True,2000-01-01T00:00:00.000Z,39.055595,-95.6716
+KS0890100,Topeka Police Department,6429,KS,West North Central,Midwest,Region II,SHAWNEE,City,True,2019-01-01T00:00:00.000Z,39.055595,-95.6716
+KS0890200,Rossville Police Department,6430,KS,West North Central,Midwest,Region II,SHAWNEE,City,False,2001-01-01T00:00:00.000Z,39.041805,-95.755664
+KS0890400,State Fire Marshal,6432,KS,West North Central,Midwest,Region II,SHAWNEE,Other State Agency,True,2008-06-01T00:00:00.000Z,39.050564,-95.67537
+KS089045Y,Department of Labor,27413,KS,West North Central,Midwest,Region II,NOT SPECIFIED,Other State Agency,False,2016-01-01T00:00:00.000Z,,
+KS0890500,Kansas Alcoholic Beverage Control,6433,KS,West North Central,Midwest,Region II,SHAWNEE,Other State Agency,True,2000-01-01T00:00:00.000Z,39.041805,-95.755664
+KS0890600,Metropolitan Topeka Airport Authority,6434,KS,West North Central,Midwest,Region II,SHAWNEE,Other,True,2000-01-01T00:00:00.000Z,39.041805,-95.755664
+KS0890700,Auburn Police Department,6435,KS,West North Central,Midwest,Region II,SHAWNEE,City,False,2004-01-01T00:00:00.000Z,39.041805,-95.755664
+KS0890900,Topeka Fire Department Arson Investigation,6437,KS,West North Central,Midwest,Region II,SHAWNEE,Other,True,2000-01-01T00:00:00.000Z,39.053974,-95.66599
+KS0891000,Securities Office Investigation Section,6438,KS,West North Central,Midwest,Region II,SHAWNEE,Other State Agency,False,2000-01-01T00:00:00.000Z,39.047302,-95.67497
+KS0891200,Kansas Lottery Security Division,6439,KS,West North Central,Midwest,Region II,SHAWNEE,Other State Agency,False,2001-11-01T00:00:00.000Z,39.05923,-95.67003
+KS0891300,Kansas Racing Commission Security Division,6440,KS,West North Central,Midwest,Region II,SHAWNEE,Other State Agency,True,2005-12-01T00:00:00.000Z,39.0513,-95.678185
+KS0891700,Unified School District: Seaman,6441,KS,West North Central,Midwest,Region II,SHAWNEE,Other,True,2008-02-01T00:00:00.000Z,39.13396,-95.67311
+KS0891800,Washburn University,6442,KS,West North Central,Midwest,Region II,SHAWNEE,University or College,True,2004-12-01T00:00:00.000Z,39.035294,-95.70039
+KS0891900,Unified School District: Shawnee Heights,6443,KS,West North Central,Midwest,Region II,SHAWNEE,Other,False,2011-05-01T00:00:00.000Z,38.987278,-95.55669
+KS0892000,Unified School District: Auburn-Washburn,6444,KS,West North Central,Midwest,Region II,SHAWNEE,Other,True,2004-11-01T00:00:00.000Z,38.95646,-95.75981
+KS0892700,Kansas Attorney General Criminal Investigation Unit,28055,KS,West North Central,Midwest,Region II,NOT SPECIFIED,Other State Agency,True,2018-05-01T00:00:00.000Z,,
+KS089280X,"Kansas State Gaming Agency,",27576,KS,West North Central,Midwest,Region II,SHAWNEE,Other State Agency,False,,,
+KS0900000,Sheridan County Sheriff's Office,6445,KS,West North Central,Midwest,Region II,SHERIDAN,County,True,2000-06-01T00:00:00.000Z,39.350542,-100.441206
+KS0900100,Hoxie Police Department,6446,KS,West North Central,Midwest,Region II,SHERIDAN,City,False,2000-02-01T00:00:00.000Z,39.350542,-100.441206
+KS0910000,Sherman County Sheriff's Office,6447,KS,West North Central,Midwest,Region II,SHERMAN,County,True,2000-01-01T00:00:00.000Z,39.351032,-101.710335
+KS0910100,Goodland Police Department,6448,KS,West North Central,Midwest,Region II,SHERMAN,City,True,2000-01-01T00:00:00.000Z,39.347984,-101.71327
+KS0920000,Smith County Sheriff's Office,6449,KS,West North Central,Midwest,Region II,SMITH,County,True,2001-06-01T00:00:00.000Z,39.776447,-98.78119
+KS0920100,Smith Center Police Department,6450,KS,West North Central,Midwest,Region II,SMITH,City,False,2001-01-01T00:00:00.000Z,39.78466,-98.785429
+KS0930000,Stafford County Sheriff's Office,6451,KS,West North Central,Midwest,Region II,STAFFORD,County,True,2000-01-01T00:00:00.000Z,38.03563,-98.719889
+KS0930100,Stafford Police Department,6452,KS,West North Central,Midwest,Region II,STAFFORD,City,False,2000-01-01T00:00:00.000Z,38.03563,-98.719889
+KS0930200,St. John Police Department,6453,KS,West North Central,Midwest,Region II,STAFFORD,City,True,2000-01-01T00:00:00.000Z,38.03563,-98.719889
+KS0930300,Macksville Police Department,6454,KS,West North Central,Midwest,Region II,STAFFORD,City,True,2001-02-01T00:00:00.000Z,38.03563,-98.719889
+KS0940000,Stanton County Sheriff's Office,6455,KS,West North Central,Midwest,Region II,STANTON,County,False,2000-01-01T00:00:00.000Z,37.565932,-101.789383
+KS0950000,Stevens County Sheriff's Office,6456,KS,West North Central,Midwest,Region II,STEVENS,County,False,2000-01-01T00:00:00.000Z,37.202356,-101.315796
+KS0950100,Hugoton Police Department,6457,KS,West North Central,Midwest,Region II,STEVENS,City,True,2000-01-01T00:00:00.000Z,37.202356,-101.315796
+KS0960000,Sumner County Sheriff's Office,6458,KS,West North Central,Midwest,Region II,SUMNER,County,True,2000-01-01T00:00:00.000Z,37.289577,-97.39243
+KS0960100,Wellington Police Department,6459,KS,West North Central,Midwest,Region II,SUMNER,City,True,2000-01-01T00:00:00.000Z,37.236662,-97.493352
+KS0960200,Belle Plaine Police Department,6460,KS,West North Central,Midwest,Region II,SUMNER,City,True,2000-01-01T00:00:00.000Z,37.236662,-97.493352
+KS0960300,Mulvane Police Department,6461,KS,West North Central,Midwest,Region II,"SEDGWICK, SUMNER",City,True,2000-01-01T00:00:00.000Z,37.681045,-97.461054
+KS0960400,Caldwell Police Department,6462,KS,West North Central,Midwest,Region II,SUMNER,City,True,2000-02-01T00:00:00.000Z,37.032494,-97.60716
+KS0960500,Conway Springs Police Department,6463,KS,West North Central,Midwest,Region II,SUMNER,City,True,2000-01-01T00:00:00.000Z,37.236662,-97.493352
+KS0960600,Oxford Police Department,6464,KS,West North Central,Midwest,Region II,SUMNER,City,True,2000-01-01T00:00:00.000Z,37.236662,-97.493352
+KS0960700,Argonia Police Department,6465,KS,West North Central,Midwest,Region II,SUMNER,City,False,2005-05-01T00:00:00.000Z,37.236662,-97.493352
+KS0961100,Kansas Racing and Gaming Commission Law Enforcement,25332,KS,West North Central,Midwest,Region II,SUMNER,Other State Agency,False,2014-01-01T00:00:00.000Z,,
+KS0970000,Thomas County Sheriff's Office,6467,KS,West North Central,Midwest,Region II,THOMAS,County,True,2000-01-01T00:00:00.000Z,39.39539,-101.04329
+KS0970100,Colby Police Department,6468,KS,West North Central,Midwest,Region II,THOMAS,City,True,2000-01-01T00:00:00.000Z,39.39539,-101.04329
+KS0980000,Trego County Sheriff's Office,6469,KS,West North Central,Midwest,Region II,TREGO,County,True,2000-01-01T00:00:00.000Z,39.02685,-99.88359
+KS0980100,Wa Keeney Police Department,6470,KS,West North Central,Midwest,Region II,TREGO,City,True,2000-01-01T00:00:00.000Z,39.02685,-99.88359
+KS0990000,Wabaunsee County Sheriff's Office,6471,KS,West North Central,Midwest,Region II,WABAUNSEE,County,True,2000-01-01T00:00:00.000Z,38.955154,-96.201262
+KS0990100,Alma Police Department,6472,KS,West North Central,Midwest,Region II,WABAUNSEE,City,True,2000-02-01T00:00:00.000Z,38.955154,-96.201262
+KS0990300,Alta Vista Police Department,6474,KS,West North Central,Midwest,Region II,WABAUNSEE,City,False,2002-04-01T00:00:00.000Z,38.955154,-96.201262
+KS1000000,Wallace County Sheriff's Office,6476,KS,West North Central,Midwest,Region II,WALLACE,County,False,2000-01-01T00:00:00.000Z,38.926626,-101.771103
+KS1010000,Washington County Sheriff's Office,6478,KS,West North Central,Midwest,Region II,WASHINGTON,County,True,2000-01-01T00:00:00.000Z,39.776714,-97.095611
+KS1020000,Wichita County Sheriff's Office,6480,KS,West North Central,Midwest,Region II,WICHITA,County,True,2000-01-01T00:00:00.000Z,38.481922,-101.347434
+KS1030000,Wilson County Sheriff's Office,6481,KS,West North Central,Midwest,Region II,WILSON,County,False,2000-01-01T00:00:00.000Z,37.558515,-95.745175
+KS1030100,Fredonia Police Department,6482,KS,West North Central,Midwest,Region II,WILSON,City,False,2000-09-01T00:00:00.000Z,37.558515,-95.745175
+KS1030200,Neodesha Police Department,6483,KS,West North Central,Midwest,Region II,WILSON,City,True,2000-01-01T00:00:00.000Z,37.558515,-95.745175
+KS1040000,Woodson County Sheriff's Office,6484,KS,West North Central,Midwest,Region II,WOODSON,County,True,2000-01-01T00:00:00.000Z,37.881382,-95.73259
+KS1040100,Yates Center Police Department,6485,KS,West North Central,Midwest,Region II,WOODSON,City,True,2000-01-01T00:00:00.000Z,37.881382,-95.73223
+KS1050000,Wyandotte County Sheriff's Office,6486,KS,West North Central,Midwest,Region II,WYANDOTTE,County,True,2001-11-01T00:00:00.000Z,39.064007,-94.81771
+KS1050100,Bonner Springs Police Department,6487,KS,West North Central,Midwest,Region II,"LEAVENWORTH, WYANDOTTE",City,True,2000-01-01T00:00:00.000Z,39.115384,-94.763087
+KS1050200,Kansas City Police Department,6488,KS,West North Central,Midwest,Region II,WYANDOTTE,City,False,,39.11554,-94.6269
+KS1050300,Edwardsville Police Department,6489,KS,West North Central,Midwest,Region II,WYANDOTTE,City,True,2000-01-01T00:00:00.000Z,39.115384,-94.763087
+KS1050400,University of Kansas: Medical Center,6490,KS,West North Central,Midwest,Region II,WYANDOTTE,University or College,True,2000-01-01T00:00:00.000Z,39.057323,-94.61174
+KS1050700,Kansas City Kansas Community College,6492,KS,West North Central,Midwest,Region II,WYANDOTTE,University or College,True,2004-05-01T00:00:00.000Z,39.11669,-94.74597
+KS1050900,Kansas City Fire Department,27507,KS,West North Central,Midwest,Region II,WYANDOTTE,Other,True,2017-09-01T00:00:00.000Z,,
+KS1051100,Kansas Racing and Gaming Commission:,26655,KS,West North Central,Midwest,Region II,WYANDOTTE,Other State Agency,False,2016-07-01T00:00:00.000Z,,
+KS1051200,Independent School District: Kansas City,25665,KS,West North Central,Midwest,Region II,WYANDOTTE,Other,True,2015-02-01T00:00:00.000Z,,
+KSDI00200,Potawatomi Tribal,6493,KS,West North Central,Midwest,Region II,NOT SPECIFIED,Tribal,True,2004-07-01T00:00:00.000Z,39.343086,-95.73828
+KSDI05000,Kickapoo Tribal,6494,KS,West North Central,Midwest,Region II,NOT SPECIFIED,Tribal,True,2021-01-01T00:00:00.000Z,39.825931,-95.569905
+KSDI05100,Iowa Tribal,6495,KS,West North Central,Midwest,Region II,NOT SPECIFIED,Tribal,True,2021-01-01T00:00:00.000Z,39.98889,-95.3681
+KSDI05200,Sac and Fox Tribal,6496,KS,West North Central,Midwest,Region II,NOT SPECIFIED,Tribal,True,2021-01-01T00:00:00.000Z,39.825931,-95.569905
+KSKBI0000,Kansas Bureau of Investigation,6497,KS,West North Central,Midwest,Region II,SHAWNEE,Other State Agency,True,2000-01-01T00:00:00.000Z,39.03801,-95.684494
+KSKHP0000,Kansas Highway Patrol,6498,KS,West North Central,Midwest,Region II,NOT SPECIFIED,State Police,True,2000-01-01T00:00:00.000Z,39.05037,-95.67426
+KSKHP0100,Highway Patrol:,26900,KS,West North Central,Midwest,Region II,NOT SPECIFIED,State Police,True,2017-01-01T00:00:00.000Z,,
+KSKHP0200,Highway Patrol:,26901,KS,West North Central,Midwest,Region II,NOT SPECIFIED,State Police,True,2017-01-01T00:00:00.000Z,,
+KSKHP0300,Highway Patrol: ,26916,KS,West North Central,Midwest,Region II,NOT SPECIFIED,State Police,True,2017-01-01T00:00:00.000Z,,
+KSKHP0400,Highway Patrol:,26917,KS,West North Central,Midwest,Region II,NOT SPECIFIED,State Police,True,2017-01-01T00:00:00.000Z,,
+KSKHP0500,Highway Patrol:,26918,KS,West North Central,Midwest,Region II,NOT SPECIFIED,State Police,True,2017-01-01T00:00:00.000Z,,
+KSKHP0600,Highway Patrol:,26919,KS,West North Central,Midwest,Region II,NOT SPECIFIED,State Police,True,2017-01-01T00:00:00.000Z,,
+KSKHP0700,Highway Patrol:,26099,KS,West North Central,Midwest,Region II,NOT SPECIFIED,State Police,True,2017-01-01T00:00:00.000Z,,
+KSKHP0800,Highway Patrol:,26902,KS,West North Central,Midwest,Region II,NOT SPECIFIED,State Police,True,2017-01-01T00:00:00.000Z,,
+KSKHP0900,Highway Patrol: ,27009,KS,West North Central,Midwest,Region II,NOT SPECIFIED,State Police,True,2017-01-01T00:00:00.000Z,,
+KSKHP1000,Highway Patrol:,26903,KS,West North Central,Midwest,Region II,NOT SPECIFIED,State Police,True,2017-01-01T00:00:00.000Z,,
+KSKHP1100,Highway Patrol:,28056,KS,West North Central,Midwest,Region II,NOT SPECIFIED,State Police,True,2018-07-01T00:00:00.000Z,,
+KSKHPQ000,Highway Patrol:,22633,KS,West North Central,Midwest,Region II,NOT SPECIFIED,State Police,True,2017-01-01T00:00:00.000Z,,

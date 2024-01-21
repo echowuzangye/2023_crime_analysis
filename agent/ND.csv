@@ -1,0 +1,112 @@
+ori,agency_name,agency_id,state_abbr,division_name,region_name,region_desc,county_name,agency_type_name,nibrs,nibrs_start_date,latitude,longitude
+ND0010000,Adams County Sheriff's Office,11696,ND,West North Central,Midwest,Region II,ADAMS,County,True,1991-01-01T00:00:00.000Z,46.096815,-102.533198
+ND0020000,Barnes County Sheriff's Office,11697,ND,West North Central,Midwest,Region II,BARNES,County,True,1991-01-01T00:00:00.000Z,46.94255,-98.070195
+ND0020100,Valley City Police Department,11698,ND,West North Central,Midwest,Region II,BARNES,City,True,1998-04-01T00:00:00.000Z,46.924454,-98.00153
+ND0030000,Benson County Sheriff's Office,11699,ND,West North Central,Midwest,Region II,BENSON,County,True,2009-11-01T00:00:00.000Z,48.071743,-99.351152
+ND0040000,Billings County Sheriff's Office,11700,ND,West North Central,Midwest,Region II,BILLINGS,County,True,2009-10-01T00:00:00.000Z,47.009283,-103.364924
+ND0040100,Medora Police Department,11701,ND,West North Central,Midwest,Region II,BILLINGS,City,True,2010-01-01T00:00:00.000Z,47.009283,-103.364924
+ND0050000,Bottineau County Sheriff's Office,11702,ND,West North Central,Midwest,Region II,BOTTINEAU,County,True,1991-01-01T00:00:00.000Z,48.794412,-100.831257
+ND0060000,Bowman County Sheriff's Office,11705,ND,West North Central,Midwest,Region II,BOWMAN,County,True,1992-02-01T00:00:00.000Z,46.183228,-103.396614
+ND0060100,Bowman Police Department,11706,ND,West North Central,Midwest,Region II,BOWMAN,City,True,1991-01-01T00:00:00.000Z,46.110144,-103.505943
+ND0070000,Burke County Sheriff's Office,11707,ND,West North Central,Midwest,Region II,BURKE,County,True,1991-01-01T00:00:00.000Z,48.786453,-102.520087
+ND0070500,Powers Lake Police Department,11708,ND,West North Central,Midwest,Region II,BURKE,City,True,1996-01-01T00:00:00.000Z,48.786453,-102.520087
+ND0080000,Burleigh County Sheriff's Office,11709,ND,West North Central,Midwest,Region II,BURLEIGH,County,True,1992-06-01T00:00:00.000Z,46.971843,-100.462001
+ND0080100,Bismarck Police Department,11710,ND,West North Central,Midwest,Region II,BURLEIGH,City,True,2004-01-01T00:00:00.000Z,46.80085,-100.778694
+ND0080300,Lincoln Police Department,11711,ND,West North Central,Midwest,Region II,BURLEIGH,City,True,2003-01-01T00:00:00.000Z,46.764328,-100.69424
+ND0080500,Bismarck State College,25835,ND,West North Central,Midwest,Region II,BURLEIGH,University or College,True,2015-12-01T00:00:00.000Z,46.971843,-100.462001
+ND0090000,Cass County Sheriff's Office,11712,ND,West North Central,Midwest,Region II,CASS,County,True,1991-01-01T00:00:00.000Z,46.927003,-97.252375
+ND0090200,Fargo Police Department,11714,ND,West North Central,Midwest,Region II,CASS,City,True,1991-01-01T00:00:00.000Z,46.927003,-97.252375
+ND0090300,West Fargo Police Department,11715,ND,West North Central,Midwest,Region II,CASS,City,True,1991-08-01T00:00:00.000Z,46.872604,-96.88475
+ND0090600,North Dakota State University,11716,ND,West North Central,Midwest,Region II,CASS,University or College,True,1997-01-01T00:00:00.000Z,46.927003,-97.252375
+ND0100000,Cavalier County Sheriff's Office,11717,ND,West North Central,Midwest,Region II,CAVALIER,County,True,1991-01-01T00:00:00.000Z,48.76123,-98.36825
+ND0110000,Dickey County Sheriff's Office,11719,ND,West North Central,Midwest,Region II,DICKEY,County,True,1991-01-01T00:00:00.000Z,46.107756,-98.496518
+ND0110100,Ellendale Police Department,11720,ND,West North Central,Midwest,Region II,DICKEY,City,True,2008-06-01T00:00:00.000Z,46.107756,-98.496518
+ND0110200,Oakes Police Department,11721,ND,West North Central,Midwest,Region II,DICKEY,City,True,1991-01-01T00:00:00.000Z,46.140102,-98.09345
+ND0120000,Divide County Sheriff's Office,11722,ND,West North Central,Midwest,Region II,DIVIDE,County,True,1991-01-01T00:00:00.000Z,48.814709,-103.498076
+ND0130000,Dunn County Sheriff's Office,11724,ND,West North Central,Midwest,Region II,DUNN,County,True,1991-01-01T00:00:00.000Z,47.354548,-102.612366
+ND0130200,Killdeer Police Department,11725,ND,West North Central,Midwest,Region II,DUNN,City,True,2010-01-01T00:00:00.000Z,47.354548,-102.612366
+ND0140000,Eddy County Sheriff's Office,11726,ND,West North Central,Midwest,Region II,EDDY,County,True,1991-01-01T00:00:00.000Z,47.680157,-99.13368
+ND0150000,Emmons County Sheriff's Office,11728,ND,West North Central,Midwest,Region II,EMMONS,County,True,1991-01-01T00:00:00.000Z,46.284255,-100.237842
+ND0160000,Foster County Sheriff's Office,11730,ND,West North Central,Midwest,Region II,FOSTER,County,True,1991-02-01T00:00:00.000Z,47.464327,-98.872817
+ND0160100,Carrington Police Department,11731,ND,West North Central,Midwest,Region II,FOSTER,City,True,1991-01-01T00:00:00.000Z,47.44954,-99.12645
+ND0170000,Golden Valley County Sheriff's Office,11732,ND,West North Central,Midwest,Region II,GOLDEN VALLEY,County,True,1995-05-01T00:00:00.000Z,46.938924,-103.844612
+ND0180000,Grand Forks County Sheriff's Office,11733,ND,West North Central,Midwest,Region II,GRAND FORKS,County,True,1991-01-01T00:00:00.000Z,47.926003,-97.450851
+ND0180100,Grand Forks Police Department,11734,ND,West North Central,Midwest,Region II,GRAND FORKS,City,True,1991-01-01T00:00:00.000Z,47.926003,-97.450851
+ND0180300,Northwood Police Department,11736,ND,West North Central,Midwest,Region II,GRAND FORKS,City,True,1992-11-01T00:00:00.000Z,47.926003,-97.450851
+ND0180400,Emerado Police Department,11737,ND,West North Central,Midwest,Region II,GRAND FORKS,City,True,1993-07-01T00:00:00.000Z,47.926003,-97.450851
+ND0180600,Thompson Police Department,11738,ND,West North Central,Midwest,Region II,GRAND FORKS,City,True,1991-04-01T00:00:00.000Z,47.926003,-97.450851
+ND0180800,University of North Dakota,11739,ND,West North Central,Midwest,Region II,GRAND FORKS,University or College,True,1991-01-01T00:00:00.000Z,47.926003,-97.450851
+ND0190000,Grant County Sheriff's Office,11740,ND,West North Central,Midwest,Region II,GRANT,County,True,1991-01-01T00:00:00.000Z,46.357827,-101.639049
+ND0200000,Griggs County Sheriff's Office,11743,ND,West North Central,Midwest,Region II,GRIGGS,County,True,1999-04-01T00:00:00.000Z,47.463463,-98.232444
+ND0210000,Hettinger County Sheriff's Office,11745,ND,West North Central,Midwest,Region II,HETTINGER,County,True,1991-01-01T00:00:00.000Z,46.434939,-102.458385
+ND0220000,Kidder County Sheriff's Office,11746,ND,West North Central,Midwest,Region II,KIDDER,County,True,1991-01-01T00:00:00.000Z,46.935385,-99.742727
+ND0220300,Steele Police Department,11747,ND,West North Central,Midwest,Region II,KIDDER,City,True,1991-04-01T00:00:00.000Z,46.935385,-99.742727
+ND0230000,Lamoure County Sheriff's Office,11748,ND,West North Central,Midwest,Region II,LAMOURE,County,True,1991-01-01T00:00:00.000Z,46.464195,-98.526057
+ND0230300,Lamoure Police Department,11750,ND,West North Central,Midwest,Region II,LAMOURE,City,True,1997-01-01T00:00:00.000Z,46.464195,-98.526057
+ND0240000,Logan County Sheriff's Office,11751,ND,West North Central,Midwest,Region II,LOGAN,County,True,1991-01-01T00:00:00.000Z,46.469278,-99.504585
+ND0240300,Napoleon Police Department,11753,ND,West North Central,Midwest,Region II,LOGAN,City,True,1991-01-01T00:00:00.000Z,46.469278,-99.504585
+ND0250000,McHenry County Sheriff's Office,11754,ND,West North Central,Midwest,Region II,MCHENRY,County,True,1991-01-01T00:00:00.000Z,48.349827,-100.40519
+ND0260000,McIntosh County Sheriff's Office,11756,ND,West North Central,Midwest,Region II,MCINTOSH,County,True,1991-01-01T00:00:00.000Z,46.117034,-99.443041
+ND0260200,Wishek Police Department,11757,ND,West North Central,Midwest,Region II,MCINTOSH,City,True,1991-06-01T00:00:00.000Z,46.117034,-99.443041
+ND0270000,McKenzie County Sheriff's Office,11758,ND,West North Central,Midwest,Region II,MCKENZIE,County,True,1991-01-01T00:00:00.000Z,47.742475,-103.403215
+ND0270100,Watford City Police Department,11759,ND,West North Central,Midwest,Region II,MCKENZIE,City,True,1991-01-01T00:00:00.000Z,47.742475,-103.403215
+ND0280000,McLean County Sheriff's Office,11760,ND,West North Central,Midwest,Region II,MCLEAN,County,True,1991-01-01T00:00:00.000Z,47.653055,-101.421794
+ND0280100,Garrison,30554,ND,West North Central,Midwest,Region II,MCLEAN,City,True,2020-02-01T00:00:00.000Z,,
+ND0290000,Mercer County Sheriff's Office,11761,ND,West North Central,Midwest,Region II,MERCER,County,True,1991-01-01T00:00:00.000Z,47.307175,-101.833261
+ND0290100,Beulah Police Department,11762,ND,West North Central,Midwest,Region II,MERCER,City,True,1991-01-01T00:00:00.000Z,47.307175,-101.833261
+ND0290200,Hazen Police Department,11763,ND,West North Central,Midwest,Region II,MERCER,City,True,1991-01-01T00:00:00.000Z,47.307175,-101.833261
+ND0300000,Morton County Sheriff's Office,11765,ND,West North Central,Midwest,Region II,MORTON,County,True,1991-03-01T00:00:00.000Z,46.82736,-100.89153
+ND0300200,Mandan Police Department,11766,ND,West North Central,Midwest,Region II,MORTON,City,True,2000-05-01T00:00:00.000Z,46.82736,-100.89153
+ND0310000,Mountrail County Sheriff's Office,11768,ND,West North Central,Midwest,Region II,MOUNTRAIL,County,True,1991-01-01T00:00:00.000Z,48.210291,-102.364756
+ND0310100,New Town Police Department,11769,ND,West North Central,Midwest,Region II,MOUNTRAIL,City,True,2013-01-01T00:00:00.000Z,48.210291,-102.364756
+ND0310300,Stanley Police Department,11771,ND,West North Central,Midwest,Region II,MOUNTRAIL,City,True,2008-03-01T00:00:00.000Z,48.210291,-102.364756
+ND0320000,Nelson County Sheriff's Office,11772,ND,West North Central,Midwest,Region II,NELSON,County,True,1991-01-01T00:00:00.000Z,48.04156,-98.34569
+ND0330000,Oliver County Sheriff's Office,11773,ND,West North Central,Midwest,Region II,OLIVER,County,True,1992-04-01T00:00:00.000Z,47.118079,-101.33142
+ND0340000,Pembina County Sheriff's Office,11774,ND,West North Central,Midwest,Region II,PEMBINA,County,True,1991-01-01T00:00:00.000Z,48.766896,-97.545405
+ND0340100,Cavalier Police Department,11775,ND,West North Central,Midwest,Region II,PEMBINA,City,True,1991-01-01T00:00:00.000Z,48.766896,-97.545405
+ND0340300,Drayton,33697,ND,West North Central,Midwest,Region II,PEMBINA,City,True,2021-12-01T00:00:00.000Z,,
+ND0350000,Pierce County Sheriff's Office,11776,ND,West North Central,Midwest,Region II,PIERCE,County,True,1991-01-01T00:00:00.000Z,48.37129,-99.97709
+ND0350100,Rugby Police Department,11777,ND,West North Central,Midwest,Region II,PIERCE,City,True,1995-08-01T00:00:00.000Z,48.37129,-99.97709
+ND0360000,Ramsey County Sheriff's Office,11778,ND,West North Central,Midwest,Region II,RAMSEY,County,True,2010-01-01T00:00:00.000Z,48.107742,-98.867455
+ND0360100,Devils Lake Police Department,11779,ND,West North Central,Midwest,Region II,RAMSEY,City,True,2010-01-01T00:00:00.000Z,48.107742,-98.867455
+ND0370000,Ransom County Sheriff's Office,11780,ND,West North Central,Midwest,Region II,RANSOM,County,True,1991-01-01T00:00:00.000Z,46.449276,-97.647554
+ND0370200,Lisbon Police Department,11782,ND,West North Central,Midwest,Region II,RANSOM,City,True,2004-02-01T00:00:00.000Z,46.449276,-97.647554
+ND0380000,Renville County Sheriff's Office,11783,ND,West North Central,Midwest,Region II,RENVILLE,County,True,1991-01-01T00:00:00.000Z,48.712781,-101.658152
+ND0390000,Richland County Sheriff's Office,11785,ND,West North Central,Midwest,Region II,RICHLAND,County,True,1991-01-01T00:00:00.000Z,46.266014,-96.60567
+ND0390300,Wahpeton Police Department,11786,ND,West North Central,Midwest,Region II,RICHLAND,City,True,1991-03-01T00:00:00.000Z,46.266014,-96.60567
+ND0390600,North Dakota State College of Science,11787,ND,West North Central,Midwest,Region II,RICHLAND,University or College,True,2002-01-01T00:00:00.000Z,46.25677,-96.608406
+ND0400000,Rolette County Sheriff's Office,11788,ND,West North Central,Midwest,Region II,ROLETTE,County,True,1991-01-01T00:00:00.000Z,48.768271,-99.840463
+ND0400100,Dunseith Police Department,11789,ND,West North Central,Midwest,Region II,ROLETTE,City,True,2021-05-01T00:00:00.000Z,48.768271,-99.840463
+ND0400200,Rolla Police Department,11790,ND,West North Central,Midwest,Region II,ROLETTE,City,True,2004-06-01T00:00:00.000Z,48.768271,-99.840463
+ND0400400,Rolette,27610,ND,West North Central,Midwest,Region II,ROLETTE,City,True,2018-05-01T00:00:00.000Z,,
+ND0410000,Sargent County Sheriff's Office,11792,ND,West North Central,Midwest,Region II,SARGENT,County,True,1991-01-01T00:00:00.000Z,46.108206,-97.63003
+ND0420000,Sheridan County Sheriff's Office,11794,ND,West North Central,Midwest,Region II,SHERIDAN,County,True,1991-01-01T00:00:00.000Z,47.581359,-100.330986
+ND0430000,Sioux County Sheriff's Office,11795,ND,West North Central,Midwest,Region II,SIOUX,County,True,2010-01-01T00:00:00.000Z,46.109282,-101.047524
+ND0440000,Slope County Sheriff's Office,11796,ND,West North Central,Midwest,Region II,SLOPE,County,True,1991-01-01T00:00:00.000Z,46.445834,-103.462462
+ND0450000,Stark County Sheriff's Office,11797,ND,West North Central,Midwest,Region II,STARK,County,True,1991-01-01T00:00:00.000Z,46.817031,-102.662026
+ND0450100,Dickinson Police Department,11798,ND,West North Central,Midwest,Region II,STARK,City,True,1992-05-01T00:00:00.000Z,46.89417,-102.78564
+ND0460000,Steele County Sheriff's Office,11801,ND,West North Central,Midwest,Region II,STEELE,County,True,1991-01-01T00:00:00.000Z,47.451062,-97.71892
+ND0470000,Stutsman County Sheriff's Office,11802,ND,West North Central,Midwest,Region II,STUTSMAN,County,True,1991-01-01T00:00:00.000Z,46.903137,-98.70666
+ND0470100,Jamestown Police Department,11803,ND,West North Central,Midwest,Region II,STUTSMAN,City,True,1991-01-01T00:00:00.000Z,46.903137,-98.70666
+ND0480000,Towner County Sheriff's Office,11804,ND,West North Central,Midwest,Region II,TOWNER,County,True,1991-01-01T00:00:00.000Z,48.682183,-99.248158
+ND0490000,Traill County Sheriff's Office,11806,ND,West North Central,Midwest,Region II,TRAILL,County,True,1991-01-01T00:00:00.000Z,47.446215,-97.164754
+ND0500000,Walsh County Sheriff's Office,11811,ND,West North Central,Midwest,Region II,WALSH,County,True,1991-01-01T00:00:00.000Z,48.418118,-97.40549
+ND0500100,Grafton Police Department,11812,ND,West North Central,Midwest,Region II,WALSH,City,True,1991-01-01T00:00:00.000Z,48.418118,-97.40549
+ND0510000,Ward County Sheriff's Office,11813,ND,West North Central,Midwest,Region II,WARD,County,True,1991-01-01T00:00:00.000Z,48.216686,-101.540537
+ND0510100,Kenmare Police Department,11814,ND,West North Central,Midwest,Region II,WARD,City,True,2010-01-01T00:00:00.000Z,48.216686,-101.540537
+ND0510200,Minot Police Department,11815,ND,West North Central,Midwest,Region II,WARD,City,True,1991-01-01T00:00:00.000Z,48.234222,-101.30105
+ND0510300,Burlington Police Department,11816,ND,West North Central,Midwest,Region II,WARD,City,True,2007-02-01T00:00:00.000Z,48.216686,-101.540537
+ND0510500,Surrey Police Department,11817,ND,West North Central,Midwest,Region II,WARD,City,True,2010-01-01T00:00:00.000Z,48.216686,-101.540537
+ND0510600,Berthold Police Department,25276,ND,West North Central,Midwest,Region II,WARD,City,True,2013-02-01T00:00:00.000Z,,
+ND0520000,Wells County Sheriff's Office,11818,ND,West North Central,Midwest,Region II,WELLS,County,True,1991-01-01T00:00:00.000Z,47.580851,-99.671502
+ND0520100,Harvey Police Department,11819,ND,West North Central,Midwest,Region II,WELLS,City,True,1991-01-01T00:00:00.000Z,47.770348,-99.93452
+ND0530000,Williams County Sheriff's Office,11821,ND,West North Central,Midwest,Region II,WILLIAMS,County,True,1992-05-01T00:00:00.000Z,48.345867,-103.4874
+ND0530100,Tioga Police Department,23281,ND,West North Central,Midwest,Region II,WILLIAMS,City,True,2012-01-01T00:00:00.000Z,48.345867,-103.4874
+ND0530200,Williston Police Department,11822,ND,West North Central,Midwest,Region II,WILLIAMS,City,True,1992-09-01T00:00:00.000Z,48.345867,-103.4874
+ND0530400,Ray,26285,ND,West North Central,Midwest,Region II,WILLIAMS,City,True,2016-05-01T00:00:00.000Z,46.464195,-98.526057
+NDBCA0000,North Dakota Bureau of Criminal Investigation,30074,ND,West North Central,Midwest,Region II,NOT SPECIFIED,Other State Agency,True,2020-05-01T00:00:00.000Z,,
+NDDI00100,Turtle Mountain Agency,11823,ND,West North Central,Midwest,Region II,NOT SPECIFIED,Tribal,True,2021-01-01T00:00:00.000Z,48.768271,-99.840463
+NDDI00200,Fort Totten Agency,11824,ND,West North Central,Midwest,Region II,NOT SPECIFIED,Tribal,True,2021-01-01T00:00:00.000Z,48.071743,-99.351152
+NDDI00300,Standing Rock Agency,11825,ND,West North Central,Midwest,Region II,NOT SPECIFIED,Tribal,True,2021-01-01T00:00:00.000Z,46.109282,-101.047524
+NDDI01900,Three Affiliated Tribes,11827,ND,West North Central,Midwest,Region II,NOT SPECIFIED,Tribal,True,2021-01-01T00:00:00.000Z,48.210291,-102.364756
+NDNHP0000,North Dakota Highway Patrol,11828,ND,West North Central,Midwest,Region II,NOT SPECIFIED,State Police,True,2012-01-01T00:00:00.000Z,46.816776,-100.79938

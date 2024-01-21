@@ -1,0 +1,579 @@
+ori,agency_name,agency_id,state_abbr,division_name,region_name,region_desc,county_name,agency_type_name,nibrs,nibrs_start_date,latitude,longitude
+NJ0010000,Atlantic County Sheriff's Office,12083,NJ,Middle Atlantic,Northeast,Region I,ATLANTIC,County,True,2021-01-01T00:00:00.000Z,39.469354,-74.633758
+NJ0010100,Absecon Police Department,12084,NJ,Middle Atlantic,Northeast,Region I,ATLANTIC,City,True,2021-01-01T00:00:00.000Z,39.432816,-74.50694
+NJ0010200,Atlantic City Police Department,12085,NJ,Middle Atlantic,Northeast,Region I,ATLANTIC,City,True,2021-06-01T00:00:00.000Z,39.35547,-74.44455
+NJ0010300,Brigantine Police Department,12086,NJ,Middle Atlantic,Northeast,Region I,ATLANTIC,City,True,2021-01-01T00:00:00.000Z,39.40182,-74.373
+NJ0010400,Buena Police Department,12087,NJ,Middle Atlantic,Northeast,Region I,ATLANTIC,City,False,,39.469354,-74.633758
+NJ0010700,Egg Harbor City Police Department,12088,NJ,Middle Atlantic,Northeast,Region I,ATLANTIC,City,True,2021-11-01T00:00:00.000Z,39.53562,-74.6435
+NJ0010800,Egg Harbor Township Police Department,12089,NJ,Middle Atlantic,Northeast,Region I,ATLANTIC,City,True,2021-06-01T00:00:00.000Z,39.361202,-74.58162
+NJ0011100,Galloway Township Police Department,12090,NJ,Middle Atlantic,Northeast,Region I,ATLANTIC,City,True,2021-05-01T00:00:00.000Z,39.469354,-74.633758
+NJ0011200,"Hamilton Township, Atlantic County Police Department",12091,NJ,Middle Atlantic,Northeast,Region I,ATLANTIC,City,True,2021-12-01T00:00:00.000Z,39.46348,-74.72269
+NJ0011300,Hammonton Police Department,12092,NJ,Middle Atlantic,Northeast,Region I,ATLANTIC,City,False,,39.63631,-74.80069
+NJ0011400,Linwood Police Department,12093,NJ,Middle Atlantic,Northeast,Region I,ATLANTIC,City,False,,39.35344,-74.57406
+NJ0011500,Longport Police Department,12094,NJ,Middle Atlantic,Northeast,Region I,ATLANTIC,City,False,,39.469354,-74.633758
+NJ0011600,Margate City Police Department,12095,NJ,Middle Atlantic,Northeast,Region I,ATLANTIC,City,False,,39.469354,-74.633758
+NJ0011700,Mullica Township Police Department,12096,NJ,Middle Atlantic,Northeast,Region I,ATLANTIC,City,True,2021-01-01T00:00:00.000Z,39.469354,-74.633758
+NJ0011800,Northfield Police Department,12097,NJ,Middle Atlantic,Northeast,Region I,ATLANTIC,City,False,,39.366985,-74.54935
+NJ0011900,Pleasantville Police Department,12098,NJ,Middle Atlantic,Northeast,Region I,ATLANTIC,City,False,,39.469354,-74.633758
+NJ0012100,Somers Point Police Department,12099,NJ,Middle Atlantic,Northeast,Region I,ATLANTIC,City,True,2021-01-01T00:00:00.000Z,39.469354,-74.633758
+NJ0012200,Ventnor City Police Department,12100,NJ,Middle Atlantic,Northeast,Region I,ATLANTIC,City,True,2021-06-01T00:00:00.000Z,39.33784,-74.47907
+NJ0012400,Stockton University,12101,NJ,Middle Atlantic,Northeast,Region I,ATLANTIC,University or College,True,2021-02-01T00:00:00.000Z,39.469354,-74.633758
+NJ0018900,Prosecutor: Atlantic County,12102,NJ,Middle Atlantic,Northeast,Region I,ATLANTIC,Other,False,,39.469354,-74.633758
+NJ001SP00,State Police: Atlantic County,12104,NJ,Middle Atlantic,Northeast,Region I,ATLANTIC,State Police,False,,39.57778,-74.871025
+NJ0020000,Bergen County Sheriff's Office,12105,NJ,Middle Atlantic,Northeast,Region I,BERGEN,County,False,,40.87844,-74.04463
+NJ0020100,Allendale Police Department,12106,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,True,2022-02-01T00:00:00.000Z,41.027573,-74.125175
+NJ0020200,Alpine Police Department,12107,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,True,2022-01-01T00:00:00.000Z,40.959648,-74.07486
+NJ0020300,Bergenfield Police Department,12108,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,False,,40.934464,-73.99526
+NJ0020400,Bogota Police Department,12109,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,True,2022-05-01T00:00:00.000Z,40.878845,-74.030464
+NJ0020500,Carlstadt Police Department,12110,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,True,2021-04-01T00:00:00.000Z,40.84115,-74.09472
+NJ0020600,Cliffside Park Police Department,12111,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,False,,40.821335,-73.98795
+NJ0020700,Closter Police Department,12112,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,True,2021-01-01T00:00:00.000Z,40.971157,-73.95951
+NJ0020800,Cresskill Police Department,12113,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,True,2021-01-01T00:00:00.000Z,40.941456,-73.959854
+NJ0020900,Demarest Police Department,12114,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,False,,40.955627,-73.96486
+NJ0021000,Dumont Police Department,12115,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,True,2021-01-01T00:00:00.000Z,40.959648,-74.07486
+NJ0021100,Elmwood Park Police Department,12116,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,True,2021-01-01T00:00:00.000Z,40.900894,-74.12382
+NJ0021200,East Rutherford Police Department,12117,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,False,,40.835724,-74.101036
+NJ0021300,Edgewater Police Department,12118,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,True,2021-01-01T00:00:00.000Z,40.826324,-73.97387
+NJ0021400,Emerson Police Department,12119,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,True,2021-01-01T00:00:00.000Z,40.959648,-74.07486
+NJ0021500,Englewood Police Department,12120,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,True,2021-01-01T00:00:00.000Z,40.959648,-74.07486
+NJ0021600,Englewood Cliffs Police Department,12121,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,True,2021-01-01T00:00:00.000Z,40.87886,-73.95019
+NJ0021700,Fair Lawn Police Department,12122,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,False,,40.935867,-74.13274
+NJ0021800,Fairview Police Department,12123,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,False,,40.81177,-73.99978
+NJ0021900,Fort Lee Police Department,12124,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,True,2021-02-01T00:00:00.000Z,40.84407,-73.98105
+NJ0022000,Franklin Lakes Police Department,12125,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,True,2021-01-01T00:00:00.000Z,41.01939,-74.19872
+NJ0022100,Garfield Police Department,12126,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,True,2021-05-01T00:00:00.000Z,40.878628,-74.102425
+NJ0022200,Glen Rock Police Department,12127,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,True,2021-01-01T00:00:00.000Z,40.960922,-74.12806
+NJ0022300,Hackensack Police Department,12128,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,True,2021-01-01T00:00:00.000Z,40.885597,-74.043846
+NJ0022400,Harrington Park Police Department,12129,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,True,2022-03-01T00:00:00.000Z,40.959648,-74.07486
+NJ0022500,Hasbrouck Heights Police Department,12130,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,False,,40.860577,-74.07742
+NJ0022600,Haworth Police Department,12131,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,True,2022-01-01T00:00:00.000Z,40.960667,-73.98877
+NJ0022700,Hillsdale Police Department,12132,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,False,,41.00267,-74.03907
+NJ0022800,Ho-Ho-Kus Police Department,12133,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,True,2021-10-01T00:00:00.000Z,40.99976,-74.1082
+NJ0022900,Leonia Police Department,12134,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,True,2021-11-01T00:00:00.000Z,40.959648,-74.07486
+NJ0023000,Little Ferry Police Department,12135,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,True,2021-10-01T00:00:00.000Z,40.959648,-74.07486
+NJ0023100,Lodi Police Department,12136,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,True,2021-01-01T00:00:00.000Z,40.959648,-74.07486
+NJ0023200,Lyndhurst Township Police Department,12137,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,True,2021-01-01T00:00:00.000Z,40.959648,-74.07486
+NJ0023300,Mahwah Township Police Department,12138,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,False,,41.0927,-74.14457
+NJ0023400,Maywood Police Department,12139,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,True,2021-01-01T00:00:00.000Z,40.904198,-74.06047
+NJ0023500,Midland Park Police Department,12140,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,True,2021-08-01T00:00:00.000Z,40.9911,-74.14154
+NJ0023600,Montvale Police Department,12141,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,True,2021-01-01T00:00:00.000Z,41.052425,-74.062195
+NJ0023700,Moonachie Police Department,12142,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,False,,40.841698,-74.04578
+NJ0023800,New Milford Police Department,12143,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,True,2021-01-01T00:00:00.000Z,40.923904,-74.02718
+NJ0023900,North Arlington Police Department,12144,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,True,2022-08-01T00:00:00.000Z,40.959648,-74.07486
+NJ0024000,Northvale Police Department,12145,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,False,,41.00771,-73.95181
+NJ0024100,Norwood Police Department,12146,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,False,,40.959648,-74.07486
+NJ0024200,Oakland Police Department,12147,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,True,2021-12-01T00:00:00.000Z,40.959648,-74.07486
+NJ0024300,Old Tappan Police Department,12148,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,True,2021-01-01T00:00:00.000Z,41.01251,-73.98387
+NJ0024400,Oradell Police Department,12149,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,True,2021-01-01T00:00:00.000Z,40.953396,-74.03177
+NJ0024500,Palisades Park Police Department,12150,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,False,,40.959648,-74.07486
+NJ0024600,Paramus Police Department,12151,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,True,2021-01-01T00:00:00.000Z,40.926895,-74.07081
+NJ0024700,Park Ridge Police Department,12152,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,True,2021-01-01T00:00:00.000Z,41.033936,-74.03984
+NJ0024800,Ramsey Police Department,12153,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,False,,40.959648,-74.07486
+NJ0024900,Ridgefield Police Department,12154,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,False,,40.835297,-74.00822
+NJ0025000,Ridgefield Park Police Department,12155,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,True,2021-01-01T00:00:00.000Z,40.858017,-74.024796
+NJ0025100,Ridgewood Police Department,12156,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,True,2021-01-01T00:00:00.000Z,40.98219,-74.112564
+NJ0025200,River Edge Police Department,12157,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,True,2021-07-01T00:00:00.000Z,40.959648,-74.07486
+NJ0025300,River Vale Township Police Department,12158,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,True,2021-01-01T00:00:00.000Z,41.00217,-74.0076
+NJ0025400,Rochelle Park Township Police Department,12159,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,True,2021-01-01T00:00:00.000Z,40.91295,-74.07893
+NJ0025500,Rockleigh Police Department,12160,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,False,,41.00771,-73.95181
+NJ0025600,Rutherford Police Department,12161,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,True,2021-01-01T00:00:00.000Z,40.83072,-74.09892
+NJ0025700,Saddle Brook Township Police Department,12162,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,False,,40.89535,-74.08156
+NJ0025800,Saddle River Police Department,12163,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,True,2021-01-01T00:00:00.000Z,41.031727,-74.098526
+NJ0025900,South Hackensack Township Police Department,12164,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,True,2022-01-01T00:00:00.000Z,40.860104,-74.04551
+NJ0026000,Teaneck Township Police Department,12165,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,True,2021-01-01T00:00:00.000Z,40.88642,-74.00625
+NJ0026100,Tenafly Police Department,12166,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,False,,40.927692,-73.97017
+NJ0026200,Teterboro Police Department,12167,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,False,,40.850433,-74.043655
+NJ0026300,Upper Saddle River Police Department,12168,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,False,,41.05641,-74.099045
+NJ0026400,Waldwick Police Department,12169,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,True,2021-03-01T00:00:00.000Z,41.01075,-74.11732
+NJ0026500,Wallington Police Department,12170,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,True,2021-01-01T00:00:00.000Z,40.853134,-74.11477
+NJ0026600,"Washington Township, Bergen County Police Department",12171,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,True,2021-01-01T00:00:00.000Z,40.987038,-74.06454
+NJ0026700,Westwood Police Department,12172,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,True,2021-01-01T00:00:00.000Z,40.992096,-74.03615
+NJ0026800,Woodcliff Lake Police Department,12173,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,True,2021-01-01T00:00:00.000Z,40.959648,-74.07486
+NJ0026900,Wood-Ridge Police Department,12174,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,True,2022-04-01T00:00:00.000Z,40.84448,-74.08721
+NJ0027000,Wyckoff Township Police Department,12175,NJ,Middle Atlantic,Northeast,Region I,BERGEN,City,True,2021-01-01T00:00:00.000Z,41.010517,-74.16765
+NJ0028900,Prosecutor: Bergen County,12177,NJ,Middle Atlantic,Northeast,Region I,BERGEN,Other,False,,40.87844,-74.04463
+NJ002SP00,State Police: Bergen County,12179,NJ,Middle Atlantic,Northeast,Region I,BERGEN,State Police,False,,40.900017,-74.22954
+NJ0030000,Burlington County Sheriff's Office,12180,NJ,Middle Atlantic,Northeast,Region I,BURLINGTON,County,False,,39.875786,-74.663006
+NJ0030200,Beverly Police Department,12182,NJ,Middle Atlantic,Northeast,Region I,BURLINGTON,City,False,,40.06326,-74.92111
+NJ0030300,Bordentown Police Department,12183,NJ,Middle Atlantic,Northeast,Region I,BURLINGTON,City,True,2022-02-01T00:00:00.000Z,40.145588,-74.71135
+NJ0030400,Bordentown Township Police Department,12184,NJ,Middle Atlantic,Northeast,Region I,BURLINGTON,City,True,2022-06-01T00:00:00.000Z,40.140152,-74.703476
+NJ0030500,Burlington Police Department,12185,NJ,Middle Atlantic,Northeast,Region I,BURLINGTON,City,True,2022-01-01T00:00:00.000Z,40.07433,-74.85663
+NJ0030600,Burlington Township Police Department,12186,NJ,Middle Atlantic,Northeast,Region I,BURLINGTON,City,True,2021-11-01T00:00:00.000Z,39.875786,-74.663006
+NJ0030700,Chesterfield Township Police Department,12187,NJ,Middle Atlantic,Northeast,Region I,BURLINGTON,City,False,,39.875786,-74.663006
+NJ0030800,Cinnaminson Township Police Department,12188,NJ,Middle Atlantic,Northeast,Region I,BURLINGTON,City,True,2022-10-01T00:00:00.000Z,39.875786,-74.663006
+NJ0030900,Delanco Township Police Department,12189,NJ,Middle Atlantic,Northeast,Region I,BURLINGTON,City,False,,40.049206,-74.9475
+NJ0031000,Delran Township Police Department,12190,NJ,Middle Atlantic,Northeast,Region I,BURLINGTON,City,True,2022-01-01T00:00:00.000Z,39.875786,-74.663006
+NJ0031100,Eastampton Township Police Department,12191,NJ,Middle Atlantic,Northeast,Region I,BURLINGTON,City,True,2022-01-01T00:00:00.000Z,39.875786,-74.663006
+NJ0031200,Edgewater Park Township Police Department,12192,NJ,Middle Atlantic,Northeast,Region I,BURLINGTON,City,True,2022-07-01T00:00:00.000Z,39.875786,-74.663006
+NJ0031300,Evesham Township Police Department,12193,NJ,Middle Atlantic,Northeast,Region I,BURLINGTON,City,True,2021-12-01T00:00:00.000Z,39.883373,-74.87755
+NJ0031400,Fieldsboro Police Department,12194,NJ,Middle Atlantic,Northeast,Region I,BURLINGTON,City,False,,40.13747,-74.730156
+NJ0031500,Florence Township Police Department,12195,NJ,Middle Atlantic,Northeast,Region I,BURLINGTON,City,False,,40.116577,-74.80677
+NJ0031700,Willingboro Township Police Department,12197,NJ,Middle Atlantic,Northeast,Region I,BURLINGTON,City,True,2022-02-01T00:00:00.000Z,39.875786,-74.663006
+NJ0031800,Lumberton Township Police Department,12198,NJ,Middle Atlantic,Northeast,Region I,BURLINGTON,City,True,2022-05-01T00:00:00.000Z,39.96341,-74.79446
+NJ0031900,"Mansfield Township, Burlington County Police Department",12199,NJ,Middle Atlantic,Northeast,Region I,BURLINGTON,City,True,2022-07-01T00:00:00.000Z,,
+NJ0032000,Maple Shade Township Police Department,12200,NJ,Middle Atlantic,Northeast,Region I,BURLINGTON,City,True,2021-11-01T00:00:00.000Z,39.959747,-74.99604
+NJ0032100,Medford Township Police Department,12201,NJ,Middle Atlantic,Northeast,Region I,BURLINGTON,City,True,2021-11-01T00:00:00.000Z,39.898693,-74.83077
+NJ0032200,Medford Lakes Police Department,12202,NJ,Middle Atlantic,Northeast,Region I,BURLINGTON,City,True,2022-03-01T00:00:00.000Z,39.862816,-74.80582
+NJ0032300,Moorestown Township Police Department,12203,NJ,Middle Atlantic,Northeast,Region I,BURLINGTON,City,True,2022-02-01T00:00:00.000Z,39.96415,-74.949356
+NJ0032400,Mount Holly Township Police Department,12204,NJ,Middle Atlantic,Northeast,Region I,BURLINGTON,City,True,2022-07-01T00:00:00.000Z,39.992767,-74.789795
+NJ0032500,Mount Laurel Township Police Department,12205,NJ,Middle Atlantic,Northeast,Region I,BURLINGTON,City,True,2022-02-01T00:00:00.000Z,39.95846,-74.927
+NJ0032600,New Hanover Township Police Department,12206,NJ,Middle Atlantic,Northeast,Region I,BURLINGTON,City,False,,39.875786,-74.663006
+NJ0032700,North Hanover Township Police Department,12207,NJ,Middle Atlantic,Northeast,Region I,BURLINGTON,City,True,2022-06-01T00:00:00.000Z,40.07512,-74.58913
+NJ0032800,Palmyra Police Department,12208,NJ,Middle Atlantic,Northeast,Region I,BURLINGTON,City,True,2022-01-01T00:00:00.000Z,40.00358,-75.02194
+NJ0032900,Pemberton Police Department,12209,NJ,Middle Atlantic,Northeast,Region I,BURLINGTON,City,True,2022-10-01T00:00:00.000Z,39.875786,-74.663006
+NJ0033000,Pemberton Township Police Department,12210,NJ,Middle Atlantic,Northeast,Region I,BURLINGTON,City,True,2022-04-01T00:00:00.000Z,39.875786,-74.663006
+NJ0033100,Riverside Township Police Department,12211,NJ,Middle Atlantic,Northeast,Region I,BURLINGTON,City,True,2022-03-01T00:00:00.000Z,39.875786,-74.663006
+NJ0033200,Riverton Police Department,12212,NJ,Middle Atlantic,Northeast,Region I,BURLINGTON,City,True,2022-03-01T00:00:00.000Z,40.010967,-75.01319
+NJ0033500,Springfield Township Police Department,12213,NJ,Middle Atlantic,Northeast,Region I,BURLINGTON,City,False,,39.875786,-74.663006
+NJ0033800,Westampton Township Police Department,12214,NJ,Middle Atlantic,Northeast,Region I,BURLINGTON,City,True,2022-01-01T00:00:00.000Z,39.990456,-74.83731
+NJ0038900,Prosecutor: Burlington County,12217,NJ,Middle Atlantic,Northeast,Region I,BURLINGTON,Other,False,,39.875786,-74.663006
+NJ003SP00,State Police: Burlington County,12219,NJ,Middle Atlantic,Northeast,Region I,BURLINGTON,State Police,False,,39.875786,-74.663006
+NJ0040000,Camden County Sheriff's Office,12220,NJ,Middle Atlantic,Northeast,Region I,CAMDEN,County,True,2021-03-01T00:00:00.000Z,39.94561,-75.12078
+NJ0040100,Audubon Police Department,12221,NJ,Middle Atlantic,Northeast,Region I,CAMDEN,City,True,2021-04-01T00:00:00.000Z,39.893585,-75.08631
+NJ0040200,Audubon Park Police Department,12222,NJ,Middle Atlantic,Northeast,Region I,CAMDEN,City,True,2022-03-01T00:00:00.000Z,39.893585,-75.08631
+NJ0040300,Barrington Police Department,12223,NJ,Middle Atlantic,Northeast,Region I,CAMDEN,City,True,2021-09-01T00:00:00.000Z,39.870743,-75.05246
+NJ0040400,Bellmawr Police Department,12224,NJ,Middle Atlantic,Northeast,Region I,CAMDEN,City,False,,39.867737,-75.07901
+NJ0040500,Berlin Police Department,12225,NJ,Middle Atlantic,Northeast,Region I,CAMDEN,City,True,2021-05-01T00:00:00.000Z,39.79535,-74.932
+NJ0040600,Berlin Township Police Department,12226,NJ,Middle Atlantic,Northeast,Region I,CAMDEN,City,True,2022-01-01T00:00:00.000Z,39.80811,-74.94292
+NJ0040700,Brooklawn Police Department,12227,NJ,Middle Atlantic,Northeast,Region I,CAMDEN,City,True,2021-09-01T00:00:00.000Z,39.8775,-75.1187
+NJ0040800,Camden County Police Department,12228,NJ,Middle Atlantic,Northeast,Region I,CAMDEN,City,False,,39.944023,-75.116196
+NJ0040900,Chesilhurst Police Department,12229,NJ,Middle Atlantic,Northeast,Region I,CAMDEN,City,False,,39.802352,-74.961251
+NJ0041000,Clementon Police Department,12230,NJ,Middle Atlantic,Northeast,Region I,CAMDEN,City,False,,39.808582,-74.988106
+NJ0041100,Collingswood Police Department,12231,NJ,Middle Atlantic,Northeast,Region I,CAMDEN,City,True,2022-01-01T00:00:00.000Z,39.91537,-75.06941
+NJ0041200,Cherry Hill Township Police Department,12232,NJ,Middle Atlantic,Northeast,Region I,CAMDEN,City,False,,39.802352,-74.961251
+NJ0041300,Gibbsboro Police Department,12233,NJ,Middle Atlantic,Northeast,Region I,CAMDEN,City,False,,39.802352,-74.961251
+NJ0041400,Gloucester City Police Department,12234,NJ,Middle Atlantic,Northeast,Region I,CAMDEN,City,False,,39.897953,-75.12353
+NJ0041500,Gloucester Township Police Department,12235,NJ,Middle Atlantic,Northeast,Region I,CAMDEN,City,True,2021-01-01T00:00:00.000Z,39.802352,-74.961251
+NJ0041600,Haddon Township Police Department,12236,NJ,Middle Atlantic,Northeast,Region I,CAMDEN,City,True,2022-01-01T00:00:00.000Z,39.921314,-75.08396
+NJ0041700,Haddonfield Police Department,12237,NJ,Middle Atlantic,Northeast,Region I,CAMDEN,City,True,2021-10-01T00:00:00.000Z,39.898987,-75.02999
+NJ0041800,Haddon Heights Police Department,12238,NJ,Middle Atlantic,Northeast,Region I,CAMDEN,City,True,2022-01-01T00:00:00.000Z,39.88206,-75.05905
+NJ0041900,Hi-Nella Police Department,12239,NJ,Middle Atlantic,Northeast,Region I,CAMDEN,City,False,,39.840473,-75.018906
+NJ0042000,Laurel Springs Police Department,12240,NJ,Middle Atlantic,Northeast,Region I,CAMDEN,City,False,,39.794697,-74.97617
+NJ0042100,Lawnside Police Department,12241,NJ,Middle Atlantic,Northeast,Region I,CAMDEN,City,True,2022-01-01T00:00:00.000Z,39.86796,-75.03422
+NJ0042200,Lindenwold Police Department,12242,NJ,Middle Atlantic,Northeast,Region I,CAMDEN,City,True,2022-01-01T00:00:00.000Z,39.815132,-74.96739
+NJ0042300,Magnolia Police Department,12243,NJ,Middle Atlantic,Northeast,Region I,CAMDEN,City,True,2022-02-01T00:00:00.000Z,39.856323,-75.02744
+NJ0042400,Merchantville Police Department,12244,NJ,Middle Atlantic,Northeast,Region I,CAMDEN,City,True,2022-07-01T00:00:00.000Z,39.95045,-75.04862
+NJ0042500,Mount Ephraim Police Department,12245,NJ,Middle Atlantic,Northeast,Region I,CAMDEN,City,True,2021-05-01T00:00:00.000Z,39.89846,-75.09316
+NJ0042600,Oaklyn Police Department,12246,NJ,Middle Atlantic,Northeast,Region I,CAMDEN,City,False,,39.90383,-75.07836
+NJ0042700,Pennsauken Township Police Department,12247,NJ,Middle Atlantic,Northeast,Region I,CAMDEN,City,True,2021-06-01T00:00:00.000Z,39.963295,-75.048805
+NJ0042800,Pine Hill Police Department,12248,NJ,Middle Atlantic,Northeast,Region I,CAMDEN,City,True,2022-08-01T00:00:00.000Z,39.788425,-74.99331
+NJ0042900,Pine Valley Police Department,12249,NJ,Middle Atlantic,Northeast,Region I,CAMDEN,City,False,,39.77759,-74.97103
+NJ0043000,Runnemede Police Department,12250,NJ,Middle Atlantic,Northeast,Region I,CAMDEN,City,True,2022-01-01T00:00:00.000Z,39.802352,-74.961251
+NJ0043100,Somerdale Police Department,12251,NJ,Middle Atlantic,Northeast,Region I,CAMDEN,City,True,2022-01-01T00:00:00.000Z,39.848595,-75.01613
+NJ0043200,Stratford Police Department,12252,NJ,Middle Atlantic,Northeast,Region I,CAMDEN,City,True,2021-01-01T00:00:00.000Z,39.833225,-75.00635
+NJ0043300,Tavistock Police Department,12253,NJ,Middle Atlantic,Northeast,Region I,CAMDEN,City,True,2021-10-01T00:00:00.000Z,39.898987,-75.02999
+NJ0043400,Voorhees Township Police Department,12254,NJ,Middle Atlantic,Northeast,Region I,CAMDEN,City,True,2022-01-01T00:00:00.000Z,39.85168,-74.98477
+NJ0043500,Waterford Township Police Department,12255,NJ,Middle Atlantic,Northeast,Region I,CAMDEN,City,True,2022-01-01T00:00:00.000Z,39.767162,-74.89044
+NJ0043600,Winslow Township Police Department,12256,NJ,Middle Atlantic,Northeast,Region I,CAMDEN,City,False,,39.701252,-74.89523
+NJ0043700,Woodlynne Police Department,12257,NJ,Middle Atlantic,Northeast,Region I,CAMDEN,City,False,,39.917454,-75.09557
+NJ0043900,Rutgers University: Camden,12258,NJ,Middle Atlantic,Northeast,Region I,CAMDEN,University or College,True,2021-01-01T00:00:00.000Z,39.802352,-74.961251
+NJ0048900,Prosecutor: Camden County,12260,NJ,Middle Atlantic,Northeast,Region I,CAMDEN,Other,False,,39.94474,-75.1214
+NJ004SP00,State Police: Camden County,12263,NJ,Middle Atlantic,Northeast,Region I,CAMDEN,State Police,False,,39.57778,-74.871025
+NJ0050000,Cape May County Sheriff's Office,12264,NJ,Middle Atlantic,Northeast,Region I,CAPE MAY,County,False,,39.086142,-74.847716
+NJ0050100,Avalon Police Department,12265,NJ,Middle Atlantic,Northeast,Region I,CAPE MAY,City,False,,39.095318,-74.72336
+NJ0050200,Cape May Police Department,12266,NJ,Middle Atlantic,Northeast,Region I,CAPE MAY,City,True,2022-01-01T00:00:00.000Z,38.934216,-74.92047
+NJ0050300,Cape May Point Police Department,12267,NJ,Middle Atlantic,Northeast,Region I,CAPE MAY,City,True,2022-12-01T00:00:00.000Z,38.934216,-74.92047
+NJ0050500,Lower Township Police Department,12268,NJ,Middle Atlantic,Northeast,Region I,CAPE MAY,City,True,2021-11-01T00:00:00.000Z,39.086142,-74.847716
+NJ0050600,Middle Township Police Department,12269,NJ,Middle Atlantic,Northeast,Region I,CAPE MAY,City,True,2021-03-01T00:00:00.000Z,39.082645,-74.82441
+NJ0050700,North Wildwood Police Department,12270,NJ,Middle Atlantic,Northeast,Region I,CAPE MAY,City,True,2021-01-01T00:00:00.000Z,39.086142,-74.847716
+NJ0050800,Ocean City Police Department,12271,NJ,Middle Atlantic,Northeast,Region I,CAPE MAY,City,False,,39.278996,-74.574646
+NJ0050900,Sea Isle City Police Department,12272,NJ,Middle Atlantic,Northeast,Region I,CAPE MAY,City,True,2021-11-01T00:00:00.000Z,39.157093,-74.69369
+NJ0051000,Stone Harbor Police Department,12273,NJ,Middle Atlantic,Northeast,Region I,CAPE MAY,City,False,,39.086142,-74.847716
+NJ0051200,West Cape May Police Department,12274,NJ,Middle Atlantic,Northeast,Region I,CAPE MAY,City,True,2022-12-01T00:00:00.000Z,38.934216,-74.92047
+NJ0051300,West Wildwood Police Department,12275,NJ,Middle Atlantic,Northeast,Region I,CAPE MAY,City,True,2021-09-01T00:00:00.000Z,39.086142,-74.847716
+NJ0051400,Wildwood Police Department,12276,NJ,Middle Atlantic,Northeast,Region I,CAPE MAY,City,False,,38.98651,-74.821396
+NJ0051500,Wildwood Crest Police Department,12277,NJ,Middle Atlantic,Northeast,Region I,CAPE MAY,City,True,2022-01-01T00:00:00.000Z,38.976883,-74.83099
+NJ0058900,Prosecutor: Cape May County,12279,NJ,Middle Atlantic,Northeast,Region I,CAPE MAY,Other,False,,39.10691,-74.797134
+NJ005SP00,State Police: Cape May County,12281,NJ,Middle Atlantic,Northeast,Region I,CAPE MAY,State Police,False,,39.57778,-74.871025
+NJ0060000,Cumberland County Sheriff's Office,12282,NJ,Middle Atlantic,Northeast,Region I,CUMBERLAND,County,False,,39.435013,-75.230644
+NJ0060100,Bridgeton Police Department,12283,NJ,Middle Atlantic,Northeast,Region I,CUMBERLAND,City,True,2022-01-01T00:00:00.000Z,39.41879,-75.243195
+NJ0061000,Millville Police Department,12287,NJ,Middle Atlantic,Northeast,Region I,CUMBERLAND,City,True,2021-01-01T00:00:00.000Z,39.328387,-75.121644
+NJ0061400,Vineland Police Department,12289,NJ,Middle Atlantic,Northeast,Region I,CUMBERLAND,City,True,2021-06-01T00:00:00.000Z,39.487263,-75.02334
+NJ0068900,Prosecutor: Cumberland County,12290,NJ,Middle Atlantic,Northeast,Region I,CUMBERLAND,Other,False,,39.426716,-75.23977
+NJ006SP00,State Police: Cumberland County,12292,NJ,Middle Atlantic,Northeast,Region I,CUMBERLAND,State Police,False,,39.328387,-75.121644
+NJ0070000,Essex County Sheriff's Office,12293,NJ,Middle Atlantic,Northeast,Region I,ESSEX,County,False,,40.73678,-74.17651
+NJ0070100,Belleville Police Department,12294,NJ,Middle Atlantic,Northeast,Region I,ESSEX,City,True,2021-01-01T00:00:00.000Z,40.787216,-74.246136
+NJ0070200,Bloomfield Police Department,12295,NJ,Middle Atlantic,Northeast,Region I,ESSEX,City,True,2021-01-01T00:00:00.000Z,40.792084,-74.19508
+NJ0070300,Caldwell Police Department,12296,NJ,Middle Atlantic,Northeast,Region I,ESSEX,City,True,2021-02-01T00:00:00.000Z,40.837727,-74.27478
+NJ0070400,"Fairfield Township, Essex County Police Department",12297,NJ,Middle Atlantic,Northeast,Region I,ESSEX,City,True,2021-01-01T00:00:00.000Z,40.879166,-74.290985
+NJ0070500,Cedar Grove Township Police Department,12298,NJ,Middle Atlantic,Northeast,Region I,ESSEX,City,True,2021-01-01T00:00:00.000Z,40.8519,-74.22948
+NJ0070600,East Orange Police Department,12299,NJ,Middle Atlantic,Northeast,Region I,ESSEX,City,True,2022-06-01T00:00:00.000Z,40.76055,-74.209236
+NJ0070700,Essex Fells Police Department,12300,NJ,Middle Atlantic,Northeast,Region I,ESSEX,City,False,,40.829906,-74.28429
+NJ0070800,Glen Ridge Police Department,12301,NJ,Middle Atlantic,Northeast,Region I,ESSEX,City,True,2021-05-01T00:00:00.000Z,40.801632,-74.20457
+NJ0070900,Irvington Police Department,12302,NJ,Middle Atlantic,Northeast,Region I,ESSEX,City,True,2022-01-01T00:00:00.000Z,40.787216,-74.246136
+NJ0071000,Livingston Township Police Department,12303,NJ,Middle Atlantic,Northeast,Region I,ESSEX,City,True,2021-11-01T00:00:00.000Z,40.787216,-74.246136
+NJ0071100,Maplewood Township Police Department,12304,NJ,Middle Atlantic,Northeast,Region I,ESSEX,City,True,2021-11-01T00:00:00.000Z,40.722397,-74.25758
+NJ0071200,Millburn Township Police Department,12305,NJ,Middle Atlantic,Northeast,Region I,ESSEX,City,True,2021-10-01T00:00:00.000Z,40.723743,-74.31164
+NJ0071300,Montclair Police Department,12306,NJ,Middle Atlantic,Northeast,Region I,ESSEX,City,True,2021-01-01T00:00:00.000Z,40.816826,-74.22131
+NJ0071500,North Caldwell Police Department,12307,NJ,Middle Atlantic,Northeast,Region I,ESSEX,City,True,2021-06-01T00:00:00.000Z,40.860622,-74.26115
+NJ0071600,Nutley Township Police Department,12308,NJ,Middle Atlantic,Northeast,Region I,ESSEX,City,True,2022-03-01T00:00:00.000Z,40.818607,-74.15816
+NJ0071700,Orange Police Department,12309,NJ,Middle Atlantic,Northeast,Region I,ESSEX,City,True,2021-01-01T00:00:00.000Z,40.771152,-74.224846
+NJ0071800,Roseland Police Department,12310,NJ,Middle Atlantic,Northeast,Region I,ESSEX,City,True,2021-01-01T00:00:00.000Z,40.821957,-74.29165
+NJ0071900,South Orange Police Department,12311,NJ,Middle Atlantic,Northeast,Region I,ESSEX,City,True,2021-10-01T00:00:00.000Z,40.745068,-74.25311
+NJ0072000,Verona Police Department,12312,NJ,Middle Atlantic,Northeast,Region I,ESSEX,City,True,2021-01-01T00:00:00.000Z,40.787216,-74.246136
+NJ0072100,West Caldwell Township Police Department,12313,NJ,Middle Atlantic,Northeast,Region I,ESSEX,City,False,,40.787216,-74.246136
+NJ0072200,West Orange Police Department,12314,NJ,Middle Atlantic,Northeast,Region I,ESSEX,City,True,2022-01-01T00:00:00.000Z,40.77821,-74.23901
+NJ0072700,New Jersey Institute of Technology,12317,NJ,Middle Atlantic,Northeast,Region I,ESSEX,University or College,True,2021-01-01T00:00:00.000Z,40.74449,-74.17656
+NJ0072800,Montclair State University,12318,NJ,Middle Atlantic,Northeast,Region I,ESSEX,University or College,True,2021-10-01T00:00:00.000Z,40.8579,-74.20255
+NJ0073000,Rutgers University: Newark,12319,NJ,Middle Atlantic,Northeast,Region I,ESSEX,University or College,True,2021-01-01T00:00:00.000Z,40.787216,-74.246136
+NJ0073100,Essex County College,12320,NJ,Middle Atlantic,Northeast,Region I,ESSEX,University or College,True,2021-04-01T00:00:00.000Z,40.737225,-74.176315
+NJ0073200,New Jersey Transit Police,12321,NJ,Middle Atlantic,Northeast,Region I,NOT SPECIFIED,Other State Agency,True,2021-08-01T00:00:00.000Z,40.724773,-74.25227
+NJ0078900,Prosecutor: Essex County,12323,NJ,Middle Atlantic,Northeast,Region I,ESSEX,Other,False,,40.73678,-74.17651
+NJ007SP00,State Police: Essex County,12325,NJ,Middle Atlantic,Northeast,Region I,ESSEX,State Police,False,,40.900017,-74.22954
+NJ0080000,Gloucester County Sheriff's Office,12326,NJ,Middle Atlantic,Northeast,Region I,GLOUCESTER,County,False,,39.721019,-75.143708
+NJ0080100,Clayton Police Department,12327,NJ,Middle Atlantic,Northeast,Region I,GLOUCESTER,City,True,2021-04-01T00:00:00.000Z,39.721019,-75.143708
+NJ0080200,Deptford Township Police Department,12328,NJ,Middle Atlantic,Northeast,Region I,GLOUCESTER,City,False,,39.721019,-75.143708
+NJ0080300,East Greenwich Township Police Department,12329,NJ,Middle Atlantic,Northeast,Region I,GLOUCESTER,City,True,2022-02-01T00:00:00.000Z,39.8027,-75.25846
+NJ0080400,Elk Township Police Department,12330,NJ,Middle Atlantic,Northeast,Region I,GLOUCESTER,City,True,2022-12-01T00:00:00.000Z,39.67297,-75.14185
+NJ0080500,"Franklin Township, Gloucester County Police Department",12331,NJ,Middle Atlantic,Northeast,Region I,GLOUCESTER,City,True,2021-09-01T00:00:00.000Z,,
+NJ0080600,Glassboro Police Department,12332,NJ,Middle Atlantic,Northeast,Region I,GLOUCESTER,City,False,,39.702736,-75.11198
+NJ0080700,"Greenwich Township, Gloucester County Police Department",12333,NJ,Middle Atlantic,Northeast,Region I,GLOUCESTER,City,False,,,
+NJ0080800,Harrison Township Police Department,12334,NJ,Middle Atlantic,Northeast,Region I,GLOUCESTER,City,True,2021-12-01T00:00:00.000Z,39.700546,-75.17677
+NJ0080900,Logan Township Police Department,12335,NJ,Middle Atlantic,Northeast,Region I,GLOUCESTER,City,True,2021-10-01T00:00:00.000Z,39.721019,-75.143708
+NJ0081000,Mantua Township Police Department,12336,NJ,Middle Atlantic,Northeast,Region I,GLOUCESTER,City,True,2022-02-01T00:00:00.000Z,39.782272,-75.16916
+NJ0081100,Monroe Township Police Department,12337,NJ,Middle Atlantic,Northeast,Region I,GLOUCESTER,City,True,2021-09-01T00:00:00.000Z,39.679523,-74.9903
+NJ0081200,National Park Police Department,12338,NJ,Middle Atlantic,Northeast,Region I,GLOUCESTER,City,False,,39.86602,-75.17968
+NJ0081300,Newfield Police Department,12339,NJ,Middle Atlantic,Northeast,Region I,GLOUCESTER,City,False,,39.54674,-75.02411
+NJ0081400,Paulsboro Police Department,12340,NJ,Middle Atlantic,Northeast,Region I,GLOUCESTER,City,False,,39.831753,-75.24134
+NJ0081500,Pitman Police Department,12341,NJ,Middle Atlantic,Northeast,Region I,GLOUCESTER,City,True,2022-02-01T00:00:00.000Z,39.732918,-75.13134
+NJ0081600,South Harrison Township Police Department,12342,NJ,Middle Atlantic,Northeast,Region I,GLOUCESTER,City,False,,39.721019,-75.143708
+NJ0081700,Swedesboro Police Department,12343,NJ,Middle Atlantic,Northeast,Region I,GLOUCESTER,City,False,,39.721019,-75.143708
+NJ0081800,"Washington Township, Gloucester County Police Department",12344,NJ,Middle Atlantic,Northeast,Region I,GLOUCESTER,City,False,,,
+NJ0081900,Wenonah Police Department,12345,NJ,Middle Atlantic,Northeast,Region I,GLOUCESTER,City,False,,39.789795,-75.15
+NJ0082000,West Deptford Township Police Department,12346,NJ,Middle Atlantic,Northeast,Region I,GLOUCESTER,City,True,2022-11-01T00:00:00.000Z,39.721019,-75.143708
+NJ0082100,Westville Police Department,12347,NJ,Middle Atlantic,Northeast,Region I,GLOUCESTER,City,False,,39.872288,-75.12584
+NJ0082200,Woodbury Police Department,12348,NJ,Middle Atlantic,Northeast,Region I,GLOUCESTER,City,False,,39.840534,-75.15143
+NJ0082300,Woodbury Heights Police Department,12349,NJ,Middle Atlantic,Northeast,Region I,GLOUCESTER,City,True,2022-01-01T00:00:00.000Z,39.721019,-75.143708
+NJ0082400,Woolwich Township Police Department,12350,NJ,Middle Atlantic,Northeast,Region I,GLOUCESTER,City,False,,39.721019,-75.143708
+NJ0082600,Rowan University,12352,NJ,Middle Atlantic,Northeast,Region I,GLOUCESTER,University or College,True,2021-09-01T00:00:00.000Z,39.70783,-75.117004
+NJ0088900,Prosecutor: Gloucester County,12353,NJ,Middle Atlantic,Northeast,Region I,GLOUCESTER,Other,False,,39.83819,-75.153175
+NJ008SP00,State Police: Gloucester County,12355,NJ,Middle Atlantic,Northeast,Region I,GLOUCESTER,State Police,False,,39.57778,-74.871025
+NJ0090000,Hudson County Sheriff's Office,12356,NJ,Middle Atlantic,Northeast,Region I,HUDSON,County,False,,40.732777,-74.05765
+NJ0090100,Bayonne Police Department,12357,NJ,Middle Atlantic,Northeast,Region I,HUDSON,City,False,,40.731384,-74.078627
+NJ0090200,East Newark Police Department,12358,NJ,Middle Atlantic,Northeast,Region I,HUDSON,City,False,,40.75194,-74.15913
+NJ0090300,Guttenberg Police Department,12359,NJ,Middle Atlantic,Northeast,Region I,HUDSON,City,True,2022-01-01T00:00:00.000Z,40.79133,-74.00417
+NJ0090400,Harrison Police Department,12360,NJ,Middle Atlantic,Northeast,Region I,HUDSON,City,False,,40.747868,-74.14707
+NJ0090500,Hoboken Police Department,12361,NJ,Middle Atlantic,Northeast,Region I,HUDSON,City,True,2021-01-01T00:00:00.000Z,40.73738,-74.029785
+NJ0090600,Jersey City Police Department,12362,NJ,Middle Atlantic,Northeast,Region I,HUDSON,City,True,2021-01-01T00:00:00.000Z,40.720917,-74.04438
+NJ0090700,Kearny Police Department,12363,NJ,Middle Atlantic,Northeast,Region I,HUDSON,City,False,,40.772007,-74.13843
+NJ0090800,North Bergen Township Police Department,12364,NJ,Middle Atlantic,Northeast,Region I,HUDSON,City,True,2022-01-01T00:00:00.000Z,40.778683,-74.02729
+NJ0090900,Secaucus Police Department,12365,NJ,Middle Atlantic,Northeast,Region I,HUDSON,City,True,2021-01-01T00:00:00.000Z,40.788197,-74.054955
+NJ0091000,Union City Police Department,12366,NJ,Middle Atlantic,Northeast,Region I,HUDSON,City,False,,40.77365,-74.02483
+NJ0091100,Weehawken Township Police Department,12367,NJ,Middle Atlantic,Northeast,Region I,HUDSON,City,True,2021-01-01T00:00:00.000Z,40.76766,-74.0235
+NJ0091200,West New York Police Department,12368,NJ,Middle Atlantic,Northeast,Region I,HUDSON,City,True,2021-03-01T00:00:00.000Z,40.788315,-74.015236
+NJ009149E,Stevens Institute of Technology,12370,NJ,Middle Atlantic,Northeast,Region I,HUDSON,University or College,False,,40.74563,-74.02611
+NJ0098900,Prosecutor: Hudson County,12376,NJ,Middle Atlantic,Northeast,Region I,HUDSON,Other,False,,40.732777,-74.05765
+NJ009SP00,State Police: Hudson County,12378,NJ,Middle Atlantic,Northeast,Region I,HUDSON,State Police,False,,40.900017,-74.22954
+NJ0100000,Hunterdon County Sheriff's Office,12379,NJ,Middle Atlantic,Northeast,Region I,HUNTERDON,County,False,,40.565283,-74.911969
+NJ0100400,Califon Police Department,12382,NJ,Middle Atlantic,Northeast,Region I,HUNTERDON,City,False,,40.565283,-74.911969
+NJ0100500,Clinton Police Department,12383,NJ,Middle Atlantic,Northeast,Region I,HUNTERDON,City,False,,40.565283,-74.911969
+NJ0100600,Clinton Township Police Department,12384,NJ,Middle Atlantic,Northeast,Region I,HUNTERDON,City,True,2021-01-01T00:00:00.000Z,40.565283,-74.911969
+NJ0100700,Delaware Township Police Department,12385,NJ,Middle Atlantic,Northeast,Region I,HUNTERDON,City,False,,40.565283,-74.911969
+NJ0100900,Flemington Police Department,12386,NJ,Middle Atlantic,Northeast,Region I,HUNTERDON,City,False,,40.5098,-74.85883
+NJ0101000,"Franklin Township, Hunterdon County Police Department",12387,NJ,Middle Atlantic,Northeast,Region I,HUNTERDON,City,False,,40.606915,-74.92325
+NJ0101100,Frenchtown Police Department,12388,NJ,Middle Atlantic,Northeast,Region I,HUNTERDON,City,False,,40.52745,-75.06062
+NJ0101400,High Bridge Police Department,12391,NJ,Middle Atlantic,Northeast,Region I,HUNTERDON,City,False,,40.662266,-74.90011
+NJ0101500,Holland Township Police Department,12392,NJ,Middle Atlantic,Northeast,Region I,HUNTERDON,City,True,2021-10-01T00:00:00.000Z,40.59643,-75.1278
+NJ0101700,Lambertville Police Department,12393,NJ,Middle Atlantic,Northeast,Region I,HUNTERDON,City,False,,40.376923,-74.94641
+NJ0101900,Lebanon Township Police Department,12395,NJ,Middle Atlantic,Northeast,Region I,HUNTERDON,City,False,,40.565283,-74.911969
+NJ0102100,Raritan Township Police Department,12397,NJ,Middle Atlantic,Northeast,Region I,HUNTERDON,City,False,,40.565283,-74.911969
+NJ0102200,Readington Township Police Department,12398,NJ,Middle Atlantic,Northeast,Region I,HUNTERDON,City,False,,40.60465,-74.77801
+NJ0102400,Tewksbury Township Police Department,12399,NJ,Middle Atlantic,Northeast,Region I,HUNTERDON,City,False,,40.70493,-74.77407
+NJ0102600,West Amwell Township Police Department,12401,NJ,Middle Atlantic,Northeast,Region I,HUNTERDON,City,False,,40.39881,-74.90754
+NJ0108900,Prosecutor: Hunterdon County,12402,NJ,Middle Atlantic,Northeast,Region I,HUNTERDON,Other,False,,40.51159,-74.861145
+NJ010SP00,State Police: Hunterdon County,12404,NJ,Middle Atlantic,Northeast,Region I,HUNTERDON,State Police,False,,40.565283,-74.911969
+NJ0110000,Mercer County Sheriff's Office,12405,NJ,Middle Atlantic,Northeast,Region I,MERCER,County,True,2021-01-01T00:00:00.000Z,40.21716,-74.76352
+NJ0110100,East Windsor Township Police Department,12406,NJ,Middle Atlantic,Northeast,Region I,MERCER,City,False,,40.27185,-74.54721
+NJ0110200,Ewing Township Police Department,12407,NJ,Middle Atlantic,Northeast,Region I,MERCER,City,True,2021-02-01T00:00:00.000Z,40.27534,-74.80094
+NJ0110300,"Hamilton Township, Mercer County Police Department",12408,NJ,Middle Atlantic,Northeast,Region I,MERCER,City,True,2021-01-01T00:00:00.000Z,40.212296,-74.69255
+NJ0110400,Hightstown Police Department,12409,NJ,Middle Atlantic,Northeast,Region I,MERCER,City,True,2021-01-01T00:00:00.000Z,40.282503,-74.703724
+NJ0110500,Hopewell Police Department,12410,NJ,Middle Atlantic,Northeast,Region I,MERCER,City,True,2022-07-01T00:00:00.000Z,40.282503,-74.703724
+NJ0110600,Hopewell Township Police Department,12411,NJ,Middle Atlantic,Northeast,Region I,MERCER,City,True,2022-01-01T00:00:00.000Z,40.282503,-74.703724
+NJ0110700,"Lawrence Township, Mercer County Police Department",12412,NJ,Middle Atlantic,Northeast,Region I,MERCER,City,True,2021-01-01T00:00:00.000Z,,
+NJ0110800,Pennington Police Department,12413,NJ,Middle Atlantic,Northeast,Region I,MERCER,City,True,2022-01-01T00:00:00.000Z,40.329506,-74.79144
+NJ0111000,Princeton  Police Department,12415,NJ,Middle Atlantic,Northeast,Region I,MERCER,City,True,2021-01-01T00:00:00.000Z,40.3611,-74.66533
+NJ0111100,Trenton Police Department,12416,NJ,Middle Atlantic,Northeast,Region I,MERCER,City,False,,40.227024,-74.75254
+NJ0111200,Robbinsville Township Police Department,12417,NJ,Middle Atlantic,Northeast,Region I,MERCER,City,True,2022-03-01T00:00:00.000Z,40.214733,-74.62173
+NJ0111300,West Windsor Township Police Department,12418,NJ,Middle Atlantic,Northeast,Region I,MERCER,City,False,,40.282503,-74.703724
+NJ0111700,Division of Fish and Wildlife,12421,NJ,Middle Atlantic,Northeast,Region I,NOT SPECIFIED,Other State Agency,False,,40.282503,-74.703724
+NJ0111800,The College of New Jersey,12422,NJ,Middle Atlantic,Northeast,Region I,MERCER,University or College,True,2021-02-01T00:00:00.000Z,40.282503,-74.703724
+NJ0111900,Department of Human Services,12423,NJ,Middle Atlantic,Northeast,Region I,MERCER,Other State Agency,False,,40.282503,-74.703724
+NJ0115000,Princeton University,23278,NJ,Middle Atlantic,Northeast,Region I,MERCER,University or College,True,2022-01-01T00:00:00.000Z,,
+NJ0118900,Prosecutor: Mercer County,12424,NJ,Middle Atlantic,Northeast,Region I,MERCER,Other,False,,40.21674,-74.763084
+NJ011SP00,State Police: Mercer County,12426,NJ,Middle Atlantic,Northeast,Region I,MERCER,State Police,False,,40.282503,-74.703724
+NJ0120000,Middlesex County Sheriff's Office,12427,NJ,Middle Atlantic,Northeast,Region I,MIDDLESEX,County,False,,40.439593,-74.407585
+NJ0120100,Carteret Police Department,12428,NJ,Middle Atlantic,Northeast,Region I,MIDDLESEX,City,True,2022-03-01T00:00:00.000Z,40.57583,-74.21771
+NJ0120200,Cranbury Township Police Department,12429,NJ,Middle Atlantic,Northeast,Region I,MIDDLESEX,City,True,2022-01-01T00:00:00.000Z,40.439593,-74.407585
+NJ0120300,Dunellen Police Department,12430,NJ,Middle Atlantic,Northeast,Region I,MIDDLESEX,City,False,,40.59102,-74.46431
+NJ0120400,East Brunswick Township Police Department,12431,NJ,Middle Atlantic,Northeast,Region I,MIDDLESEX,City,True,2021-01-01T00:00:00.000Z,40.458744,-74.41977
+NJ0120500,Edison Township Police Department,12432,NJ,Middle Atlantic,Northeast,Region I,MIDDLESEX,City,False,,40.526245,-74.39428
+NJ0120600,Helmetta Police Department,12433,NJ,Middle Atlantic,Northeast,Region I,MIDDLESEX,City,False,,40.439593,-74.407585
+NJ0120700,Highland Park Police Department,12434,NJ,Middle Atlantic,Northeast,Region I,MIDDLESEX,City,True,2021-02-01T00:00:00.000Z,40.497894,-74.42278
+NJ0120800,Jamesburg Police Department,12435,NJ,Middle Atlantic,Northeast,Region I,MIDDLESEX,City,False,,40.345024,-74.43959
+NJ0120900,Old Bridge Township Police Department,12436,NJ,Middle Atlantic,Northeast,Region I,MIDDLESEX,City,False,,40.408424,-74.28954
+NJ0121000,Metuchen Police Department,12437,NJ,Middle Atlantic,Northeast,Region I,MIDDLESEX,City,True,2021-09-01T00:00:00.000Z,40.54403,-74.36211
+NJ0121100,Middlesex Police Department,12438,NJ,Middle Atlantic,Northeast,Region I,MIDDLESEX,City,True,2021-08-01T00:00:00.000Z,40.57717,-74.49849
+NJ0121200,Milltown Police Department,12439,NJ,Middle Atlantic,Northeast,Region I,MIDDLESEX,City,True,2021-01-01T00:00:00.000Z,40.45109,-74.435776
+NJ0121300,"Monroe Township, Middlesex County Police Department",12440,NJ,Middle Atlantic,Northeast,Region I,MIDDLESEX,City,False,,,
+NJ0121400,New Brunswick Police Department,12441,NJ,Middle Atlantic,Northeast,Region I,MIDDLESEX,City,True,2021-07-01T00:00:00.000Z,40.494114,-74.44651
+NJ0121500,North Brunswick Township Police Department,12442,NJ,Middle Atlantic,Northeast,Region I,MIDDLESEX,City,False,,40.467197,-74.45737
+NJ0121600,Perth Amboy Police Department,12443,NJ,Middle Atlantic,Northeast,Region I,MIDDLESEX,City,False,,40.51528,-74.27578
+NJ0121700,Piscataway Township Police Department,12444,NJ,Middle Atlantic,Northeast,Region I,MIDDLESEX,City,False,,40.540386,-74.46902
+NJ0121800,Plainsboro Township Police Department,12445,NJ,Middle Atlantic,Northeast,Region I,MIDDLESEX,City,False,,40.439593,-74.407585
+NJ0121900,Sayreville Police Department,12446,NJ,Middle Atlantic,Northeast,Region I,MIDDLESEX,City,False,,40.476875,-74.30209
+NJ0122000,South Amboy Police Department,12447,NJ,Middle Atlantic,Northeast,Region I,MIDDLESEX,City,True,2021-01-01T00:00:00.000Z,40.48418,-74.28071
+NJ0122100,South Brunswick Township Police Department,12448,NJ,Middle Atlantic,Northeast,Region I,MIDDLESEX,City,True,2021-01-01T00:00:00.000Z,40.439593,-74.407585
+NJ0122200,South Plainfield Police Department,12449,NJ,Middle Atlantic,Northeast,Region I,MIDDLESEX,City,True,2021-03-01T00:00:00.000Z,40.584435,-74.41629
+NJ0122300,South River Police Department,12450,NJ,Middle Atlantic,Northeast,Region I,MIDDLESEX,City,True,2021-01-01T00:00:00.000Z,40.451115,-74.38095
+NJ0122400,Spotswood Police Department,12451,NJ,Middle Atlantic,Northeast,Region I,MIDDLESEX,City,False,2023-02-01T00:00:00.000Z,40.439593,-74.407585
+NJ0122500,Woodbridge Township Police Department,12452,NJ,Middle Atlantic,Northeast,Region I,MIDDLESEX,City,False,,40.55529,-74.27651
+NJ0122600,Middlesex County College,12453,NJ,Middle Atlantic,Northeast,Region I,MIDDLESEX,University or College,True,2022-04-01T00:00:00.000Z,40.439593,-74.407585
+NJ0123000,Rutgers University: New Brunswick,12454,NJ,Middle Atlantic,Northeast,Region I,MIDDLESEX,University or College,True,2021-01-01T00:00:00.000Z,40.487988,-74.439156
+NJ0128900,Prosecutor: Middlesex County,12457,NJ,Middle Atlantic,Northeast,Region I,MIDDLESEX,Other,False,,40.494114,-74.44651
+NJ012SP00,State Police: Middlesex County,12460,NJ,Middle Atlantic,Northeast,Region I,MIDDLESEX,State Police,False,,40.32637,-74.48172
+NJ0130000,Monmouth County Sheriff's Office,12461,NJ,Middle Atlantic,Northeast,Region I,MONMOUTH,County,False,,40.26219,-74.27115
+NJ0130100,Allenhurst Police Department,12462,NJ,Middle Atlantic,Northeast,Region I,MONMOUTH,City,False,,40.235973,-73.999
+NJ0130200,Allentown Police Department,12463,NJ,Middle Atlantic,Northeast,Region I,MONMOUTH,City,False,,40.287056,-74.152446
+NJ0130300,Asbury Park Police Department,12464,NJ,Middle Atlantic,Northeast,Region I,MONMOUTH,City,False,,40.287056,-74.152446
+NJ0130400,Colts Neck Township Police Department,12465,NJ,Middle Atlantic,Northeast,Region I,MONMOUTH,City,False,,40.29372,-74.19057
+NJ0130500,Atlantic Highlands Police Department,12466,NJ,Middle Atlantic,Northeast,Region I,MONMOUTH,City,False,,40.413055,-74.03811
+NJ0130600,Avon-by-the-Sea Police Department,12467,NJ,Middle Atlantic,Northeast,Region I,MONMOUTH,City,False,,40.19104,-74.02219
+NJ0130700,Belmar Police Department,12468,NJ,Middle Atlantic,Northeast,Region I,MONMOUTH,City,False,,40.287056,-74.152446
+NJ0130800,Bradley Beach Police Department,12469,NJ,Middle Atlantic,Northeast,Region I,MONMOUTH,City,False,,40.287056,-74.152446
+NJ0130900,Brielle Police Department,12470,NJ,Middle Atlantic,Northeast,Region I,MONMOUTH,City,False,,40.287056,-74.152446
+NJ0131000,Deal Police Department,12471,NJ,Middle Atlantic,Northeast,Region I,MONMOUTH,City,True,2021-01-01T00:00:00.000Z,40.247128,-74.00072
+NJ0131100,Eatontown Police Department,12472,NJ,Middle Atlantic,Northeast,Region I,MONMOUTH,City,True,2021-01-01T00:00:00.000Z,40.305454,-74.05812
+NJ0131200,Englishtown Police Department,12473,NJ,Middle Atlantic,Northeast,Region I,MONMOUTH,City,False,,40.292847,-74.36037
+NJ0131300,Fair Haven Police Department,12474,NJ,Middle Atlantic,Northeast,Region I,MONMOUTH,City,False,,40.361023,-74.03851
+NJ0131500,Freehold Police Department,12476,NJ,Middle Atlantic,Northeast,Region I,MONMOUTH,City,True,2022-02-01T00:00:00.000Z,40.264107,-74.266754
+NJ0131600,Freehold Township Police Department,12477,NJ,Middle Atlantic,Northeast,Region I,MONMOUTH,City,False,,40.287056,-74.152446
+NJ0131700,Highlands Police Department,12478,NJ,Middle Atlantic,Northeast,Region I,MONMOUTH,City,False,,40.40158,-73.98694
+NJ0131800,Holmdel Township Police Department,12479,NJ,Middle Atlantic,Northeast,Region I,MONMOUTH,City,False,,40.287056,-74.152446
+NJ0131900,Howell Township Police Department,12480,NJ,Middle Atlantic,Northeast,Region I,MONMOUTH,City,False,,40.287056,-74.152446
+NJ0132000,Interlaken Police Department,12481,NJ,Middle Atlantic,Northeast,Region I,MONMOUTH,City,True,2021-01-01T00:00:00.000Z,40.23238,-74.00999
+NJ0132100,Keansburg Police Department,12482,NJ,Middle Atlantic,Northeast,Region I,MONMOUTH,City,False,,40.448906,-74.13376
+NJ0132200,Keyport Police Department,12483,NJ,Middle Atlantic,Northeast,Region I,MONMOUTH,City,True,2022-04-01T00:00:00.000Z,40.436684,-74.203224
+NJ0132300,Little Silver Police Department,12484,NJ,Middle Atlantic,Northeast,Region I,MONMOUTH,City,True,2021-01-01T00:00:00.000Z,40.338974,-74.04198
+NJ0132400,Loch Arbour Police Department,12485,NJ,Middle Atlantic,Northeast,Region I,MONMOUTH,City,True,2021-12-01T00:00:00.000Z,40.247128,-74.00072
+NJ0132500,Long Branch Police Department,12486,NJ,Middle Atlantic,Northeast,Region I,MONMOUTH,City,False,,40.303596,-73.99368
+NJ0132600,Manalapan Township Police Department,12487,NJ,Middle Atlantic,Northeast,Region I,MONMOUTH,City,False,,40.288692,-74.33915
+NJ0132700,Manasquan Police Department,12488,NJ,Middle Atlantic,Northeast,Region I,MONMOUTH,City,True,2022-01-01T00:00:00.000Z,40.12197,-74.04868
+NJ0132800,Marlboro Township Police Department,12489,NJ,Middle Atlantic,Northeast,Region I,MONMOUTH,City,False,,40.326744,-74.26664
+NJ0132900,Matawan Police Department,12490,NJ,Middle Atlantic,Northeast,Region I,MONMOUTH,City,False,,40.414375,-74.22989
+NJ0133000,Aberdeen Township Police Department,12491,NJ,Middle Atlantic,Northeast,Region I,MONMOUTH,City,True,2021-01-01T00:00:00.000Z,40.287056,-74.152446
+NJ0133100,Middletown Township Police Department,12492,NJ,Middle Atlantic,Northeast,Region I,MONMOUTH,City,False,,40.393738,-74.10226
+NJ0133300,Monmouth Beach Police Department,12493,NJ,Middle Atlantic,Northeast,Region I,MONMOUTH,City,False,,40.331444,-73.97909
+NJ0133400,Neptune Township Police Department,12494,NJ,Middle Atlantic,Northeast,Region I,MONMOUTH,City,False,,40.20056,-74.03463
+NJ0133500,Neptune City Police Department,12495,NJ,Middle Atlantic,Northeast,Region I,MONMOUTH,City,False,,40.197598,-74.02995
+NJ0133600,Tinton Falls Police Department,12496,NJ,Middle Atlantic,Northeast,Region I,MONMOUTH,City,False,,40.29935,-74.093376
+NJ0133700,"Ocean Township, Monmouth County Police Department",12497,NJ,Middle Atlantic,Northeast,Region I,MONMOUTH,City,True,2022-01-01T00:00:00.000Z,,
+NJ0133800,Oceanport Police Department,12498,NJ,Middle Atlantic,Northeast,Region I,MONMOUTH,City,False,,40.321777,-74.01683
+NJ0133900,Hazlet Township Police Department,12499,NJ,Middle Atlantic,Northeast,Region I,MONMOUTH,City,True,2021-09-01T00:00:00.000Z,40.287056,-74.152446
+NJ0134000,Red Bank Police Department,12500,NJ,Middle Atlantic,Northeast,Region I,MONMOUTH,City,False,,40.349323,-74.069435
+NJ0134200,Rumson Police Department,12501,NJ,Middle Atlantic,Northeast,Region I,MONMOUTH,City,False,,40.37181,-74.02044
+NJ0134300,Sea Bright Police Department,12502,NJ,Middle Atlantic,Northeast,Region I,MONMOUTH,City,False,,40.287056,-74.152446
+NJ0134400,Sea Girt Police Department,12503,NJ,Middle Atlantic,Northeast,Region I,MONMOUTH,City,False,,40.133316,-74.03478
+NJ0134500,Shrewsbury Police Department,12504,NJ,Middle Atlantic,Northeast,Region I,MONMOUTH,City,True,2021-01-01T00:00:00.000Z,40.287056,-74.152446
+NJ0134700,Lake Como Police Department,12505,NJ,Middle Atlantic,Northeast,Region I,MONMOUTH,City,False,,40.287056,-74.152446
+NJ0134800,Spring Lake Police Department,12506,NJ,Middle Atlantic,Northeast,Region I,MONMOUTH,City,False,,40.154488,-74.027954
+NJ0134900,Spring Lake Heights Police Department,12507,NJ,Middle Atlantic,Northeast,Region I,MONMOUTH,City,False,,40.15531,-74.03324
+NJ0135000,Union Beach Police Department,12508,NJ,Middle Atlantic,Northeast,Region I,MONMOUTH,City,False,,40.440014,-74.17938
+NJ0135200,Wall Township Police Department,12509,NJ,Middle Atlantic,Northeast,Region I,MONMOUTH,City,False,,40.287056,-74.152446
+NJ0135300,West Long Branch Police Department,12510,NJ,Middle Atlantic,Northeast,Region I,MONMOUTH,City,False,,40.29074,-74.01616
+NJ013559E,Monmouth University,12512,NJ,Middle Atlantic,Northeast,Region I,MONMOUTH,University or College,False,,40.281746,-74.00363
+NJ0135600,Brookdale Community College,12529,NJ,Middle Atlantic,Northeast,Region I,MONMOUTH,University or College,False,,40.331783,-74.13067
+NJ0138900,Prosecutor: Monmouth County,12530,NJ,Middle Atlantic,Northeast,Region I,MONMOUTH,Other,False,,40.267673,-74.27863
+NJ013SP00,State Police: Monmouth County,12532,NJ,Middle Atlantic,Northeast,Region I,MONMOUTH,State Police,False,,40.32637,-74.48172
+NJ0140000,Morris County Sheriff's Office,12533,NJ,Middle Atlantic,Northeast,Region I,MORRIS,County,False,,40.858581,-74.547427
+NJ0140100,Boonton Police Department,12534,NJ,Middle Atlantic,Northeast,Region I,MORRIS,City,True,2021-07-01T00:00:00.000Z,40.902214,-74.40736
+NJ0140200,Boonton Township Police Department,12535,NJ,Middle Atlantic,Northeast,Region I,MORRIS,City,True,2021-10-01T00:00:00.000Z,40.91297,-74.42684
+NJ0140300,Butler Police Department,12536,NJ,Middle Atlantic,Northeast,Region I,MORRIS,City,False,,41.001423,-74.34011
+NJ0140400,Chatham Police Department,12537,NJ,Middle Atlantic,Northeast,Region I,MORRIS,City,False,,40.738243,-74.38436
+NJ0140500,Chatham Township Police Department,12538,NJ,Middle Atlantic,Northeast,Region I,MORRIS,City,False,,40.737167,-74.42363
+NJ0140600,Chester Police Department,12539,NJ,Middle Atlantic,Northeast,Region I,MORRIS,City,False,,40.787502,-74.687584
+NJ0140700,Chester Township Police Department,12540,NJ,Middle Atlantic,Northeast,Region I,MORRIS,City,False,,40.858581,-74.547427
+NJ0140800,Denville Township Police Department,12541,NJ,Middle Atlantic,Northeast,Region I,MORRIS,City,True,2021-11-01T00:00:00.000Z,40.89492,-74.48322
+NJ0140900,Dover Police Department,12542,NJ,Middle Atlantic,Northeast,Region I,MORRIS,City,True,2022-01-01T00:00:00.000Z,40.885525,-74.55868
+NJ0141000,East Hanover Township Police Department,12543,NJ,Middle Atlantic,Northeast,Region I,MORRIS,City,True,2021-10-01T00:00:00.000Z,40.82104,-74.366585
+NJ0141100,Florham Park Police Department,12544,NJ,Middle Atlantic,Northeast,Region I,MORRIS,City,True,2021-01-01T00:00:00.000Z,40.858581,-74.547427
+NJ0141200,Hanover Township Police Department,12545,NJ,Middle Atlantic,Northeast,Region I,MORRIS,City,True,2021-01-01T00:00:00.000Z,40.829823,-74.43325
+NJ0141300,Harding Township Police Department,12546,NJ,Middle Atlantic,Northeast,Region I,MORRIS,City,False,,40.858581,-74.547427
+NJ0141400,Jefferson Township Police Department,12547,NJ,Middle Atlantic,Northeast,Region I,MORRIS,City,True,2021-01-01T00:00:00.000Z,40.858581,-74.547427
+NJ0141500,Kinnelon Police Department,12548,NJ,Middle Atlantic,Northeast,Region I,MORRIS,City,True,2021-01-01T00:00:00.000Z,41.001537,-74.37278
+NJ0141600,Lincoln Park Police Department,12549,NJ,Middle Atlantic,Northeast,Region I,MORRIS,City,True,2021-05-01T00:00:00.000Z,40.92207,-74.30423
+NJ0141700,Madison Police Department,12550,NJ,Middle Atlantic,Northeast,Region I,MORRIS,City,True,2021-01-01T00:00:00.000Z,40.858581,-74.547427
+NJ0141800,Mendham Police Department,12551,NJ,Middle Atlantic,Northeast,Region I,MORRIS,City,False,,40.783146,-74.5851
+NJ0141900,Mendham Township Police Department,12552,NJ,Middle Atlantic,Northeast,Region I,MORRIS,City,True,2022-02-01T00:00:00.000Z,40.858581,-74.547427
+NJ0142000,Mine Hill Township Police Department,12553,NJ,Middle Atlantic,Northeast,Region I,MORRIS,City,True,2021-01-01T00:00:00.000Z,40.899292,-74.584
+NJ0142100,Montville Township Police Department,12554,NJ,Middle Atlantic,Northeast,Region I,MORRIS,City,True,2021-12-01T00:00:00.000Z,40.915604,-74.36576
+NJ0142200,Morris Township Police Department,12555,NJ,Middle Atlantic,Northeast,Region I,MORRIS,City,False,,40.780922,-74.46399
+NJ0142300,Morris Plains Police Department,12556,NJ,Middle Atlantic,Northeast,Region I,MORRIS,City,False,,40.826065,-74.479996
+NJ0142400,Morristown Police Department,12557,NJ,Middle Atlantic,Northeast,Region I,MORRIS,City,True,2021-01-01T00:00:00.000Z,40.79141,-74.47525
+NJ0142500,Mountain Lakes Police Department,12558,NJ,Middle Atlantic,Northeast,Region I,MORRIS,City,True,2021-08-01T00:00:00.000Z,40.886063,-74.454445
+NJ0142600,Mount Arlington Police Department,12559,NJ,Middle Atlantic,Northeast,Region I,MORRIS,City,False,,40.92814,-74.63635
+NJ0142700,Mount Olive Township Police Department,12560,NJ,Middle Atlantic,Northeast,Region I,MORRIS,City,True,2021-01-01T00:00:00.000Z,40.858581,-74.547427
+NJ0142800,Netcong Police Department,12561,NJ,Middle Atlantic,Northeast,Region I,MORRIS,City,False,,40.898766,-74.70534
+NJ0142900,Parsippany-Troy Hills Township Police Department,12562,NJ,Middle Atlantic,Northeast,Region I,MORRIS,City,True,2021-07-01T00:00:00.000Z,40.87316,-74.43101
+NJ0143000,Long Hill Township Police Department,12563,NJ,Middle Atlantic,Northeast,Region I,MORRIS,City,False,,40.669094,-74.49306
+NJ0143100,Pequannock Township Police Department,12564,NJ,Middle Atlantic,Northeast,Region I,MORRIS,City,False,,40.965893,-74.29543
+NJ0143200,Randolph Township Police Department,12565,NJ,Middle Atlantic,Northeast,Region I,MORRIS,City,False,,40.847233,-74.56313
+NJ0143300,Riverdale Police Department,12566,NJ,Middle Atlantic,Northeast,Region I,MORRIS,City,True,2021-07-01T00:00:00.000Z,40.858581,-74.547427
+NJ0143400,Rockaway Police Department,12567,NJ,Middle Atlantic,Northeast,Region I,MORRIS,City,False,,40.901802,-74.51219
+NJ0143500,Rockaway Township Police Department,12568,NJ,Middle Atlantic,Northeast,Region I,MORRIS,City,True,2021-01-01T00:00:00.000Z,40.858581,-74.547427
+NJ0143600,Roxbury Township Police Department,12569,NJ,Middle Atlantic,Northeast,Region I,MORRIS,City,True,2021-01-01T00:00:00.000Z,40.89024,-74.668495
+NJ0143800,"Washington Township, Morris County Police Department",12571,NJ,Middle Atlantic,Northeast,Region I,MORRIS,City,False,,,
+NJ0143900,Wharton Police Department,12572,NJ,Middle Atlantic,Northeast,Region I,MORRIS,City,True,2021-01-01T00:00:00.000Z,40.899292,-74.584
+NJ0148900,Prosecutor: Morris County,12573,NJ,Middle Atlantic,Northeast,Region I,MORRIS,Other,False,,40.858581,-74.547427
+NJ0149100,Park Police: Morris County,12574,NJ,Middle Atlantic,Northeast,Region I,MORRIS,Other,False,,40.858581,-74.547427
+NJ014SP00,State Police: Morris County,12576,NJ,Middle Atlantic,Northeast,Region I,MORRIS,State Police,False,,40.900017,-74.22954
+NJ0150000,Ocean County Sheriff's Office,12577,NJ,Middle Atlantic,Northeast,Region I,OCEAN,County,False,,39.953976,-74.193436
+NJ0150100,Barnegat Light Police Department,12578,NJ,Middle Atlantic,Northeast,Region I,OCEAN,City,False,,39.616623,-74.20031
+NJ0150200,Bay Head Police Department,12579,NJ,Middle Atlantic,Northeast,Region I,OCEAN,City,True,2021-03-01T00:00:00.000Z,39.865669,-74.258864
+NJ0150300,Beach Haven Police Department,12580,NJ,Middle Atlantic,Northeast,Region I,OCEAN,City,True,2021-12-01T00:00:00.000Z,39.562916,-74.24069
+NJ0150400,Beachwood Police Department,12581,NJ,Middle Atlantic,Northeast,Region I,OCEAN,City,True,2021-08-01T00:00:00.000Z,39.865669,-74.258864
+NJ0150500,Berkeley Township Police Department,12582,NJ,Middle Atlantic,Northeast,Region I,OCEAN,City,False,,39.865669,-74.258864
+NJ0150600,Brick Township Police Department,12583,NJ,Middle Atlantic,Northeast,Region I,OCEAN,City,False,,39.865669,-74.258864
+NJ0150700,Toms River Township Police Department,12584,NJ,Middle Atlantic,Northeast,Region I,OCEAN,City,True,2021-12-01T00:00:00.000Z,39.986946,-74.181694
+NJ0150900,Harvey Cedars Police Department,12585,NJ,Middle Atlantic,Northeast,Region I,OCEAN,City,True,2021-01-01T00:00:00.000Z,39.865669,-74.258864
+NJ0151000,Island Heights Police Department,12586,NJ,Middle Atlantic,Northeast,Region I,OCEAN,City,True,2021-01-01T00:00:00.000Z,39.865669,-74.258864
+NJ0151100,Jackson Township Police Department,12587,NJ,Middle Atlantic,Northeast,Region I,OCEAN,City,True,2021-06-01T00:00:00.000Z,39.865669,-74.258864
+NJ0151200,Lacey Township Police Department,12588,NJ,Middle Atlantic,Northeast,Region I,OCEAN,City,True,2021-03-01T00:00:00.000Z,39.859646,-74.20687
+NJ0151300,Lakehurst Police Department,12589,NJ,Middle Atlantic,Northeast,Region I,OCEAN,City,True,2021-01-01T00:00:00.000Z,40.01238,-74.309944
+NJ0151400,Lakewood Township Police Department,12590,NJ,Middle Atlantic,Northeast,Region I,OCEAN,City,True,2021-01-01T00:00:00.000Z,40.093304,-74.21318
+NJ0151500,Lavallette Police Department,12591,NJ,Middle Atlantic,Northeast,Region I,OCEAN,City,False,,39.96813,-74.069305
+NJ0151600,Little Egg Harbor Township Police Department,12592,NJ,Middle Atlantic,Northeast,Region I,OCEAN,City,True,2022-02-01T00:00:00.000Z,39.576393,-74.36449
+NJ0151700,Long Beach Township Police Department,12593,NJ,Middle Atlantic,Northeast,Region I,OCEAN,City,True,2021-01-01T00:00:00.000Z,39.616623,-74.20031
+NJ0151800,Manchester Township Police Department,12594,NJ,Middle Atlantic,Northeast,Region I,OCEAN,City,True,2021-12-01T00:00:00.000Z,40.00575,-74.297325
+NJ0151900,Mantoloking Police Department,12595,NJ,Middle Atlantic,Northeast,Region I,OCEAN,City,True,2021-07-01T00:00:00.000Z,39.865669,-74.258864
+NJ0152000,"Ocean Township, Ocean County Police Department",12596,NJ,Middle Atlantic,Northeast,Region I,OCEAN,City,True,2021-02-01T00:00:00.000Z,,
+NJ0152100,Ocean Gate Police Department,12597,NJ,Middle Atlantic,Northeast,Region I,OCEAN,City,True,2021-09-01T00:00:00.000Z,39.92474,-74.14068
+NJ0152200,Pine Beach Police Department,12598,NJ,Middle Atlantic,Northeast,Region I,OCEAN,City,True,2022-04-01T00:00:00.000Z,39.933838,-74.169586
+NJ0152300,Plumsted Township Police Department,12599,NJ,Middle Atlantic,Northeast,Region I,OCEAN,City,False,,40.06676,-74.52342
+NJ0152400,Point Pleasant Police Department,12600,NJ,Middle Atlantic,Northeast,Region I,OCEAN,City,False,,40.071968,-74.068245
+NJ0152500,Point Pleasant Beach Police Department,12601,NJ,Middle Atlantic,Northeast,Region I,OCEAN,City,True,2021-05-01T00:00:00.000Z,40.087223,-74.04756
+NJ0152600,Seaside Heights Police Department,12602,NJ,Middle Atlantic,Northeast,Region I,OCEAN,City,True,2022-01-01T00:00:00.000Z,39.94345,-74.07366
+NJ0152700,Seaside Park Police Department,12603,NJ,Middle Atlantic,Northeast,Region I,OCEAN,City,True,2021-01-01T00:00:00.000Z,39.865669,-74.258864
+NJ0152800,Ship Bottom Police Department,12604,NJ,Middle Atlantic,Northeast,Region I,OCEAN,City,True,2021-10-01T00:00:00.000Z,39.644833,-74.179726
+NJ0152900,South Toms River Police Department,12605,NJ,Middle Atlantic,Northeast,Region I,OCEAN,City,True,2021-06-01T00:00:00.000Z,39.94322,-74.20031
+NJ0153000,Stafford Township Police Department,12606,NJ,Middle Atlantic,Northeast,Region I,OCEAN,City,True,2021-01-01T00:00:00.000Z,39.865669,-74.258864
+NJ0153100,Surf City Police Department,12607,NJ,Middle Atlantic,Northeast,Region I,OCEAN,City,False,,39.56866,-74.236404
+NJ0153200,Tuckerton Police Department,12608,NJ,Middle Atlantic,Northeast,Region I,OCEAN,City,False,,39.59049,-74.33893
+NJ0153300,Barnegat Township Police Department,12609,NJ,Middle Atlantic,Northeast,Region I,OCEAN,City,True,2021-09-01T00:00:00.000Z,39.865669,-74.258864
+NJ0158900,Prosecutor: Ocean County,12610,NJ,Middle Atlantic,Northeast,Region I,OCEAN,Other,False,,39.953693,-74.19349
+NJ015SP00,State Police: Ocean County,12613,NJ,Middle Atlantic,Northeast,Region I,OCEAN,State Police,False,,39.865669,-74.258864
+NJ0160000,Passaic County Sheriff's Office,12614,NJ,Middle Atlantic,Northeast,Region I,PASSAIC,County,True,2021-06-01T00:00:00.000Z,40.95181,-74.21038
+NJ0160100,Bloomingdale Police Department,12615,NJ,Middle Atlantic,Northeast,Region I,PASSAIC,City,True,2021-01-01T00:00:00.000Z,41.00814,-74.33898
+NJ0160200,Clifton Police Department,12616,NJ,Middle Atlantic,Northeast,Region I,PASSAIC,City,False,,40.86561,-74.160416
+NJ0160300,Haledon Police Department,12617,NJ,Middle Atlantic,Northeast,Region I,PASSAIC,City,False,,40.94128,-74.18519
+NJ0160400,Hawthorne Police Department,12618,NJ,Middle Atlantic,Northeast,Region I,PASSAIC,City,True,2021-01-01T00:00:00.000Z,40.953415,-74.15542
+NJ0160500,Little Falls Township Police Department,12619,NJ,Middle Atlantic,Northeast,Region I,PASSAIC,City,False,,40.8803,-74.228935
+NJ0160600,North Haledon Police Department,12620,NJ,Middle Atlantic,Northeast,Region I,PASSAIC,City,True,2021-03-01T00:00:00.000Z,40.952972,-74.18463
+NJ0160700,Passaic Police Department,12621,NJ,Middle Atlantic,Northeast,Region I,PASSAIC,City,True,2021-01-01T00:00:00.000Z,41.033763,-74.300307
+NJ0160800,Paterson Police Department,12622,NJ,Middle Atlantic,Northeast,Region I,PASSAIC,City,False,,40.91896,-74.170715
+NJ0160900,Pompton Lakes Police Department,12623,NJ,Middle Atlantic,Northeast,Region I,PASSAIC,City,True,2021-01-01T00:00:00.000Z,41.00302,-74.290306
+NJ0161000,Prospect Park Police Department,12624,NJ,Middle Atlantic,Northeast,Region I,PASSAIC,City,False,,40.934605,-74.17359
+NJ0161100,Ringwood Police Department,12625,NJ,Middle Atlantic,Northeast,Region I,PASSAIC,City,True,2021-01-01T00:00:00.000Z,41.128788,-74.263336
+NJ0161200,Totowa Police Department,12626,NJ,Middle Atlantic,Northeast,Region I,PASSAIC,City,False,,40.904156,-74.21809
+NJ0161300,Wanaque Police Department,12627,NJ,Middle Atlantic,Northeast,Region I,PASSAIC,City,True,2021-01-01T00:00:00.000Z,41.05146,-74.28889
+NJ0161400,Wayne Township Police Department,12628,NJ,Middle Atlantic,Northeast,Region I,PASSAIC,City,True,2021-04-01T00:00:00.000Z,40.928013,-74.23015
+NJ0161500,West Milford Township Police Department,12629,NJ,Middle Atlantic,Northeast,Region I,PASSAIC,City,True,2021-01-01T00:00:00.000Z,41.033763,-74.300307
+NJ0161600,Woodland Park Police Department,12630,NJ,Middle Atlantic,Northeast,Region I,PASSAIC,City,True,2021-01-01T00:00:00.000Z,41.033763,-74.300307
+NJ0161700,William Paterson University,12631,NJ,Middle Atlantic,Northeast,Region I,PASSAIC,University or College,False,,40.94103,-74.19704
+NJ0168900,Prosecutor: Passaic County,12632,NJ,Middle Atlantic,Northeast,Region I,PASSAIC,Other,False,,40.91279,-74.17114
+NJ016SP00,State Police: Passaic County,12635,NJ,Middle Atlantic,Northeast,Region I,PASSAIC,State Police,False,,40.900017,-74.22954
+NJ0170000,Salem County Sheriff's Office,12636,NJ,Middle Atlantic,Northeast,Region I,SALEM,County,True,2021-01-01T00:00:00.000Z,39.57284,-75.46662
+NJ0170200,Elmer Police Department,12637,NJ,Middle Atlantic,Northeast,Region I,SALEM,City,True,2021-01-01T00:00:00.000Z,39.573828,-75.357356
+NJ0170300,Elsinboro Township Police Department,12638,NJ,Middle Atlantic,Northeast,Region I,SALEM,City,False,2023-01-01T00:00:00.000Z,39.573828,-75.357356
+NJ0170400,Lower Alloways Creek Township Police Department,12639,NJ,Middle Atlantic,Northeast,Region I,SALEM,City,True,2021-12-01T00:00:00.000Z,39.573828,-75.357356
+NJ0170500,Pennsville Township Police Department,12640,NJ,Middle Atlantic,Northeast,Region I,SALEM,City,True,2021-02-01T00:00:00.000Z,39.659767,-75.51511
+NJ0170800,Penns Grove Police Department,12641,NJ,Middle Atlantic,Northeast,Region I,SALEM,City,True,2022-01-01T00:00:00.000Z,39.730404,-75.46957
+NJ0171200,Salem Police Department,12642,NJ,Middle Atlantic,Northeast,Region I,SALEM,City,True,2021-12-01T00:00:00.000Z,39.572395,-75.468925
+NJ0171300,Carney's Point Township Police Department,12643,NJ,Middle Atlantic,Northeast,Region I,SALEM,City,True,2021-04-01T00:00:00.000Z,39.71922,-75.45714
+NJ0171500,Woodstown Police Department,12644,NJ,Middle Atlantic,Northeast,Region I,SALEM,City,True,2021-05-01T00:00:00.000Z,39.573828,-75.357356
+NJ0178900,Prosecutor: Salem County,12645,NJ,Middle Atlantic,Northeast,Region I,SALEM,Other,False,,39.57314,-75.46654
+NJ017SP00,State Police: Salem County,12647,NJ,Middle Atlantic,Northeast,Region I,SALEM,State Police,False,,39.57778,-74.871025
+NJ0180000,Somerset County Sheriff's Office,12648,NJ,Middle Atlantic,Northeast,Region I,SOMERSET,County,False,,40.56831,-74.60975
+NJ0180100,Bedminster Township Police Department,12649,NJ,Middle Atlantic,Northeast,Region I,SOMERSET,City,False,,40.675365,-74.643616
+NJ0180200,Bernards Township Police Department,12650,NJ,Middle Atlantic,Northeast,Region I,SOMERSET,City,True,2021-01-01T00:00:00.000Z,40.6983,-74.54763
+NJ0180300,Bernardsville Police Department,12651,NJ,Middle Atlantic,Northeast,Region I,SOMERSET,City,True,2021-01-01T00:00:00.000Z,40.713757,-74.57872
+NJ0180400,Bound Brook Police Department,12652,NJ,Middle Atlantic,Northeast,Region I,SOMERSET,City,False,,40.56378,-74.529755
+NJ0180500,Branchburg Township Police Department,12653,NJ,Middle Atlantic,Northeast,Region I,SOMERSET,City,False,,40.560684,-74.699745
+NJ0180600,Bridgewater Township Police Department,12654,NJ,Middle Atlantic,Northeast,Region I,SOMERSET,City,False,2023-04-01T00:00:00.000Z,40.591496,-74.62324
+NJ0180700,Far Hills Police Department,12655,NJ,Middle Atlantic,Northeast,Region I,SOMERSET,City,True,2021-01-01T00:00:00.000Z,40.565522,-74.61993
+NJ0180800,"Franklin Township, Somerset County Police Department",12656,NJ,Middle Atlantic,Northeast,Region I,SOMERSET,City,False,,40.49759,-74.52405
+NJ0180900,Green Brook Township Police Department,12657,NJ,Middle Atlantic,Northeast,Region I,SOMERSET,City,False,,40.598564,-74.47387
+NJ0181000,Hillsborough Township Police Department,12658,NJ,Middle Atlantic,Northeast,Region I,SOMERSET,City,True,2021-01-01T00:00:00.000Z,40.510166,-74.686455
+NJ0181100,Manville Police Department,12659,NJ,Middle Atlantic,Northeast,Region I,SOMERSET,City,False,,40.554977,-74.5833
+NJ0181300,Montgomery Township Police Department,12660,NJ,Middle Atlantic,Northeast,Region I,SOMERSET,City,False,,40.565522,-74.61993
+NJ0181400,North Plainfield Police Department,12661,NJ,Middle Atlantic,Northeast,Region I,SOMERSET,City,True,2021-01-01T00:00:00.000Z,40.620895,-74.42797
+NJ0181500,Peapack and Gladstone Police Department,12662,NJ,Middle Atlantic,Northeast,Region I,SOMERSET,City,False,,40.565522,-74.61993
+NJ0181600,Raritan Police Department,12663,NJ,Middle Atlantic,Northeast,Region I,SOMERSET,City,False,,40.567593,-74.63667
+NJ0181800,Somerville Police Department,12664,NJ,Middle Atlantic,Northeast,Region I,SOMERSET,City,False,,40.56747,-74.61196
+NJ0181900,South Bound Brook Police Department,12665,NJ,Middle Atlantic,Northeast,Region I,SOMERSET,City,False,,40.557575,-74.52756
+NJ0182000,Warren Township Police Department,12666,NJ,Middle Atlantic,Northeast,Region I,SOMERSET,City,True,2021-01-01T00:00:00.000Z,40.625095,-74.47906
+NJ0182100,Watchung Police Department,12667,NJ,Middle Atlantic,Northeast,Region I,SOMERSET,City,True,2021-03-01T00:00:00.000Z,40.63317,-74.44472
+NJ0188900,Prosecutor: Somerset County,12668,NJ,Middle Atlantic,Northeast,Region I,SOMERSET,Other,False,,40.565522,-74.61993
+NJ018SP00,State Police: Somerset County,12671,NJ,Middle Atlantic,Northeast,Region I,SOMERSET,State Police,False,,40.565522,-74.61993
+NJ0190000,Sussex County Sheriff's Office,12672,NJ,Middle Atlantic,Northeast,Region I,SUSSEX,County,False,,41.137424,-74.691855
+NJ0190200,Andover Township Police Department,12673,NJ,Middle Atlantic,Northeast,Region I,SUSSEX,City,True,2021-02-01T00:00:00.000Z,41.041916,-74.72375
+NJ0190400,Byram Township Police Department,12674,NJ,Middle Atlantic,Northeast,Region I,SUSSEX,City,False,,40.938137,-74.70889
+NJ0190600,Franklin Police Department,12675,NJ,Middle Atlantic,Northeast,Region I,SUSSEX,City,True,2021-01-01T00:00:00.000Z,41.109077,-74.589615
+NJ0190900,Hamburg Police Department,12676,NJ,Middle Atlantic,Northeast,Region I,SUSSEX,City,True,2021-01-01T00:00:00.000Z,41.137424,-74.691855
+NJ0191100,Hardyston Township Police Department,12677,NJ,Middle Atlantic,Northeast,Region I,SUSSEX,City,True,2021-02-01T00:00:00.000Z,41.14219,-74.586815
+NJ0191200,Hopatcong Police Department,12678,NJ,Middle Atlantic,Northeast,Region I,SUSSEX,City,True,2022-01-01T00:00:00.000Z,40.934437,-74.659706
+NJ0191500,Newton Police Department,12679,NJ,Middle Atlantic,Northeast,Region I,SUSSEX,City,True,2021-02-01T00:00:00.000Z,41.137424,-74.691855
+NJ0191600,Ogdensburg Police Department,12680,NJ,Middle Atlantic,Northeast,Region I,SUSSEX,City,True,2021-01-01T00:00:00.000Z,41.137424,-74.691855
+NJ0191800,Sparta Township Police Department,12681,NJ,Middle Atlantic,Northeast,Region I,SUSSEX,City,True,2021-01-01T00:00:00.000Z,41.137424,-74.691855
+NJ0191900,Stanhope Police Department,12682,NJ,Middle Atlantic,Northeast,Region I,SUSSEX,City,True,2021-01-01T00:00:00.000Z,40.90363,-74.708885
+NJ0192200,Vernon Township Police Department,12685,NJ,Middle Atlantic,Northeast,Region I,SUSSEX,City,True,2021-01-01T00:00:00.000Z,41.199818,-74.48553
+NJ0198900,Prosecutor: Sussex County,12686,NJ,Middle Atlantic,Northeast,Region I,SUSSEX,Other,False,,41.137424,-74.691855
+NJ019SP00,State Police: Sussex County,12688,NJ,Middle Atlantic,Northeast,Region I,SUSSEX,State Police,False,,40.900017,-74.22954
+NJ0200000,Union County Sheriff's Office,12689,NJ,Middle Atlantic,Northeast,Region I,UNION,County,False,,40.66194,-74.21678
+NJ0200100,Berkeley Heights Township Police Department,12690,NJ,Middle Atlantic,Northeast,Region I,UNION,City,True,2021-01-01T00:00:00.000Z,40.681866,-74.44223
+NJ0200200,Clark Township Police Department,12691,NJ,Middle Atlantic,Northeast,Region I,UNION,City,True,2021-01-01T00:00:00.000Z,40.62177,-74.30947
+NJ0200300,Cranford Township Police Department,12692,NJ,Middle Atlantic,Northeast,Region I,UNION,City,True,2021-01-01T00:00:00.000Z,40.65766,-74.30234
+NJ0200400,Elizabeth Police Department,12693,NJ,Middle Atlantic,Northeast,Region I,UNION,City,True,2021-01-01T00:00:00.000Z,40.659871,-74.308696
+NJ0200500,Fanwood Police Department,12694,NJ,Middle Atlantic,Northeast,Region I,UNION,City,True,2022-05-01T00:00:00.000Z,40.64305,-74.3879
+NJ0200600,Garwood Police Department,12695,NJ,Middle Atlantic,Northeast,Region I,UNION,City,False,,40.659871,-74.308696
+NJ0200700,Hillside Township Police Department,12696,NJ,Middle Atlantic,Northeast,Region I,UNION,City,True,2021-01-01T00:00:00.000Z,40.70145,-74.22926
+NJ0200800,Kenilworth Police Department,12697,NJ,Middle Atlantic,Northeast,Region I,UNION,City,True,2021-01-01T00:00:00.000Z,40.676266,-74.28942
+NJ0200900,Linden Police Department,12698,NJ,Middle Atlantic,Northeast,Region I,UNION,City,False,,40.659871,-74.308696
+NJ0201000,Mountainside Police Department,12699,NJ,Middle Atlantic,Northeast,Region I,UNION,City,True,2022-02-01T00:00:00.000Z,40.659871,-74.308696
+NJ0201100,New Providence Police Department,12700,NJ,Middle Atlantic,Northeast,Region I,UNION,City,False,,40.708298,-74.40446
+NJ0201200,Plainfield Police Department,12701,NJ,Middle Atlantic,Northeast,Region I,UNION,City,False,,40.61861,-74.41885
+NJ0201300,Rahway Police Department,12702,NJ,Middle Atlantic,Northeast,Region I,UNION,City,True,2021-01-01T00:00:00.000Z,40.659871,-74.308696
+NJ0201400,Roselle Police Department,12703,NJ,Middle Atlantic,Northeast,Region I,UNION,City,False,,40.658653,-74.263275
+NJ0201500,Roselle Park Police Department,12704,NJ,Middle Atlantic,Northeast,Region I,UNION,City,True,2021-01-01T00:00:00.000Z,40.66218,-74.260124
+NJ0201600,Scotch Plains Township Police Department,12705,NJ,Middle Atlantic,Northeast,Region I,UNION,City,True,2021-01-01T00:00:00.000Z,40.65006,-74.39732
+NJ0201700,Springfield Police Department,12706,NJ,Middle Atlantic,Northeast,Region I,UNION,City,True,2021-01-01T00:00:00.000Z,40.708416,-74.31366
+NJ0201800,Summit Police Department,12707,NJ,Middle Atlantic,Northeast,Region I,UNION,City,False,,40.71703,-74.363396
+NJ0201900,Union Township Police Department,12708,NJ,Middle Atlantic,Northeast,Region I,UNION,City,True,2022-04-01T00:00:00.000Z,40.659871,-74.308696
+NJ0202000,Westfield Police Department,12709,NJ,Middle Atlantic,Northeast,Region I,UNION,City,True,2021-01-01T00:00:00.000Z,40.654408,-74.34541
+NJ0202100,Winfield Township Police Department,12710,NJ,Middle Atlantic,Northeast,Region I,UNION,City,False,,40.659871,-74.308696
+NJ0202400,Kean University,12711,NJ,Middle Atlantic,Northeast,Region I,UNION,University or College,True,2021-12-01T00:00:00.000Z,40.68504,-74.23841
+NJ0208900,Prosecutor: Union County,12712,NJ,Middle Atlantic,Northeast,Region I,UNION,Other,False,,40.66166,-74.216965
+NJ0209100,Park Police: Union County,12713,NJ,Middle Atlantic,Northeast,Region I,UNION,Other,False,,40.650787,-74.34329
+NJ020SP00,State Police: Union County,12716,NJ,Middle Atlantic,Northeast,Region I,UNION,State Police,False,,40.900017,-74.22954
+NJ0210000,Warren County Sheriff's Office,12717,NJ,Middle Atlantic,Northeast,Region I,WARREN,County,False,,40.82724,-75.07699
+NJ0210200,Alpha Police Department,12719,NJ,Middle Atlantic,Northeast,Region I,WARREN,City,False,,40.64938,-75.14311
+NJ0210300,Belvidere Police Department,12720,NJ,Middle Atlantic,Northeast,Region I,WARREN,City,False,,40.832584,-75.066826
+NJ0210400,Blairstown Township Police Department,12721,NJ,Middle Atlantic,Northeast,Region I,WARREN,City,False,,40.98754,-74.97823
+NJ0210700,"Greenwich Township, Warren County Police Department",12722,NJ,Middle Atlantic,Northeast,Region I,WARREN,City,False,,40.693443,-75.11222
+NJ0210800,Hackettstown Police Department,12723,NJ,Middle Atlantic,Northeast,Region I,WARREN,City,False,,40.853524,-75.009542
+NJ0211200,Independence Township Police Department,12724,NJ,Middle Atlantic,Northeast,Region I,WARREN,City,False,,40.853524,-75.009542
+NJ0211500,Lopatcong Township Police Department,12726,NJ,Middle Atlantic,Northeast,Region I,WARREN,City,False,,40.700356,-75.17103
+NJ0211600,"Mansfield Township, Warren County Police Department",12727,NJ,Middle Atlantic,Northeast,Region I,WARREN,City,False,,,
+NJ0211700,Oxford Township Police Department,12728,NJ,Middle Atlantic,Northeast,Region I,WARREN,City,False,,40.803326,-74.991516
+NJ0211900,Phillipsburg Police Department,12729,NJ,Middle Atlantic,Northeast,Region I,WARREN,City,False,,40.698498,-75.18114
+NJ0212000,Pohatcong Township Police Department,12730,NJ,Middle Atlantic,Northeast,Region I,WARREN,City,False,,40.64938,-75.14311
+NJ0212100,Washington Police Department,12731,NJ,Middle Atlantic,Northeast,Region I,WARREN,City,False,,40.75955,-74.98039
+NJ0212200,"Washington Township, Warren County Police Department",12732,NJ,Middle Atlantic,Northeast,Region I,WARREN,City,False,,40.75158,-74.97682
+NJ0218900,Prosecutor: Warren County,12733,NJ,Middle Atlantic,Northeast,Region I,WARREN,Other,False,,40.853524,-75.009542
+NJ021SP00,State Police: Warren County,12735,NJ,Middle Atlantic,Northeast,Region I,WARREN,State Police,False,,40.900017,-74.22954
+NJ0225400,State Park Police,12738,NJ,Middle Atlantic,Northeast,Region I,NOT SPECIFIED,Other State Agency,False,,40.282503,-74.703724
+NJ0225500,Department of Corrections ,28558,NJ,Middle Atlantic,Northeast,Region I,NOT SPECIFIED,Other State Agency,False,,,
+NJNDRPA00,Delaware River Port Authority Police Department,22726,NJ,Middle Atlantic,Northeast,Region I,NOT SPECIFIED,Other,True,2021-05-01T00:00:00.000Z,,
+NJNPD0000,Newark Police Department,12740,NJ,Middle Atlantic,Northeast,Region I,ESSEX,City,True,2021-01-01T00:00:00.000Z,40.731922,-74.17256
+NJNPIPP00,Palisades Interstate Parkway,12741,NJ,Middle Atlantic,Northeast,Region I,BERGEN,Other State Agency,False,2022-05-01T00:00:00.000Z,40.959648,-74.07486
+NJNSP2200,State Police,25637,NJ,Middle Atlantic,Northeast,Region I,NOT SPECIFIED,State Police,True,2021-07-01T00:00:00.000Z,39.328387,-75.121644
+NJNYPOA00,Port Authority of New York and New Jersey,12743,NJ,Middle Atlantic,Northeast,Region I,NOT SPECIFIED,Other State Agency,True,2021-03-01T00:00:00.000Z,40.731384,-74.078627

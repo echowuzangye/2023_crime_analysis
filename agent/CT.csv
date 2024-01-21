@@ -1,0 +1,108 @@
+ori,agency_name,agency_id,state_abbr,division_name,region_name,region_desc,county_name,agency_type_name,nibrs,nibrs_start_date,latitude,longitude
+CT0000200,Ansonia Police Department,2120,CT,New England,Northeast,Region I,NEW HAVEN,City,True,2001-03-01T00:00:00.000Z,41.33309,-73.07276
+CT0000400,Avon Police Department,2121,CT,New England,Northeast,Region I,HARTFORD,City,True,2010-02-01T00:00:00.000Z,41.806053,-72.732916
+CT0000700,Berlin Police Department,2123,CT,New England,Northeast,Region I,HARTFORD,City,True,2000-02-01T00:00:00.000Z,41.62753,-72.770615
+CT0000900,Bethel Police Department,2124,CT,New England,Northeast,Region I,FAIRFIELD,City,True,1998-08-01T00:00:00.000Z,41.227399,-73.366523
+CT0001100,Bloomfield Police Department,2125,CT,New England,Northeast,Region I,HARTFORD,City,True,2005-10-01T00:00:00.000Z,41.806053,-72.732916
+CT0001400,Branford Police Department,2126,CT,New England,Northeast,Region I,NEW HAVEN,City,True,1998-01-01T00:00:00.000Z,41.280483,-72.81397
+CT0001500,Bridgeport Police Department,2127,CT,New England,Northeast,Region I,FAIRFIELD,City,True,2018-06-01T00:00:00.000Z,41.227399,-73.366523
+CT0001700,Bristol Police Department,2128,CT,New England,Northeast,Region I,HARTFORD,City,True,2011-01-01T00:00:00.000Z,41.670544,-72.94299
+CT0001800,Brookfield Police Department,2129,CT,New England,Northeast,Region I,FAIRFIELD,City,True,2006-08-01T00:00:00.000Z,41.467785,-73.40296
+CT0002300,Canton Police Department,2130,CT,New England,Northeast,Region I,HARTFORD,City,True,2006-11-01T00:00:00.000Z,41.82199,-72.92377
+CT0002500,Cheshire Police Department,2131,CT,New England,Northeast,Region I,NEW HAVEN,City,True,1998-04-01T00:00:00.000Z,41.51123,-72.89918
+CT0002700,Clinton Police Department,2132,CT,New England,Northeast,Region I,MIDDLESEX,City,True,2001-12-01T00:00:00.000Z,41.278084,-72.523766
+CT0003200,Coventry Police Department,2133,CT,New England,Northeast,Region I,TOLLAND,City,True,2003-04-01T00:00:00.000Z,41.780262,-72.312584
+CT0003300,Cromwell Police Department,2134,CT,New England,Northeast,Region I,MIDDLESEX,City,True,1999-12-01T00:00:00.000Z,41.595985,-72.6463
+CT0003400,Danbury Police Department,2135,CT,New England,Northeast,Region I,FAIRFIELD,City,True,2014-04-01T00:00:00.000Z,41.40037,-73.45838
+CT0003500,Darien Police Department,2136,CT,New England,Northeast,Region I,FAIRFIELD,City,True,2001-06-01T00:00:00.000Z,41.227399,-73.366523
+CT0003700,Derby Police Department,2137,CT,New England,Northeast,Region I,NEW HAVEN,City,True,1999-06-01T00:00:00.000Z,41.323452,-73.086716
+CT0004200,East Hampton Police Department,2138,CT,New England,Northeast,Region I,MIDDLESEX,City,True,2012-05-01T00:00:00.000Z,41.58303,-72.504326
+CT0004300,East Hartford Police Department,2139,CT,New England,Northeast,Region I,HARTFORD,City,True,1999-12-01T00:00:00.000Z,41.78032,-72.611305
+CT0004400,East Haven Police Department,2140,CT,New England,Northeast,Region I,NEW HAVEN,City,True,1998-01-01T00:00:00.000Z,41.29254,-72.86689
+CT0004500,East Lyme Police Department,2141,CT,New England,Northeast,Region I,NEW LONDON,City,True,2017-07-01T00:00:00.000Z,41.472651,-72.108633
+CT0004600,Easton Police Department,2142,CT,New England,Northeast,Region I,FAIRFIELD,City,True,1999-07-01T00:00:00.000Z,41.227399,-73.366523
+CT0004700,East Windsor Police Department,2143,CT,New England,Northeast,Region I,HARTFORD,City,True,1998-01-01T00:00:00.000Z,41.806053,-72.732916
+CT0004900,Enfield Police Department,2144,CT,New England,Northeast,Region I,HARTFORD,City,True,2019-01-01T00:00:00.000Z,41.99931,-72.59431
+CT0005100,Fairfield Police Department,2145,CT,New England,Northeast,Region I,FAIRFIELD,City,True,2000-01-01T00:00:00.000Z,41.139725,-73.25669
+CT0005200,Farmington Police Department,2146,CT,New England,Northeast,Region I,HARTFORD,City,True,2002-07-01T00:00:00.000Z,41.748455,-72.86829
+CT0005400,Glastonbury Police Department,2147,CT,New England,Northeast,Region I,HARTFORD,City,True,2000-01-01T00:00:00.000Z,41.806053,-72.732916
+CT0005600,Granby Police Department,2148,CT,New England,Northeast,Region I,HARTFORD,City,True,1998-02-01T00:00:00.000Z,41.95605,-72.79298
+CT0005700,Greenwich Police Department,2149,CT,New England,Northeast,Region I,FAIRFIELD,City,True,1999-09-01T00:00:00.000Z,41.025414,-73.62489
+CT0005900,Groton Police Department,2151,CT,New England,Northeast,Region I,NEW LONDON,City,True,1998-02-01T00:00:00.000Z,41.35508,-72.0722
+CT0006000,Guilford Police Department,2152,CT,New England,Northeast,Region I,NEW HAVEN,City,True,2017-03-01T00:00:00.000Z,41.293587,-72.68643
+CT0006200,Hamden Police Department,2153,CT,New England,Northeast,Region I,NEW HAVEN,City,True,2000-12-01T00:00:00.000Z,41.349717,-72.900204
+CT0006400,Hartford Police Department,2154,CT,New England,Northeast,Region I,HARTFORD,City,True,2020-12-01T00:00:00.000Z,41.806053,-72.732916
+CT0007200,Ledyard,26203,CT,New England,Northeast,Region I,NEW LONDON,City,True,2016-02-01T00:00:00.000Z,,
+CT0007600,Madison Police Department,2157,CT,New England,Northeast,Region I,NEW HAVEN,City,True,1998-01-01T00:00:00.000Z,41.294643,-72.57503
+CT0007700,Manchester Police Department,2158,CT,New England,Northeast,Region I,HARTFORD,City,True,2019-05-01T00:00:00.000Z,41.783634,-72.51181
+CT0008000,Meriden Police Department,2159,CT,New England,Northeast,Region I,NEW HAVEN,City,True,2021-01-01T00:00:00.000Z,41.5185,-72.82707
+CT0008100,Middlebury Police Department,2160,CT,New England,Northeast,Region I,NEW HAVEN,City,True,2012-04-01T00:00:00.000Z,41.349717,-72.900204
+CT0008300,Middletown Police Department,2161,CT,New England,Northeast,Region I,MIDDLESEX,City,True,2008-03-01T00:00:00.000Z,41.557114,-72.64751
+CT0008400,Milford Police Department,2162,CT,New England,Northeast,Region I,NEW HAVEN,City,True,2020-12-01T00:00:00.000Z,41.349717,-72.900204
+CT0008500,Monroe Police Department,2163,CT,New England,Northeast,Region I,FAIRFIELD,City,True,1998-01-01T00:00:00.000Z,41.33218,-73.207184
+CT0008800,Naugatuck Police Department,2165,CT,New England,Northeast,Region I,NEW HAVEN,City,True,1998-01-01T00:00:00.000Z,41.504784,-73.054276
+CT0008900,New Britain Police Department,2166,CT,New England,Northeast,Region I,HARTFORD,City,True,2019-05-01T00:00:00.000Z,41.667534,-72.77737
+CT0009000,New Canaan Police Department,2167,CT,New England,Northeast,Region I,FAIRFIELD,City,True,2003-06-01T00:00:00.000Z,41.14095,-73.49129
+CT0009300,New Haven Police Department,2168,CT,New England,Northeast,Region I,NEW HAVEN,City,True,1999-05-01T00:00:00.000Z,41.28382,-72.868744
+CT0009400,Newington Police Department,2169,CT,New England,Northeast,Region I,HARTFORD,City,True,2016-10-01T00:00:00.000Z,41.697254,-72.729836
+CT0009500,New London Police Department,2170,CT,New England,Northeast,Region I,NEW LONDON,City,True,1998-01-01T00:00:00.000Z,41.3566,-72.09597
+CT0009600,New Milford Police Department,2171,CT,New England,Northeast,Region I,LITCHFIELD,City,True,2001-01-01T00:00:00.000Z,41.791883,-73.235404
+CT0009700,Newtown Police Department,2172,CT,New England,Northeast,Region I,FAIRFIELD,City,True,2003-04-01T00:00:00.000Z,41.409485,-73.305756
+CT0009900,North Branford Police Department,2173,CT,New England,Northeast,Region I,NEW HAVEN,City,True,1998-12-01T00:00:00.000Z,41.349717,-72.900204
+CT0010100,North Haven Police Department,2174,CT,New England,Northeast,Region I,NEW HAVEN,City,True,1998-01-01T00:00:00.000Z,41.387096,-72.8615
+CT0010300,Norwalk Police Department,2175,CT,New England,Northeast,Region I,FAIRFIELD,City,True,1999-10-01T00:00:00.000Z,41.096684,-73.42238
+CT0010400,Norwich Police Department,2176,CT,New England,Northeast,Region I,NEW LONDON,City,True,2018-01-01T00:00:00.000Z,41.516167,-72.08029
+CT0010600,Old Saybrook Police Department,2177,CT,New England,Northeast,Region I,MIDDLESEX,City,True,2010-09-01T00:00:00.000Z,41.434525,-72.524227
+CT0010700,Orange Police Department,2178,CT,New England,Northeast,Region I,NEW HAVEN,City,True,1998-01-01T00:00:00.000Z,41.349717,-72.900204
+CT0010900,Plainfield Police Department,2179,CT,New England,Northeast,Region I,WINDHAM,City,True,1998-01-01T00:00:00.000Z,41.824999,-71.990702
+CT0011000,Plainville Police Department,2180,CT,New England,Northeast,Region I,HARTFORD,City,True,2018-10-01T00:00:00.000Z,41.673176,-72.865486
+CT0011100,Plymouth Police Department,2181,CT,New England,Northeast,Region I,LITCHFIELD,City,True,2001-09-01T00:00:00.000Z,41.791883,-73.235404
+CT0011300,Portland Police Department,2182,CT,New England,Northeast,Region I,MIDDLESEX,City,True,2021-01-01T00:00:00.000Z,41.57564,-72.63865
+CT0011600,Putnam Police Department,2184,CT,New England,Northeast,Region I,WINDHAM,City,True,1998-04-01T00:00:00.000Z,41.9213,-71.91015
+CT0011700,Redding Police Department,2185,CT,New England,Northeast,Region I,FAIRFIELD,City,True,2002-07-01T00:00:00.000Z,41.302574,-73.38424
+CT0011800,Ridgefield Police Department,2186,CT,New England,Northeast,Region I,FAIRFIELD,City,True,2000-07-01T00:00:00.000Z,41.28048,-73.49382
+CT0011900,Rocky Hill Police Department,2187,CT,New England,Northeast,Region I,HARTFORD,City,True,2015-10-01T00:00:00.000Z,41.66597,-72.638336
+CT0012400,Seymour Police Department,2188,CT,New England,Northeast,Region I,NEW HAVEN,City,True,2009-01-01T00:00:00.000Z,41.397545,-73.07271
+CT0012600,Shelton Police Department,2189,CT,New England,Northeast,Region I,FAIRFIELD,City,True,2001-02-01T00:00:00.000Z,41.320045,-73.11258
+CT0012800,Simsbury Police Department,2190,CT,New England,Northeast,Region I,HARTFORD,City,True,2005-10-01T00:00:00.000Z,41.88075,-72.79997
+CT0013100,Southington Police Department,2191,CT,New England,Northeast,Region I,HARTFORD,City,True,2001-12-01T00:00:00.000Z,41.621525,-72.87579
+CT0013200,South Windsor Police Department,2192,CT,New England,Northeast,Region I,HARTFORD,City,True,2017-09-01T00:00:00.000Z,41.836597,-72.55273
+CT0013500,Stamford Police Department,2195,CT,New England,Northeast,Region I,FAIRFIELD,City,True,2005-01-01T00:00:00.000Z,41.060837,-73.53756
+CT0013700,Stonington Police Department,2196,CT,New England,Northeast,Region I,NEW LONDON,City,True,2002-10-01T00:00:00.000Z,41.36695,-71.86386
+CT0013800,Stratford Police Department,2197,CT,New England,Northeast,Region I,FAIRFIELD,City,True,2008-01-01T00:00:00.000Z,41.200733,-73.12911
+CT0013900,Suffield Police Department,2198,CT,New England,Northeast,Region I,HARTFORD,City,True,2002-10-01T00:00:00.000Z,41.98631,-72.68829
+CT0014000,Thomaston Police Department,2199,CT,New England,Northeast,Region I,LITCHFIELD,City,True,2003-01-01T00:00:00.000Z,41.791883,-73.235404
+CT0014300,Torrington Police Department,2200,CT,New England,Northeast,Region I,LITCHFIELD,City,True,2007-01-01T00:00:00.000Z,41.812046,-73.12125
+CT0014400,Trumbull Police Department,2201,CT,New England,Northeast,Region I,FAIRFIELD,City,True,1998-01-01T00:00:00.000Z,41.23494,-73.21886
+CT0014600,Vernon Police Department,2202,CT,New England,Northeast,Region I,TOLLAND,City,True,2002-08-01T00:00:00.000Z,41.839462,-72.46484
+CT0014800,Wallingford Police Department,2203,CT,New England,Northeast,Region I,NEW HAVEN,City,True,1999-12-01T00:00:00.000Z,41.456078,-72.81701
+CT0015100,Waterbury Police Department,2204,CT,New England,Northeast,Region I,NEW HAVEN,City,True,2016-03-01T00:00:00.000Z,41.349717,-72.900204
+CT0015200,Waterford Police Department,2205,CT,New England,Northeast,Region I,NEW LONDON,City,True,2000-01-01T00:00:00.000Z,41.34454,-72.137215
+CT0015300,Watertown Police Department,2206,CT,New England,Northeast,Region I,LITCHFIELD,City,True,2003-02-01T00:00:00.000Z,41.598167,-73.1071
+CT0015500,West Hartford Police Department,2207,CT,New England,Northeast,Region I,HARTFORD,City,True,2007-07-01T00:00:00.000Z,41.75906,-72.73901
+CT0015600,West Haven Police Department,2208,CT,New England,Northeast,Region I,NEW HAVEN,City,True,2015-01-01T00:00:00.000Z,41.27384,-72.96431
+CT0015700,Weston Police Department,2209,CT,New England,Northeast,Region I,FAIRFIELD,City,True,2003-08-01T00:00:00.000Z,41.201523,-73.37871
+CT0015800,Westport Police Department,2210,CT,New England,Northeast,Region I,FAIRFIELD,City,True,2000-02-01T00:00:00.000Z,41.140804,-73.3617
+CT0015900,Wethersfield Police Department,2211,CT,New England,Northeast,Region I,HARTFORD,City,True,2002-06-01T00:00:00.000Z,41.72029,-72.667244
+CT0016100,Wilton Police Department,2212,CT,New England,Northeast,Region I,FAIRFIELD,City,True,2000-07-01T00:00:00.000Z,41.188206,-73.425186
+CT0016200,Winchester Police Department,2213,CT,New England,Northeast,Region I,LITCHFIELD,City,True,2001-01-01T00:00:00.000Z,41.871433,-72.96484
+CT0016300,Willimantic Police Department,2214,CT,New England,Northeast,Region I,WINDHAM,City,True,2001-04-01T00:00:00.000Z,41.824999,-71.990702
+CT0016400,Windsor Police Department,2215,CT,New England,Northeast,Region I,HARTFORD,City,True,2002-03-01T00:00:00.000Z,41.851955,-72.66085
+CT0016500,Windsor Locks Police Department,2216,CT,New England,Northeast,Region I,HARTFORD,City,True,2000-10-01T00:00:00.000Z,41.928047,-72.6476
+CT0016600,Wolcott Police Department,2217,CT,New England,Northeast,Region I,NEW HAVEN,City,True,1998-04-01T00:00:00.000Z,41.578514,-72.98141
+CT0016700,Woodbridge Police Department,2218,CT,New England,Northeast,Region I,NEW HAVEN,City,True,1998-01-01T00:00:00.000Z,41.35437,-73.01193
+CT0017000,"University of Connecticut: Storrs, Avery Point, and Hartford",2220,CT,New England,Northeast,Region I,TOLLAND,University or College,True,1998-02-01T00:00:00.000Z,41.809322,-72.26126
+CT0018000,Connecticut Department of Motor Vehicles,26058,CT,New England,Northeast,Region I,NOT SPECIFIED,Other State Agency,True,2016-08-01T00:00:00.000Z,41.806053,-72.732916
+CT0018300,Department of Energy and Environmental Protection,22570,CT,New England,Northeast,Region I,NOT SPECIFIED,Other State Agency,True,2019-01-01T00:00:00.000Z,,
+CT0018500,Metropolitan Transportation Authority,2222,CT,New England,Northeast,Region I,FAIRFIELD,Other,True,2020-03-01T00:00:00.000Z,41.046436,-73.54201
+CT0019000,Central Connecticut State University,2223,CT,New England,Northeast,Region I,HARTFORD,University or College,True,1998-05-01T00:00:00.000Z,41.6893,-72.77059
+CT0019100,Eastern Connecticut State University,2224,CT,New England,Northeast,Region I,WINDHAM,University or College,True,2005-10-01T00:00:00.000Z,41.715717,-72.218506
+CT0019300,Western Connecticut State University,2226,CT,New England,Northeast,Region I,FAIRFIELD,University or College,True,1999-10-01T00:00:00.000Z,41.399433,-73.44507
+CT0019400,Southern Connecticut State University,2227,CT,New England,Northeast,Region I,NEW HAVEN,University or College,True,1999-01-01T00:00:00.000Z,41.330456,-72.94459
+CT0020000,State Capitol Police,2229,CT,New England,Northeast,Region I,HARTFORD,Other State Agency,True,1998-03-01T00:00:00.000Z,41.763454,-72.68551
+CT005049E,Yale University,33677,CT,New England,Northeast,Region I,NEW HAVEN,University or College,True,2020-09-01T00:00:00.000Z,,
+CT00A5900,Groton Town Police Department,2237,CT,New England,Northeast,Region I,NEW LONDON,City,True,2005-03-01T00:00:00.000Z,41.343468,-72.01095
+CT00B5900,Groton Long Point Police Department,2238,CT,New England,Northeast,Region I,NEW LONDON,City,True,2020-08-01T00:00:00.000Z,41.472651,-72.108633
+CTCSP0000,Connecticut State Police,2239,CT,New England,Northeast,Region I,UNMAPPED COUNTY,State Police,True,2003-01-01T00:00:00.000Z,41.5685,-72.728714
+CTDI00200,Mashantucket Pequot Tribal,2240,CT,New England,Northeast,Region I,NOT SPECIFIED,Tribal,True,2017-01-01T00:00:00.000Z,41.472651,-72.108633
+CTDI00300,Mohegan Tribal,2241,CT,New England,Northeast,Region I,NOT SPECIFIED,Tribal,True,2016-02-01T00:00:00.000Z,41.472651,-72.108633

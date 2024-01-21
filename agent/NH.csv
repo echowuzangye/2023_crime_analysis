@@ -1,0 +1,221 @@
+ori,agency_name,agency_id,state_abbr,division_name,region_name,region_desc,county_name,agency_type_name,nibrs,nibrs_start_date,latitude,longitude
+NH0010000,Belknap County Sheriff's Office,11829,NH,New England,Northeast,Region I,BELKNAP,County,True,2017-01-01T00:00:00.000Z,43.543556,-71.48343
+NH001010X,State Police: Belknap County,11830,NH,New England,Northeast,Region I,BELKNAP,State Police,True,2003-01-01T00:00:00.000Z,43.21312,-71.51729
+NH0010200,Alton Police Department,11831,NH,New England,Northeast,Region I,BELKNAP,City,True,2003-01-01T00:00:00.000Z,43.519109,-71.425366
+NH0010400,Barnstead Police Department,11832,NH,New England,Northeast,Region I,BELKNAP,City,True,2002-07-01T00:00:00.000Z,43.33921,-71.2593
+NH0010600,Belmont Police Department,11833,NH,New England,Northeast,Region I,BELKNAP,City,True,2003-01-01T00:00:00.000Z,43.519109,-71.425366
+NH0010800,Center Harbor Police Department,11834,NH,New England,Northeast,Region I,BELKNAP,City,True,2008-12-01T00:00:00.000Z,43.519109,-71.425366
+NH0011000,Gilford Police Department,11835,NH,New England,Northeast,Region I,BELKNAP,City,True,2003-01-01T00:00:00.000Z,43.55354,-71.40144
+NH0011200,Gilmanton Police Department,11836,NH,New England,Northeast,Region I,BELKNAP,City,True,2003-01-01T00:00:00.000Z,43.519109,-71.425366
+NH0011400,Laconia Police Department,11837,NH,New England,Northeast,Region I,BELKNAP,City,True,2002-01-01T00:00:00.000Z,43.519109,-71.425366
+NH0011600,Meredith Police Department,11838,NH,New England,Northeast,Region I,BELKNAP,City,True,2002-06-01T00:00:00.000Z,43.519109,-71.425366
+NH0011800,New Hampton Police Department,11839,NH,New England,Northeast,Region I,BELKNAP,City,True,2003-01-01T00:00:00.000Z,43.519109,-71.425366
+NH0012000,Sanbornton Police Department,11840,NH,New England,Northeast,Region I,BELKNAP,City,True,2011-01-01T00:00:00.000Z,43.519109,-71.425366
+NH0012200,Tilton Police Department,11841,NH,New England,Northeast,Region I,BELKNAP,City,True,2003-01-01T00:00:00.000Z,43.519109,-71.425366
+NH0020000,Carroll County Sheriff's Office,11843,NH,New England,Northeast,Region I,CARROLL,County,True,2002-01-01T00:00:00.000Z,43.867567,-71.201665
+NH002010X,State Police: Carroll County,11844,NH,New England,Northeast,Region I,CARROLL,State Police,True,2003-01-01T00:00:00.000Z,43.21312,-71.51729
+NH0020400,Bartlett Police Department,11845,NH,New England,Northeast,Region I,CARROLL,City,True,2003-01-01T00:00:00.000Z,44.102505,-71.14928
+NH0021000,Conway Police Department,11847,NH,New England,Northeast,Region I,CARROLL,City,True,2003-01-01T00:00:00.000Z,43.867567,-71.201665
+NH0021400,Effingham Police Department,11848,NH,New England,Northeast,Region I,CARROLL,City,True,2010-01-01T00:00:00.000Z,43.867567,-71.201665
+NH0021600,Freedom Police Department,11849,NH,New England,Northeast,Region I,CARROLL,City,True,2003-01-01T00:00:00.000Z,43.867567,-71.201665
+NH0022000,Jackson Police Department,11850,NH,New England,Northeast,Region I,CARROLL,City,True,2010-09-01T00:00:00.000Z,43.867567,-71.201665
+NH0022200,Madison Police Department,11851,NH,New England,Northeast,Region I,CARROLL,City,True,2002-06-01T00:00:00.000Z,43.867567,-71.201665
+NH0022400,Moultonborough Police Department,11852,NH,New England,Northeast,Region I,CARROLL,City,True,2003-01-01T00:00:00.000Z,43.867567,-71.201665
+NH0022600,Ossipee Police Department,11853,NH,New England,Northeast,Region I,CARROLL,City,True,2003-01-01T00:00:00.000Z,43.867567,-71.201665
+NH0022800,Sandwich Police Department,11854,NH,New England,Northeast,Region I,CARROLL,City,True,2003-01-01T00:00:00.000Z,43.867567,-71.201665
+NH0023000,Tamworth Police Department,11855,NH,New England,Northeast,Region I,CARROLL,City,True,2011-01-01T00:00:00.000Z,43.867567,-71.201665
+NH0023200,Tuftonboro Police Department,11856,NH,New England,Northeast,Region I,CARROLL,City,True,2017-01-01T00:00:00.000Z,43.867567,-71.201665
+NH0023400,Wakefield Police Department,11857,NH,New England,Northeast,Region I,CARROLL,City,True,2003-01-01T00:00:00.000Z,43.553402,-71.03213
+NH0023600,Wolfeboro Police Department,11858,NH,New England,Northeast,Region I,CARROLL,City,True,2004-01-01T00:00:00.000Z,43.867567,-71.201665
+NH0030000,Cheshire County Sheriff's Office,11860,NH,New England,Northeast,Region I,CHESHIRE,County,True,2002-05-01T00:00:00.000Z,42.934753,-72.27954
+NH003010X,State Police: Cheshire County,11861,NH,New England,Northeast,Region I,CHESHIRE,State Police,True,2003-01-01T00:00:00.000Z,43.21312,-71.51729
+NH0030200,Alstead Police Department,11862,NH,New England,Northeast,Region I,CHESHIRE,City,True,2004-01-01T00:00:00.000Z,42.925455,-72.248217
+NH0030400,Chesterfield Police Department,11863,NH,New England,Northeast,Region I,CHESHIRE,City,True,2021-01-01T00:00:00.000Z,42.925455,-72.248217
+NH0030600,Dublin Police Department,11864,NH,New England,Northeast,Region I,CHESHIRE,City,True,2003-01-01T00:00:00.000Z,42.925455,-72.248217
+NH0030800,Fitzwilliam Police Department,11865,NH,New England,Northeast,Region I,CHESHIRE,City,True,2003-02-01T00:00:00.000Z,42.925455,-72.248217
+NH0031200,Harrisville Police Department,11867,NH,New England,Northeast,Region I,CHESHIRE,City,True,2021-01-01T00:00:00.000Z,42.925455,-72.248217
+NH0031400,Hinsdale Police Department,11868,NH,New England,Northeast,Region I,CHESHIRE,City,True,2002-04-01T00:00:00.000Z,42.925455,-72.248217
+NH0031600,Jaffrey Police Department,11869,NH,New England,Northeast,Region I,CHESHIRE,City,True,2003-01-01T00:00:00.000Z,42.8149,-72.02377
+NH0031800,Keene Police Department,11870,NH,New England,Northeast,Region I,CHESHIRE,City,True,2003-01-01T00:00:00.000Z,42.92329,-72.26388
+NH0032000,Marlborough Police Department,11871,NH,New England,Northeast,Region I,CHESHIRE,City,True,2004-12-01T00:00:00.000Z,42.925455,-72.248217
+NH0032800,Rindge Police Department,11875,NH,New England,Northeast,Region I,CHESHIRE,City,True,2003-01-01T00:00:00.000Z,42.743347,-72.00832
+NH0033000,Roxbury Police Department,11876,NH,New England,Northeast,Region I,CHESHIRE,City,True,2021-01-01T00:00:00.000Z,42.930706,-72.2927
+NH0033200,Stoddard Police Department,11877,NH,New England,Northeast,Region I,CHESHIRE,City,True,2021-01-01T00:00:00.000Z,42.925455,-72.248217
+NH0033800,Swanzey Police Department,11880,NH,New England,Northeast,Region I,CHESHIRE,City,True,2021-01-01T00:00:00.000Z,42.925455,-72.248217
+NH0034000,Troy Police Department,11881,NH,New England,Northeast,Region I,CHESHIRE,City,False,2003-01-01T00:00:00.000Z,42.827057,-72.18306
+NH0034200,Walpole Police Department,11882,NH,New England,Northeast,Region I,CHESHIRE,City,True,2002-01-01T00:00:00.000Z,42.925455,-72.248217
+NH0034600,Winchester Police Department,11884,NH,New England,Northeast,Region I,CHESHIRE,City,True,2004-01-01T00:00:00.000Z,42.772045,-72.38397
+NH0040000,Coos County Sheriff's Office,11886,NH,New England,Northeast,Region I,COOS,County,False,,44.49118,-71.571556
+NH004010X,State Police: Coos County,11887,NH,New England,Northeast,Region I,COOS,State Police,True,2004-01-01T00:00:00.000Z,43.21312,-71.51729
+NH0040600,Berlin Police Department,11888,NH,New England,Northeast,Region I,COOS,City,True,2003-01-01T00:00:00.000Z,44.469833,-71.18588
+NH0041000,Carroll Police Department,11889,NH,New England,Northeast,Region I,COOS,City,True,2003-01-01T00:00:00.000Z,44.652419,-71.289383
+NH0041600,Colebrook Police Department,11890,NH,New England,Northeast,Region I,COOS,City,True,2002-01-01T00:00:00.000Z,44.652419,-71.289383
+NH0043000,Gorham Police Department,11893,NH,New England,Northeast,Region I,COOS,City,True,2003-01-01T00:00:00.000Z,44.3878,-71.17585
+NH0043800,Lancaster Police Department,11894,NH,New England,Northeast,Region I,COOS,City,True,2003-04-01T00:00:00.000Z,44.652419,-71.289383
+NH0044800,Northumberland Police Department,11896,NH,New England,Northeast,Region I,COOS,City,True,2004-07-01T00:00:00.000Z,44.598858,-71.51225
+NH0045200,Pittsburg,27591,NH,New England,Northeast,Region I,COOS,City,True,2015-01-01T00:00:00.000Z,,
+NH0047000,Whitefield Police Department,11899,NH,New England,Northeast,Region I,COOS,City,True,2009-01-01T00:00:00.000Z,44.373123,-71.60993
+NH0050000,Grafton County Sheriff's Office,11901,NH,New England,Northeast,Region I,GRAFTON,County,True,2016-02-01T00:00:00.000Z,44.115376,-72.0402
+NH005010X,State Police: Grafton County,11902,NH,New England,Northeast,Region I,GRAFTON,State Police,True,2003-06-01T00:00:00.000Z,,
+NH0050200,Alexandria Police Department,11903,NH,New England,Northeast,Region I,GRAFTON,City,True,2005-02-01T00:00:00.000Z,43.612637,-71.7953
+NH0050400,Ashland Police Department,11904,NH,New England,Northeast,Region I,GRAFTON,City,True,2003-01-01T00:00:00.000Z,43.926502,-71.842295
+NH0050600,Bath,30596,NH,New England,Northeast,Region I,GRAFTON,City,True,2019-01-01T00:00:00.000Z,,
+NH0051000,Bethlehem Police Department,11906,NH,New England,Northeast,Region I,GRAFTON,City,True,2003-01-01T00:00:00.000Z,43.926502,-71.842295
+NH0051200,Bridgewater Police Department,11907,NH,New England,Northeast,Region I,GRAFTON,City,True,2022-01-01T00:00:00.000Z,43.640514,-71.73553
+NH0051400,Bristol Police Department,11908,NH,New England,Northeast,Region I,GRAFTON,City,True,2003-01-01T00:00:00.000Z,43.926502,-71.842295
+NH0051600,Campton Police Department,11909,NH,New England,Northeast,Region I,GRAFTON,City,True,2003-01-01T00:00:00.000Z,43.926502,-71.842295
+NH0051800,Canaan Police Department,11910,NH,New England,Northeast,Region I,GRAFTON,City,True,2011-01-01T00:00:00.000Z,43.926502,-71.842295
+NH0052600,Enfield Police Department,11912,NH,New England,Northeast,Region I,GRAFTON,City,True,2002-09-01T00:00:00.000Z,43.926502,-71.842295
+NH0052800,Franconia Police Department,11913,NH,New England,Northeast,Region I,GRAFTON,City,True,2002-09-01T00:00:00.000Z,43.926502,-71.842295
+NH0053000,Grafton Police Department,11914,NH,New England,Northeast,Region I,GRAFTON,City,True,2019-01-01T00:00:00.000Z,43.926502,-71.842295
+NH0053200,Groton,31376,NH,New England,Northeast,Region I,GRAFTON,City,True,2020-07-01T00:00:00.000Z,,
+NH0053400,Hanover Police Department,11915,NH,New England,Northeast,Region I,GRAFTON,City,True,2003-01-01T00:00:00.000Z,43.718887,-72.27353
+NH0053600,Haverhill Police Department,11916,NH,New England,Northeast,Region I,GRAFTON,City,True,2003-11-01T00:00:00.000Z,43.926502,-71.842295
+NH0053800,Holderness Police Department,11917,NH,New England,Northeast,Region I,GRAFTON,City,True,2011-08-01T00:00:00.000Z,43.926502,-71.842295
+NH0054000,Hebron Police Department,11918,NH,New England,Northeast,Region I,GRAFTON,City,True,2021-01-01T00:00:00.000Z,43.926502,-71.842295
+NH0054400,Lebanon Police Department,11919,NH,New England,Northeast,Region I,GRAFTON,City,True,2003-01-01T00:00:00.000Z,43.632645,-72.289085
+NH0054600,Lincoln Police Department,11920,NH,New England,Northeast,Region I,GRAFTON,City,True,2003-01-01T00:00:00.000Z,43.926502,-71.842295
+NH0054800,Lisbon Police Department,11921,NH,New England,Northeast,Region I,GRAFTON,City,True,2003-01-01T00:00:00.000Z,44.214584,-71.91132
+NH0055000,Littleton Police Department,11922,NH,New England,Northeast,Region I,GRAFTON,City,True,2002-01-01T00:00:00.000Z,43.926502,-71.842295
+NH0055600,Lyme Police Department,11923,NH,New England,Northeast,Region I,GRAFTON,City,True,2010-09-01T00:00:00.000Z,43.926502,-71.842295
+NH0056000,Orange Police Department,11924,NH,New England,Northeast,Region I,GRAFTON,City,False,,43.926502,-71.842295
+NH0056200,Orford Police Department,11925,NH,New England,Northeast,Region I,GRAFTON,City,True,2009-01-01T00:00:00.000Z,43.926502,-71.842295
+NH0056400,Piermont,32854,NH,New England,Northeast,Region I,GRAFTON,City,True,2020-01-01T00:00:00.000Z,,
+NH0056600,Plymouth Police Department,11926,NH,New England,Northeast,Region I,GRAFTON,City,True,2003-01-01T00:00:00.000Z,43.733112,-71.67512
+NH0056800,Rumney,33298,NH,New England,Northeast,Region I,GRAFTON,City,True,2021-01-01T00:00:00.000Z,,
+NH0057000,Sugar Hill Police Department,11927,NH,New England,Northeast,Region I,GRAFTON,City,True,2003-01-01T00:00:00.000Z,43.926502,-71.842295
+NH0057200,Thornton Police Department,11928,NH,New England,Northeast,Region I,GRAFTON,City,True,2003-01-01T00:00:00.000Z,43.917595,-71.689926
+NH0057400,Warren Police Department,11929,NH,New England,Northeast,Region I,GRAFTON,City,True,2021-01-01T00:00:00.000Z,43.926502,-71.842295
+NH0057600,Waterville Valley Police Department,11930,NH,New England,Northeast,Region I,GRAFTON,City,True,2003-01-01T00:00:00.000Z,43.926502,-71.842295
+NH0057800,Wentworth,32855,NH,New England,Northeast,Region I,GRAFTON,City,True,2020-01-01T00:00:00.000Z,,
+NH0058000,Woodstock Police Department,11931,NH,New England,Northeast,Region I,GRAFTON,City,True,2004-07-01T00:00:00.000Z,43.926502,-71.842295
+NH0058100,Plymouth State University,29754,NH,New England,Northeast,Region I,GRAFTON,University or College,True,2018-02-01T00:00:00.000Z,,
+NH0060000,Hillsborough  County Sheriff's Office,11933,NH,New England,Northeast,Region I,HILLSBOROUGH,County,True,2021-01-01T00:00:00.000Z,43.00987,-71.54077
+NH006010X,State Police: Hillsborough County,11934,NH,New England,Northeast,Region I,HILLSBOROUGH,State Police,True,2003-01-01T00:00:00.000Z,43.21312,-71.51729
+NH0060200,Amherst Police Department,11935,NH,New England,Northeast,Region I,HILLSBOROUGH,City,True,2003-01-01T00:00:00.000Z,42.911643,-71.723101
+NH0060400,Antrim Police Department,11936,NH,New England,Northeast,Region I,HILLSBOROUGH,City,True,2002-03-01T00:00:00.000Z,42.911643,-71.723101
+NH0060600,Bedford Police Department,11937,NH,New England,Northeast,Region I,HILLSBOROUGH,City,True,2003-01-01T00:00:00.000Z,42.956245,-71.50073
+NH0060800,Bennington Police Department,11938,NH,New England,Northeast,Region I,HILLSBOROUGH,City,True,2003-01-01T00:00:00.000Z,42.911643,-71.723101
+NH0061000,Brookline Police Department,11939,NH,New England,Northeast,Region I,HILLSBOROUGH,City,True,2015-01-01T00:00:00.000Z,42.911643,-71.723101
+NH0061200,Deering Police Department,11940,NH,New England,Northeast,Region I,HILLSBOROUGH,City,True,2003-01-01T00:00:00.000Z,42.911643,-71.723101
+NH0061400,Francestown Police Department,11941,NH,New England,Northeast,Region I,HILLSBOROUGH,City,True,2021-01-01T00:00:00.000Z,42.911643,-71.723101
+NH0061600,Goffstown Police Department,11942,NH,New England,Northeast,Region I,HILLSBOROUGH,City,True,2004-01-01T00:00:00.000Z,43.009842,-71.54077
+NH0061800,Greenfield Police Department,11943,NH,New England,Northeast,Region I,HILLSBOROUGH,City,True,2021-01-01T00:00:00.000Z,42.951138,-71.87268
+NH0062000,Greenville Police Department,11944,NH,New England,Northeast,Region I,HILLSBOROUGH,City,True,2021-01-01T00:00:00.000Z,42.911643,-71.723101
+NH0062200,Hancock Police Department,11945,NH,New England,Northeast,Region I,HILLSBOROUGH,City,True,2003-01-01T00:00:00.000Z,42.911643,-71.723101
+NH0062400,Hillsborough Police Department,11946,NH,New England,Northeast,Region I,HILLSBOROUGH,City,True,2003-01-01T00:00:00.000Z,42.911643,-71.723101
+NH0062600,Hollis Police Department,11947,NH,New England,Northeast,Region I,HILLSBOROUGH,City,True,2015-01-01T00:00:00.000Z,42.74321,-71.59152
+NH0062800,Hudson Police Department,11948,NH,New England,Northeast,Region I,HILLSBOROUGH,City,True,2003-01-01T00:00:00.000Z,42.777637,-71.3846
+NH0063000,Litchfield Police Department,11949,NH,New England,Northeast,Region I,HILLSBOROUGH,City,True,2003-01-01T00:00:00.000Z,42.911643,-71.723101
+NH0063200,Lyndeborough Police Department,11950,NH,New England,Northeast,Region I,HILLSBOROUGH,City,True,2013-01-01T00:00:00.000Z,42.911643,-71.723101
+NH0063400,Manchester Police Department,11951,NH,New England,Northeast,Region I,HILLSBOROUGH,City,True,2008-01-01T00:00:00.000Z,42.989944,-71.46063
+NH0063800,Mason Police Department,11952,NH,New England,Northeast,Region I,HILLSBOROUGH,City,True,2015-01-01T00:00:00.000Z,42.74417,-71.76884
+NH0064000,Merrimack Police Department,11953,NH,New England,Northeast,Region I,HILLSBOROUGH,City,True,2003-01-01T00:00:00.000Z,42.867012,-71.49575
+NH0064200,Milford Police Department,11954,NH,New England,Northeast,Region I,HILLSBOROUGH,City,True,2003-01-01T00:00:00.000Z,42.833824,-71.65326
+NH0064400,Mont Vernon Police Department,11955,NH,New England,Northeast,Region I,HILLSBOROUGH,City,True,2003-01-01T00:00:00.000Z,42.911643,-71.723101
+NH0064600,Nashua Police Department,11956,NH,New England,Northeast,Region I,HILLSBOROUGH,City,True,2005-01-01T00:00:00.000Z,42.911643,-71.723101
+NH0064800,New Boston Police Department,11957,NH,New England,Northeast,Region I,HILLSBOROUGH,City,True,2002-03-01T00:00:00.000Z,42.911643,-71.723101
+NH0065000,New Ipswich Police Department,11958,NH,New England,Northeast,Region I,HILLSBOROUGH,City,True,2003-01-01T00:00:00.000Z,42.75907,-71.86085
+NH0065200,Pelham Police Department,11959,NH,New England,Northeast,Region I,HILLSBOROUGH,City,True,2003-01-01T00:00:00.000Z,42.911643,-71.723101
+NH0065400,Peterborough Police Department,11960,NH,New England,Northeast,Region I,HILLSBOROUGH,City,True,2003-01-01T00:00:00.000Z,42.911643,-71.723101
+NH0065800,Temple Police Department,11962,NH,New England,Northeast,Region I,HILLSBOROUGH,City,False,,42.911643,-71.723101
+NH0066000,Weare Police Department,11963,NH,New England,Northeast,Region I,HILLSBOROUGH,City,True,2002-01-01T00:00:00.000Z,43.10201,-71.73758
+NH0066200,Wilton Police Department,11964,NH,New England,Northeast,Region I,HILLSBOROUGH,City,True,2004-05-01T00:00:00.000Z,42.911643,-71.723101
+NH0070000,Merrimack County Sheriff's Office,11967,NH,New England,Northeast,Region I,MERRIMACK,County,True,2003-01-01T00:00:00.000Z,43.299485,-71.68013
+NH007010X,State Police: Merrimack County,11968,NH,New England,Northeast,Region I,MERRIMACK,State Police,True,2003-01-01T00:00:00.000Z,43.21312,-71.51729
+NH0070200,Allenstown Police Department,11969,NH,New England,Northeast,Region I,MERRIMACK,City,True,2017-01-01T00:00:00.000Z,43.299485,-71.68013
+NH0070400,Andover Police Department,11970,NH,New England,Northeast,Region I,MERRIMACK,City,True,2003-02-01T00:00:00.000Z,43.299485,-71.68013
+NH0070600,Boscawen Police Department,11971,NH,New England,Northeast,Region I,MERRIMACK,City,False,2003-01-01T00:00:00.000Z,43.299485,-71.68013
+NH0070800,Bow Police Department,11972,NH,New England,Northeast,Region I,MERRIMACK,City,True,2003-09-01T00:00:00.000Z,43.299485,-71.68013
+NH0071000,Bradford Police Department,11973,NH,New England,Northeast,Region I,MERRIMACK,City,True,2007-01-01T00:00:00.000Z,43.299485,-71.68013
+NH0071200,Canterbury Police Department,11974,NH,New England,Northeast,Region I,MERRIMACK,City,True,2003-03-01T00:00:00.000Z,43.299485,-71.68013
+NH0071400,Chichester Police Department,11975,NH,New England,Northeast,Region I,MERRIMACK,City,True,2003-01-01T00:00:00.000Z,43.299485,-71.68013
+NH0071600,Concord Police Department,11976,NH,New England,Northeast,Region I,MERRIMACK,City,True,2002-01-01T00:00:00.000Z,43.205547,-71.53967
+NH0071800,Danbury Police Department,11977,NH,New England,Northeast,Region I,MERRIMACK,City,True,2020-01-01T00:00:00.000Z,43.299485,-71.68013
+NH0072000,Dunbarton Police Department,11978,NH,New England,Northeast,Region I,MERRIMACK,City,True,2003-07-01T00:00:00.000Z,43.103348,-71.61659
+NH0072200,Epsom Police Department,11979,NH,New England,Northeast,Region I,MERRIMACK,City,True,2003-01-01T00:00:00.000Z,43.299485,-71.68013
+NH0072400,Franklin Police Department,11980,NH,New England,Northeast,Region I,MERRIMACK,City,True,2007-07-01T00:00:00.000Z,43.299485,-71.68013
+NH0072600,Henniker Police Department,11981,NH,New England,Northeast,Region I,MERRIMACK,City,True,2003-01-01T00:00:00.000Z,43.299485,-71.68013
+NH0072800,Hill Police Department,11982,NH,New England,Northeast,Region I,MERRIMACK,City,True,2005-01-01T00:00:00.000Z,43.299485,-71.68013
+NH0073000,Hooksett Police Department,11983,NH,New England,Northeast,Region I,MERRIMACK,City,True,2003-01-01T00:00:00.000Z,43.05755,-71.44624
+NH0073200,Hopkinton Police Department,11984,NH,New England,Northeast,Region I,MERRIMACK,City,True,2003-01-01T00:00:00.000Z,43.299485,-71.68013
+NH0073400,Loudon Police Department,11985,NH,New England,Northeast,Region I,MERRIMACK,City,True,2003-01-01T00:00:00.000Z,43.299485,-71.68013
+NH0073600,Newbury Police Department,11986,NH,New England,Northeast,Region I,MERRIMACK,City,True,2006-06-01T00:00:00.000Z,43.299485,-71.68013
+NH0073800,New London Police Department,11987,NH,New England,Northeast,Region I,MERRIMACK,City,True,2006-01-01T00:00:00.000Z,43.414207,-71.98453
+NH0074000,Northfield Police Department,11988,NH,New England,Northeast,Region I,MERRIMACK,City,True,2003-01-01T00:00:00.000Z,43.299485,-71.68013
+NH0074200,Pembroke Police Department,11989,NH,New England,Northeast,Region I,MERRIMACK,City,True,2004-01-01T00:00:00.000Z,43.14352,-71.454605
+NH0074400,Pittsfield Police Department,11990,NH,New England,Northeast,Region I,MERRIMACK,City,True,2002-08-01T00:00:00.000Z,43.299485,-71.68013
+NH0074800,Sutton Police Department,11992,NH,New England,Northeast,Region I,MERRIMACK,City,True,2021-01-01T00:00:00.000Z,43.299485,-71.68013
+NH0075000,Warner Police Department,11993,NH,New England,Northeast,Region I,MERRIMACK,City,True,2003-01-01T00:00:00.000Z,43.299485,-71.68013
+NH0075200,Webster Police Department,11994,NH,New England,Northeast,Region I,MERRIMACK,City,True,2003-01-01T00:00:00.000Z,43.309486,-71.7185
+NH0075600,Wilmot,33437,NH,New England,Northeast,Region I,MERRIMACK,City,True,2021-01-01T00:00:00.000Z,,
+NH0075800,Liquor Commission,11995,NH,New England,Northeast,Region I,MERRIMACK,Other State Agency,True,2003-01-01T00:00:00.000Z,43.299485,-71.68013
+NH0080000,Rockingham County Sheriff's Office,11997,NH,New England,Northeast,Region I,ROCKINGHAM,County,True,2004-01-01T00:00:00.000Z,43.01195,-71.051125
+NH008010X,State Police: Rockingham County,11998,NH,New England,Northeast,Region I,ROCKINGHAM,State Police,True,2003-01-01T00:00:00.000Z,43.2161,-71.51733
+NH0080200,Atkinson Police Department,11999,NH,New England,Northeast,Region I,ROCKINGHAM,City,True,2012-01-01T00:00:00.000Z,42.988842,-71.098746
+NH0080400,Auburn Police Department,12000,NH,New England,Northeast,Region I,ROCKINGHAM,City,True,2002-02-01T00:00:00.000Z,42.988842,-71.098746
+NH0080600,Brentwood Police Department,12001,NH,New England,Northeast,Region I,ROCKINGHAM,City,True,2003-01-01T00:00:00.000Z,42.982758,-71.06745
+NH0080800,Candia Police Department,12002,NH,New England,Northeast,Region I,ROCKINGHAM,City,True,2003-01-01T00:00:00.000Z,42.988842,-71.098746
+NH0081000,Chester Police Department,12003,NH,New England,Northeast,Region I,ROCKINGHAM,City,True,2003-01-01T00:00:00.000Z,42.9603,-71.26257
+NH0081200,Danville Police Department,12004,NH,New England,Northeast,Region I,ROCKINGHAM,City,True,2003-01-01T00:00:00.000Z,42.988842,-71.098746
+NH0081400,Deerfield Police Department,12005,NH,New England,Northeast,Region I,ROCKINGHAM,City,True,2003-01-01T00:00:00.000Z,42.988842,-71.098746
+NH0081600,Derry Police Department,12006,NH,New England,Northeast,Region I,ROCKINGHAM,City,True,2003-01-01T00:00:00.000Z,42.892834,-71.32795
+NH0081800,East Kingston Police Department,12007,NH,New England,Northeast,Region I,ROCKINGHAM,City,True,2012-12-01T00:00:00.000Z,42.901493,-71.01633
+NH0082000,Epping Police Department,12008,NH,New England,Northeast,Region I,ROCKINGHAM,City,True,2003-01-01T00:00:00.000Z,43.033413,-71.07339
+NH0082200,Exeter Police Department,12009,NH,New England,Northeast,Region I,ROCKINGHAM,City,True,2003-01-01T00:00:00.000Z,42.988842,-71.098746
+NH0082400,Fremont Police Department,12010,NH,New England,Northeast,Region I,ROCKINGHAM,City,True,2003-01-01T00:00:00.000Z,42.988842,-71.098746
+NH0082600,Greenland Police Department,12011,NH,New England,Northeast,Region I,ROCKINGHAM,City,True,2002-04-01T00:00:00.000Z,42.988842,-71.098746
+NH0082800,Hampstead Police Department,12012,NH,New England,Northeast,Region I,ROCKINGHAM,City,True,2003-01-01T00:00:00.000Z,42.988842,-71.098746
+NH0083000,Hampton Police Department,12013,NH,New England,Northeast,Region I,ROCKINGHAM,City,True,2003-01-01T00:00:00.000Z,42.988842,-71.098746
+NH0083200,Hampton Falls Police Department,12014,NH,New England,Northeast,Region I,ROCKINGHAM,City,True,2010-12-01T00:00:00.000Z,42.988842,-71.098746
+NH0083400,Kensington Police Department,12015,NH,New England,Northeast,Region I,ROCKINGHAM,City,True,2014-01-01T00:00:00.000Z,42.899475,-70.92678
+NH0083600,Kingston Police Department,12016,NH,New England,Northeast,Region I,ROCKINGHAM,City,True,2003-01-01T00:00:00.000Z,42.988842,-71.098746
+NH0083800,Londonderry Police Department,12017,NH,New England,Northeast,Region I,ROCKINGHAM,City,True,2003-01-01T00:00:00.000Z,42.860878,-71.37196
+NH0084000,New Castle Police Department,12018,NH,New England,Northeast,Region I,ROCKINGHAM,City,True,2002-01-01T00:00:00.000Z,42.988842,-71.098746
+NH0084200,Newfields Police Department,12019,NH,New England,Northeast,Region I,ROCKINGHAM,City,True,2003-01-01T00:00:00.000Z,43.036697,-70.9406
+NH0084400,Newington Police Department,12020,NH,New England,Northeast,Region I,ROCKINGHAM,City,True,2003-01-01T00:00:00.000Z,43.105404,-70.828636
+NH0084600,Newmarket Police Department,12021,NH,New England,Northeast,Region I,ROCKINGHAM,City,True,2003-01-01T00:00:00.000Z,43.071434,-70.93949
+NH0084800,Newton Police Department,12022,NH,New England,Northeast,Region I,ROCKINGHAM,City,True,2003-01-01T00:00:00.000Z,42.988842,-71.098746
+NH0085000,North Hampton Police Department,12023,NH,New England,Northeast,Region I,ROCKINGHAM,City,True,2002-07-01T00:00:00.000Z,42.973667,-70.83402
+NH0085200,Northwood Police Department,12024,NH,New England,Northeast,Region I,ROCKINGHAM,City,True,2003-01-01T00:00:00.000Z,43.22015,-71.22188
+NH0085400,Nottingham Police Department,12025,NH,New England,Northeast,Region I,ROCKINGHAM,City,True,2003-01-01T00:00:00.000Z,43.117317,-71.10234
+NH0085600,Plaistow Police Department,12026,NH,New England,Northeast,Region I,ROCKINGHAM,City,True,2005-01-01T00:00:00.000Z,42.83944,-71.09121
+NH0085800,Portsmouth Police Department,12027,NH,New England,Northeast,Region I,ROCKINGHAM,City,True,2003-01-01T00:00:00.000Z,43.061455,-70.76706
+NH0086000,Raymond Police Department,12028,NH,New England,Northeast,Region I,ROCKINGHAM,City,True,2003-01-01T00:00:00.000Z,42.988842,-71.098746
+NH0086200,Rye Police Department,12029,NH,New England,Northeast,Region I,ROCKINGHAM,City,True,2003-01-01T00:00:00.000Z,43.012592,-70.772
+NH0086400,Salem Police Department,12030,NH,New England,Northeast,Region I,ROCKINGHAM,City,True,2010-01-01T00:00:00.000Z,42.769882,-71.216896
+NH0086600,Sandown Police Department,12031,NH,New England,Northeast,Region I,ROCKINGHAM,City,True,2003-01-01T00:00:00.000Z,42.988842,-71.098746
+NH0086800,Seabrook Police Department,12032,NH,New England,Northeast,Region I,ROCKINGHAM,City,False,2005-01-01T00:00:00.000Z,42.988842,-71.098746
+NH0087000,South Hampton Police Department,12033,NH,New England,Northeast,Region I,ROCKINGHAM,City,True,2008-09-01T00:00:00.000Z,42.988842,-71.098746
+NH0087200,Stratham Police Department,12034,NH,New England,Northeast,Region I,ROCKINGHAM,City,True,2003-01-01T00:00:00.000Z,43.01018,-70.918236
+NH0087400,Windham Police Department,12035,NH,New England,Northeast,Region I,ROCKINGHAM,City,True,2003-01-01T00:00:00.000Z,42.988842,-71.098746
+NH0090000,Strafford County Sheriff's Office,12037,NH,New England,Northeast,Region I,STRAFFORD,County,True,2010-08-01T00:00:00.000Z,43.293172,-71.035889
+NH009010X,State Police: Strafford County,12038,NH,New England,Northeast,Region I,STRAFFORD,State Police,True,2004-01-01T00:00:00.000Z,43.21312,-71.51729
+NH0090200,Barrington Police Department,12039,NH,New England,Northeast,Region I,STRAFFORD,City,True,2003-01-01T00:00:00.000Z,43.293172,-71.035889
+NH0090400,Dover Police Department,12040,NH,New England,Northeast,Region I,STRAFFORD,City,True,2003-01-01T00:00:00.000Z,43.19398,-70.87545
+NH0090600,Durham Police Department,12041,NH,New England,Northeast,Region I,STRAFFORD,City,True,2008-01-01T00:00:00.000Z,43.293172,-71.035889
+NH0090800,Farmington Police Department,12042,NH,New England,Northeast,Region I,STRAFFORD,City,True,2003-01-01T00:00:00.000Z,43.391438,-71.06516
+NH0091000,Lee Police Department,12043,NH,New England,Northeast,Region I,STRAFFORD,City,True,2003-01-01T00:00:00.000Z,43.12448,-71.01725
+NH0091200,Madbury Police Department,12044,NH,New England,Northeast,Region I,STRAFFORD,City,True,2017-01-01T00:00:00.000Z,43.293172,-71.035889
+NH0091400,Middleton Police Department,12045,NH,New England,Northeast,Region I,STRAFFORD,City,True,2003-02-01T00:00:00.000Z,43.293172,-71.035889
+NH0091600,Milton Police Department,12046,NH,New England,Northeast,Region I,STRAFFORD,City,True,2003-01-01T00:00:00.000Z,43.440063,-70.983574
+NH0091800,New Durham Police Department,12047,NH,New England,Northeast,Region I,STRAFFORD,City,True,2003-01-01T00:00:00.000Z,43.293172,-71.035889
+NH0092000,Rochester Police Department,12048,NH,New England,Northeast,Region I,STRAFFORD,City,True,2003-01-01T00:00:00.000Z,43.293172,-71.035889
+NH0092200,Rollinsford Police Department,12049,NH,New England,Northeast,Region I,STRAFFORD,City,True,2003-01-01T00:00:00.000Z,43.235878,-70.820755
+NH0092400,Somersworth Police Department,12050,NH,New England,Northeast,Region I,STRAFFORD,City,True,2003-01-01T00:00:00.000Z,43.293172,-71.035889
+NH0092600,Strafford Police Department,12051,NH,New England,Northeast,Region I,STRAFFORD,City,True,2003-01-01T00:00:00.000Z,43.293172,-71.035889
+NH00927TZ,University of New Hampshire,22333,NH,New England,Northeast,Region I,STRAFFORD,University or College,True,2010-01-01T00:00:00.000Z,,
+NH0100000,Sullivan County Sheriff's Office,12054,NH,New England,Northeast,Region I,SULLIVAN,County,True,2021-01-01T00:00:00.000Z,43.361188,-72.222084
+NH010010X,State Police: Sullivan County,12055,NH,New England,Northeast,Region I,SULLIVAN,State Police,True,2003-01-01T00:00:00.000Z,43.21312,-71.51729
+NH0100400,Charlestown Police Department,12057,NH,New England,Northeast,Region I,SULLIVAN,City,True,2003-01-01T00:00:00.000Z,43.361188,-72.222084
+NH0100600,Claremont Police Department,12058,NH,New England,Northeast,Region I,SULLIVAN,City,True,2003-01-01T00:00:00.000Z,43.372253,-72.33752
+NH0101000,Goshen Police Department,12060,NH,New England,Northeast,Region I,SULLIVAN,City,True,2021-01-01T00:00:00.000Z,43.361188,-72.222084
+NH0101200,Grantham Police Department,12061,NH,New England,Northeast,Region I,SULLIVAN,City,True,2003-01-01T00:00:00.000Z,43.361188,-72.222084
+NH0101400,Langdon Police Department,12062,NH,New England,Northeast,Region I,SULLIVAN,City,True,2005-01-01T00:00:00.000Z,43.361188,-72.222084
+NH0101800,Newport Police Department,12064,NH,New England,Northeast,Region I,SULLIVAN,City,True,2003-01-01T00:00:00.000Z,43.364407,-72.17322
+NH0102000,Plainfield Police Department,12065,NH,New England,Northeast,Region I,SULLIVAN,City,True,2019-01-01T00:00:00.000Z,43.361188,-72.222084
+NH0102200,Springfield Police Department,12066,NH,New England,Northeast,Region I,SULLIVAN,City,True,2014-01-01T00:00:00.000Z,43.361188,-72.222084
+NH0102400,Sunapee Police Department,12067,NH,New England,Northeast,Region I,SULLIVAN,City,True,2006-01-01T00:00:00.000Z,43.361188,-72.222084
+NH0102800,Washington Police Department,12069,NH,New England,Northeast,Region I,SULLIVAN,City,True,2004-12-01T00:00:00.000Z,43.361188,-72.222084
+NH0103000,Cornish Police Department,12070,NH,New England,Northeast,Region I,SULLIVAN,City,True,2014-01-01T00:00:00.000Z,43.4665,-72.35114
+NHNSP0000,State Police,12082,NH,New England,Northeast,Region I,UNMAPPED COUNTY,State Police,False,,43.21312,-71.51729

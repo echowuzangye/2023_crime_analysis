@@ -1,0 +1,257 @@
+ori,agency_name,agency_id,state_abbr,division_name,region_name,region_desc,county_name,agency_type_name,nibrs,nibrs_start_date,latitude,longitude
+LA0010000,Acadia Parish Sheriff's Office,7136,LA,West South Central,South,Region III,ACADIA,County,True,2006-09-01T00:00:00.000Z,30.291497,-92.411037
+LA0010100,Crowley Police Department,7137,LA,West South Central,South,Region III,ACADIA,City,False,2021-01-01T00:00:00.000Z,30.291497,-92.411037
+LA0010200,Rayne Police Department,7138,LA,West South Central,South,Region III,ACADIA,City,True,2020-09-01T00:00:00.000Z,30.291497,-92.411037
+LA0010300,Church Point Police Department,7139,LA,West South Central,South,Region III,ACADIA,City,True,2020-04-01T00:00:00.000Z,30.405752,-92.21725
+LA0020000,Allen Parish Sheriff's Office,7142,LA,West South Central,South,Region III,ALLEN,County,True,2021-09-01T00:00:00.000Z,30.652744,-92.819605
+LA0020100,Kinder Police Department,7143,LA,West South Central,South,Region III,ALLEN,City,False,,30.652744,-92.819605
+LA0020200,Oakdale Police Department,7144,LA,West South Central,South,Region III,ALLEN,City,False,,30.817131,-92.66221
+LA0020300,Oberlin Police Department,7145,LA,West South Central,South,Region III,ALLEN,City,False,,30.652744,-92.819605
+LA0030000,Ascension Parish Sheriff's Office,7146,LA,West South Central,South,Region III,ASCENSION,County,True,2003-01-01T00:00:00.000Z,30.202946,-90.910023
+LA0030200,Gonzales Police Department,7148,LA,West South Central,South,Region III,ASCENSION,City,True,2011-01-01T00:00:00.000Z,30.232754,-90.91382
+LA0040000,Assumption Parish Sheriff's Office,7150,LA,West South Central,South,Region III,ASSUMPTION,County,False,,29.899884,-91.050528
+LA0050000,Avoyelles Parish Sheriff's Office,7152,LA,West South Central,South,Region III,AVOYELLES,County,False,,31.115696,-92.06695
+LA0050100,Bunkie Police Department,7153,LA,West South Central,South,Region III,AVOYELLES,City,False,,31.085094,-91.993797
+LA0050200,Marksville Police Department,7154,LA,West South Central,South,Region III,AVOYELLES,City,True,2020-12-01T00:00:00.000Z,31.12787,-92.065575
+LA0050300,Simmesport Police Department,7155,LA,West South Central,South,Region III,AVOYELLES,City,False,,31.085094,-91.993797
+LA0050400,Cottonport Police Department,7156,LA,West South Central,South,Region III,AVOYELLES,City,False,,30.985495,-92.05285
+LA0050600,Moreauville Police Department,7157,LA,West South Central,South,Region III,AVOYELLES,City,False,,31.085094,-91.993797
+LA0050800,Evergreen,32894,LA,West South Central,South,Region III,AVOYELLES,City,True,2020-03-01T00:00:00.000Z,,
+LA0060000,Beauregard Parish Sheriff's Office,7158,LA,West South Central,South,Region III,BEAUREGARD,County,True,2021-01-01T00:00:00.000Z,30.645018,-93.340253
+LA0060100,De Ridder Police Department,7159,LA,West South Central,South,Region III,"BEAUREGARD, VERNON",City,True,2021-01-01T00:00:00.000Z,30.845575,-93.28573
+LA0060200,Merryville Police Department,7160,LA,West South Central,South,Region III,BEAUREGARD,City,False,,30.645018,-93.340253
+LA0070000,Bienville Parish Sheriff's Office,7161,LA,West South Central,South,Region III,BIENVILLE,County,True,2020-01-01T00:00:00.000Z,32.340952,-93.041151
+LA0070900,Ringgold Police Department,25839,LA,West South Central,South,Region III,BIENVILLE,City,False,,32.340952,-93.041151
+LA0080000,Bossier Parish Sheriff's Office,7165,LA,West South Central,South,Region III,BOSSIER,County,True,2004-01-01T00:00:00.000Z,32.696225,-93.618086
+LA0080100,Bossier City Police Department,7166,LA,West South Central,South,Region III,BOSSIER,City,True,2019-10-01T00:00:00.000Z,32.696225,-93.618086
+LA0080200,Benton,29014,LA,West South Central,South,Region III,BOSSIER,City,False,2019-06-01T00:00:00.000Z,,
+LA0080300,Plain Dealing,32974,LA,West South Central,South,Region III,BOSSIER,City,True,2020-11-01T00:00:00.000Z,,
+LA0080400,Haughton Police Department,7167,LA,West South Central,South,Region III,BOSSIER,City,True,2022-01-01T00:00:00.000Z,32.696225,-93.618086
+LA0080500,"Louisiana State University: Health Sciences Center, Shreveport",7168,LA,West South Central,South,Region III,BOSSIER,University or College,True,2020-06-01T00:00:00.000Z,32.481724,-93.76072
+LA0080600,Louisiana State University: Shreveport,7169,LA,West South Central,South,Region III,BOSSIER,University or College,True,2020-01-01T00:00:00.000Z,32.432076,-93.70222
+LA0080700,Southern University and A&M College: Shreveport,7170,LA,West South Central,South,Region III,BOSSIER,University or College,False,,32.54364,-93.832954
+LA0090000,Caddo Parish Sheriff's Office,7171,LA,West South Central,South,Region III,CADDO,County,True,2004-01-01T00:00:00.000Z,32.51362,-93.7506
+LA0090100,Shreveport Police Department,7172,LA,West South Central,South,Region III,"BOSSIER, CADDO",City,False,,32.501125,-93.754555
+LA0090300,Oil City Police Department,7174,LA,West South Central,South,Region III,CADDO,City,False,,32.577195,-93.882423
+LA0090400,Blanchard Police Department,7175,LA,West South Central,South,Region III,CADDO,City,True,2021-01-01T00:00:00.000Z,32.577195,-93.882423
+LA0090800,Ida Police Department,25336,LA,West South Central,South,Region III,CADDO,City,True,2020-09-01T00:00:00.000Z,32.577195,-93.882423
+LA0091000,Greenwood Police Department,7176,LA,West South Central,South,Region III,CADDO,City,True,2021-01-01T00:00:00.000Z,32.577195,-93.882423
+LA0100000,Calcasieu Parish Sheriff's Office,7177,LA,West South Central,South,Region III,CALCASIEU,County,True,2009-01-01T00:00:00.000Z,30.227667,-93.14113
+LA0100100,De Quincy Police Department,7178,LA,West South Central,South,Region III,CALCASIEU,City,False,2007-01-01T00:00:00.000Z,30.44986,-93.43519
+LA0100200,Lake Charles Police Department,7179,LA,West South Central,South,Region III,CALCASIEU,City,True,2019-10-01T00:00:00.000Z,30.229559,-93.358015
+LA0100300,Sulphur Police Department,7180,LA,West South Central,South,Region III,CALCASIEU,City,True,2019-04-01T00:00:00.000Z,30.229559,-93.358015
+LA0100400,Vinton Police Department,7181,LA,West South Central,South,Region III,CALCASIEU,City,True,2020-07-01T00:00:00.000Z,30.19263,-93.58134
+LA0100500,Westlake Police Department,7182,LA,West South Central,South,Region III,CALCASIEU,City,True,2020-09-01T00:00:00.000Z,30.229559,-93.358015
+LA0100700,Iowa Police Department,7184,LA,West South Central,South,Region III,CALCASIEU,City,True,2020-07-01T00:00:00.000Z,30.229559,-93.358015
+LA0100800,McNeese State University,7185,LA,West South Central,South,Region III,CALCASIEU,University or College,True,2020-04-01T00:00:00.000Z,30.229559,-93.358015
+LA0110000,Caldwell Parish Sheriff's Office,7186,LA,West South Central,South,Region III,CALDWELL,County,True,2020-08-01T00:00:00.000Z,32.101219,-92.114231
+LA0120000,Cameron Parish Sheriff's Office,7187,LA,West South Central,South,Region III,CAMERON,County,False,2005-01-01T00:00:00.000Z,29.871888,-93.165539
+LA0130000,Catahoula Parish Sheriff's Office,7188,LA,West South Central,South,Region III,CATAHOULA,County,True,2021-01-01T00:00:00.000Z,31.666517,-91.846703
+LA0140000,Claiborne Parish Sheriff's Office,7192,LA,West South Central,South,Region III,CLAIBORNE,County,True,2009-04-01T00:00:00.000Z,32.827043,-92.989767
+LA0140100,Haynesville Police Department,7193,LA,West South Central,South,Region III,CLAIBORNE,City,True,2022-01-01T00:00:00.000Z,32.827043,-92.989767
+LA0150000,Concordia Parish Sheriff's Office,7195,LA,West South Central,South,Region III,CONCORDIA,County,True,2021-01-01T00:00:00.000Z,31.469805,-91.626314
+LA0150100,Ferriday Police Department,7196,LA,West South Central,South,Region III,CONCORDIA,City,True,2021-12-01T00:00:00.000Z,31.642176,-91.55464
+LA0150200,Vidalia Police Department,7197,LA,West South Central,South,Region III,CONCORDIA,City,True,2021-01-01T00:00:00.000Z,31.469805,-91.626314
+LA0160000,De Soto Parish Sheriff's Office,7199,LA,West South Central,South,Region III,DE SOTO,County,True,2021-01-01T00:00:00.000Z,32.03907,-93.70989
+LA0160100,Mansfield Police Department,7200,LA,West South Central,South,Region III,DE SOTO,City,True,2020-08-01T00:00:00.000Z,32.059248,-93.740797
+LA0170000,East Baton Rouge Parish Sheriff's Office,7202,LA,West South Central,South,Region III,EAST BATON ROUGE,County,True,2021-01-01T00:00:00.000Z,30.446917,-91.18758
+LA0170100,Baker Police Department,7203,LA,West South Central,South,Region III,EAST BATON ROUGE,City,True,2003-01-01T00:00:00.000Z,30.589071,-91.165436
+LA0170200,Baton Rouge Police Department,7204,LA,West South Central,South,Region III,EAST BATON ROUGE,City,True,2021-01-01T00:00:00.000Z,30.544002,-91.093174
+LA0170300,Zachary Police Department,7205,LA,West South Central,South,Region III,EAST BATON ROUGE,City,True,2021-01-01T00:00:00.000Z,30.544002,-91.093174
+LA0170400,Louisiana State University: Baton Rouge,7206,LA,West South Central,South,Region III,EAST BATON ROUGE,University or College,True,2021-01-01T00:00:00.000Z,30.544002,-91.093174
+LA0170600,Southern University and A&M College: Baton Rouge,7207,LA,West South Central,South,Region III,EAST BATON ROUGE,University or College,False,,30.544002,-91.093174
+LA0171100,Department of Public Safety State Capitol Detail,7208,LA,West South Central,South,Region III,EAST BATON ROUGE,Other State Agency,False,,30.544002,-91.093174
+LA0180000,East Carroll Parish Sheriff's Office,7209,LA,West South Central,South,Region III,EAST CARROLL,County,True,2003-01-01T00:00:00.000Z,32.803864,-91.172714
+LA0180100,Lake Providence Police Department,7210,LA,West South Central,South,Region III,EAST CARROLL,City,True,2021-01-01T00:00:00.000Z,32.73017,-91.234141
+LA0190000,East Feliciana Parish Sheriff's Office,7211,LA,West South Central,South,Region III,EAST FELICIANA,County,True,2020-03-01T00:00:00.000Z,30.839784,-91.043434
+LA0190100,Clinton Police Department,7212,LA,West South Central,South,Region III,EAST FELICIANA,City,True,2021-01-01T00:00:00.000Z,30.839784,-91.043434
+LA0190300,Wilson Police Department,7214,LA,West South Central,South,Region III,EAST FELICIANA,City,True,2021-01-01T00:00:00.000Z,30.839784,-91.043434
+LA0190500,Norwood Police Department,7215,LA,West South Central,South,Region III,EAST FELICIANA,City,True,2020-10-01T00:00:00.000Z,30.839784,-91.043434
+LA0200000,Evangeline Parish Sheriff's Office,7216,LA,West South Central,South,Region III,EVANGELINE,County,True,2008-01-01T00:00:00.000Z,30.689276,-92.278015
+LA0200100,Basile Police Department,7217,LA,West South Central,South,Region III,EVANGELINE,City,True,2004-01-01T00:00:00.000Z,30.720693,-92.404086
+LA0200200,Mamou Police Department,7218,LA,West South Central,South,Region III,EVANGELINE,City,False,2003-09-01T00:00:00.000Z,30.720693,-92.404086
+LA0200300,Ville Platte Police Department,7219,LA,West South Central,South,Region III,EVANGELINE,City,False,,30.720693,-92.404086
+LA0200600,Chataignier,33764,LA,West South Central,South,Region III,EVANGELINE,City,True,2022-02-01T00:00:00.000Z,,
+LA0210000,Franklin Parish Sheriff's Office,7220,LA,West South Central,South,Region III,FRANKLIN,County,True,2021-01-01T00:00:00.000Z,32.138278,-91.672101
+LA0220000,Grant Parish Sheriff's Office,7224,LA,West South Central,South,Region III,GRANT,County,True,2021-01-01T00:00:00.000Z,31.597787,-92.561716
+LA0220200,Montgomery Police Department,7225,LA,West South Central,South,Region III,GRANT,City,False,,31.597787,-92.561716
+LA0220400,Georgetown Police Department,7226,LA,West South Central,South,Region III,GRANT,City,False,,31.597787,-92.561716
+LA0220500,Pollock Police Department,7227,LA,West South Central,South,Region III,GRANT,City,False,,31.597787,-92.561716
+LA0230000,Iberia Parish Sheriff's Office,7228,LA,West South Central,South,Region III,IBERIA,County,False,2011-01-01T00:00:00.000Z,30.004484,-91.820404
+LA0230200,Jeanerette Police Department,7229,LA,West South Central,South,Region III,IBERIA,City,False,,29.904728,-91.66978
+LA0230300,New Iberia Police Department,7230,LA,West South Central,South,Region III,IBERIA,City,False,,30.00271,-91.81355
+LA0240000,Iberville Parish Sheriff's Office,7232,LA,West South Central,South,Region III,IBERVILLE,County,True,2020-08-01T00:00:00.000Z,30.288394,-91.36315
+LA0240100,Maringouin Police Department,7233,LA,West South Central,South,Region III,IBERVILLE,City,False,,30.288394,-91.36315
+LA0240200,Plaquemine Police Department,7234,LA,West South Central,South,Region III,IBERVILLE,City,True,2004-04-01T00:00:00.000Z,30.288394,-91.36315
+LA0240300,White Castle Police Department,7235,LA,West South Central,South,Region III,IBERVILLE,City,False,,30.288394,-91.36315
+LA0240400,Grosse Tete Police Department,7236,LA,West South Central,South,Region III,IBERVILLE,City,False,,30.288394,-91.36315
+LA0240500,Rosedale Police Department,7237,LA,West South Central,South,Region III,IBERVILLE,City,False,,30.288394,-91.36315
+LA0240600,St. Gabriel Police Department,7238,LA,West South Central,South,Region III,IBERVILLE,City,False,2021-01-01T00:00:00.000Z,30.288394,-91.36315
+LA0250000,Jackson Parish Sheriff's Office,7239,LA,West South Central,South,Region III,JACKSON,County,True,2020-07-01T00:00:00.000Z,32.240776,-92.715485
+LA0250100,Jonesboro Police Department,7240,LA,West South Central,South,Region III,JACKSON,City,False,,32.30448,-92.556672
+LA0250300,North Hodge Police Department,23279,LA,West South Central,South,Region III,JACKSON,City,False,,32.30448,-92.556672
+LA0250400,Hodge Police Department,7241,LA,West South Central,South,Region III,JACKSON,City,False,,32.30448,-92.556672
+LA0260000,Jefferson Parish Sheriff's Office,7242,LA,West South Central,South,Region III,JEFFERSON,County,True,2020-01-01T00:00:00.000Z,29.677888,-90.100494
+LA0260100,Gretna Police Department,7243,LA,West South Central,South,Region III,JEFFERSON,City,True,2020-01-01T00:00:00.000Z,29.677888,-90.100494
+LA0260200,Harahan Police Department,7244,LA,West South Central,South,Region III,JEFFERSON,City,True,2020-04-01T00:00:00.000Z,29.93871,-90.19368
+LA0260300,Kenner Police Department,7245,LA,West South Central,South,Region III,JEFFERSON,City,True,2020-01-01T00:00:00.000Z,29.677888,-90.100494
+LA0260400,Westwego Police Department,7246,LA,West South Central,South,Region III,JEFFERSON,City,True,2020-05-01T00:00:00.000Z,29.911531,-90.14372
+LA0260600,Jean Lafitte,33766,LA,West South Central,South,Region III,JEFFERSON,City,True,2022-02-01T00:00:00.000Z,,
+LA0270000,Jefferson Davis Parish Sheriff's Office,7248,LA,West South Central,South,Region III,JEFFERSON DAVIS,County,True,2007-01-01T00:00:00.000Z,30.222612,-92.65572
+LA0270200,Jennings Police Department,7250,LA,West South Central,South,Region III,JEFFERSON DAVIS,City,True,2010-01-01T00:00:00.000Z,30.269529,-92.816221
+LA0270300,Lake Arthur Police Department,7251,LA,West South Central,South,Region III,JEFFERSON DAVIS,City,False,,30.269529,-92.816221
+LA0270400,Welsh Police Department,7252,LA,West South Central,South,Region III,JEFFERSON DAVIS,City,False,,30.269529,-92.816221
+LA0280000,Lafayette Parish Sheriff's Office,7253,LA,West South Central,South,Region III,LAFAYETTE,County,True,2012-01-01T00:00:00.000Z,30.206507,-92.06417
+LA0280100,Broussard Police Department,7254,LA,West South Central,South,Region III,"LAFAYETTE, ST MARTIN",City,True,2021-01-01T00:00:00.000Z,30.147108,-91.96057
+LA0280200,Carencro Police Department,7255,LA,West South Central,South,Region III,LAFAYETTE,City,False,,30.206507,-92.06417
+LA0280300,Lafayette Police Department,7256,LA,West South Central,South,Region III,LAFAYETTE,City,False,,30.206507,-92.06417
+LA0280400,Duson Police Department,7257,LA,West South Central,South,Region III,"ACADIA, LAFAYETTE",City,False,,30.206507,-92.06417
+LA0280500,Youngsville Police Department,7258,LA,West South Central,South,Region III,LAFAYETTE,City,False,,30.206507,-92.06417
+LA0280600,Scott Police Department,7259,LA,West South Central,South,Region III,LAFAYETTE,City,False,,30.206507,-92.06417
+LA0280700,University of Louisiana: Lafayette,7260,LA,West South Central,South,Region III,LAFAYETTE,University or College,False,,30.206507,-92.06417
+LA0282000,South Louisiana Community College,23492,LA,West South Central,South,Region III,LAFAYETTE,University or College,False,,30.216476,-92.0526
+LA0290000,Lafourche Parish Sheriff's Office,7261,LA,West South Central,South,Region III,LAFOURCHE,County,True,2015-01-01T00:00:00.000Z,29.491992,-90.394849
+LA0290100,Golden Meadow Police Department,7262,LA,West South Central,South,Region III,LAFOURCHE,City,True,2021-01-01T00:00:00.000Z,29.491992,-90.394849
+LA0290300,Lockport Police Department,7263,LA,West South Central,South,Region III,LAFOURCHE,City,False,,29.64092,-90.54195
+LA0290500,Thibodaux Police Department,7264,LA,West South Central,South,Region III,LAFOURCHE,City,True,2015-01-01T00:00:00.000Z,29.491992,-90.394849
+LA0290600,Nicholls State University,7265,LA,West South Central,South,Region III,LAFOURCHE,University or College,False,,29.491992,-90.394849
+LA0300000,La Salle Parish Sheriff's Office,7266,LA,West South Central,South,Region III,LA SALLE,County,True,2021-01-01T00:00:00.000Z,31.680083,-92.161596
+LA0300100,Jena Police Department,7267,LA,West South Central,South,Region III,LA SALLE,City,False,,31.680083,-92.161596
+LA0300200,Olla Police Department,7268,LA,West South Central,South,Region III,LA SALLE,City,False,,31.680083,-92.161596
+LA0310000,Lincoln Parish Sheriff's Office,7269,LA,West South Central,South,Region III,LINCOLN,County,True,2020-07-01T00:00:00.000Z,32.52667,-92.63829
+LA0310100,Dubach Police Department,7270,LA,West South Central,South,Region III,LINCOLN,City,False,,32.601823,-92.662303
+LA0310200,Ruston Police Department,7271,LA,West South Central,South,Region III,LINCOLN,City,True,2020-01-01T00:00:00.000Z,32.601823,-92.662303
+LA0310300,Grambling Police Department,7272,LA,West South Central,South,Region III,LINCOLN,City,False,,32.601823,-92.662303
+LA0310500,Simsboro,33768,LA,West South Central,South,Region III,LINCOLN,City,True,2022-03-01T00:00:00.000Z,,
+LA0310600,Grambling State University,7273,LA,West South Central,South,Region III,LINCOLN,University or College,False,,32.601823,-92.662303
+LA0310700,Louisiana Tech University,7274,LA,West South Central,South,Region III,LINCOLN,University or College,True,2021-01-01T00:00:00.000Z,32.601823,-92.662303
+LA0320000,Livingston Parish Sheriff's Office,7275,LA,West South Central,South,Region III,LIVINGSTON,County,True,2021-01-01T00:00:00.000Z,30.440419,-90.727474
+LA0320100,Denham Springs Police Department,7276,LA,West South Central,South,Region III,LIVINGSTON,City,False,,30.440419,-90.727474
+LA0320200,Livingston Police Department,25657,LA,West South Central,South,Region III,LIVINGSTON,City,True,2022-01-01T00:00:00.000Z,30.440419,-90.727474
+LA0320300,Walker Police Department,7277,LA,West South Central,South,Region III,LIVINGSTON,City,True,2021-01-01T00:00:00.000Z,30.440419,-90.727474
+LA0320600,Port Vincent Police Department,7279,LA,West South Central,South,Region III,LIVINGSTON,City,False,,30.336496,-90.84061
+LA0320700,French Settlement Police Department,7280,LA,West South Central,South,Region III,LIVINGSTON,City,False,,30.440419,-90.727474
+LA0330000,Madison Parish Sheriff's Office,7281,LA,West South Central,South,Region III,MADISON,County,False,2003-01-01T00:00:00.000Z,32.407642,-91.187164
+LA0330100,Tallulah Police Department,7282,LA,West South Central,South,Region III,MADISON,City,True,2007-01-01T00:00:00.000Z,32.40846,-91.1866
+LA0340000,Morehouse Parish Sheriff's Office,7283,LA,West South Central,South,Region III,MOREHOUSE,County,True,2003-01-01T00:00:00.000Z,32.775772,-91.91325
+LA0340100,Bastrop Police Department,7284,LA,West South Central,South,Region III,MOREHOUSE,City,True,2021-01-01T00:00:00.000Z,32.777275,-91.913185
+LA0350000,Natchitoches Parish Sheriff's Office,7288,LA,West South Central,South,Region III,NATCHITOCHES,County,False,,31.761036,-93.087906
+LA0350100,Natchitoches Police Department,7289,LA,West South Central,South,Region III,NATCHITOCHES,City,False,,31.734982,-93.086106
+LA0351000,Northwestern State University,7291,LA,West South Central,South,Region III,NATCHITOCHES,University or College,False,,31.734982,-93.086106
+LA0360200,Delgado Community College,7293,LA,West South Central,South,Region III,ORLEANS,University or College,True,2021-01-01T00:00:00.000Z,29.983511,-90.106285
+LA0360300,University of New Orleans,7294,LA,West South Central,South,Region III,ORLEANS,University or College,True,2021-01-01T00:00:00.000Z,30.030651,-90.06331
+LA0361200,Southern University and A&M College: New Orleans,7295,LA,West South Central,South,Region III,ORLEANS,University or College,True,2021-01-01T00:00:00.000Z,30.024525,-90.04403
+LA0361700,"Louisiana State University: Health Sciences Center, New Orleans",7296,LA,West South Central,South,Region III,ORLEANS,University or College,False,,29.957678,-90.08284
+LA036209E,Tulane University,7297,LA,West South Central,South,Region III,ORLEANS,University or College,False,,29.93539,-90.12396
+LA036219E,Dillard University,23280,LA,West South Central,South,Region III,ORLEANS,University or College,False,,,
+LA0370000,Ouachita Parish Sheriff's Office,7298,LA,West South Central,South,Region III,OUACHITA,County,True,2018-02-01T00:00:00.000Z,32.477664,-92.154848
+LA0370100,Monroe Police Department,7299,LA,West South Central,South,Region III,OUACHITA,City,True,2017-06-01T00:00:00.000Z,32.477664,-92.154848
+LA0370200,West Monroe Police Department,7300,LA,West South Central,South,Region III,OUACHITA,City,True,2014-01-01T00:00:00.000Z,32.520428,-92.14767
+LA0370300,Sterlington Police Department,7301,LA,West South Central,South,Region III,OUACHITA,City,False,2006-01-01T00:00:00.000Z,32.477664,-92.154848
+LA0370400,University of Louisiana: Monroe,7302,LA,West South Central,South,Region III,OUACHITA,University or College,True,2021-01-01T00:00:00.000Z,32.52823,-92.07567
+LA0370500,Richwood Police Department,7303,LA,West South Central,South,Region III,OUACHITA,City,False,,32.44805,-92.077385
+LA0370900,Tensas Basin Levee District,7304,LA,West South Central,South,Region III,OUACHITA,Other State Agency,True,2019-12-01T00:00:00.000Z,32.477664,-92.154848
+LA0380000,Plaquemines Parish Sheriff's Office,7305,LA,West South Central,South,Region III,PLAQUEMINES,County,True,2004-10-01T00:00:00.000Z,29.856598,-89.98403
+LA0390000,Pointe Coupee Parish Sheriff's Office,7306,LA,West South Central,South,Region III,POINTE COUPEE,County,True,2021-01-01T00:00:00.000Z,30.708319,-91.604621
+LA0390300,Livonia Police Department,23070,LA,West South Central,South,Region III,POINTE COUPEE,City,False,,30.708319,-91.604621
+LA0400000,Rapides Parish Sheriff's Office,7308,LA,West South Central,South,Region III,RAPIDES,County,True,2007-01-01T00:00:00.000Z,31.193204,-92.535953
+LA0400100,Alexandria Police Department,7309,LA,West South Central,South,Region III,RAPIDES,City,True,2021-01-01T00:00:00.000Z,31.193204,-92.535953
+LA0400200,Pineville Police Department,7310,LA,West South Central,South,Region III,RAPIDES,City,False,,31.324041,-92.43274
+LA0400700,Woodworth Police Department,7314,LA,West South Central,South,Region III,RAPIDES,City,False,,31.193204,-92.535953
+LA0401000,Ball Police Department,7315,LA,West South Central,South,Region III,RAPIDES,City,False,,31.406595,-92.40997
+LA0410000,Red River Parish Sheriff's Office,7317,LA,West South Central,South,Region III,RED RIVER,County,False,,32.014977,-93.34033
+LA0410100,Coushatta Police Department,7318,LA,West South Central,South,Region III,RED RIVER,City,False,,32.101213,-93.34905
+LA0420000,Richland Parish Sheriff's Office,7319,LA,West South Central,South,Region III,RICHLAND,County,True,2020-02-01T00:00:00.000Z,32.413158,-91.748353
+LA0420200,Rayville Police Department,7321,LA,West South Central,South,Region III,RICHLAND,City,True,2021-01-01T00:00:00.000Z,32.413158,-91.748353
+LA0430000,Sabine Parish Sheriff's Office,7323,LA,West South Central,South,Region III,SABINE,County,False,,31.560209,-93.559228
+LA0430100,Many Police Department,7324,LA,West South Central,South,Region III,SABINE,City,False,,31.568363,-93.48213
+LA0430200,Zwolle Police Department,7325,LA,West South Central,South,Region III,SABINE,City,False,,31.560209,-93.559228
+LA0430500,Florien Police Department,7326,LA,West South Central,South,Region III,SABINE,City,False,,31.444082,-93.45514
+LA0430700,Fisher Police Department,7327,LA,West South Central,South,Region III,SABINE,City,True,2021-01-01T00:00:00.000Z,31.560209,-93.559228
+LA0440000,St. Bernard Parish Sheriff's Office,7328,LA,West South Central,South,Region III,ST BERNARD,County,True,2021-01-01T00:00:00.000Z,29.91811,-89.263494
+LA0450000,St. Charles Parish Sheriff's Office,7329,LA,West South Central,South,Region III,ST CHARLES,County,True,2020-01-01T00:00:00.000Z,29.905722,-90.357855
+LA0460000,St. Helena Parish Sheriff's Office,7330,LA,West South Central,South,Region III,ST HELENA,County,True,2013-01-01T00:00:00.000Z,30.821423,-90.70935
+LA0460100,Greensburg Police Department,25274,LA,West South Central,South,Region III,ST HELENA,City,False,2020-12-01T00:00:00.000Z,30.821423,-90.70935
+LA0460200,Montpelier Police Department,25273,LA,West South Central,South,Region III,ST HELENA,City,True,2021-01-01T00:00:00.000Z,30.821423,-90.70935
+LA0470000,St. James Parish Sheriff's Office,7331,LA,West South Central,South,Region III,ST JAMES,County,True,2008-01-01T00:00:00.000Z,30.02482,-90.793956
+LA0470100,Lutcher Police Department,7332,LA,West South Central,South,Region III,ST JAMES,City,True,2020-08-01T00:00:00.000Z,30.02482,-90.793956
+LA0470200,Gramercy Police Department,7333,LA,West South Central,South,Region III,ST JAMES,City,True,2017-01-01T00:00:00.000Z,30.02482,-90.793956
+LA0480000,St. John the Baptist Parish Sheriff's Office,7334,LA,West South Central,South,Region III,ST JOHN THE BAPTIST,County,True,2015-01-01T00:00:00.000Z,30.147307,-90.485674
+LA0490000,St. Landry Parish Sheriff's Office,7335,LA,West South Central,South,Region III,ST LANDRY,County,True,2021-01-01T00:00:00.000Z,30.534416,-92.08396
+LA0490100,Eunice Police Department,7336,LA,West South Central,South,Region III,"ACADIA, ST LANDRY",City,False,,30.492622,-92.41631
+LA0490200,Opelousas Police Department,7337,LA,West South Central,South,Region III,ST LANDRY,City,True,2021-01-01T00:00:00.000Z,30.53644,-92.08239
+LA0490300,Arnaudville Police Department,7338,LA,West South Central,South,Region III,"ST LANDRY, ST MARTIN",City,True,2020-08-01T00:00:00.000Z,30.583441,-91.989274
+LA0490400,Sunset Police Department,7339,LA,West South Central,South,Region III,ST LANDRY,City,False,,30.411783,-92.06637
+LA0490500,Washington Police Department,7340,LA,West South Central,South,Region III,ST LANDRY,City,False,,30.583441,-91.989274
+LA0490600,Port Barre Police Department,7341,LA,West South Central,South,Region III,ST LANDRY,City,False,,30.583441,-91.989274
+LA0490800,Krotz Springs Police Department,7342,LA,West South Central,South,Region III,ST LANDRY,City,True,2017-08-01T00:00:00.000Z,30.583441,-91.989274
+LA0491100,Palmetto Police Department,7343,LA,West South Central,South,Region III,ST LANDRY,City,False,,30.583441,-91.989274
+LA0491300,Louisiana State University: Eunice,7344,LA,West South Central,South,Region III,ST LANDRY,University or College,True,2020-02-01T00:00:00.000Z,30.583441,-91.989274
+LA0500000,St. Martin Parish Sheriff's Office,7345,LA,West South Central,South,Region III,ST MARTIN,County,True,2021-01-01T00:00:00.000Z,30.121433,-91.611481
+LA0500100,Breaux Bridge Police Department,7346,LA,West South Central,South,Region III,ST MARTIN,City,False,,30.121433,-91.611481
+LA0500200,St. Martinville Police Department,7347,LA,West South Central,South,Region III,ST MARTIN,City,False,,30.121433,-91.611481
+LA0500300,Parks Police Department,7348,LA,West South Central,South,Region III,ST MARTIN,City,False,,30.121433,-91.611481
+LA0510000,St. Mary Parish Sheriff's Office,7349,LA,West South Central,South,Region III,ST MARY,County,True,2021-01-01T00:00:00.000Z,29.629349,-91.463804
+LA0510100,Berwick Police Department,7350,LA,West South Central,South,Region III,ST MARY,City,True,2021-03-01T00:00:00.000Z,29.629349,-91.463804
+LA0510200,Franklin Police Department,7351,LA,West South Central,South,Region III,ST MARY,City,False,,29.629349,-91.463804
+LA0510300,Morgan City Police Department,7352,LA,West South Central,South,Region III,ST MARY,City,True,2021-01-01T00:00:00.000Z,29.629349,-91.463804
+LA0510400,Patterson Police Department,7353,LA,West South Central,South,Region III,ST MARY,City,True,2021-01-01T00:00:00.000Z,29.629349,-91.463804
+LA0510500,Baldwin Police Department,7354,LA,West South Central,South,Region III,ST MARY,City,False,,29.629349,-91.463804
+LA0510600,Chitimacha Tribal,7355,LA,West South Central,South,Region III,NOT SPECIFIED,Tribal,True,2020-12-01T00:00:00.000Z,29.629349,-91.463804
+LA0520000,St. Tammany Parish Sheriff's Office,7356,LA,West South Central,South,Region III,ST TAMMANY,County,True,2019-01-01T00:00:00.000Z,30.410022,-89.951962
+LA0520100,Covington Police Department,7357,LA,West South Central,South,Region III,ST TAMMANY,City,True,2022-01-01T00:00:00.000Z,30.478825,-90.09637
+LA0520200,Slidell Police Department,7358,LA,West South Central,South,Region III,ST TAMMANY,City,True,2021-01-01T00:00:00.000Z,30.274563,-89.78045
+LA0520300,Mandeville Police Department,7359,LA,West South Central,South,Region III,ST TAMMANY,City,True,2021-01-01T00:00:00.000Z,30.362373,-90.05933
+LA0520500,Pearl River Police Department,7360,LA,West South Central,South,Region III,ST TAMMANY,City,True,2021-01-01T00:00:00.000Z,30.410022,-89.951962
+LA0520700,Folsom Police Department,7362,LA,West South Central,South,Region III,ST TAMMANY,City,False,,30.410022,-89.951962
+LA0530000,Tangipahoa Parish Sheriff's Office,7363,LA,West South Central,South,Region III,TANGIPAHOA,County,True,2021-01-01T00:00:00.000Z,30.621581,-90.406633
+LA0530100,Hammond Police Department,7364,LA,West South Central,South,Region III,TANGIPAHOA,City,True,2021-01-01T00:00:00.000Z,30.621581,-90.406633
+LA0530200,Kentwood Police Department,7365,LA,West South Central,South,Region III,TANGIPAHOA,City,False,,30.621581,-90.406633
+LA0530300,Ponchatoula Police Department,7366,LA,West South Central,South,Region III,TANGIPAHOA,City,True,2021-01-01T00:00:00.000Z,30.440071,-90.44209
+LA0530400,Amite Police Department,7367,LA,West South Central,South,Region III,TANGIPAHOA,City,False,,30.726677,-90.508224
+LA0530500,Independence Police Department,7368,LA,West South Central,South,Region III,TANGIPAHOA,City,True,2022-07-01T00:00:00.000Z,30.621581,-90.406633
+LA0530600,Roseland Police Department,25272,LA,West South Central,South,Region III,TANGIPAHOA,City,False,,30.621581,-90.406633
+LA0530700,Tangipahoa Police Department,23225,LA,West South Central,South,Region III,TANGIPAHOA,City,False,,30.621581,-90.406633
+LA0530800,Tickfaw Police Department,7369,LA,West South Central,South,Region III,TANGIPAHOA,City,False,2015-01-01T00:00:00.000Z,30.621581,-90.406633
+LA0530900,Southeastern Louisiana University,7370,LA,West South Central,South,Region III,TANGIPAHOA,University or College,False,2003-01-01T00:00:00.000Z,30.621581,-90.406633
+LA0540000,Tensas Parish Sheriff's Office,7371,LA,West South Central,South,Region III,TENSAS,County,True,2009-01-01T00:00:00.000Z,32.001489,-91.342576
+LA0550000,Terrebonne Parish Sheriff's Office,7375,LA,West South Central,South,Region III,TERREBONNE,County,True,2020-09-01T00:00:00.000Z,29.333258,-90.844212
+LA0550100,Houma Police Department,7376,LA,West South Central,South,Region III,TERREBONNE,City,True,2020-11-01T00:00:00.000Z,29.333258,-90.844212
+LA0560000,Union Parish Sheriff's Office,7377,LA,West South Central,South,Region III,UNION,County,False,,32.829349,-92.37565
+LA0560100,Farmerville Police Department,7378,LA,West South Central,South,Region III,UNION,City,False,,32.829349,-92.37565
+LA0560200,Bernice Police Department,7379,LA,West South Central,South,Region III,UNION,City,True,2005-01-01T00:00:00.000Z,32.829349,-92.37565
+LA0560400,Marion Police Department,7380,LA,West South Central,South,Region III,UNION,City,True,2020-09-01T00:00:00.000Z,32.901417,-92.24312
+LA0570000,Vermilion Parish Sheriff's Office,7381,LA,West South Central,South,Region III,VERMILION,County,True,2021-01-01T00:00:00.000Z,29.786872,-92.29009
+LA0570100,Abbeville Police Department,7382,LA,West South Central,South,Region III,VERMILION,City,True,2020-12-01T00:00:00.000Z,29.786872,-92.29009
+LA0570200,Kaplan Police Department,7383,LA,West South Central,South,Region III,VERMILION,City,False,,30.00095,-92.28434
+LA0570300,Delcambre Police Department,7384,LA,West South Central,South,Region III,"IBERIA, VERMILION",City,False,,29.95083,-91.98844
+LA0570400,Erath Police Department,7385,LA,West South Central,South,Region III,VERMILION,City,True,2020-04-01T00:00:00.000Z,29.956594,-92.0347
+LA0570500,Gueydan Police Department,7386,LA,West South Central,South,Region III,VERMILION,City,False,,30.025658,-92.51015
+LA0580000,Vernon Parish Sheriff's Office,7387,LA,West South Central,South,Region III,VERNON,County,False,,31.110563,-93.18152
+LA0580100,Leesville Police Department,7388,LA,West South Central,South,Region III,VERNON,City,False,,31.143944,-93.26386
+LA0580200,New Llano Police Department,7389,LA,West South Central,South,Region III,VERNON,City,False,,31.11617,-93.27393
+LA0580300,Rosepine Police Department,7390,LA,West South Central,South,Region III,VERNON,City,False,,31.110563,-93.18152
+LA0590000,Washington Parish Sheriff's Office,7391,LA,West South Central,South,Region III,WASHINGTON,County,True,2021-01-01T00:00:00.000Z,30.852144,-90.046253
+LA0590100,Bogalusa Police Department,7392,LA,West South Central,South,Region III,WASHINGTON,City,True,2007-12-01T00:00:00.000Z,30.7865,-89.86042
+LA0590200,Franklinton Police Department,7393,LA,West South Central,South,Region III,WASHINGTON,City,False,,30.853376,-90.15753
+LA0600000,Webster Parish Sheriff's Office,7394,LA,West South Central,South,Region III,WEBSTER,County,True,2021-01-01T00:00:00.000Z,32.613876,-93.28846
+LA0600100,Minden Police Department,7395,LA,West South Central,South,Region III,WEBSTER,City,False,,32.732152,-93.339825
+LA0600200,Springhill Police Department,7396,LA,West South Central,South,Region III,WEBSTER,City,True,2020-08-01T00:00:00.000Z,33.00477,-93.46104
+LA0600400,Cullen Police Department,7397,LA,West South Central,South,Region III,WEBSTER,City,False,,32.732152,-93.339825
+LA0600700,Sibley Police Department,25420,LA,West South Central,South,Region III,WEBSTER,City,True,2020-09-01T00:00:00.000Z,32.732152,-93.339825
+LA0600800,Dixie Inn Police Department,7398,LA,West South Central,South,Region III,WEBSTER,City,True,2020-01-01T00:00:00.000Z,32.59326,-93.33438
+LA0600900,Heflin,32914,LA,West South Central,South,Region III,WEBSTER,City,True,2020-01-01T00:00:00.000Z,,
+LA0610000,West Baton Rouge Parish Sheriff's Office,7399,LA,West South Central,South,Region III,WEST BATON ROUGE,County,True,2018-08-01T00:00:00.000Z,30.464052,-91.309808
+LA0610100,Port Allen Police Department,7400,LA,West South Central,South,Region III,WEST BATON ROUGE,City,True,2007-01-01T00:00:00.000Z,30.464052,-91.309808
+LA0610200,Brusly Police Department,7401,LA,West South Central,South,Region III,WEST BATON ROUGE,City,True,2021-01-01T00:00:00.000Z,30.464052,-91.309808
+LA0610300,Addis Police Department,7402,LA,West South Central,South,Region III,WEST BATON ROUGE,City,True,2021-01-01T00:00:00.000Z,30.464052,-91.309808
+LA0620000,West Carroll Parish Sheriff's Office,7403,LA,West South Central,South,Region III,WEST CARROLL,County,True,2021-01-01T00:00:00.000Z,32.79248,-91.451998
+LA0620100,Oak Grove Police Department,7404,LA,West South Central,South,Region III,WEST CARROLL,City,False,,32.79248,-91.451998
+LA0620200,Epps Police Department,7405,LA,West South Central,South,Region III,WEST CARROLL,City,True,2021-01-01T00:00:00.000Z,32.79248,-91.451998
+LA0630000,West Feliciana Parish Sheriff's Office,7406,LA,West South Central,South,Region III,WEST FELICIANA,County,True,2021-01-01T00:00:00.000Z,30.872701,-91.421008
+LA0640000,Winn Parish Sheriff's Office,7408,LA,West South Central,South,Region III,WINN,County,True,2019-03-01T00:00:00.000Z,31.941187,-92.641269
+LA0640100,Winnfield Police Department,7409,LA,West South Central,South,Region III,WINN,City,False,,31.923979,-92.63959
+LADI00500,Tunica-Biloxi Tribal,7410,LA,West South Central,South,Region III,NOT SPECIFIED,Tribal,True,2020-11-01T00:00:00.000Z,31.085094,-91.993797
+LADI00600,Coushatta Tribal,7411,LA,West South Central,South,Region III,NOT SPECIFIED,Tribal,True,2021-01-01T00:00:00.000Z,30.269529,-92.816221
+LALSP0000,State Police,7412,LA,West South Central,South,Region III,UNMAPPED COUNTY,State Police,False,,30.544002,-91.093174
+LANPD0000,New Orleans Police Department,7413,LA,West South Central,South,Region III,ORLEANS,City,False,,29.960224,-90.09213

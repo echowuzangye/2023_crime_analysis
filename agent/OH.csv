@@ -1,0 +1,857 @@
+ori,agency_name,agency_id,state_abbr,division_name,region_name,region_desc,county_name,agency_type_name,nibrs,nibrs_start_date,latitude,longitude
+OH0010000,Adams County Sheriff's Office,14059,OH,East North Central,Midwest,Region II,ADAMS,County,True,2001-12-01T00:00:00.000Z,38.794876,-83.5464
+OH0010200,Peebles Police Department,14061,OH,East North Central,Midwest,Region II,ADAMS,City,True,2006-01-01T00:00:00.000Z,38.94633,-83.40028
+OH0010300,West Union Police Department,14062,OH,East North Central,Midwest,Region II,ADAMS,City,True,2004-06-01T00:00:00.000Z,38.79621,-83.53463
+OH0010600,Seaman Police Department,14063,OH,East North Central,Midwest,Region II,ADAMS,City,True,2004-01-01T00:00:00.000Z,38.841681,-83.474173
+OH0010700,Winchester Police Department,14064,OH,East North Central,Midwest,Region II,ADAMS,City,True,2004-01-01T00:00:00.000Z,38.841681,-83.474173
+OH0020000,Allen County Sheriff's Office,14065,OH,East North Central,Midwest,Region II,ALLEN,County,True,2020-12-01T00:00:00.000Z,40.771627,-84.106103
+OH0020100,Bluffton Police Department,14066,OH,East North Central,Midwest,Region II,"ALLEN, HANCOCK",City,True,2021-01-01T00:00:00.000Z,40.894417,-83.89051
+OH0020200,Delphos Police Department,14067,OH,East North Central,Midwest,Region II,"ALLEN, VAN WERT",City,True,2020-11-01T00:00:00.000Z,40.84372,-84.33937
+OH0020400,Lima Police Department,14069,OH,East North Central,Midwest,Region II,ALLEN,City,True,2021-01-01T00:00:00.000Z,40.740036,-84.10386
+OH0020500,Spencerville Police Department,14070,OH,East North Central,Midwest,Region II,ALLEN,City,True,2006-02-01T00:00:00.000Z,40.707386,-84.354164
+OH0020700,Elida Police Department,14071,OH,East North Central,Midwest,Region II,ALLEN,City,True,2005-09-01T00:00:00.000Z,40.771627,-84.106103
+OH0021100,Shawnee Township Police Department,14073,OH,East North Central,Midwest,Region II,ALLEN,City,True,2012-02-01T00:00:00.000Z,40.705822,-84.148994
+OH0021300,American Township Police Department,14075,OH,East North Central,Midwest,Region II,ALLEN,City,True,2008-01-01T00:00:00.000Z,40.771627,-84.106103
+OH0021400,"Perry Township Police Department, Allen County",14076,OH,East North Central,Midwest,Region II,ALLEN,City,False,2008-03-01T00:00:00.000Z,40.687794,-84.0593
+OH0021600,Marion Township Police Department,14077,OH,East North Central,Midwest,Region II,ALLEN,City,False,2006-06-01T00:00:00.000Z,40.771627,-84.106103
+OH0021700,Johnny Appleseed Metropolitan Park District,14078,OH,East North Central,Midwest,Region II,ALLEN,Other,False,2004-06-01T00:00:00.000Z,40.758274,-84.057755
+OH0021800,Lima Park Services Ranger Division,14079,OH,East North Central,Midwest,Region II,ALLEN,Other,False,2008-07-01T00:00:00.000Z,40.731655,-84.119194
+OH0030000,Ashland County Sheriff's Office,14080,OH,East North Central,Midwest,Region II,ASHLAND,County,True,2003-03-01T00:00:00.000Z,40.86411,-82.290855
+OH0030100,Ashland Police Department,14081,OH,East North Central,Midwest,Region II,ASHLAND,City,True,2001-01-01T00:00:00.000Z,40.864094,-82.29079
+OH0030200,Loudonville Police Department,14082,OH,East North Central,Midwest,Region II,"ASHLAND, HOLMES",City,True,2004-12-01T00:00:00.000Z,40.636623,-82.23503
+OH0030300,Perrysville Police Department,14083,OH,East North Central,Midwest,Region II,ASHLAND,City,False,2006-07-01T00:00:00.000Z,40.843274,-82.270121
+OH0030800,Mifflin Police Department,14084,OH,East North Central,Midwest,Region II,ASHLAND,City,False,2007-03-01T00:00:00.000Z,40.77408,-82.363625
+OH0040000,Ashtabula County Sheriff's Office,14085,OH,East North Central,Midwest,Region II,ASHTABULA,County,True,2011-02-01T00:00:00.000Z,41.738342,-80.77025
+OH0040100,Ashtabula Police Department,14086,OH,East North Central,Midwest,Region II,ASHTABULA,City,False,2002-01-01T00:00:00.000Z,41.8673,-80.78022
+OH0040200,Conneaut Police Department,14087,OH,East North Central,Midwest,Region II,ASHTABULA,City,True,2015-07-01T00:00:00.000Z,41.94252,-80.55722
+OH0040300,Geneva Police Department,14088,OH,East North Central,Midwest,Region II,ASHTABULA,City,False,,41.80646,-80.945984
+OH0040400,Andover Police Department,14089,OH,East North Central,Midwest,Region II,ASHTABULA,City,True,2010-09-01T00:00:00.000Z,41.906644,-80.745641
+OH0040500,Geneva-on-the-Lake Police Department,14090,OH,East North Central,Midwest,Region II,ASHTABULA,City,False,2000-01-01T00:00:00.000Z,41.859863,-80.94971
+OH0040600,Jefferson Police Department,14091,OH,East North Central,Midwest,Region II,ASHTABULA,City,True,2006-01-01T00:00:00.000Z,41.73832,-80.764946
+OH0040700,North Kingsville Police Department,14092,OH,East North Central,Midwest,Region II,ASHTABULA,City,False,2013-08-01T00:00:00.000Z,41.906644,-80.745641
+OH0040800,Orwell Police Department,14093,OH,East North Central,Midwest,Region II,ASHTABULA,City,False,2005-12-01T00:00:00.000Z,41.906644,-80.745641
+OH0041000,Roaming Shores Village Police Department,14094,OH,East North Central,Midwest,Region II,ASHTABULA,City,True,2005-10-01T00:00:00.000Z,41.906644,-80.745641
+OH0041400,Ashtabula County Metroparks Ranger Division,35622,OH,East North Central,Midwest,Region II,ASHTABULA,Other,True,2022-12-01T00:00:00.000Z,,
+OH0050000,Athens County Sheriff's Office,14095,OH,East North Central,Midwest,Region II,ATHENS,County,True,2003-01-01T00:00:00.000Z,39.329216,-82.10181
+OH0050100,Athens Police Department,14096,OH,East North Central,Midwest,Region II,ATHENS,City,True,2003-01-01T00:00:00.000Z,39.329594,-82.099754
+OH0050200,Glouster Police Department,14097,OH,East North Central,Midwest,Region II,ATHENS,City,True,2009-01-01T00:00:00.000Z,39.502773,-82.0834
+OH0050300,Nelsonville Police Department,14098,OH,East North Central,Midwest,Region II,ATHENS,City,True,2005-04-01T00:00:00.000Z,39.333848,-82.046008
+OH0050400,Albany Police Department,14099,OH,East North Central,Midwest,Region II,ATHENS,City,True,2005-03-01T00:00:00.000Z,39.333848,-82.046008
+OH0050600,Buchtel Police Department,14100,OH,East North Central,Midwest,Region II,"ATHENS, HOCKING",City,False,2007-03-01T00:00:00.000Z,39.333848,-82.046008
+OH0050800,Jacksonville Police Department,14102,OH,East North Central,Midwest,Region II,ATHENS,City,False,2010-01-01T00:00:00.000Z,39.333848,-82.046008
+OH0051000,Ohio University,14103,OH,East North Central,Midwest,Region II,ATHENS,University or College,True,2020-01-01T00:00:00.000Z,39.333848,-82.046008
+OH0051100,Hocking College,14104,OH,East North Central,Midwest,Region II,ATHENS,University or College,True,2000-01-01T00:00:00.000Z,39.442284,-82.22203
+OH0051200,Coolville Police Department,14105,OH,East North Central,Midwest,Region II,ATHENS,City,False,2007-01-01T00:00:00.000Z,39.333848,-82.046008
+OH0060000,Auglaize County Sheriff's Office,14106,OH,East North Central,Midwest,Region II,AUGLAIZE,County,True,2001-12-01T00:00:00.000Z,40.561309,-84.224018
+OH0060100,St. Marys Police Department,14107,OH,East North Central,Midwest,Region II,AUGLAIZE,City,True,2015-03-01T00:00:00.000Z,40.545612,-84.39172
+OH0060200,Wapakoneta Police Department,14108,OH,East North Central,Midwest,Region II,AUGLAIZE,City,True,2003-11-01T00:00:00.000Z,40.561309,-84.224018
+OH0060400,Cridersville Police Department,14110,OH,East North Central,Midwest,Region II,AUGLAIZE,City,False,2005-09-01T00:00:00.000Z,40.65425,-84.144135
+OH0060500,Minster Police Department,14111,OH,East North Central,Midwest,Region II,AUGLAIZE,City,True,2004-10-01T00:00:00.000Z,40.561309,-84.224018
+OH0060600,New Bremen Police Department,14112,OH,East North Central,Midwest,Region II,AUGLAIZE,City,True,2004-07-01T00:00:00.000Z,40.561309,-84.224018
+OH0060700,New Knoxville Police Department,14113,OH,East North Central,Midwest,Region II,AUGLAIZE,City,True,2007-02-01T00:00:00.000Z,40.49437,-84.31665
+OH0060900,Waynesfield Police Department,14115,OH,East North Central,Midwest,Region II,AUGLAIZE,City,False,2011-11-01T00:00:00.000Z,40.561309,-84.224018
+OH0070000,Belmont County Sheriff's Office,14116,OH,East North Central,Midwest,Region II,BELMONT,County,True,1998-01-01T00:00:00.000Z,40.017682,-80.967727
+OH0070100,Barnesville Police Department,14117,OH,East North Central,Midwest,Region II,BELMONT,City,True,1999-01-01T00:00:00.000Z,39.98777,-81.17519
+OH0070200,Bellaire Police Department,14118,OH,East North Central,Midwest,Region II,BELMONT,City,True,2006-01-01T00:00:00.000Z,40.017682,-80.967727
+OH0070300,Bridgeport Police Department,14119,OH,East North Central,Midwest,Region II,BELMONT,City,True,1998-04-01T00:00:00.000Z,40.072205,-80.74221
+OH0070400,Martins Ferry Police Department,14120,OH,East North Central,Midwest,Region II,BELMONT,City,True,2007-11-01T00:00:00.000Z,40.096546,-80.72477
+OH0070500,Powhatan Point Police Department,14121,OH,East North Central,Midwest,Region II,BELMONT,City,True,1999-01-01T00:00:00.000Z,39.863495,-80.80608
+OH0070600,Shadyside Police Department,14122,OH,East North Central,Midwest,Region II,BELMONT,City,True,2006-04-01T00:00:00.000Z,39.971863,-80.74807
+OH0070700,St. Clairsville Police Department,14123,OH,East North Central,Midwest,Region II,BELMONT,City,True,2005-01-01T00:00:00.000Z,40.081646,-80.901245
+OH0071100,Flushing Police Department,14124,OH,East North Central,Midwest,Region II,BELMONT,City,True,2005-09-01T00:00:00.000Z,40.017682,-80.967727
+OH0071600,Bethesda Police Department,14126,OH,East North Central,Midwest,Region II,BELMONT,City,False,1999-10-01T00:00:00.000Z,40.017682,-80.967727
+OH0071800,Richland Township Police Department,14127,OH,East North Central,Midwest,Region II,BELMONT,City,True,2001-03-01T00:00:00.000Z,40.017682,-80.967727
+OH0071900,Belmont County Major Crimes Unit,33401,OH,East North Central,Midwest,Region II,BELMONT,Other,True,2021-03-01T00:00:00.000Z,,
+OH0080000,Brown County Sheriff's Office,14128,OH,East North Central,Midwest,Region II,BROWN,County,False,2001-06-01T00:00:00.000Z,38.875282,-83.90146
+OH0080100,Aberdeen Police Department,14129,OH,East North Central,Midwest,Region II,BROWN,City,False,1999-01-01T00:00:00.000Z,38.931377,-83.866772
+OH0080200,Georgetown Police Department,14130,OH,East North Central,Midwest,Region II,BROWN,City,True,2004-06-01T00:00:00.000Z,38.8646,-83.90439
+OH0080300,Ripley Police Department,25603,OH,East North Central,Midwest,Region II,BROWN,City,False,2015-06-01T00:00:00.000Z,38.931377,-83.866772
+OH0080400,Fayetteville Police Department,14131,OH,East North Central,Midwest,Region II,BROWN,City,False,,38.931377,-83.866772
+OH0080600,Higginsport Police Department,14132,OH,East North Central,Midwest,Region II,BROWN,City,False,2006-05-01T00:00:00.000Z,38.931377,-83.866772
+OH0080700,Mount Orab Police Department,14133,OH,East North Central,Midwest,Region II,BROWN,City,True,2002-06-01T00:00:00.000Z,38.931377,-83.866772
+OH0080800,Russellville Police Department,14134,OH,East North Central,Midwest,Region II,BROWN,City,False,2004-03-01T00:00:00.000Z,38.931377,-83.866772
+OH0080900,Sardinia Police Department,14135,OH,East North Central,Midwest,Region II,BROWN,City,True,2005-01-01T00:00:00.000Z,38.931377,-83.866772
+OH008130X,Lake Waynoka Rangers,14136,OH,East North Central,Midwest,Region II,BROWN,Other,False,2011-03-01T00:00:00.000Z,38.92572,-83.7843
+OH0090000,Butler County Sheriff's Office,14137,OH,East North Central,Midwest,Region II,BUTLER,County,True,1998-01-01T00:00:00.000Z,39.389874,-84.55557
+OH0090100,Fairfield Police Department,14138,OH,East North Central,Midwest,Region II,BUTLER,City,False,,39.439747,-84.565734
+OH0090200,Hamilton Police Department,14139,OH,East North Central,Midwest,Region II,BUTLER,City,True,2015-01-01T00:00:00.000Z,39.39787,-84.56464
+OH0090300,Middletown Police Department,14140,OH,East North Central,Midwest,Region II,"BUTLER, WARREN",City,True,2018-06-01T00:00:00.000Z,39.51933,-84.400795
+OH0090500,Monroe Police Department,14141,OH,East North Central,Midwest,Region II,"BUTLER, WARREN",City,True,2013-11-01T00:00:00.000Z,39.439747,-84.565734
+OH0090600,New Miami Police Department,14142,OH,East North Central,Midwest,Region II,BUTLER,City,True,2011-05-01T00:00:00.000Z,39.439747,-84.565734
+OH0090700,Oxford Police Department,14143,OH,East North Central,Midwest,Region II,BUTLER,City,True,2017-06-01T00:00:00.000Z,39.510452,-84.74075
+OH0090900,Trenton Police Department,14144,OH,East North Central,Midwest,Region II,BUTLER,City,False,2010-01-01T00:00:00.000Z,39.439747,-84.565734
+OH0091300,Oxford Township Police Department,14146,OH,East North Central,Midwest,Region II,BUTLER,City,True,2005-07-01T00:00:00.000Z,39.439747,-84.565734
+OH0091500,West Chester Township Police Department,14147,OH,East North Central,Midwest,Region II,BUTLER,City,True,2012-01-01T00:00:00.000Z,39.439747,-84.565734
+OH0091600,Ross Township Police Department,14148,OH,East North Central,Midwest,Region II,BUTLER,City,True,2008-10-01T00:00:00.000Z,39.338108,-84.62624
+OH0091700,Miami University,14149,OH,East North Central,Midwest,Region II,BUTLER,University or College,True,2021-01-01T00:00:00.000Z,39.439747,-84.565734
+OH0091800,Fairfield Township Police Department,14150,OH,East North Central,Midwest,Region II,BUTLER,City,True,1999-01-01T00:00:00.000Z,39.439747,-84.565734
+OH0091900,Butler County Metroparks,14151,OH,East North Central,Midwest,Region II,BUTLER,Other,True,2006-01-01T00:00:00.000Z,39.365723,-84.62761
+OH0100000,Carroll County Sheriff's Office,14152,OH,East North Central,Midwest,Region II,CARROLL,County,True,2001-03-01T00:00:00.000Z,40.572014,-81.08679
+OH0100100,Carrollton Police Department,14153,OH,East North Central,Midwest,Region II,CARROLL,City,True,2021-08-01T00:00:00.000Z,40.571636,-81.08982
+OH0110000,Champaign County Sheriff's Office,14156,OH,East North Central,Midwest,Region II,CHAMPAIGN,County,True,2001-12-01T00:00:00.000Z,40.106754,-83.75266
+OH0110100,Mechanicsburg Police Department,14157,OH,East North Central,Midwest,Region II,CHAMPAIGN,City,True,2006-01-01T00:00:00.000Z,40.132759,-83.767542
+OH0110200,Urbana Police Department,14158,OH,East North Central,Midwest,Region II,CHAMPAIGN,City,True,1998-01-01T00:00:00.000Z,40.132759,-83.767542
+OH0110500,North Lewisburg,33376,OH,East North Central,Midwest,Region II,CHAMPAIGN,City,False,2021-05-01T00:00:00.000Z,,
+OH0110600,St. Paris Police Department,14159,OH,East North Central,Midwest,Region II,CHAMPAIGN,City,True,2004-12-01T00:00:00.000Z,40.132759,-83.767542
+OH0120000,Clark County Sheriff's Office,14160,OH,East North Central,Midwest,Region II,CLARK,County,True,1999-01-01T00:00:00.000Z,39.926155,-83.81001
+OH0120200,Springfield Police Department,14162,OH,East North Central,Midwest,Region II,CLARK,City,True,2021-01-01T00:00:00.000Z,39.917032,-83.783676
+OH0120500,Donnelsville Police Department,14163,OH,East North Central,Midwest,Region II,CLARK,City,False,,39.917032,-83.783676
+OH0120600,Enon Police Department,14164,OH,East North Central,Midwest,Region II,CLARK,City,False,2008-05-01T00:00:00.000Z,39.88017,-83.93344
+OH0120900,South Charleston Police Department,14165,OH,East North Central,Midwest,Region II,CLARK,City,True,1999-01-01T00:00:00.000Z,39.917032,-83.783676
+OH0121000,Tremont City Police Department,14166,OH,East North Central,Midwest,Region II,CLARK,City,False,2005-07-01T00:00:00.000Z,39.917032,-83.783676
+OH0121100,South Vienna Police Department,14167,OH,East North Central,Midwest,Region II,CLARK,City,True,2000-04-01T00:00:00.000Z,39.917032,-83.783676
+OH0121300,"German Township Police Department, Clark County",14168,OH,East North Central,Midwest,Region II,CLARK,City,False,2000-03-01T00:00:00.000Z,39.98669,-83.87804
+OH0121600,Clark County Park District,25362,OH,East North Central,Midwest,Region II,CLARK,Other,False,2014-04-01T00:00:00.000Z,39.917032,-83.783676
+OH0130000,Clermont County Sheriff's Office,14169,OH,East North Central,Midwest,Region II,CLERMONT,County,True,2007-01-01T00:00:00.000Z,39.094086,-84.19046
+OH0130100,Batavia Police Department,14170,OH,East North Central,Midwest,Region II,CLERMONT,City,True,2006-06-01T00:00:00.000Z,39.075428,-84.17537
+OH0130200,Bethel Police Department,14171,OH,East North Central,Midwest,Region II,CLERMONT,City,True,2005-10-01T00:00:00.000Z,38.96446,-84.08098
+OH0130300,Milford Police Department,14172,OH,East North Central,Midwest,Region II,"CLERMONT, HAMILTON",City,True,2013-01-01T00:00:00.000Z,39.177258,-84.28666
+OH0130600,Felicity Police Department,23170,OH,East North Central,Midwest,Region II,CLERMONT,City,True,2012-02-01T00:00:00.000Z,39.052084,-84.149614
+OH0131000,New Richmond Police Department,14174,OH,East North Central,Midwest,Region II,CLERMONT,City,True,2005-03-01T00:00:00.000Z,38.950546,-84.28211
+OH0131200,Owensville Police Department,14176,OH,East North Central,Midwest,Region II,CLERMONT,City,True,2006-05-01T00:00:00.000Z,39.052084,-84.149614
+OH0131300,Williamsburg Police Department,14177,OH,East North Central,Midwest,Region II,CLERMONT,City,True,2004-10-01T00:00:00.000Z,39.052967,-84.05109
+OH0131400,"Goshen Township Police Department, Clermont County",14178,OH,East North Central,Midwest,Region II,CLERMONT,City,True,2005-10-01T00:00:00.000Z,39.23047,-84.15801
+OH0131500,"Miami Township Police Department, Clermont County",14179,OH,East North Central,Midwest,Region II,CLERMONT,City,True,2005-01-01T00:00:00.000Z,39.1966,-84.241745
+OH0131600,"Union Township Police Department, Clermont County",14180,OH,East North Central,Midwest,Region II,CLERMONT,City,True,2000-01-01T00:00:00.000Z,39.08774,-84.26897
+OH0131700,Pierce Township Police Department,14181,OH,East North Central,Midwest,Region II,CLERMONT,City,True,2003-09-01T00:00:00.000Z,39.024616,-84.278275
+OH0140000,Clinton County Sheriff's Office,14183,OH,East North Central,Midwest,Region II,CLINTON,County,True,2002-09-01T00:00:00.000Z,39.429004,-83.795048
+OH0140100,Blanchester Police Department,14184,OH,East North Central,Midwest,Region II,CLINTON,City,True,2004-11-01T00:00:00.000Z,39.29513,-83.98548
+OH0140200,New Vienna Police Department,14185,OH,East North Central,Midwest,Region II,CLINTON,City,False,2005-01-01T00:00:00.000Z,39.429004,-83.795048
+OH0140300,Sabina Police Department,14186,OH,East North Central,Midwest,Region II,CLINTON,City,True,2007-02-01T00:00:00.000Z,39.488464,-83.636604
+OH0140400,Wilmington Police Department,14187,OH,East North Central,Midwest,Region II,CLINTON,City,True,2000-01-01T00:00:00.000Z,39.429004,-83.795048
+OH0150000,Columbiana County Sheriff's Office,14188,OH,East North Central,Midwest,Region II,COLUMBIANA,County,True,2006-01-01T00:00:00.000Z,40.77204,-80.768036
+OH0150100,Columbiana Police Department,14189,OH,East North Central,Midwest,Region II,"COLUMBIANA, MAHONING",City,True,2013-01-01T00:00:00.000Z,40.88845,-80.69518
+OH0150200,East Liverpool Police Department,14190,OH,East North Central,Midwest,Region II,COLUMBIANA,City,True,2011-01-01T00:00:00.000Z,40.62047,-80.58037
+OH0150300,East Palestine Police Department,14191,OH,East North Central,Midwest,Region II,COLUMBIANA,City,True,2002-01-01T00:00:00.000Z,40.83264,-80.53891
+OH0150400,Leetonia Police Department,14192,OH,East North Central,Midwest,Region II,COLUMBIANA,City,False,,40.879005,-80.7554
+OH0150500,Lisbon Police Department,14193,OH,East North Central,Midwest,Region II,COLUMBIANA,City,True,2013-07-01T00:00:00.000Z,40.768462,-80.777231
+OH0150600,Salem Police Department,14194,OH,East North Central,Midwest,Region II,"COLUMBIANA, MAHONING",City,True,2010-03-01T00:00:00.000Z,40.899406,-80.855354
+OH0150700,Salineville Police Department,14195,OH,East North Central,Midwest,Region II,COLUMBIANA,City,True,2006-06-01T00:00:00.000Z,40.62369,-80.839355
+OH0150800,Wellsville Police Department,14196,OH,East North Central,Midwest,Region II,COLUMBIANA,City,True,2007-02-01T00:00:00.000Z,40.601006,-80.65175
+OH0151000,New Waterford Police Department,14197,OH,East North Central,Midwest,Region II,COLUMBIANA,City,True,2008-01-01T00:00:00.000Z,40.845554,-80.61393
+OH0151300,Washingtonville Police Department,14198,OH,East North Central,Midwest,Region II,"COLUMBIANA, MAHONING",City,True,1999-12-01T00:00:00.000Z,40.768462,-80.777231
+OH0151400,Liverpool Township Police Department,14199,OH,East North Central,Midwest,Region II,COLUMBIANA,City,True,2006-06-01T00:00:00.000Z,40.64651,-80.59622
+OH0151500,St. Clair Township Police Department,14200,OH,East North Central,Midwest,Region II,COLUMBIANA,City,True,2007-01-01T00:00:00.000Z,40.678413,-80.579994
+OH0151600,Salem Township Police Department,14201,OH,East North Central,Midwest,Region II,COLUMBIANA,City,False,,40.77208,-80.75776
+OH0151900,"Perry Township Police Department, Columbiana County",14202,OH,East North Central,Midwest,Region II,COLUMBIANA,City,True,2007-03-01T00:00:00.000Z,,
+OH0152000,Center Township Police Department,25363,OH,East North Central,Midwest,Region II,COLUMBIANA,City,False,2015-01-01T00:00:00.000Z,40.768462,-80.777231
+OH0160000,Coshocton County Sheriff's Office,14203,OH,East North Central,Midwest,Region II,COSHOCTON,County,True,2007-01-01T00:00:00.000Z,40.275055,-81.86644
+OH0160600,West Lafayette Police Department,14205,OH,East North Central,Midwest,Region II,COSHOCTON,City,False,2005-05-01T00:00:00.000Z,40.27565,-81.75111
+OH0170000,Crawford County Sheriff's Office,14206,OH,East North Central,Midwest,Region II,CRAWFORD,County,True,2003-08-01T00:00:00.000Z,40.816673,-82.93687
+OH0170100,Bucyrus Police Department,14207,OH,East North Central,Midwest,Region II,CRAWFORD,City,True,2013-06-01T00:00:00.000Z,40.80397,-82.9755
+OH0170200,Crestline Police Department,14208,OH,East North Central,Midwest,Region II,"CRAWFORD, RICHLAND",City,True,2010-01-01T00:00:00.000Z,40.784172,-82.73718
+OH0170300,Galion Police Department,14209,OH,East North Central,Midwest,Region II,CRAWFORD,City,True,2001-01-01T00:00:00.000Z,40.73383,-82.787384
+OH0170400,New Washington Police Department,14210,OH,East North Central,Midwest,Region II,CRAWFORD,City,True,2022-01-01T00:00:00.000Z,40.848508,-82.924771
+OH0180000,Cuyahoga County Sheriff's Office,14211,OH,East North Central,Midwest,Region II,CUYAHOGA,County,True,2017-10-01T00:00:00.000Z,41.50178,-81.6981
+OH0180100,Bay Village Police Department,14212,OH,East North Central,Midwest,Region II,CUYAHOGA,City,True,2002-01-01T00:00:00.000Z,41.485096,-81.92952
+OH0180200,Beachwood Police Department,14213,OH,East North Central,Midwest,Region II,CUYAHOGA,City,True,2007-11-01T00:00:00.000Z,41.48615,-81.49777
+OH0180300,Bedford Police Department,14214,OH,East North Central,Midwest,Region II,CUYAHOGA,City,True,2020-07-01T00:00:00.000Z,41.396984,-81.537056
+OH0180400,Bedford Heights Police Department,14215,OH,East North Central,Midwest,Region II,CUYAHOGA,City,True,2020-05-01T00:00:00.000Z,41.404938,-81.49855
+OH0180500,Bentleyville Village Police Department,14216,OH,East North Central,Midwest,Region II,CUYAHOGA,City,True,2003-10-01T00:00:00.000Z,41.414303,-81.41332
+OH0180600,Berea Police Department,14217,OH,East North Central,Midwest,Region II,CUYAHOGA,City,True,2020-01-01T00:00:00.000Z,41.365406,-81.85345
+OH0180700,Bratenahl Police Department,14218,OH,East North Central,Midwest,Region II,CUYAHOGA,City,True,2005-03-01T00:00:00.000Z,41.546844,-81.61551
+OH0180800,Brecksville Police Department,14219,OH,East North Central,Midwest,Region II,CUYAHOGA,City,True,2002-01-01T00:00:00.000Z,41.31871,-81.62683
+OH0180900,Broadview Heights Police Department,14220,OH,East North Central,Midwest,Region II,CUYAHOGA,City,True,2002-01-01T00:00:00.000Z,41.30716,-81.68467
+OH0181000,Brooklyn Police Department,14221,OH,East North Central,Midwest,Region II,CUYAHOGA,City,True,2020-01-01T00:00:00.000Z,41.439976,-81.73837
+OH0181100,Brooklyn Heights Police Department,14222,OH,East North Central,Midwest,Region II,CUYAHOGA,City,False,,41.41788,-81.68048
+OH0181200,Brook Park Police Department,14223,OH,East North Central,Midwest,Region II,CUYAHOGA,City,True,2002-01-01T00:00:00.000Z,41.3946,-81.819885
+OH0181300,Chagrin Falls Police Department,14224,OH,East North Central,Midwest,Region II,CUYAHOGA,City,True,2003-07-01T00:00:00.000Z,41.760392,-81.724217
+OH0181500,Cleveland Heights Police Department,14225,OH,East North Central,Midwest,Region II,CUYAHOGA,City,True,2019-01-01T00:00:00.000Z,41.51443,-81.55112
+OH0181700,East Cleveland Police Department,14226,OH,East North Central,Midwest,Region II,CUYAHOGA,City,True,2021-05-01T00:00:00.000Z,41.53,-81.58241
+OH0181800,Euclid Police Department,14227,OH,East North Central,Midwest,Region II,CUYAHOGA,City,True,2001-12-01T00:00:00.000Z,41.600502,-81.52682
+OH0181900,Fairview Park Police Department,14228,OH,East North Central,Midwest,Region II,CUYAHOGA,City,True,2002-01-01T00:00:00.000Z,41.447266,-81.85014
+OH0182000,Garfield Heights Police Department,14229,OH,East North Central,Midwest,Region II,CUYAHOGA,City,True,2001-12-01T00:00:00.000Z,41.41168,-81.60218
+OH0182100,Gates Mills Police Department,14230,OH,East North Central,Midwest,Region II,CUYAHOGA,City,True,2021-01-01T00:00:00.000Z,41.52029,-81.404854
+OH0182200,Glenwillow Police Department,14231,OH,East North Central,Midwest,Region II,CUYAHOGA,City,False,2007-07-01T00:00:00.000Z,41.356953,-81.47088
+OH0182300,Highland Heights Police Department,14232,OH,East North Central,Midwest,Region II,CUYAHOGA,City,True,2020-04-01T00:00:00.000Z,41.552513,-81.46991
+OH0182400,Hunting Valley Police Department,14233,OH,East North Central,Midwest,Region II,"CUYAHOGA, GEAUGA",City,True,2020-01-01T00:00:00.000Z,41.49167,-81.41704
+OH0182500,Independence Police Department,14234,OH,East North Central,Midwest,Region II,CUYAHOGA,City,True,2001-10-01T00:00:00.000Z,41.376324,-81.63992
+OH0182600,Lakewood Police Department,14235,OH,East North Central,Midwest,Region II,CUYAHOGA,City,True,2001-09-01T00:00:00.000Z,41.484337,-81.776634
+OH0182700,Lyndhurst Police Department,14236,OH,East North Central,Midwest,Region II,CUYAHOGA,City,True,2002-01-01T00:00:00.000Z,41.519955,-81.48857
+OH0182800,Maple Heights Police Department,14237,OH,East North Central,Midwest,Region II,CUYAHOGA,City,True,2002-01-01T00:00:00.000Z,41.41495,-81.56593
+OH0182900,Mayfield Heights Police Department,14238,OH,East North Central,Midwest,Region II,CUYAHOGA,City,True,2001-12-01T00:00:00.000Z,41.520054,-81.45785
+OH0183000,Mayfield Village Police Department,14239,OH,East North Central,Midwest,Region II,CUYAHOGA,City,False,2002-01-01T00:00:00.000Z,41.55002,-81.43924
+OH0183100,Middleburg Heights Police Department,14240,OH,East North Central,Midwest,Region II,CUYAHOGA,City,True,2001-01-01T00:00:00.000Z,41.37158,-81.80963
+OH0183200,Moreland Hills Police Department,14241,OH,East North Central,Midwest,Region II,CUYAHOGA,City,False,2021-01-01T00:00:00.000Z,41.437008,-81.44376
+OH0183300,Newburgh Heights Police Department,14242,OH,East North Central,Midwest,Region II,CUYAHOGA,City,True,2022-12-01T00:00:00.000Z,41.4456,-81.65641
+OH0183400,North Olmsted Police Department,14243,OH,East North Central,Midwest,Region II,CUYAHOGA,City,True,2002-01-01T00:00:00.000Z,41.415577,-81.923836
+OH0183500,North Randall Police Department,14244,OH,East North Central,Midwest,Region II,CUYAHOGA,City,False,2009-06-01T00:00:00.000Z,41.42702,-81.52449
+OH0183600,North Royalton Police Department,14245,OH,East North Central,Midwest,Region II,CUYAHOGA,City,True,2002-01-01T00:00:00.000Z,41.314198,-81.73698
+OH0183700,Oakwood Village Police Department,14246,OH,East North Central,Midwest,Region II,CUYAHOGA,City,False,2002-03-01T00:00:00.000Z,41.362324,-81.5045
+OH0183800,Olmsted Township Police Department,14247,OH,East North Central,Midwest,Region II,CUYAHOGA,City,True,2020-01-01T00:00:00.000Z,41.382465,-81.92262
+OH0183900,Olmsted Falls Police Department,14248,OH,East North Central,Midwest,Region II,CUYAHOGA,City,True,2020-05-01T00:00:00.000Z,41.372765,-81.90916
+OH0184000,Orange Village Police Department,14249,OH,East North Central,Midwest,Region II,CUYAHOGA,City,True,2013-07-01T00:00:00.000Z,41.760392,-81.724217
+OH0184200,Parma Police Department,14250,OH,East North Central,Midwest,Region II,CUYAHOGA,City,True,2001-01-01T00:00:00.000Z,41.382565,-81.72852
+OH0184300,Parma Heights Police Department,14251,OH,East North Central,Midwest,Region II,CUYAHOGA,City,True,2020-05-01T00:00:00.000Z,41.393192,-81.75851
+OH0184400,Pepper Pike Police Department,14252,OH,East North Central,Midwest,Region II,CUYAHOGA,City,True,2003-09-01T00:00:00.000Z,41.760392,-81.724217
+OH0184500,Richmond Heights Police Department,14253,OH,East North Central,Midwest,Region II,CUYAHOGA,City,True,2020-06-01T00:00:00.000Z,41.760392,-81.724217
+OH0184600,Rocky River Police Department,14254,OH,East North Central,Midwest,Region II,CUYAHOGA,City,True,2016-01-01T00:00:00.000Z,41.760392,-81.724217
+OH0184700,Seven Hills Police Department,14255,OH,East North Central,Midwest,Region II,CUYAHOGA,City,True,2005-07-01T00:00:00.000Z,41.367527,-81.68019
+OH0184800,Shaker Heights Police Department,14256,OH,East North Central,Midwest,Region II,CUYAHOGA,City,True,2008-04-01T00:00:00.000Z,41.760392,-81.724217
+OH0184900,Solon Police Department,14257,OH,East North Central,Midwest,Region II,CUYAHOGA,City,True,2000-01-01T00:00:00.000Z,41.760392,-81.724217
+OH0185000,South Euclid Police Department,14258,OH,East North Central,Midwest,Region II,CUYAHOGA,City,True,2006-03-01T00:00:00.000Z,41.523094,-81.51943
+OH0185100,Strongsville Police Department,14259,OH,East North Central,Midwest,Region II,CUYAHOGA,City,True,2021-01-01T00:00:00.000Z,41.31448,-81.83247
+OH0185200,University Heights Police Department,14260,OH,East North Central,Midwest,Region II,CUYAHOGA,City,True,2021-01-01T00:00:00.000Z,41.497047,-81.53627
+OH0185300,"Valley View Police Department, Cuyahoga County",14261,OH,East North Central,Midwest,Region II,CUYAHOGA,City,True,2019-07-01T00:00:00.000Z,41.379253,-81.609474
+OH0185400,Walton Hills Police Department,14262,OH,East North Central,Midwest,Region II,CUYAHOGA,City,True,2020-08-01T00:00:00.000Z,41.358326,-81.54607
+OH0185500,Warrensville Heights Police Department,14263,OH,East North Central,Midwest,Region II,CUYAHOGA,City,False,,41.44305,-81.53607
+OH0185600,Highland Hills Police Department,14264,OH,East North Central,Midwest,Region II,CUYAHOGA,City,True,2006-01-01T00:00:00.000Z,41.760392,-81.724217
+OH0185700,Westlake Police Department,14265,OH,East North Central,Midwest,Region II,CUYAHOGA,City,True,2022-01-01T00:00:00.000Z,41.45976,-81.92223
+OH0185900,Woodmere Village Police Department,14266,OH,East North Central,Midwest,Region II,CUYAHOGA,City,False,,41.462353,-81.48119
+OH0186100,Cleveland State University,14267,OH,East North Central,Midwest,Region II,CUYAHOGA,University or College,False,,41.505123,-81.67289
+OH0186200,Linndale Police Department,14268,OH,East North Central,Midwest,Region II,CUYAHOGA,City,True,2011-01-01T00:00:00.000Z,41.760392,-81.724217
+OH0186300,Cleveland Metropolitan Park District,14269,OH,East North Central,Midwest,Region II,CUYAHOGA,Other,True,2007-01-01T00:00:00.000Z,41.30129,-81.71552
+OH0186400,Cuyahoga Community College,14270,OH,East North Central,Midwest,Region II,CUYAHOGA,University or College,True,2021-01-01T00:00:00.000Z,41.49473,-81.6695
+OH0186500,Greater Cleveland Regional Transit Authority,14271,OH,East North Central,Midwest,Region II,CUYAHOGA,Other,True,2002-01-01T00:00:00.000Z,41.500896,-81.69971
+OH0186700,Cleveland Lakefront State Parks,14272,OH,East North Central,Midwest,Region II,CUYAHOGA,Other State Agency,False,2002-05-01T00:00:00.000Z,41.53992,-81.62757
+OH0189900,Baldwin Wallace University,14273,OH,East North Central,Midwest,Region II,CUYAHOGA,University or College,False,,41.368443,-81.843925
+OH018A10X,Notre Dame College,14274,OH,East North Central,Midwest,Region II,CUYAHOGA,University or College,True,2008-01-01T00:00:00.000Z,,
+OH0190000,Darke County Sheriff's Office,14275,OH,East North Central,Midwest,Region II,DARKE,County,True,1999-01-01T00:00:00.000Z,40.063824,-84.62892
+OH0190100,Greenville Police Department,14276,OH,East North Central,Midwest,Region II,DARKE,City,False,,40.102295,-84.63363
+OH0190200,Ansonia Police Department,14277,OH,East North Central,Midwest,Region II,DARKE,City,False,2005-03-01T00:00:00.000Z,40.132176,-84.620438
+OH0190300,Arcanum Police Department,14278,OH,East North Central,Midwest,Region II,DARKE,City,False,2000-01-01T00:00:00.000Z,39.990242,-84.55456
+OH0191100,New Madison Police Department,14279,OH,East North Central,Midwest,Region II,DARKE,City,False,2001-12-01T00:00:00.000Z,40.132176,-84.620438
+OH0191800,Union City Police Department,14280,OH,East North Central,Midwest,Region II,DARKE,City,True,2007-01-01T00:00:00.000Z,40.132176,-84.620438
+OH0200000,Defiance County Sheriff's Office,14281,OH,East North Central,Midwest,Region II,DEFIANCE,County,True,2004-06-01T00:00:00.000Z,41.321679,-84.486433
+OH0200100,Defiance Police Department,14282,OH,East North Central,Midwest,Region II,DEFIANCE,City,True,2005-01-01T00:00:00.000Z,41.286934,-84.36355
+OH0200200,Hicksville Police Department,14283,OH,East North Central,Midwest,Region II,DEFIANCE,City,False,2006-11-01T00:00:00.000Z,41.28788,-84.77338
+OH0210000,Delaware County Sheriff's Office,14284,OH,East North Central,Midwest,Region II,DELAWARE,County,True,2008-04-01T00:00:00.000Z,40.313046,-83.047264
+OH0210100,Delaware Police Department,14285,OH,East North Central,Midwest,Region II,DELAWARE,City,True,2021-09-01T00:00:00.000Z,40.300888,-83.06579
+OH0210200,Ashley,33296,OH,East North Central,Midwest,Region II,DELAWARE,City,True,2021-01-01T00:00:00.000Z,,
+OH0210400,Ostrander Police Department,14286,OH,East North Central,Midwest,Region II,DELAWARE,City,False,2009-07-01T00:00:00.000Z,40.278941,-83.007462
+OH0210500,Powell Police Department,14287,OH,East North Central,Midwest,Region II,DELAWARE,City,True,1998-07-01T00:00:00.000Z,40.278941,-83.007462
+OH0210600,Shawnee Hills Police Department,14288,OH,East North Central,Midwest,Region II,DELAWARE,City,False,2004-01-01T00:00:00.000Z,40.15977,-83.135605
+OH0210700,Sunbury Police Department,14289,OH,East North Central,Midwest,Region II,DELAWARE,City,False,1999-09-01T00:00:00.000Z,40.278941,-83.007462
+OH0210800,Genoa Township Police Department,14290,OH,East North Central,Midwest,Region II,DELAWARE,City,False,2000-05-01T00:00:00.000Z,40.179768,-82.91132
+OH0212200,Preservation Parks of Delaware County,14291,OH,East North Central,Midwest,Region II,DELAWARE,Other,True,2007-05-01T00:00:00.000Z,40.278941,-83.007462
+OH0220000,Erie County Sheriff's Office,14292,OH,East North Central,Midwest,Region II,ERIE,County,True,2010-01-01T00:00:00.000Z,41.42767,-82.69491
+OH0220200,Huron Police Department,14293,OH,East North Central,Midwest,Region II,ERIE,City,True,2010-10-01T00:00:00.000Z,41.391273,-82.55801
+OH0220300,Sandusky Police Department,14294,OH,East North Central,Midwest,Region II,ERIE,City,True,2010-04-01T00:00:00.000Z,41.458973,-82.70206
+OH0220400,Vermilion Police Department,14295,OH,East North Central,Midwest,Region II,"ERIE, LORAIN",City,True,2014-01-01T00:00:00.000Z,41.554006,-82.525897
+OH0220500,Bay View Police Department,14296,OH,East North Central,Midwest,Region II,ERIE,City,True,2005-08-01T00:00:00.000Z,41.442898,-82.81316
+OH0220600,Berlin Heights Police Department,14297,OH,East North Central,Midwest,Region II,ERIE,City,False,2006-02-01T00:00:00.000Z,41.554006,-82.525897
+OH0220700,Kelleys Island Police Department,14298,OH,East North Central,Midwest,Region II,ERIE,City,False,2000-05-01T00:00:00.000Z,41.554006,-82.525897
+OH0220800,Milan Police Department,14299,OH,East North Central,Midwest,Region II,"ERIE, HURON",City,True,2013-09-01T00:00:00.000Z,41.297234,-82.60544
+OH0221000,Perkins Township Police Department,14300,OH,East North Central,Midwest,Region II,ERIE,City,False,2002-01-01T00:00:00.000Z,41.395725,-82.6516
+OH0221300,Erie Metroparks,14302,OH,East North Central,Midwest,Region II,ERIE,Other,False,2006-04-01T00:00:00.000Z,41.42027,-82.63381
+OH0230000,Fairfield County Sheriff's Office,14303,OH,East North Central,Midwest,Region II,FAIRFIELD,County,True,2001-01-01T00:00:00.000Z,39.71366,-82.59895
+OH0230100,Lancaster Police Department,14304,OH,East North Central,Midwest,Region II,FAIRFIELD,City,True,2001-01-01T00:00:00.000Z,39.730156,-82.60232
+OH0230300,Baltimore Police Department,14306,OH,East North Central,Midwest,Region II,FAIRFIELD,City,True,2004-03-01T00:00:00.000Z,39.84559,-82.60572
+OH0230600,Carroll Police Department,14307,OH,East North Central,Midwest,Region II,FAIRFIELD,City,False,2005-03-01T00:00:00.000Z,39.75285,-82.627915
+OH0230700,Lithopolis Police Department,14308,OH,East North Central,Midwest,Region II,"FAIRFIELD, FRANKLIN",City,True,2006-06-01T00:00:00.000Z,39.75285,-82.627915
+OH0230800,Millersport Police Department,14309,OH,East North Central,Midwest,Region II,FAIRFIELD,City,True,2008-08-01T00:00:00.000Z,39.75285,-82.627915
+OH0230900,Pickerington Police Department,14310,OH,East North Central,Midwest,Region II,"FAIRFIELD, FRANKLIN",City,True,1999-01-01T00:00:00.000Z,39.75285,-82.627915
+OH0231200,Sugar Grove Police Department,14311,OH,East North Central,Midwest,Region II,FAIRFIELD,City,True,2006-01-01T00:00:00.000Z,39.75285,-82.627915
+OH0240000,Fayette County Sheriff's Office,14312,OH,East North Central,Midwest,Region II,FAYETTE,County,True,1999-01-01T00:00:00.000Z,39.536926,-83.44049
+OH0240100,Washington Court House Police Department,14313,OH,East North Central,Midwest,Region II,FAYETTE,City,True,2001-09-01T00:00:00.000Z,39.536858,-83.439026
+OH0250000,Franklin County Sheriff's Office,14314,OH,East North Central,Midwest,Region II,FRANKLIN,County,True,2008-01-01T00:00:00.000Z,39.95252,-82.99876
+OH0250100,Bexley Police Department,14315,OH,East North Central,Midwest,Region II,FRANKLIN,City,True,2010-01-01T00:00:00.000Z,39.98155,-82.92914
+OH0250300,Dublin Police Department,14316,OH,East North Central,Midwest,Region II,"DELAWARE, FRANKLIN, UNION",City,True,2015-01-01T00:00:00.000Z,40.101982,-83.14079
+OH0250400,Gahanna Police Department,14317,OH,East North Central,Midwest,Region II,FRANKLIN,City,True,2007-10-01T00:00:00.000Z,40.01341,-82.865036
+OH0250500,Grandview Heights Police Department,14318,OH,East North Central,Midwest,Region II,FRANKLIN,City,True,2001-06-01T00:00:00.000Z,39.977486,-83.04534
+OH0250600,Grove City Police Department,14319,OH,East North Central,Midwest,Region II,FRANKLIN,City,True,2004-01-01T00:00:00.000Z,39.969575,-83.006863
+OH0250700,Hilliard Police Department,14320,OH,East North Central,Midwest,Region II,FRANKLIN,City,True,2016-01-01T00:00:00.000Z,39.969575,-83.006863
+OH0250800,Reynoldsburg Police Department,14321,OH,East North Central,Midwest,Region II,"FAIRFIELD, FRANKLIN, LICKING",City,True,2004-01-01T00:00:00.000Z,39.969575,-83.006863
+OH0250900,Upper Arlington Police Department,14322,OH,East North Central,Midwest,Region II,FRANKLIN,City,True,2004-01-01T00:00:00.000Z,39.969575,-83.006863
+OH0251000,Westerville Police Department,14323,OH,East North Central,Midwest,Region II,"DELAWARE, FRANKLIN",City,True,1998-05-01T00:00:00.000Z,40.12551,-82.93147
+OH0251100,Whitehall Police Department,14324,OH,East North Central,Midwest,Region II,FRANKLIN,City,True,2013-01-01T00:00:00.000Z,39.967518,-82.8853
+OH0251200,Worthington Police Department,14325,OH,East North Central,Midwest,Region II,FRANKLIN,City,True,2004-03-01T00:00:00.000Z,40.09718,-83.01616
+OH0251300,Brice Police Department,23285,OH,East North Central,Midwest,Region II,FRANKLIN,City,False,2012-02-01T00:00:00.000Z,39.969575,-83.006863
+OH0251400,Columbus and Franklin County Metropolitan Park District,14326,OH,East North Central,Midwest,Region II,FRANKLIN,Other,True,2007-03-01T00:00:00.000Z,40.12547,-82.966866
+OH0251600,Groveport Police Department,14328,OH,East North Central,Midwest,Region II,FRANKLIN,City,True,2004-08-01T00:00:00.000Z,39.85382,-82.88242
+OH0251700,Harrisburg Police Department,14329,OH,East North Central,Midwest,Region II,FRANKLIN,City,True,2009-07-01T00:00:00.000Z,39.969575,-83.006863
+OH0252000,Minerva Park Police Department,14330,OH,East North Central,Midwest,Region II,FRANKLIN,City,True,2005-08-01T00:00:00.000Z,40.077297,-82.94168
+OH0252100,New Albany Police Department,14331,OH,East North Central,Midwest,Region II,"FRANKLIN, LICKING",City,True,2004-01-01T00:00:00.000Z,39.969575,-83.006863
+OH0252300,Obetz Police Department,25278,OH,East North Central,Midwest,Region II,FRANKLIN,City,True,2012-01-01T00:00:00.000Z,39.969575,-83.006863
+OH0252600,"Valleyview Police Department, Franklin County",14332,OH,East North Central,Midwest,Region II,FRANKLIN,City,False,2006-05-01T00:00:00.000Z,39.964565,-83.07058
+OH0252700,Ohio State University: Columbus,14333,OH,East North Central,Midwest,Region II,FRANKLIN,University or College,True,2003-01-01T00:00:00.000Z,40.003437,-83.03224
+OH0253000,Blendon Township Police Department,14334,OH,East North Central,Midwest,Region II,FRANKLIN,City,True,2005-09-01T00:00:00.000Z,40.0993,-82.90518
+OH0253100,Clinton Township Police Department,14335,OH,East North Central,Midwest,Region II,FRANKLIN,City,True,2006-01-01T00:00:00.000Z,40.046688,-82.95637
+OH0253200,Franklin Township Police Department,25277,OH,East North Central,Midwest,Region II,FRANKLIN,City,True,2012-01-01T00:00:00.000Z,39.969575,-83.006863
+OH0253300,Mifflin Township Police Department,14336,OH,East North Central,Midwest,Region II,FRANKLIN,City,True,2007-06-01T00:00:00.000Z,40.026688,-82.94647
+OH0253400,"Perry Township Police Department, Franklin County",14337,OH,East North Central,Midwest,Region II,FRANKLIN,City,True,2004-06-01T00:00:00.000Z,40.110653,-83.09106
+OH0253500,"Madison Township  Police Department, Franklin County",14338,OH,East North Central,Midwest,Region II,FRANKLIN,City,True,2007-09-01T00:00:00.000Z,39.87753,-82.88261
+OH0253800,Ohio Department of Natural Resources,14341,OH,East North Central,Midwest,Region II,NOT SPECIFIED,Other State Agency,True,2012-10-01T00:00:00.000Z,40.060104,-82.96423
+OH0254000,Sharon Township Police Department,14342,OH,East North Central,Midwest,Region II,FRANKLIN,City,True,2005-01-01T00:00:00.000Z,40.10929,-83.01431
+OH0254400,Columbus State Community College,14343,OH,East North Central,Midwest,Region II,FRANKLIN,University or College,True,2004-06-01T00:00:00.000Z,39.96818,-82.98695
+OH0254700,Ohio Investigative Unit,14344,OH,East North Central,Midwest,Region II,NOT SPECIFIED,Other State Agency,True,2011-02-01T00:00:00.000Z,39.956085,-83.051865
+OH0255400,Port Columbus International Airport,14345,OH,East North Central,Midwest,Region II,FRANKLIN,Other,False,2001-01-01T00:00:00.000Z,39.998035,-82.8889
+OH0259900,Otterbein University,14346,OH,East North Central,Midwest,Region II,FRANKLIN,University or College,True,2009-06-01T00:00:00.000Z,40.125847,-82.93871
+OH025A10X,Capital University,14347,OH,East North Central,Midwest,Region II,FRANKLIN,University or College,True,2006-12-01T00:00:00.000Z,,
+OH0260000,Fulton County Sheriff's Office,14348,OH,East North Central,Midwest,Region II,FULTON,County,True,2004-02-01T00:00:00.000Z,41.597264,-84.124267
+OH0260100,Archbold Police Department,14349,OH,East North Central,Midwest,Region II,FULTON,City,True,2001-08-01T00:00:00.000Z,41.528767,-84.3049
+OH0260200,Delta Police Department,14350,OH,East North Central,Midwest,Region II,FULTON,City,True,1999-01-01T00:00:00.000Z,41.577488,-84.00538
+OH0260300,Fayette Police Department,14351,OH,East North Central,Midwest,Region II,FULTON,City,True,2003-02-01T00:00:00.000Z,41.597264,-84.124267
+OH0260400,Swanton Police Department,14352,OH,East North Central,Midwest,Region II,"FULTON, LUCAS",City,True,2004-01-01T00:00:00.000Z,41.588226,-83.889305
+OH0260500,Wauseon Police Department,14353,OH,East North Central,Midwest,Region II,FULTON,City,True,2000-11-01T00:00:00.000Z,41.549446,-84.14303
+OH0270000,Gallia County Sheriff's Office,14355,OH,East North Central,Midwest,Region II,GALLIA,County,True,1999-05-01T00:00:00.000Z,38.80878,-82.202705
+OH0270100,Gallipolis Police Department,14356,OH,East North Central,Midwest,Region II,GALLIA,City,True,2005-08-01T00:00:00.000Z,38.80956,-82.20281
+OH0270600,Rio Grande Police Department,14358,OH,East North Central,Midwest,Region II,GALLIA,City,True,2007-03-01T00:00:00.000Z,38.817046,-82.301746
+OH0270900,University of Rio Grande,14360,OH,East North Central,Midwest,Region II,GALLIA,University or College,False,2008-04-01T00:00:00.000Z,38.8826,-82.37736
+OH0280000,Geauga County Sheriff's Office,14361,OH,East North Central,Midwest,Region II,GEAUGA,County,True,2002-10-01T00:00:00.000Z,41.503647,-81.19273
+OH0280100,Chardon Police Department,14362,OH,East North Central,Midwest,Region II,GEAUGA,City,True,2021-01-01T00:00:00.000Z,41.580936,-81.204544
+OH0280300,Burton Police Department,14364,OH,East North Central,Midwest,Region II,GEAUGA,City,False,,41.499322,-81.173505
+OH0280500,Middlefield Police Department,14365,OH,East North Central,Midwest,Region II,GEAUGA,City,True,2021-01-01T00:00:00.000Z,41.499322,-81.173505
+OH0280600,South Russell Police Department,14366,OH,East North Central,Midwest,Region II,GEAUGA,City,True,2021-01-01T00:00:00.000Z,41.499322,-81.173505
+OH0280800,Russell Township Police Department,14367,OH,East North Central,Midwest,Region II,GEAUGA,City,True,2015-01-01T00:00:00.000Z,41.465435,-81.34034
+OH0281000,Chester Township Police Department,14368,OH,East North Central,Midwest,Region II,GEAUGA,City,False,2002-05-01T00:00:00.000Z,41.499322,-81.173505
+OH0281200,Bainbridge Township Police Department,14369,OH,East North Central,Midwest,Region II,GEAUGA,City,True,2013-01-01T00:00:00.000Z,41.38594,-81.34391
+OH0281800,Holden Arboretum,14371,OH,East North Central,Midwest,Region II,GEAUGA,Other,False,,41.615414,-81.29833
+OH0290000,Greene County Sheriff's Office,14372,OH,East North Central,Midwest,Region II,GREENE,County,True,2005-04-01T00:00:00.000Z,39.687479,-83.894894
+OH0290100,Fairborn Police Department,14373,OH,East North Central,Midwest,Region II,GREENE,City,True,2004-05-01T00:00:00.000Z,39.827732,-84.02359
+OH0290300,Xenia Police Department,14374,OH,East North Central,Midwest,Region II,GREENE,City,True,2010-08-01T00:00:00.000Z,39.68649,-83.92961
+OH0290400,Yellow Springs Police Department,14375,OH,East North Central,Midwest,Region II,GREENE,City,True,2016-10-01T00:00:00.000Z,39.807583,-83.88795
+OH0290500,Bellbrook Police Department,14376,OH,East North Central,Midwest,Region II,GREENE,City,True,2001-01-01T00:00:00.000Z,39.635983,-84.070145
+OH0290700,Cedarville Police Department,14377,OH,East North Central,Midwest,Region II,GREENE,City,True,2012-01-01T00:00:00.000Z,39.687479,-83.894894
+OH0290900,Jamestown Police Department,14378,OH,East North Central,Midwest,Region II,GREENE,City,True,2007-01-01T00:00:00.000Z,39.658646,-83.74403
+OH0291100,Beavercreek Police Department,14379,OH,East North Central,Midwest,Region II,GREENE,City,True,2003-01-01T00:00:00.000Z,39.729694,-84.068794
+OH0291200,Wright State University,14380,OH,East North Central,Midwest,Region II,GREENE,University or College,False,,39.753736,-84.290591
+OH0291300,Sugarcreek Township Police Department,14381,OH,East North Central,Midwest,Region II,GREENE,City,True,1999-01-01T00:00:00.000Z,39.650173,-84.10765
+OH0291400,Central State University,14382,OH,East North Central,Midwest,Region II,GREENE,University or College,True,2004-02-01T00:00:00.000Z,39.687479,-83.894894
+OH029159E,Wilberforce University,14383,OH,East North Central,Midwest,Region II,GREENE,University or College,False,2005-01-01T00:00:00.000Z,,
+OH0300000,Guernsey County Sheriff's Office,14384,OH,East North Central,Midwest,Region II,GUERNSEY,County,False,2005-01-01T00:00:00.000Z,40.022438,-81.58989
+OH0300100,Cambridge Police Department,14385,OH,East North Central,Midwest,Region II,GUERNSEY,City,True,2021-01-01T00:00:00.000Z,40.022438,-81.58989
+OH0300200,Byesville Police Department,14386,OH,East North Central,Midwest,Region II,GUERNSEY,City,True,2002-06-01T00:00:00.000Z,40.056665,-81.497875
+OH0301000,Senecaville Police Department,14387,OH,East North Central,Midwest,Region II,GUERNSEY,City,False,2005-07-01T00:00:00.000Z,40.056665,-81.497875
+OH0310000,Hamilton County Sheriff's Office,14388,OH,East North Central,Midwest,Region II,HAMILTON,County,True,2021-01-01T00:00:00.000Z,39.196927,-84.544187
+OH0310100,Addyston Police Department,14389,OH,East North Central,Midwest,Region II,HAMILTON,City,True,2002-06-01T00:00:00.000Z,39.137836,-84.71159
+OH0310200,Amberley Village Police Department,14390,OH,East North Central,Midwest,Region II,HAMILTON,City,True,2021-01-01T00:00:00.000Z,39.196927,-84.544187
+OH0310400,Blue Ash Police Department,14392,OH,East North Central,Midwest,Region II,HAMILTON,City,True,2004-06-01T00:00:00.000Z,39.23732,-84.389626
+OH0310500,Cheviot Police Department,14393,OH,East North Central,Midwest,Region II,HAMILTON,City,True,2003-06-01T00:00:00.000Z,39.156693,-84.61264
+OH0310700,Deer Park Police Department,14395,OH,East North Central,Midwest,Region II,HAMILTON,City,True,2021-01-01T00:00:00.000Z,39.20457,-84.393616
+OH0310800,Delhi Township Police Department,14396,OH,East North Central,Midwest,Region II,HAMILTON,City,True,2002-01-01T00:00:00.000Z,39.112564,-84.635735
+OH0310900,Elmwood Place Police Department,14397,OH,East North Central,Midwest,Region II,HAMILTON,City,True,2006-03-01T00:00:00.000Z,39.18646,-84.48647
+OH0311000,Evendale Police Department,14398,OH,East North Central,Midwest,Region II,HAMILTON,City,True,2021-03-01T00:00:00.000Z,39.2566,-84.42089
+OH0311100,Fairfax Police Department,14399,OH,East North Central,Midwest,Region II,HAMILTON,City,True,2000-12-01T00:00:00.000Z,39.196927,-84.544187
+OH0311200,Forest Park Police Department,14400,OH,East North Central,Midwest,Region II,HAMILTON,City,True,2000-01-01T00:00:00.000Z,39.288807,-84.52349
+OH0311300,Glendale Police Department,14401,OH,East North Central,Midwest,Region II,HAMILTON,City,True,2001-09-01T00:00:00.000Z,39.27205,-84.45866
+OH0311400,Golf Manor Police Department,14402,OH,East North Central,Midwest,Region II,HAMILTON,City,False,,39.196927,-84.544187
+OH0311500,Greenhills Police Department,14403,OH,East North Central,Midwest,Region II,HAMILTON,City,True,2005-01-01T00:00:00.000Z,39.196927,-84.544187
+OH0311600,Harrison Police Department,14404,OH,East North Central,Midwest,Region II,HAMILTON,City,False,,39.196927,-84.544187
+OH0311700,Indian Hill Police Department,14405,OH,East North Central,Midwest,Region II,HAMILTON,City,False,,39.18146,-84.34535
+OH0311900,Lockland Police Department,14407,OH,East North Central,Midwest,Region II,HAMILTON,City,True,2000-09-01T00:00:00.000Z,39.226402,-84.45375
+OH0312000,Loveland Police Department,14408,OH,East North Central,Midwest,Region II,"CLERMONT, HAMILTON, WARREN",City,True,2008-06-01T00:00:00.000Z,39.27472,-84.283966
+OH0312100,Madeira Police Department,14409,OH,East North Central,Midwest,Region II,HAMILTON,City,True,2004-09-01T00:00:00.000Z,39.190426,-84.36309
+OH0312200,Mariemont Police Department,14410,OH,East North Central,Midwest,Region II,HAMILTON,City,True,2022-01-01T00:00:00.000Z,39.14463,-84.37283
+OH0312300,Montgomery Police Department,14411,OH,East North Central,Midwest,Region II,HAMILTON,City,True,2009-10-01T00:00:00.000Z,39.242737,-84.34734
+OH0312400,Mount Healthy Police Department,14412,OH,East North Central,Midwest,Region II,HAMILTON,City,True,2000-11-01T00:00:00.000Z,39.233505,-84.54677
+OH0312500,Newtown Police Department,14413,OH,East North Central,Midwest,Region II,HAMILTON,City,True,2021-01-01T00:00:00.000Z,39.125675,-84.361015
+OH0312700,North College Hill Police Department,14415,OH,East North Central,Midwest,Region II,HAMILTON,City,True,2007-01-01T00:00:00.000Z,39.217957,-84.551285
+OH0312800,Norwood Police Department,14416,OH,East North Central,Midwest,Region II,HAMILTON,City,True,2008-01-01T00:00:00.000Z,39.161926,-84.45553
+OH0312900,Reading Police Department,14417,OH,East North Central,Midwest,Region II,HAMILTON,City,True,2017-01-01T00:00:00.000Z,39.223835,-84.44188
+OH0313000,St. Bernard Police Department,14418,OH,East North Central,Midwest,Region II,HAMILTON,City,True,2007-08-01T00:00:00.000Z,39.167217,-84.49842
+OH0313100,Sharonville Police Department,14419,OH,East North Central,Midwest,Region II,"BUTLER, HAMILTON",City,True,2000-04-01T00:00:00.000Z,39.265182,-84.414696
+OH0313300,Springdale Police Department,14421,OH,East North Central,Midwest,Region II,HAMILTON,City,True,2009-01-01T00:00:00.000Z,39.196927,-84.544187
+OH0313400,"Springfield Township Police Department, Hamilton County",14422,OH,East North Central,Midwest,Region II,HAMILTON,City,True,2007-07-01T00:00:00.000Z,39.23279,-84.52749
+OH0313500,Woodlawn Police Department,14423,OH,East North Central,Midwest,Region II,HAMILTON,City,True,1998-01-01T00:00:00.000Z,39.251053,-84.47467
+OH0313600,Wyoming Police Department,14424,OH,East North Central,Midwest,Region II,HAMILTON,City,True,2009-01-01T00:00:00.000Z,39.228252,-84.46669
+OH0313700,University of Cincinnati,14425,OH,East North Central,Midwest,Region II,HAMILTON,University or College,True,2020-01-01T00:00:00.000Z,39.129173,-84.51097
+OH0314100,Terrace Park Police Department,14426,OH,East North Central,Midwest,Region II,HAMILTON,City,False,2022-10-01T00:00:00.000Z,39.16464,-84.309135
+OH0314200,Colerain Township Police Department,14427,OH,East North Central,Midwest,Region II,HAMILTON,City,True,2013-01-01T00:00:00.000Z,39.24491,-84.60994
+OH0314400,Green Township Police Department,25837,OH,East North Central,Midwest,Region II,HAMILTON,City,True,2016-01-01T00:00:00.000Z,39.196927,-84.544187
+OH0314600,Hamilton County Park District,14428,OH,East North Central,Midwest,Region II,HAMILTON,Other,True,2000-10-01T00:00:00.000Z,39.196927,-84.544187
+OH0315800,Mount St. Joseph University,14429,OH,East North Central,Midwest,Region II,HAMILTON,University or College,True,2006-03-01T00:00:00.000Z,39.0963,-84.63748
+OH0320000,Hancock County Sheriff's Office,14430,OH,East North Central,Midwest,Region II,HANCOCK,County,True,2003-05-01T00:00:00.000Z,41.03781,-83.65221
+OH0320100,Findlay Police Department,14431,OH,East North Central,Midwest,Region II,HANCOCK,City,True,2002-01-01T00:00:00.000Z,41.038967,-83.65119
+OH0320700,McComb Police Department,14432,OH,East North Central,Midwest,Region II,HANCOCK,City,False,2006-01-01T00:00:00.000Z,41.000471,-83.666034
+OH0330000,Hardin County Sheriff's Office,14433,OH,East North Central,Midwest,Region II,HARDIN,County,False,2005-04-01T00:00:00.000Z,40.636177,-83.60359
+OH0330100,Ada Police Department,14434,OH,East North Central,Midwest,Region II,HARDIN,City,True,2005-07-01T00:00:00.000Z,40.660415,-83.664077
+OH0330200,Kenton Police Department,14435,OH,East North Central,Midwest,Region II,HARDIN,City,True,2005-06-01T00:00:00.000Z,40.647194,-83.60908
+OH0330500,Forest Police Department,14437,OH,East North Central,Midwest,Region II,HARDIN,City,True,2003-12-01T00:00:00.000Z,40.660415,-83.664077
+OH0340000,Harrison County Sheriff's Office,14438,OH,East North Central,Midwest,Region II,HARRISON,County,True,2002-03-01T00:00:00.000Z,40.271587,-80.99637
+OH0340100,Cadiz Police Department,14439,OH,East North Central,Midwest,Region II,HARRISON,City,True,2001-10-01T00:00:00.000Z,40.271633,-80.99644
+OH0340700,Jewett Police Department,14441,OH,East North Central,Midwest,Region II,HARRISON,City,True,2005-03-01T00:00:00.000Z,40.292318,-81.091565
+OH0340800,New Athens Police Department,14442,OH,East North Central,Midwest,Region II,HARRISON,City,False,2006-05-01T00:00:00.000Z,40.292318,-81.091565
+OH0350000,Henry County Sheriff's Office,14443,OH,East North Central,Midwest,Region II,HENRY,County,True,2005-12-01T00:00:00.000Z,41.39122,-84.12438
+OH0350100,Napoleon Police Department,14444,OH,East North Central,Midwest,Region II,HENRY,City,True,2001-04-01T00:00:00.000Z,41.335072,-84.065882
+OH0350200,Deshler Police Department,14445,OH,East North Central,Midwest,Region II,HENRY,City,False,2001-03-01T00:00:00.000Z,41.207,-83.90131
+OH0360000,Highland County Sheriff's Office,14449,OH,East North Central,Midwest,Region II,HIGHLAND,County,True,2013-05-01T00:00:00.000Z,39.234936,-83.61744
+OH0360100,Greenfield Police Department,14450,OH,East North Central,Midwest,Region II,HIGHLAND,City,True,2005-08-01T00:00:00.000Z,39.184488,-83.603668
+OH0360200,Hillsboro Police Department,14451,OH,East North Central,Midwest,Region II,HIGHLAND,City,True,2001-12-01T00:00:00.000Z,39.184488,-83.603668
+OH0360300,Village of Leesburg Police Department,14452,OH,East North Central,Midwest,Region II,HIGHLAND,City,True,2007-01-01T00:00:00.000Z,39.184488,-83.603668
+OH0360400,Lynchburg Police Department,14453,OH,East North Central,Midwest,Region II,HIGHLAND,City,True,2005-02-01T00:00:00.000Z,39.184488,-83.603668
+OH0360500,Highland Police Department,14454,OH,East North Central,Midwest,Region II,HIGHLAND,City,False,2009-06-01T00:00:00.000Z,39.184488,-83.603668
+OH0360600,Mowrystown Police Department,25643,OH,East North Central,Midwest,Region II,HIGHLAND,City,False,2015-10-01T00:00:00.000Z,39.184488,-83.603668
+OH0370000,Hocking County Sheriff's Office,14455,OH,East North Central,Midwest,Region II,HOCKING,County,True,1998-08-01T00:00:00.000Z,39.539005,-82.40839
+OH0370100,Logan Police Department,14456,OH,East North Central,Midwest,Region II,HOCKING,City,True,2002-01-01T00:00:00.000Z,39.539455,-82.40694
+OH0380000,Holmes County Sheriff's Office,14457,OH,East North Central,Midwest,Region II,HOLMES,County,False,2004-09-01T00:00:00.000Z,40.565309,-81.929869
+OH0380100,Millersburg Police Department,14458,OH,East North Central,Midwest,Region II,HOLMES,City,False,2004-12-01T00:00:00.000Z,40.55433,-81.918526
+OH0380200,Glenmont Police Department,14459,OH,East North Central,Midwest,Region II,HOLMES,City,False,2009-09-01T00:00:00.000Z,40.565309,-81.929869
+OH0390000,Huron County Sheriff's Office,14460,OH,East North Central,Midwest,Region II,HURON,County,False,2005-09-01T00:00:00.000Z,41.22359,-82.60891
+OH0390100,New London Police Department,14461,OH,East North Central,Midwest,Region II,HURON,City,False,2005-04-01T00:00:00.000Z,41.14508,-82.594641
+OH0390200,Norwalk Police Department,14462,OH,East North Central,Midwest,Region II,HURON,City,True,2005-11-01T00:00:00.000Z,41.24393,-82.61555
+OH0390300,Willard Police Department,14463,OH,East North Central,Midwest,Region II,HURON,City,True,2003-01-01T00:00:00.000Z,41.14508,-82.594641
+OH0390400,Bellevue Police Department,14464,OH,East North Central,Midwest,Region II,"ERIE, HURON, SANDUSKY",City,False,2014-03-01T00:00:00.000Z,41.281574,-82.870674
+OH0390500,Greenwich Police Department,14465,OH,East North Central,Midwest,Region II,HURON,City,False,1999-01-01T00:00:00.000Z,41.14508,-82.594641
+OH0390700,Monroeville Police Department,14466,OH,East North Central,Midwest,Region II,HURON,City,True,1999-01-01T00:00:00.000Z,41.14508,-82.594641
+OH0391000,Wakeman Police Department,14467,OH,East North Central,Midwest,Region II,HURON,City,False,2008-06-01T00:00:00.000Z,41.14508,-82.594641
+OH0400000,Jackson County Sheriff's Office,14468,OH,East North Central,Midwest,Region II,JACKSON,County,True,2002-04-01T00:00:00.000Z,39.053516,-82.63722
+OH0400100,Jackson Police Department,14469,OH,East North Central,Midwest,Region II,JACKSON,City,True,2006-01-01T00:00:00.000Z,39.051533,-82.63976
+OH0400200,Wellston Police Department,14470,OH,East North Central,Midwest,Region II,JACKSON,City,True,2005-01-01T00:00:00.000Z,39.123474,-82.532906
+OH0400300,Coalton Police Department,25279,OH,East North Central,Midwest,Region II,JACKSON,City,False,2013-12-01T00:00:00.000Z,39.013477,-82.614142
+OH0400400,Oak Hill Police Department,14471,OH,East North Central,Midwest,Region II,JACKSON,City,True,2007-04-01T00:00:00.000Z,38.900192,-82.56867
+OH0410000,Jefferson County Sheriff's Office,14472,OH,East North Central,Midwest,Region II,JEFFERSON,County,True,2004-05-01T00:00:00.000Z,40.39938,-80.763529
+OH0410200,Mingo Junction Police Department,14473,OH,East North Central,Midwest,Region II,JEFFERSON,City,False,,40.32215,-80.60589
+OH0410300,Steubenville Police Department,14474,OH,East North Central,Midwest,Region II,JEFFERSON,City,True,2021-01-01T00:00:00.000Z,40.35872,-80.61412
+OH0410400,Toronto Police Department,14475,OH,East North Central,Midwest,Region II,JEFFERSON,City,True,2005-11-01T00:00:00.000Z,40.39938,-80.763529
+OH0410500,Wintersville Police Department,14476,OH,East North Central,Midwest,Region II,JEFFERSON,City,True,1999-09-01T00:00:00.000Z,40.37551,-80.69992
+OH0410600,Yorkville Police Department,25365,OH,East North Central,Midwest,Region II,"BELMONT, JEFFERSON",City,False,2014-02-01T00:00:00.000Z,40.39938,-80.763529
+OH0410700,Adena Police Department,14477,OH,East North Central,Midwest,Region II,"HARRISON, JEFFERSON",City,False,2006-01-01T00:00:00.000Z,40.39938,-80.763529
+OH0410800,Amsterdam Police Department,14478,OH,East North Central,Midwest,Region II,JEFFERSON,City,True,2005-12-01T00:00:00.000Z,40.39938,-80.763529
+OH0410900,Bergholz Police Department,14479,OH,East North Central,Midwest,Region II,JEFFERSON,City,False,2010-06-01T00:00:00.000Z,40.51927,-80.88287
+OH0411100,Dillonvale Police Department,14480,OH,East North Central,Midwest,Region II,JEFFERSON,City,True,2008-01-01T00:00:00.000Z,40.39938,-80.763529
+OH0411200,Empire Police Department,14481,OH,East North Central,Midwest,Region II,JEFFERSON,City,False,2006-08-01T00:00:00.000Z,40.39938,-80.763529
+OH0411400,Mount Pleasant Police Department,14482,OH,East North Central,Midwest,Region II,JEFFERSON,City,False,2005-04-01T00:00:00.000Z,40.39938,-80.763529
+OH0411600,Rayland Police Department,14483,OH,East North Central,Midwest,Region II,JEFFERSON,City,False,2007-07-01T00:00:00.000Z,40.39938,-80.763529
+OH0411700,Richmond,34173,OH,East North Central,Midwest,Region II,JEFFERSON,City,True,2022-09-01T00:00:00.000Z,,
+OH0412000,Tiltonsville Police Department,25366,OH,East North Central,Midwest,Region II,JEFFERSON,City,True,2014-03-01T00:00:00.000Z,40.39938,-80.763529
+OH0412100,Cross Creek Township Police Department,14485,OH,East North Central,Midwest,Region II,JEFFERSON,City,True,2005-10-01T00:00:00.000Z,40.39938,-80.763529
+OH0412200,Saline Township Police Department,14486,OH,East North Central,Midwest,Region II,JEFFERSON,City,False,2006-05-01T00:00:00.000Z,40.39938,-80.763529
+OH0412400,Wells Township Police Department,14487,OH,East North Central,Midwest,Region II,JEFFERSON,City,False,2006-04-01T00:00:00.000Z,40.268696,-80.622604
+OH0412600,Smithfield Township,34153,OH,East North Central,Midwest,Region II,JEFFERSON,City,True,2022-07-01T00:00:00.000Z,,
+OH0420000,Knox County Sheriff's Office,14488,OH,East North Central,Midwest,Region II,KNOX,County,True,2012-01-01T00:00:00.000Z,40.40362,-82.422393
+OH0420100,Mount Vernon Police Department,14489,OH,East North Central,Midwest,Region II,KNOX,City,True,2012-02-01T00:00:00.000Z,40.393658,-82.484215
+OH0420300,Danville Police Department,14490,OH,East North Central,Midwest,Region II,KNOX,City,True,2006-01-01T00:00:00.000Z,40.40362,-82.422393
+OH0420400,Fredericktown Police Department,14491,OH,East North Central,Midwest,Region II,KNOX,City,True,2000-02-01T00:00:00.000Z,40.48111,-82.543304
+OH0430000,Lake County Sheriff's Office,14492,OH,East North Central,Midwest,Region II,LAKE,County,False,,41.726604,-81.24523
+OH0430100,Eastlake Police Department,14493,OH,East North Central,Midwest,Region II,LAKE,City,True,2020-02-01T00:00:00.000Z,41.66332,-81.43719
+OH0430200,Fairport Harbor Police Department,14494,OH,East North Central,Midwest,Region II,LAKE,City,True,2022-08-01T00:00:00.000Z,41.924116,-81.392643
+OH0430400,Kirtland Hills Police Department,14495,OH,East North Central,Midwest,Region II,LAKE,City,False,,41.924116,-81.392643
+OH0430500,Madison Police Department,14496,OH,East North Central,Midwest,Region II,LAKE,City,True,2021-09-01T00:00:00.000Z,41.771202,-81.050575
+OH0430600,Mentor Police Department,14497,OH,East North Central,Midwest,Region II,LAKE,City,True,2014-01-01T00:00:00.000Z,41.924116,-81.392643
+OH0430700,Mentor-on-the-Lake Police Department,14498,OH,East North Central,Midwest,Region II,LAKE,City,True,2012-09-01T00:00:00.000Z,41.711746,-81.36135
+OH0430800,Painesville Police Department,14499,OH,East North Central,Midwest,Region II,LAKE,City,False,,41.723743,-81.24602
+OH0430900,Perry Police Department,14500,OH,East North Central,Midwest,Region II,LAKE,City,True,2021-03-01T00:00:00.000Z,41.924116,-81.392643
+OH0431000,Waite Hill Police Department,14501,OH,East North Central,Midwest,Region II,LAKE,City,False,,41.924116,-81.392643
+OH0431100,Wickliffe Police Department,14502,OH,East North Central,Midwest,Region II,LAKE,City,True,2002-01-01T00:00:00.000Z,41.924116,-81.392643
+OH0431200,Willoughby Police Department,14503,OH,East North Central,Midwest,Region II,LAKE,City,True,2015-01-01T00:00:00.000Z,41.628723,-81.422295
+OH0431300,Willoughby Hills Police Department,14504,OH,East North Central,Midwest,Region II,LAKE,City,True,2021-01-01T00:00:00.000Z,41.58852,-81.432755
+OH0431400,Willowick Police Department,14505,OH,East North Central,Midwest,Region II,LAKE,City,True,2021-01-01T00:00:00.000Z,41.638817,-81.474846
+OH0431600,North Perry Police Department,14506,OH,East North Central,Midwest,Region II,LAKE,City,False,2005-05-01T00:00:00.000Z,41.807255,-81.13373
+OH0431700,Timberlake Police Department,14507,OH,East North Central,Midwest,Region II,LAKE,City,False,2005-07-01T00:00:00.000Z,41.66603,-81.447784
+OH0431800,"Madison Township Police Department, Lake County",14508,OH,East North Central,Midwest,Region II,LAKE,City,False,2011-08-01T00:00:00.000Z,41.817806,-81.04854
+OH0432100,Lakeland Community College,14509,OH,East North Central,Midwest,Region II,LAKE,University or College,False,2021-01-01T00:00:00.000Z,41.636818,-81.370285
+OH0432200,Kirtland Police Department,14510,OH,East North Central,Midwest,Region II,LAKE,City,True,2021-08-01T00:00:00.000Z,41.617744,-81.35734
+OH0432400,Lake Metroparks,14511,OH,East North Central,Midwest,Region II,LAKE,Other,True,2021-01-01T00:00:00.000Z,41.67504,-81.23975
+OH0440000,Lawrence County Sheriff's Office,14512,OH,East North Central,Midwest,Region II,LAWRENCE,County,True,2002-01-01T00:00:00.000Z,38.53645,-82.68337
+OH0440100,Coal Grove Police Department,14513,OH,East North Central,Midwest,Region II,LAWRENCE,City,True,2006-01-01T00:00:00.000Z,38.504486,-82.64869
+OH0440200,Ironton Police Department,14514,OH,East North Central,Midwest,Region II,LAWRENCE,City,True,2007-02-01T00:00:00.000Z,38.603866,-82.517186
+OH0440400,Chesapeake Police Department,14515,OH,East North Central,Midwest,Region II,LAWRENCE,City,True,2005-11-01T00:00:00.000Z,38.603866,-82.517186
+OH0440500,Hanging Rock Police Department,14516,OH,East North Central,Midwest,Region II,LAWRENCE,City,False,2005-12-01T00:00:00.000Z,38.5606,-82.72519
+OH0440600,Proctorville,33828,OH,East North Central,Midwest,Region II,LAWRENCE,City,True,2021-06-01T00:00:00.000Z,,
+OH0440700,South Point Police Department,14517,OH,East North Central,Midwest,Region II,LAWRENCE,City,True,2009-07-01T00:00:00.000Z,38.422897,-82.59242
+OH0450000,Licking County Sheriff's Office,14518,OH,East North Central,Midwest,Region II,LICKING,County,True,2012-11-01T00:00:00.000Z,40.05942,-82.39498
+OH0450100,Newark Police Department,14519,OH,East North Central,Midwest,Region II,LICKING,City,True,1998-01-01T00:00:00.000Z,40.093609,-82.481251
+OH0450200,Alexandria Police Department,23165,OH,East North Central,Midwest,Region II,LICKING,City,False,2011-02-01T00:00:00.000Z,40.08903,-82.612465
+OH0450300,Granville Police Department,14520,OH,East North Central,Midwest,Region II,LICKING,City,True,2010-04-01T00:00:00.000Z,40.093609,-82.481251
+OH0450700,Heath Police Department,14521,OH,East North Central,Midwest,Region II,LICKING,City,True,1998-02-01T00:00:00.000Z,40.017265,-82.45144
+OH0450800,Hebron Police Department,14522,OH,East North Central,Midwest,Region II,LICKING,City,True,2001-01-01T00:00:00.000Z,40.093609,-82.481251
+OH0450900,Johnstown Police Department,14523,OH,East North Central,Midwest,Region II,LICKING,City,False,1999-01-01T00:00:00.000Z,40.093609,-82.481251
+OH0451000,Kirkersville Police Department,14524,OH,East North Central,Midwest,Region II,LICKING,City,True,2007-03-01T00:00:00.000Z,40.093609,-82.481251
+OH0451100,Pataskala Police Department,14525,OH,East North Central,Midwest,Region II,LICKING,City,True,2002-01-01T00:00:00.000Z,39.993855,-82.67523
+OH0451200,St. Louisville Police Department,23219,OH,East North Central,Midwest,Region II,LICKING,City,False,2013-05-01T00:00:00.000Z,40.093609,-82.481251
+OH0451300,Utica Police Department,14526,OH,East North Central,Midwest,Region II,"KNOX, LICKING",City,True,2004-07-01T00:00:00.000Z,40.093609,-82.481251
+OH0451500,"Union Township Police Department, Licking County",14527,OH,East North Central,Midwest,Region II,LICKING,City,False,2005-10-01T00:00:00.000Z,,
+OH045160X,Ohio State University: Newark,14528,OH,East North Central,Midwest,Region II,LICKING,University or College,False,2010-12-01T00:00:00.000Z,40.069927,-82.44374
+OH0451700,Buckeye Lake Police Department,14529,OH,East North Central,Midwest,Region II,"FAIRFIELD, LICKING",City,True,2021-03-01T00:00:00.000Z,40.093609,-82.481251
+OH0451800,Licking Park District,14530,OH,East North Central,Midwest,Region II,LICKING,Other,False,2009-01-01T00:00:00.000Z,40.093609,-82.481251
+OH0460000,Logan County Sheriff's Office,14531,OH,East North Central,Midwest,Region II,LOGAN,County,True,2005-01-01T00:00:00.000Z,40.387553,-83.766343
+OH0460100,Bellefontaine Police Department,14532,OH,East North Central,Midwest,Region II,LOGAN,City,True,2013-03-01T00:00:00.000Z,40.362125,-83.761536
+OH0460200,Russells Point Police Department,14533,OH,East North Central,Midwest,Region II,LOGAN,City,True,2008-05-01T00:00:00.000Z,40.387553,-83.766343
+OH0460400,De Graff Police Department,14534,OH,East North Central,Midwest,Region II,LOGAN,City,True,2008-06-01T00:00:00.000Z,40.387553,-83.766343
+OH0461000,West Liberty Police Department,14535,OH,East North Central,Midwest,Region II,LOGAN,City,False,2005-10-01T00:00:00.000Z,40.387553,-83.766343
+OH0461300,"Washington Township Police Department, Logan County",14536,OH,East North Central,Midwest,Region II,LOGAN,City,False,,,
+OH0470000,Lorain County Sheriff's Office,14537,OH,East North Central,Midwest,Region II,LORAIN,County,True,2001-01-01T00:00:00.000Z,41.346176,-82.13405
+OH0470100,Amherst Police Department,14538,OH,East North Central,Midwest,Region II,LORAIN,City,True,2001-09-01T00:00:00.000Z,41.40883,-82.23899
+OH0470200,Avon Police Department,14539,OH,East North Central,Midwest,Region II,LORAIN,City,True,2002-01-01T00:00:00.000Z,41.458614,-82.0237
+OH0470300,Avon Lake Police Department,14540,OH,East North Central,Midwest,Region II,LORAIN,City,True,2002-01-01T00:00:00.000Z,41.493187,-82.0248
+OH0470400,Elyria Police Department,14541,OH,East North Central,Midwest,Region II,LORAIN,City,True,2005-01-01T00:00:00.000Z,41.369877,-82.11018
+OH0470500,Lorain Police Department,14542,OH,East North Central,Midwest,Region II,LORAIN,City,True,2007-01-01T00:00:00.000Z,41.467964,-82.179665
+OH0470600,Oberlin Police Department,14543,OH,East North Central,Midwest,Region II,LORAIN,City,True,2021-01-01T00:00:00.000Z,41.438805,-82.179722
+OH0470700,North Ridgeville Police Department,14544,OH,East North Central,Midwest,Region II,LORAIN,City,True,2021-01-01T00:00:00.000Z,41.385418,-82.018616
+OH0470800,Sheffield Lake Police Department,14545,OH,East North Central,Midwest,Region II,LORAIN,City,True,2008-03-01T00:00:00.000Z,41.489723,-82.09447
+OH0470900,Wellington Police Department,14546,OH,East North Central,Midwest,Region II,LORAIN,City,False,2012-10-01T00:00:00.000Z,41.168377,-82.21677
+OH0471000,Grafton Police Department,23257,OH,East North Central,Midwest,Region II,LORAIN,City,True,2017-07-01T00:00:00.000Z,41.271626,-82.05473
+OH0471100,Kipton Police Department,14547,OH,East North Central,Midwest,Region II,LORAIN,City,True,2008-07-01T00:00:00.000Z,41.438805,-82.179722
+OH0471200,LaGrange Police Department,14548,OH,East North Central,Midwest,Region II,LORAIN,City,False,,41.438805,-82.179722
+OH0471400,Sheffield Village,33480,OH,East North Central,Midwest,Region II,LORAIN,City,True,2021-01-01T00:00:00.000Z,,
+OH0471800,Lorain County Metropolitan Park District,14549,OH,East North Central,Midwest,Region II,LORAIN,Other,True,2007-02-01T00:00:00.000Z,41.298664,-82.13358
+OH0480000,Lucas County Sheriff's Office,14550,OH,East North Central,Midwest,Region II,LUCAS,County,True,2004-01-01T00:00:00.000Z,41.656345,-83.537285
+OH0480100,Maumee Police Department,14551,OH,East North Central,Midwest,Region II,LUCAS,City,True,2002-01-01T00:00:00.000Z,41.562965,-83.65369
+OH0480200,Oregon Police Department,14552,OH,East North Central,Midwest,Region II,LUCAS,City,True,2004-04-01T00:00:00.000Z,41.65249,-83.419945
+OH0480300,Ottawa Hills Police Department,14553,OH,East North Central,Midwest,Region II,LUCAS,City,True,2008-12-01T00:00:00.000Z,41.6617,-83.64113
+OH0480500,Sylvania Police Department,14554,OH,East North Central,Midwest,Region II,LUCAS,City,True,1998-01-01T00:00:00.000Z,41.71706,-83.70394
+OH0480600,Sylvania Township Police Department,14555,OH,East North Central,Midwest,Region II,LUCAS,City,True,2004-01-01T00:00:00.000Z,41.69507,-83.72341
+OH0480700,Toledo Police Department,14556,OH,East North Central,Midwest,Region II,LUCAS,City,True,2017-01-01T00:00:00.000Z,41.65603,-83.535126
+OH0480800,Berkey Police Department,14557,OH,East North Central,Midwest,Region II,LUCAS,City,False,2006-06-01T00:00:00.000Z,41.715897,-83.841965
+OH0481000,Holland Police Department,14558,OH,East North Central,Midwest,Region II,LUCAS,City,True,2002-01-01T00:00:00.000Z,41.682321,-83.468867
+OH0481100,Waterville Police Department,14559,OH,East North Central,Midwest,Region II,LUCAS,City,True,1999-08-01T00:00:00.000Z,41.499577,-83.71851
+OH0481200,Whitehouse Police Department,23248,OH,East North Central,Midwest,Region II,LUCAS,City,True,2013-01-01T00:00:00.000Z,41.682321,-83.468867
+OH0481300,University of Toledo,14560,OH,East North Central,Midwest,Region II,LUCAS,University or College,True,2012-08-01T00:00:00.000Z,41.66311,-83.61089
+OH0481500,"Washington Township Police Department, Lucas County",14561,OH,East North Central,Midwest,Region II,LUCAS,City,False,2016-08-01T00:00:00.000Z,41.721207,-83.52665
+OH0481800,Waterville Township Police Department,14562,OH,East North Central,Midwest,Region II,LUCAS,City,False,2006-01-01T00:00:00.000Z,41.498165,-83.73872
+OH0481900,Toledo Fire Department Fire Investigation Unit,25367,OH,East North Central,Midwest,Region II,LUCAS,Other,False,,41.682321,-83.468867
+OH0482200,Toledo Metropolitan Park District,14563,OH,East North Central,Midwest,Region II,LUCAS,Other,True,2007-02-01T00:00:00.000Z,41.67683,-83.66345
+OH0482300,Toledo-Lucas County Port Authority,14564,OH,East North Central,Midwest,Region II,LUCAS,Other,True,2002-03-01T00:00:00.000Z,41.596077,-83.80516
+OH0490000,Madison County Sheriff's Office,14565,OH,East North Central,Midwest,Region II,MADISON,County,True,2009-06-01T00:00:00.000Z,39.896607,-83.400885
+OH0490100,London Police Department,14566,OH,East North Central,Midwest,Region II,MADISON,City,True,1999-01-01T00:00:00.000Z,39.88523,-83.4463
+OH0490200,West Jefferson Police Department,14567,OH,East North Central,Midwest,Region II,MADISON,City,True,2008-02-01T00:00:00.000Z,39.944916,-83.26714
+OH0490600,Plain City Police Department,14569,OH,East North Central,Midwest,Region II,"MADISON, UNION",City,True,2003-12-01T00:00:00.000Z,40.107594,-83.27111
+OH0500000,Mahoning County Sheriff's Office,14571,OH,East North Central,Midwest,Region II,MAHONING,County,True,2020-09-01T00:00:00.000Z,41.104008,-80.65416
+OH0500100,Austintown Police Department,14572,OH,East North Central,Midwest,Region II,MAHONING,City,True,2006-01-01T00:00:00.000Z,41.104244,-80.76637
+OH0500200,Boardman Police Department,14573,OH,East North Central,Midwest,Region II,MAHONING,City,True,2004-01-01T00:00:00.000Z,40.9971,-80.66272
+OH0500300,Campbell Police Department,14574,OH,East North Central,Midwest,Region II,MAHONING,City,True,1999-06-01T00:00:00.000Z,41.07555,-80.59455
+OH0500400,Canfield Police Department,14575,OH,East North Central,Midwest,Region II,MAHONING,City,True,2003-01-01T00:00:00.000Z,41.021893,-80.76579
+OH0500500,Lowellville Police Department,14576,OH,East North Central,Midwest,Region II,MAHONING,City,True,1999-12-01T00:00:00.000Z,41.01088,-80.770396
+OH0500600,Poland Village Police Department,14577,OH,East North Central,Midwest,Region II,MAHONING,City,True,2007-01-01T00:00:00.000Z,41.022243,-80.61066
+OH0500700,Sebring Police Department,14578,OH,East North Central,Midwest,Region II,MAHONING,City,True,2005-05-01T00:00:00.000Z,40.92326,-81.01819
+OH0500800,Struthers Police Department,14579,OH,East North Central,Midwest,Region II,MAHONING,City,True,1998-03-01T00:00:00.000Z,41.056446,-80.591354
+OH0500900,Youngstown Police Department,14580,OH,East North Central,Midwest,Region II,"MAHONING, TRUMBULL",City,True,2004-01-01T00:00:00.000Z,41.099815,-80.65149
+OH0501100,Craig Beach Police Department,14581,OH,East North Central,Midwest,Region II,MAHONING,City,True,2006-06-01T00:00:00.000Z,41.01088,-80.770396
+OH0501200,New Middletown Police Department,14582,OH,East North Central,Midwest,Region II,MAHONING,City,True,1999-07-01T00:00:00.000Z,41.01088,-80.770396
+OH0501300,Beaver Township Police Department,14583,OH,East North Central,Midwest,Region II,MAHONING,City,True,2002-05-01T00:00:00.000Z,40.944027,-80.66761
+OH0501400,Youngstown State University,14584,OH,East North Central,Midwest,Region II,MAHONING,University or College,False,,41.01088,-80.770396
+OH0501500,Smith Township Police Department,14585,OH,East North Central,Midwest,Region II,MAHONING,City,False,,40.930164,-81.031815
+OH0501600,"Springfield Township Police Department, Mahoning County",14586,OH,East North Central,Midwest,Region II,MAHONING,City,True,2005-01-01T00:00:00.000Z,40.943657,-80.5872
+OH0501800,"Goshen Township Police Department, Mahoning County",14587,OH,East North Central,Midwest,Region II,MAHONING,City,True,2004-01-01T00:00:00.000Z,40.94482,-80.9162
+OH0501900,Mill Creek Metropark,14588,OH,East North Central,Midwest,Region II,MAHONING,Other,True,2008-01-01T00:00:00.000Z,41.01088,-80.770396
+OH0502000,Milton Township Police Department,14589,OH,East North Central,Midwest,Region II,MAHONING,City,True,1999-09-01T00:00:00.000Z,41.01088,-80.770396
+OH0502100,"Jackson Township Police Department, Mahoning County",14590,OH,East North Central,Midwest,Region II,MAHONING,City,True,2005-01-01T00:00:00.000Z,,
+OH0502200,Poland Township Police Department,14591,OH,East North Central,Midwest,Region II,MAHONING,City,True,1998-07-01T00:00:00.000Z,41.00579,-80.58834
+OH0502300,Coitsville Township Police Department,14592,OH,East North Central,Midwest,Region II,MAHONING,City,True,2005-05-01T00:00:00.000Z,41.09044,-80.56614
+OH0510000,Marion County Sheriff's Office,14593,OH,East North Central,Midwest,Region II,MARION,County,False,2007-06-01T00:00:00.000Z,40.614925,-83.10812
+OH0510100,Marion Police Department,14594,OH,East North Central,Midwest,Region II,MARION,City,True,1999-05-01T00:00:00.000Z,40.588486,-83.13252
+OH0510900,Ohio State University: Marion,14597,OH,East North Central,Midwest,Region II,MARION,University or College,False,2008-09-01T00:00:00.000Z,40.58096,-83.0948
+OH0520000,Medina County Sheriff's Office,14598,OH,East North Central,Midwest,Region II,MEDINA,County,True,2004-01-01T00:00:00.000Z,41.12811,-81.88872
+OH0520100,Brunswick Police Department,14599,OH,East North Central,Midwest,Region II,MEDINA,City,True,2010-11-01T00:00:00.000Z,41.23829,-81.833176
+OH0520200,Medina Police Department,14600,OH,East North Central,Midwest,Region II,MEDINA,City,True,2012-05-01T00:00:00.000Z,41.140602,-81.86505
+OH0520300,Wadsworth Police Department,14601,OH,East North Central,Midwest,Region II,MEDINA,City,True,2011-08-01T00:00:00.000Z,41.116051,-81.899566
+OH0520700,Westfield Center Police Department,14603,OH,East North Central,Midwest,Region II,MEDINA,City,False,2006-04-01T00:00:00.000Z,41.116051,-81.899566
+OH0520800,Lodi Police Department,14604,OH,East North Central,Midwest,Region II,MEDINA,City,True,2019-08-01T00:00:00.000Z,41.033062,-82.0126
+OH0520900,Seville Police Department,14605,OH,East North Central,Midwest,Region II,MEDINA,City,False,,41.026485,-81.860016
+OH0521000,Spencer Police Department,14606,OH,East North Central,Midwest,Region II,MEDINA,City,False,2005-10-01T00:00:00.000Z,41.116051,-81.899566
+OH0521200,Hinckley Township Police Department,14608,OH,East North Central,Midwest,Region II,MEDINA,City,True,2019-08-01T00:00:00.000Z,41.116051,-81.899566
+OH0521300,Montville Township Police Department,14609,OH,East North Central,Midwest,Region II,MEDINA,City,True,2000-01-01T00:00:00.000Z,41.116051,-81.899566
+OH0521400,Medina Township Police Department,14610,OH,East North Central,Midwest,Region II,MEDINA,City,True,2004-01-01T00:00:00.000Z,41.171608,-81.828995
+OH0521500,Brunswick Hills Township Police Department,14611,OH,East North Central,Midwest,Region II,MEDINA,City,True,2008-08-01T00:00:00.000Z,41.26053,-81.860664
+OH0521600,Medina County Park District,23496,OH,East North Central,Midwest,Region II,MEDINA,Other,False,,41.10421,-81.9111
+OH0521700,Medina County Drug Task Force,29875,OH,East North Central,Midwest,Region II,MEDINA,Other,False,2019-11-01T00:00:00.000Z,,
+OH0530000,Meigs County Sheriff's Office,14612,OH,East North Central,Midwest,Region II,MEIGS,County,True,2002-01-01T00:00:00.000Z,39.027622,-82.03364
+OH0530100,Middleport Police Department,14613,OH,East North Central,Midwest,Region II,MEIGS,City,True,2005-12-01T00:00:00.000Z,39.002792,-82.04959
+OH0530200,Pomeroy Police Department,14614,OH,East North Central,Midwest,Region II,MEIGS,City,True,2006-02-01T00:00:00.000Z,39.089807,-82.028397
+OH0530300,Racine Police Department,14615,OH,East North Central,Midwest,Region II,MEIGS,City,True,2006-02-01T00:00:00.000Z,39.089807,-82.028397
+OH0530400,Rutland Police Department,14616,OH,East North Central,Midwest,Region II,MEIGS,City,True,2009-09-01T00:00:00.000Z,39.089807,-82.028397
+OH0530500,Syracuse Police Department,14617,OH,East North Central,Midwest,Region II,MEIGS,City,True,2006-04-01T00:00:00.000Z,39.089807,-82.028397
+OH0540000,Mercer County Sheriff's Office,14618,OH,East North Central,Midwest,Region II,MERCER,County,True,2002-04-01T00:00:00.000Z,40.54548,-84.61573
+OH0540100,Celina Police Department,14619,OH,East North Central,Midwest,Region II,MERCER,City,False,2001-01-01T00:00:00.000Z,40.55074,-84.570786
+OH0540400,Coldwater Police Department,14620,OH,East North Central,Midwest,Region II,MERCER,City,True,1998-03-01T00:00:00.000Z,40.47975,-84.63143
+OH0540500,Fort Recovery Police Department,14621,OH,East North Central,Midwest,Region II,MERCER,City,True,1999-01-01T00:00:00.000Z,40.535333,-84.632059
+OH0540800,Rockford Police Department,14622,OH,East North Central,Midwest,Region II,MERCER,City,True,2005-01-01T00:00:00.000Z,40.535333,-84.632059
+OH0540900,St. Henry Police Department,14623,OH,East North Central,Midwest,Region II,MERCER,City,True,2002-06-01T00:00:00.000Z,40.535333,-84.632059
+OH0550000,Miami County Sheriff's Office,14624,OH,East North Central,Midwest,Region II,MIAMI,County,True,2003-09-01T00:00:00.000Z,40.053326,-84.228413
+OH0550200,Piqua Police Department,14626,OH,East North Central,Midwest,Region II,MIAMI,City,True,2001-03-01T00:00:00.000Z,40.146603,-84.24094
+OH0550300,Tipp City Police Department,14627,OH,East North Central,Midwest,Region II,MIAMI,City,True,2003-11-01T00:00:00.000Z,39.95825,-84.18596
+OH0550400,Troy Police Department,14628,OH,East North Central,Midwest,Region II,MIAMI,City,True,2005-01-01T00:00:00.000Z,40.053326,-84.228413
+OH0550600,Covington Police Department,14629,OH,East North Central,Midwest,Region II,MIAMI,City,True,2004-01-01T00:00:00.000Z,40.117306,-84.35467
+OH0551200,West Milton Police Department,14630,OH,East North Central,Midwest,Region II,MIAMI,City,False,2021-01-01T00:00:00.000Z,39.95349,-84.32443
+OH0560000,Monroe County Sheriff's Office,14631,OH,East North Central,Midwest,Region II,MONROE,County,True,1999-01-01T00:00:00.000Z,39.725969,-81.090658
+OH0560100,Woodsfield Police Department,14632,OH,East North Central,Midwest,Region II,MONROE,City,True,2005-10-01T00:00:00.000Z,39.725969,-81.090658
+OH0570000,Montgomery County Sheriff's Office,14634,OH,East North Central,Midwest,Region II,MONTGOMERY,County,True,2008-02-01T00:00:00.000Z,39.759624,-84.20099
+OH0570100,Centerville Police Department,14635,OH,East North Central,Midwest,Region II,"GREENE, MONTGOMERY",City,True,2020-12-01T00:00:00.000Z,39.753736,-84.290591
+OH0570200,Dayton Police Department,14636,OH,East North Central,Midwest,Region II,MONTGOMERY,City,True,1998-01-01T00:00:00.000Z,39.758675,-84.197075
+OH0570300,Germantown Police Department,14637,OH,East North Central,Midwest,Region II,MONTGOMERY,City,True,2006-08-01T00:00:00.000Z,39.62576,-84.373314
+OH0570500,Kettering Police Department,14639,OH,East North Central,Midwest,Region II,"GREENE, MONTGOMERY",City,True,2021-01-01T00:00:00.000Z,39.69592,-84.16295
+OH0570700,"Miami Township Police Department, Montgomery County",14641,OH,East North Central,Midwest,Region II,MONTGOMERY,City,True,2008-02-01T00:00:00.000Z,39.627914,-84.22163
+OH0570800,Miamisburg Police Department,14642,OH,East North Central,Midwest,Region II,MONTGOMERY,City,True,2009-01-01T00:00:00.000Z,39.753736,-84.290591
+OH0570900,Moraine Police Department,14643,OH,East North Central,Midwest,Region II,MONTGOMERY,City,True,2008-03-01T00:00:00.000Z,39.753736,-84.290591
+OH0571000,"Oakwood Police Department, Montgomery County",14644,OH,East North Central,Midwest,Region II,MONTGOMERY,City,False,,,
+OH0571100,Clayton Police Department,14645,OH,East North Central,Midwest,Region II,MONTGOMERY,City,True,2021-01-01T00:00:00.000Z,39.753736,-84.290591
+OH0571200,Trotwood Police Department,14646,OH,East North Central,Midwest,Region II,MONTGOMERY,City,True,2008-02-01T00:00:00.000Z,39.79456,-84.29269
+OH0571300,Vandalia Police Department,14647,OH,East North Central,Midwest,Region II,MONTGOMERY,City,True,2018-12-01T00:00:00.000Z,39.753736,-84.290591
+OH0571400,Huber Heights Police Department,14648,OH,East North Central,Midwest,Region II,"MIAMI, MONTGOMERY",City,True,2005-06-01T00:00:00.000Z,39.862236,-84.12629
+OH0571500,West Carrollton Police Department,14649,OH,East North Central,Midwest,Region II,MONTGOMERY,City,True,2018-02-01T00:00:00.000Z,39.7674,-84.207695
+OH0571600,Brookville Police Department,14650,OH,East North Central,Midwest,Region II,MONTGOMERY,City,True,2022-01-01T00:00:00.000Z,39.83461,-84.40944
+OH0571800,Englewood Police Department,14651,OH,East North Central,Midwest,Region II,MONTGOMERY,City,True,2004-08-01T00:00:00.000Z,39.87434,-84.29972
+OH0572000,New Lebanon Police Department,14652,OH,East North Central,Midwest,Region II,MONTGOMERY,City,True,2005-01-01T00:00:00.000Z,39.74351,-84.39525
+OH0572200,Riverside Police Department,14653,OH,East North Central,Midwest,Region II,MONTGOMERY,City,True,1999-01-01T00:00:00.000Z,39.79377,-84.12792
+OH0572300,Union Police Department,14654,OH,East North Central,Midwest,Region II,"MIAMI, MONTGOMERY",City,True,2006-10-01T00:00:00.000Z,39.879406,-84.302635
+OH0572400,Butler Township Police Department,14655,OH,East North Central,Midwest,Region II,MONTGOMERY,City,True,1999-01-01T00:00:00.000Z,39.855103,-84.198906
+OH0572500,"German Township Police Department, Montgomery County",14656,OH,East North Central,Midwest,Region II,MONTGOMERY,City,True,2006-08-01T00:00:00.000Z,,
+OH0572700,"Jackson Township Police Department, Montgomery County",14657,OH,East North Central,Midwest,Region II,MONTGOMERY,City,True,2005-10-01T00:00:00.000Z,39.68039,-84.425896
+OH0572800,"Perry Township Police Department, Montgomery County",14658,OH,East North Central,Midwest,Region II,MONTGOMERY,City,False,2005-12-01T00:00:00.000Z,,
+OH0572900,"Clay Township Police Department, Montgomery County",14659,OH,East North Central,Midwest,Region II,MONTGOMERY,City,True,2013-03-01T00:00:00.000Z,39.86289,-84.4261
+OH0573300,Sinclair Community College,14660,OH,East North Central,Midwest,Region II,MONTGOMERY,University or College,False,,39.76046,-84.18592
+OH0580000,Morgan County Sheriff's Office,14661,OH,East North Central,Midwest,Region II,MORGAN,County,True,1999-06-01T00:00:00.000Z,39.648808,-81.85281
+OH0580100,McConnelsville Police Department,14662,OH,East North Central,Midwest,Region II,MORGAN,City,True,2005-08-01T00:00:00.000Z,39.648872,-81.85399
+OH0590000,Morrow County Sheriff's Office,14664,OH,East North Central,Midwest,Region II,MORROW,County,True,2000-01-01T00:00:00.000Z,40.559853,-82.80595
+OH0590100,Mount Gilead Police Department,14665,OH,East North Central,Midwest,Region II,MORROW,City,True,2001-01-01T00:00:00.000Z,40.54961,-82.83112
+OH0590200,Cardington Police Department,14666,OH,East North Central,Midwest,Region II,MORROW,City,True,1999-01-01T00:00:00.000Z,40.525266,-82.797729
+OH0600000,Muskingum County Sheriff's Office,14669,OH,East North Central,Midwest,Region II,MUSKINGUM,County,True,2018-01-01T00:00:00.000Z,39.943367,-81.97869
+OH0600100,Zanesville Police Department,14670,OH,East North Central,Midwest,Region II,MUSKINGUM,City,True,2002-05-01T00:00:00.000Z,39.938484,-82.00863
+OH0600300,Dresden Police Department,14671,OH,East North Central,Midwest,Region II,MUSKINGUM,City,False,2006-01-01T00:00:00.000Z,39.966046,-81.943506
+OH0600400,Frazeysburg Police Department,14672,OH,East North Central,Midwest,Region II,MUSKINGUM,City,True,1999-12-01T00:00:00.000Z,39.966046,-81.943506
+OH0600600,New Concord Police Department,14673,OH,East North Central,Midwest,Region II,MUSKINGUM,City,True,2004-05-01T00:00:00.000Z,39.966046,-81.943506
+OH0600900,Roseville Police Department,14674,OH,East North Central,Midwest,Region II,"MUSKINGUM, PERRY",City,True,1999-01-01T00:00:00.000Z,39.4025,-84.56711
+OH0601000,South Zanesville Police Department,14675,OH,East North Central,Midwest,Region II,MUSKINGUM,City,True,1999-01-01T00:00:00.000Z,39.940308,-82.01207
+OH060139E,Muskingum University,14676,OH,East North Central,Midwest,Region II,MUSKINGUM,University or College,True,2003-11-01T00:00:00.000Z,,
+OH0610000,Noble County Sheriff's Office,14677,OH,East North Central,Midwest,Region II,NOBLE,County,False,2005-09-01T00:00:00.000Z,39.74354,-81.5131
+OH0620000,Ottawa County Sheriff's Office,14679,OH,East North Central,Midwest,Region II,OTTAWA,County,False,,41.510643,-82.9411
+OH0620100,Oak Harbor Police Department,14680,OH,East North Central,Midwest,Region II,OTTAWA,City,True,2011-09-01T00:00:00.000Z,41.50872,-83.14743
+OH0620200,Port Clinton Police Department,14681,OH,East North Central,Midwest,Region II,OTTAWA,City,True,2006-12-01T00:00:00.000Z,41.514824,-82.91248
+OH0620300,Clay Center Police Department,14682,OH,East North Central,Midwest,Region II,OTTAWA,City,False,2007-06-01T00:00:00.000Z,41.545495,-83.012613
+OH0620400,Elmore,28994,OH,East North Central,Midwest,Region II,OTTAWA,City,True,2019-10-01T00:00:00.000Z,,
+OH0620500,Genoa Police Department,14683,OH,East North Central,Midwest,Region II,OTTAWA,City,True,2006-02-01T00:00:00.000Z,41.51831,-83.357315
+OH0620600,Marblehead Police Department,14684,OH,East North Central,Midwest,Region II,OTTAWA,City,False,2006-01-01T00:00:00.000Z,41.54024,-82.731834
+OH0620700,Put-In-Bay  Police Department,22770,OH,East North Central,Midwest,Region II,OTTAWA,City,True,2016-12-01T00:00:00.000Z,41.545495,-83.012613
+OH0620800,Rocky Ridge Police Department,14685,OH,East North Central,Midwest,Region II,OTTAWA,City,False,,41.545495,-83.012613
+OH0620900,"Clay Township Police Department, Ottawa County",14686,OH,East North Central,Midwest,Region II,OTTAWA,City,False,,,
+OH0621300,Catawba Island Township Police Department,14688,OH,East North Central,Midwest,Region II,OTTAWA,City,True,2010-08-01T00:00:00.000Z,41.556564,-82.841515
+OH0621400,Carroll Township Police Department,23310,OH,East North Central,Midwest,Region II,OTTAWA,City,True,2013-04-01T00:00:00.000Z,41.4652,-83.14501
+OH0630000,Paulding County Sheriff's Office,14689,OH,East North Central,Midwest,Region II,PAULDING,County,False,2001-07-01T00:00:00.000Z,41.136963,-84.57705
+OH0630100,Paulding Police Department,14690,OH,East North Central,Midwest,Region II,PAULDING,City,True,2005-01-01T00:00:00.000Z,41.094616,-84.3797
+OH0630500,Grover Hill Police Department,14691,OH,East North Central,Midwest,Region II,PAULDING,City,False,2007-08-01T00:00:00.000Z,41.119141,-84.576966
+OH0630900,"Oakwood Police Department, Paulding County",14692,OH,East North Central,Midwest,Region II,PAULDING,City,False,2005-01-01T00:00:00.000Z,41.09578,-84.380424
+OH0631000,Payne Police Department,14693,OH,East North Central,Midwest,Region II,PAULDING,City,True,2000-01-01T00:00:00.000Z,41.119141,-84.576966
+OH0640000,Perry County Sheriff's Office,14694,OH,East North Central,Midwest,Region II,PERRY,County,True,1998-03-01T00:00:00.000Z,39.743187,-82.237952
+OH0640100,Crooksville Police Department,14695,OH,East North Central,Midwest,Region II,PERRY,City,True,2006-11-01T00:00:00.000Z,39.77056,-82.09717
+OH0640200,New Lexington Police Department,14696,OH,East North Central,Midwest,Region II,PERRY,City,True,2000-12-01T00:00:00.000Z,39.743187,-82.237952
+OH0640300,New Straitsville Police Department,14697,OH,East North Central,Midwest,Region II,PERRY,City,True,2007-08-01T00:00:00.000Z,39.743187,-82.237952
+OH0640400,Corning Police Department,14698,OH,East North Central,Midwest,Region II,PERRY,City,False,,39.743187,-82.237952
+OH0640700,Junction City Police Department,14699,OH,East North Central,Midwest,Region II,PERRY,City,True,2005-01-01T00:00:00.000Z,39.743187,-82.237952
+OH0641000,Shawnee Police Department,14700,OH,East North Central,Midwest,Region II,PERRY,City,False,2017-08-01T00:00:00.000Z,39.743187,-82.237952
+OH0641100,Somerset Police Department,14701,OH,East North Central,Midwest,Region II,PERRY,City,True,2005-10-01T00:00:00.000Z,39.743187,-82.237952
+OH0641200,Thornville Police Department,14702,OH,East North Central,Midwest,Region II,PERRY,City,False,2005-02-01T00:00:00.000Z,39.743187,-82.237952
+OH0650000,Pickaway County Sheriff's Office,14703,OH,East North Central,Midwest,Region II,PICKAWAY,County,True,2001-03-01T00:00:00.000Z,39.648947,-83.052827
+OH0650100,Circleville Police Department,14704,OH,East North Central,Midwest,Region II,PICKAWAY,City,True,2000-01-01T00:00:00.000Z,39.60041,-82.94421
+OH0650200,Ashville Police Department,14705,OH,East North Central,Midwest,Region II,PICKAWAY,City,True,2005-05-01T00:00:00.000Z,39.648947,-83.052827
+OH0650300,Commercial Point Police Department,14706,OH,East North Central,Midwest,Region II,PICKAWAY,City,True,2007-07-01T00:00:00.000Z,39.648947,-83.052827
+OH0650600,New Holland Police Department,14707,OH,East North Central,Midwest,Region II,"FAYETTE, PICKAWAY",City,False,2005-07-01T00:00:00.000Z,39.553795,-83.256676
+OH0650800,South Bloomfield Police Department,14708,OH,East North Central,Midwest,Region II,PICKAWAY,City,True,2005-02-01T00:00:00.000Z,39.717632,-82.98832
+OH0660000,Pike County Sheriff's Office,14709,OH,East North Central,Midwest,Region II,PIKE,County,True,2004-07-01T00:00:00.000Z,39.15154,-82.91132
+OH0660100,Waverly Police Department,14710,OH,East North Central,Midwest,Region II,PIKE,City,True,2006-04-01T00:00:00.000Z,39.125317,-82.98343
+OH0660600,Piketon Police Department,25573,OH,East North Central,Midwest,Region II,PIKE,City,True,2014-02-01T00:00:00.000Z,39.071364,-83.052921
+OH0670000,Portage County Sheriff's Office,14712,OH,East North Central,Midwest,Region II,PORTAGE,County,True,2021-01-01T00:00:00.000Z,41.21446,-81.2604
+OH0670100,Aurora Police Department,14713,OH,East North Central,Midwest,Region II,PORTAGE,City,True,2014-08-01T00:00:00.000Z,41.3213,-81.35364
+OH0670200,Garrettsville Police Department,25705,OH,East North Central,Midwest,Region II,PORTAGE,City,True,2015-01-01T00:00:00.000Z,41.16864,-81.196932
+OH0670300,Kent Police Department,14714,OH,East North Central,Midwest,Region II,PORTAGE,City,True,2021-01-01T00:00:00.000Z,41.16864,-81.196932
+OH0670400,Mantua,29674,OH,East North Central,Midwest,Region II,PORTAGE,City,True,2020-01-01T00:00:00.000Z,,
+OH0670500,Ravenna Police Department,14715,OH,East North Central,Midwest,Region II,PORTAGE,City,True,2021-01-01T00:00:00.000Z,41.156998,-81.243996
+OH0670600,Windham Police Department,14716,OH,East North Central,Midwest,Region II,PORTAGE,City,False,1999-04-01T00:00:00.000Z,41.235107,-81.04295
+OH0670800,Hiram Police Department,14718,OH,East North Central,Midwest,Region II,PORTAGE,City,True,2007-01-01T00:00:00.000Z,41.16864,-81.196932
+OH0671100,Kent State University,14719,OH,East North Central,Midwest,Region II,PORTAGE,University or College,True,2021-01-01T00:00:00.000Z,41.16864,-81.196932
+OH0671200,Streetsboro Police Department,14720,OH,East North Central,Midwest,Region II,PORTAGE,City,True,2008-06-01T00:00:00.000Z,41.23881,-81.31964
+OH0671300,Brimfield Township Police Department,14721,OH,East North Central,Midwest,Region II,PORTAGE,City,True,2021-01-01T00:00:00.000Z,41.10002,-81.34694
+OH067149E,University Hospitals Portage Medical Center,14722,OH,East North Central,Midwest,Region II,PORTAGE,Other,False,,,
+OH0680000,Preble County Sheriff's Office,14723,OH,East North Central,Midwest,Region II,PREBLE,County,True,2006-05-01T00:00:00.000Z,39.75985,-84.643776
+OH0680100,Eaton Police Department,14724,OH,East North Central,Midwest,Region II,PREBLE,City,True,2006-05-01T00:00:00.000Z,39.737906,-84.645358
+OH0680200,Camden Police Department,14725,OH,East North Central,Midwest,Region II,PREBLE,City,False,2006-01-01T00:00:00.000Z,39.737906,-84.645358
+OH0680500,Gratis Police Department,14727,OH,East North Central,Midwest,Region II,PREBLE,City,False,2007-11-01T00:00:00.000Z,39.737906,-84.645358
+OH0680600,Lewisburg,33350,OH,East North Central,Midwest,Region II,PREBLE,City,False,,,
+OH0680700,New Paris Police Department,14728,OH,East North Central,Midwest,Region II,PREBLE,City,False,1998-10-01T00:00:00.000Z,39.737906,-84.645358
+OH0680900,West Alexandria Police Department,14729,OH,East North Central,Midwest,Region II,PREBLE,City,False,2006-01-01T00:00:00.000Z,39.74076,-84.5322
+OH0690000,Putnam County Sheriff's Office,14731,OH,East North Central,Midwest,Region II,PUTNAM,County,True,2002-01-01T00:00:00.000Z,41.00503,-84.0427
+OH0690100,Ottawa Police Department,14732,OH,East North Central,Midwest,Region II,PUTNAM,City,True,2006-01-01T00:00:00.000Z,41.01962,-84.04715
+OH0690400,Columbus Grove Police Department,23222,OH,East North Central,Midwest,Region II,PUTNAM,City,False,2013-02-01T00:00:00.000Z,40.919426,-84.057205
+OH0690500,Continental Police Department,14733,OH,East North Central,Midwest,Region II,PUTNAM,City,False,,41.024533,-84.129879
+OH0691100,Leipsic Police Department,14736,OH,East North Central,Midwest,Region II,PUTNAM,City,False,2008-12-01T00:00:00.000Z,41.15317,-83.93776
+OH0691300,Ottoville Police Department,23155,OH,East North Central,Midwest,Region II,PUTNAM,City,False,2011-11-01T00:00:00.000Z,41.024533,-84.129879
+OH0691400,Pandora Police Department,23255,OH,East North Central,Midwest,Region II,PUTNAM,City,False,2012-02-01T00:00:00.000Z,41.024533,-84.129879
+OH0691600,Kalida Police Department,14737,OH,East North Central,Midwest,Region II,PUTNAM,City,False,2009-03-01T00:00:00.000Z,41.024533,-84.129879
+OH0691700,Belmore Police Department,23133,OH,East North Central,Midwest,Region II,PUTNAM,City,False,2012-08-01T00:00:00.000Z,41.024533,-84.129879
+OH0700000,Richland County Sheriff's Office,14738,OH,East North Central,Midwest,Region II,RICHLAND,County,True,2004-11-01T00:00:00.000Z,40.7582,-82.491455
+OH0700100,Mansfield Police Department,14739,OH,East North Central,Midwest,Region II,RICHLAND,City,True,2005-05-01T00:00:00.000Z,40.759254,-82.51401
+OH0700200,Ontario Police Department,14740,OH,East North Central,Midwest,Region II,RICHLAND,City,True,2010-07-01T00:00:00.000Z,40.774167,-82.542715
+OH0700300,Plymouth Police Department,14741,OH,East North Central,Midwest,Region II,"HURON, RICHLAND",City,True,1999-01-01T00:00:00.000Z,40.774167,-82.542715
+OH0700400,Shelby Police Department,14742,OH,East North Central,Midwest,Region II,RICHLAND,City,True,2006-05-01T00:00:00.000Z,40.774167,-82.542715
+OH0700500,Bellville Police Department,14743,OH,East North Central,Midwest,Region II,RICHLAND,City,True,1998-01-01T00:00:00.000Z,40.61549,-82.51251
+OH0700600,Butler Police Department,14744,OH,East North Central,Midwest,Region II,RICHLAND,City,True,2002-01-01T00:00:00.000Z,40.774167,-82.542715
+OH0700700,Lexington Police Department,14745,OH,East North Central,Midwest,Region II,RICHLAND,City,True,2016-03-01T00:00:00.000Z,40.67877,-82.58417
+OH070130X,Ohio State University: Mansfield,14747,OH,East North Central,Midwest,Region II,RICHLAND,University or College,False,2011-01-01T00:00:00.000Z,40.80102,-82.5719
+OH0710000,Ross County Sheriff's Office,14748,OH,East North Central,Midwest,Region II,ROSS,County,True,2000-05-01T00:00:00.000Z,39.333927,-82.9823
+OH0710100,Chillicothe Police Department,14749,OH,East North Central,Midwest,Region II,ROSS,City,False,2007-04-01T00:00:00.000Z,39.333927,-82.9823
+OH0720000,Sandusky County Sheriff's Office,14751,OH,East North Central,Midwest,Region II,SANDUSKY,County,False,,41.3581,-83.08463
+OH0720200,Clyde Police Department,14752,OH,East North Central,Midwest,Region II,SANDUSKY,City,False,,41.306168,-82.97483
+OH0720300,Fremont Police Department,14753,OH,East North Central,Midwest,Region II,SANDUSKY,City,True,2021-01-01T00:00:00.000Z,41.35156,-83.1239
+OH0720400,Woodville Police Department,14754,OH,East North Central,Midwest,Region II,SANDUSKY,City,True,2021-01-01T00:00:00.000Z,41.451256,-83.36504
+OH0720600,Gibsonburg Police Department,14755,OH,East North Central,Midwest,Region II,SANDUSKY,City,False,,41.38455,-83.32191
+OH0721000,Sandusky County Park District,14756,OH,East North Central,Midwest,Region II,SANDUSKY,Other,False,2007-11-01T00:00:00.000Z,41.35982,-83.08728
+OH0730000,Scioto County Sheriff's Office,14757,OH,East North Central,Midwest,Region II,SCIOTO,County,True,2006-01-01T00:00:00.000Z,38.74373,-82.99219
+OH0730100,New Boston Police Department,14758,OH,East North Central,Midwest,Region II,SCIOTO,City,True,2006-01-01T00:00:00.000Z,38.815009,-82.998963
+OH0730200,Portsmouth Police Department,14759,OH,East North Central,Midwest,Region II,SCIOTO,City,True,2006-11-01T00:00:00.000Z,38.731506,-82.998215
+OH0730900,Shawnee State University,23143,OH,East North Central,Midwest,Region II,SCIOTO,University or College,False,,38.731503,-82.99517
+OH0740000,Seneca County Sheriff's Office,14760,OH,East North Central,Midwest,Region II,SENECA,County,True,2020-12-01T00:00:00.000Z,41.080196,-83.152985
+OH0740100,Fostoria Police Department,14761,OH,East North Central,Midwest,Region II,"HANCOCK, SENECA, WOOD",City,True,2010-02-01T00:00:00.000Z,41.156433,-83.414085
+OH0740200,Tiffin Police Department,14762,OH,East North Central,Midwest,Region II,SENECA,City,True,2021-01-01T00:00:00.000Z,41.113995,-83.18265
+OH0740300,Attica Police Department,14763,OH,East North Central,Midwest,Region II,SENECA,City,False,,41.120008,-83.127436
+OH0740400,Bettsville Police Department,14764,OH,East North Central,Midwest,Region II,SENECA,City,False,2005-06-01T00:00:00.000Z,41.120008,-83.127436
+OH0740500,Bloomville Police Department,14765,OH,East North Central,Midwest,Region II,SENECA,City,False,2006-01-01T00:00:00.000Z,41.047546,-83.014084
+OH0740600,Green Springs Police Department,14766,OH,East North Central,Midwest,Region II,"SANDUSKY, SENECA",City,False,,41.120008,-83.127436
+OH0740700,New Riegel Police Department,14767,OH,East North Central,Midwest,Region II,SENECA,City,False,2006-10-01T00:00:00.000Z,41.120008,-83.127436
+OH0740800,Republic Police Department,14768,OH,East North Central,Midwest,Region II,SENECA,City,False,2009-01-01T00:00:00.000Z,41.120008,-83.127436
+OH0750000,Shelby County Sheriff's Office,14769,OH,East North Central,Midwest,Region II,SHELBY,County,True,2010-04-01T00:00:00.000Z,40.27247,-84.149315
+OH0750100,Sidney Police Department,14770,OH,East North Central,Midwest,Region II,SHELBY,City,True,2008-01-01T00:00:00.000Z,40.285572,-84.15833
+OH0750300,Botkins,26634,OH,East North Central,Midwest,Region II,SHELBY,City,True,2016-01-01T00:00:00.000Z,,
+OH0750400,Fort Loramie Police Department,14771,OH,East North Central,Midwest,Region II,SHELBY,City,True,2006-03-01T00:00:00.000Z,40.351097,-84.37325
+OH0750500,Jackson Center Police Department,14772,OH,East North Central,Midwest,Region II,SHELBY,City,True,2005-05-01T00:00:00.000Z,40.33668,-84.204142
+OH0750800,Port Jefferson Police Department,14773,OH,East North Central,Midwest,Region II,SHELBY,City,False,,40.33668,-84.204142
+OH0760000,Stark County Sheriff's Office,14775,OH,East North Central,Midwest,Region II,STARK,County,True,2004-01-01T00:00:00.000Z,40.814131,-81.365667
+OH0760100,Alliance Police Department,14776,OH,East North Central,Midwest,Region II,"MAHONING, STARK",City,True,2016-11-01T00:00:00.000Z,40.92095,-81.098976
+OH0760200,Brewster Police Department,14777,OH,East North Central,Midwest,Region II,STARK,City,True,2010-10-01T00:00:00.000Z,40.71258,-81.59755
+OH0760300,Canal Fulton Police Department,14778,OH,East North Central,Midwest,Region II,STARK,City,True,2005-08-01T00:00:00.000Z,40.885727,-81.58504
+OH0760400,Canton Police Department,14779,OH,East North Central,Midwest,Region II,STARK,City,True,2014-01-01T00:00:00.000Z,40.79727,-81.37636
+OH0760500,East Canton Police Department,14780,OH,East North Central,Midwest,Region II,STARK,City,True,1999-12-01T00:00:00.000Z,40.787918,-81.28409
+OH0760600,Hartville Police Department,14781,OH,East North Central,Midwest,Region II,STARK,City,True,2022-01-01T00:00:00.000Z,40.96438,-81.332245
+OH0760700,Louisville Police Department,14782,OH,East North Central,Midwest,Region II,STARK,City,True,1999-04-01T00:00:00.000Z,40.83684,-81.25812
+OH0760800,Massillon Police Department,14783,OH,East North Central,Midwest,Region II,STARK,City,True,2009-08-01T00:00:00.000Z,40.795933,-81.52078
+OH0760900,Minerva Police Department,14784,OH,East North Central,Midwest,Region II,"CARROLL, COLUMBIANA, STARK",City,False,,40.729065,-81.10361
+OH0761000,Navarre Police Department,14785,OH,East North Central,Midwest,Region II,STARK,City,True,2005-09-01T00:00:00.000Z,40.719658,-81.5244
+OH0761100,North Canton Police Department,14786,OH,East North Central,Midwest,Region II,STARK,City,True,1999-01-01T00:00:00.000Z,40.814131,-81.365667
+OH0761200,Beach City Police Department,14787,OH,East North Central,Midwest,Region II,STARK,City,True,1999-01-01T00:00:00.000Z,40.814131,-81.365667
+OH0761400,Hills and Dales,34175,OH,East North Central,Midwest,Region II,STARK,City,True,2022-08-01T00:00:00.000Z,,
+OH0761800,Waynesburg Police Department,14788,OH,East North Central,Midwest,Region II,STARK,City,False,2006-05-01T00:00:00.000Z,40.814131,-81.365667
+OH0761900,Wilmot Police Department,14789,OH,East North Central,Midwest,Region II,STARK,City,False,2009-09-01T00:00:00.000Z,40.814131,-81.365667
+OH0762100,Marlboro Township Police Department,14790,OH,East North Central,Midwest,Region II,STARK,City,True,2002-02-01T00:00:00.000Z,40.95227,-81.25758
+OH0762200,Lawrence Township Police Department,14791,OH,East North Central,Midwest,Region II,STARK,City,True,2008-08-01T00:00:00.000Z,40.814131,-81.365667
+OH0762300,"Perry Township Police Department, Stark County",14792,OH,East North Central,Midwest,Region II,STARK,City,True,2010-02-01T00:00:00.000Z,40.789173,-81.46549
+OH0762400,"Jackson Township Police Department, Stark County",14793,OH,East North Central,Midwest,Region II,STARK,City,True,2003-09-01T00:00:00.000Z,40.860733,-81.48674
+OH0762500,Uniontown Police Department,14794,OH,East North Central,Midwest,Region II,STARK,City,True,1999-01-01T00:00:00.000Z,40.814131,-81.365667
+OH0762700,Stark County Park District,28754,OH,East North Central,Midwest,Region II,STARK,Other,True,2019-04-01T00:00:00.000Z,,
+OH0763000,Magnolia Police Department,14795,OH,East North Central,Midwest,Region II,"CARROLL, STARK",City,True,2003-01-01T00:00:00.000Z,40.814131,-81.365667
+OH076309E,Walsh University,33793,OH,East North Central,Midwest,Region II,STARK,University or College,True,2022-05-01T00:00:00.000Z,,
+OH0763200,Republic N&T Railroad,23294,OH,East North Central,Midwest,Region II,STARK,Other,False,,40.80083,-81.338425
+OH076349E,Malone University,34208,OH,East North Central,Midwest,Region II,STARK,University or College,True,2022-09-01T00:00:00.000Z,,
+OH0770000,Summit County Sheriff's Office,14796,OH,East North Central,Midwest,Region II,SUMMIT,County,True,1998-01-01T00:00:00.000Z,41.07877,-81.518234
+OH0770100,Akron Police Department,14797,OH,East North Central,Midwest,Region II,SUMMIT,City,True,1998-06-01T00:00:00.000Z,41.07928,-81.518654
+OH0770200,Barberton Police Department,14798,OH,East North Central,Midwest,Region II,SUMMIT,City,True,2013-01-01T00:00:00.000Z,41.121851,-81.534936
+OH0770300,Cuyahoga Falls Police Department,14799,OH,East North Central,Midwest,Region II,SUMMIT,City,True,2022-01-01T00:00:00.000Z,41.138668,-81.48351
+OH0770400,Fairlawn Police Department,14800,OH,East North Central,Midwest,Region II,SUMMIT,City,True,2011-02-01T00:00:00.000Z,41.13564,-81.62626
+OH0770500,Hudson Police Department,14801,OH,East North Central,Midwest,Region II,SUMMIT,City,True,1998-01-01T00:00:00.000Z,41.238438,-81.43509
+OH0770600,Lakemore Police Department,14802,OH,East North Central,Midwest,Region II,SUMMIT,City,True,2003-02-01T00:00:00.000Z,41.034637,-81.44235
+OH0770700,Macedonia Police Department,14803,OH,East North Central,Midwest,Region II,SUMMIT,City,True,2015-01-01T00:00:00.000Z,41.31095,-81.50502
+OH0770800,Mogadore Police Department,14804,OH,East North Central,Midwest,Region II,"PORTAGE, SUMMIT",City,True,2021-06-01T00:00:00.000Z,41.04806,-81.39312
+OH0770900,Northfield Police Department,14805,OH,East North Central,Midwest,Region II,SUMMIT,City,True,2006-01-01T00:00:00.000Z,41.343174,-81.52875
+OH0771000,Norton Police Department,14806,OH,East North Central,Midwest,Region II,"SUMMIT, WAYNE",City,True,2005-01-01T00:00:00.000Z,41.023945,-81.646065
+OH0771100,Silver Lake Police Department,14807,OH,East North Central,Midwest,Region II,SUMMIT,City,False,,41.151432,-81.45803
+OH0771200,Stow Police Department,14808,OH,East North Central,Midwest,Region II,SUMMIT,City,True,2021-06-01T00:00:00.000Z,41.168526,-81.44039
+OH0771300,Tallmadge Police Department,14809,OH,East North Central,Midwest,Region II,"PORTAGE, SUMMIT",City,True,2021-01-01T00:00:00.000Z,41.10281,-81.4389
+OH0771400,Twinsburg Police Department,14810,OH,East North Central,Midwest,Region II,SUMMIT,City,True,2020-10-01T00:00:00.000Z,41.317978,-81.44824
+OH0771500,Boston Heights Police Department,14811,OH,East North Central,Midwest,Region II,SUMMIT,City,False,2008-07-01T00:00:00.000Z,41.24064,-81.45192
+OH0771700,Munroe Falls Police Department,14813,OH,East North Central,Midwest,Region II,SUMMIT,City,True,2000-08-01T00:00:00.000Z,41.121851,-81.534936
+OH0771800,Peninsula Police Department,14814,OH,East North Central,Midwest,Region II,SUMMIT,City,True,1999-02-01T00:00:00.000Z,41.121851,-81.534936
+OH0771900,Reminderville Police Department,14815,OH,East North Central,Midwest,Region II,SUMMIT,City,True,2021-01-01T00:00:00.000Z,41.345837,-81.39665
+OH0772000,"Bath Township Police Department, Summit County",14816,OH,East North Central,Midwest,Region II,SUMMIT,City,True,2007-01-01T00:00:00.000Z,41.168983,-81.63615
+OH0772500,"Springfield Township Police Department, Summit County",14819,OH,East North Central,Midwest,Region II,SUMMIT,City,True,1999-01-01T00:00:00.000Z,41.034637,-81.44235
+OH0772600,Richfield Police Department,14820,OH,East North Central,Midwest,Region II,SUMMIT,City,False,2000-02-01T00:00:00.000Z,41.121851,-81.534936
+OH0772700,Copley Township Police Department,14821,OH,East North Central,Midwest,Region II,SUMMIT,City,True,1998-10-01T00:00:00.000Z,41.100674,-81.646706
+OH0772800,University of Akron,14822,OH,East North Central,Midwest,Region II,SUMMIT,University or College,False,2013-02-01T00:00:00.000Z,41.078693,-81.51419
+OH0772900,New Franklin Police Department,14823,OH,East North Central,Midwest,Region II,SUMMIT,City,True,1999-09-01T00:00:00.000Z,40.95246,-81.56726
+OH0773000,Sagamore Hills Police Department,14824,OH,East North Central,Midwest,Region II,SUMMIT,City,True,2016-02-01T00:00:00.000Z,41.337765,-81.56317
+OH0773900,Akron Metro Regional Transit Authority,33824,OH,East North Central,Midwest,Region II,SUMMIT,Other,True,2022-01-01T00:00:00.000Z,,
+OH0780000,Trumbull County Sheriff's Office,14826,OH,East North Central,Midwest,Region II,TRUMBULL,County,True,2002-06-01T00:00:00.000Z,41.237495,-80.81881
+OH0780100,Girard Police Department,14827,OH,East North Central,Midwest,Region II,TRUMBULL,City,True,2012-01-01T00:00:00.000Z,41.308936,-80.767656
+OH0780200,Hubbard Police Department,14828,OH,East North Central,Midwest,Region II,TRUMBULL,City,True,2002-01-01T00:00:00.000Z,41.15857,-80.57304
+OH0780300,Liberty Township Police Department,14829,OH,East North Central,Midwest,Region II,TRUMBULL,City,True,2001-07-01T00:00:00.000Z,41.01088,-80.770396
+OH0780400,McDonald Police Department,14830,OH,East North Central,Midwest,Region II,TRUMBULL,City,False,,41.164284,-80.724335
+OH0780500,Newton Falls Police Department,14831,OH,East North Central,Midwest,Region II,TRUMBULL,City,True,2008-12-01T00:00:00.000Z,41.1886,-80.9777
+OH0780600,Niles Police Department,14832,OH,East North Central,Midwest,Region II,TRUMBULL,City,True,2006-02-01T00:00:00.000Z,41.179073,-80.76445
+OH0780700,Warren Police Department,14833,OH,East North Central,Midwest,Region II,TRUMBULL,City,True,2008-02-01T00:00:00.000Z,41.234085,-80.81711
+OH0780800,Cortland Police Department,14834,OH,East North Central,Midwest,Region II,TRUMBULL,City,True,2006-03-01T00:00:00.000Z,41.340233,-80.722786
+OH0781000,West Farmington,26968,OH,East North Central,Midwest,Region II,TRUMBULL,City,False,2017-02-01T00:00:00.000Z,,
+OH0781200,Howland Township Police Department,14835,OH,East North Central,Midwest,Region II,TRUMBULL,City,True,2005-12-01T00:00:00.000Z,41.23911,-80.74056
+OH0781300,Brookfield Township Police Department,14836,OH,East North Central,Midwest,Region II,TRUMBULL,City,True,2010-01-01T00:00:00.000Z,41.229584,-80.56996
+OH0781400,Lordstown Police Department,14837,OH,East North Central,Midwest,Region II,TRUMBULL,City,True,2016-11-01T00:00:00.000Z,41.16592,-80.85309
+OH0781500,Bazetta Township Police Department,14838,OH,East North Central,Midwest,Region II,TRUMBULL,City,True,2002-01-01T00:00:00.000Z,41.290257,-80.74112
+OH0781600,Hubbard Township Police Department,14839,OH,East North Central,Midwest,Region II,TRUMBULL,City,True,2004-01-01T00:00:00.000Z,41.172573,-80.55503
+OH0781700,Champion Township Police Department,14840,OH,East North Central,Midwest,Region II,TRUMBULL,City,False,2005-07-01T00:00:00.000Z,41.308936,-80.767656
+OH0781900,Hartford Township Police Department,14842,OH,East North Central,Midwest,Region II,TRUMBULL,City,False,2010-02-01T00:00:00.000Z,41.308936,-80.767656
+OH0782100,Warren Township Police Department,14843,OH,East North Central,Midwest,Region II,TRUMBULL,City,True,2005-12-01T00:00:00.000Z,41.308936,-80.767656
+OH0782300,Weathersfield Police Department,14844,OH,East North Central,Midwest,Region II,TRUMBULL,City,True,2009-04-01T00:00:00.000Z,41.147743,-80.767525
+OH0782400,Fowler Police Department,14845,OH,East North Central,Midwest,Region II,TRUMBULL,City,True,2010-01-01T00:00:00.000Z,41.308936,-80.767656
+OH0782700,Braceville Police Department,14846,OH,East North Central,Midwest,Region II,TRUMBULL,City,False,2011-04-01T00:00:00.000Z,41.308936,-80.767656
+OH0782800,Vienna Township Police Department,14847,OH,East North Central,Midwest,Region II,TRUMBULL,City,True,2000-01-01T00:00:00.000Z,41.308936,-80.767656
+OH0790000,Tuscarawas County Sheriff's Office,14848,OH,East North Central,Midwest,Region II,TUSCARAWAS,County,True,2000-12-01T00:00:00.000Z,40.455643,-81.405685
+OH0790100,Dennison Police Department,14849,OH,East North Central,Midwest,Region II,TUSCARAWAS,City,True,1999-02-01T00:00:00.000Z,40.393124,-81.333954
+OH0790200,Dover Police Department,14850,OH,East North Central,Midwest,Region II,TUSCARAWAS,City,True,2000-01-01T00:00:00.000Z,40.522636,-81.476204
+OH0790300,Newcomerstown Police Department,14851,OH,East North Central,Midwest,Region II,TUSCARAWAS,City,False,,40.447441,-81.471157
+OH0790400,New Philadelphia Police Department,14852,OH,East North Central,Midwest,Region II,TUSCARAWAS,City,True,2000-08-01T00:00:00.000Z,40.488552,-81.443565
+OH0790500,Sugarcreek Police Department,14853,OH,East North Central,Midwest,Region II,TUSCARAWAS,City,True,2001-06-01T00:00:00.000Z,40.505028,-81.64085
+OH0790600,Uhrichsville Police Department,14854,OH,East North Central,Midwest,Region II,TUSCARAWAS,City,True,2001-09-01T00:00:00.000Z,40.447441,-81.471157
+OH0790900,Bolivar Police Department,14857,OH,East North Central,Midwest,Region II,TUSCARAWAS,City,False,2001-04-01T00:00:00.000Z,40.447441,-81.471157
+OH0791000,Gnadenhutten Police Department,14858,OH,East North Central,Midwest,Region II,TUSCARAWAS,City,False,2004-06-01T00:00:00.000Z,40.447441,-81.471157
+OH0791100,Midvale Police Department,14859,OH,East North Central,Midwest,Region II,TUSCARAWAS,City,False,2006-01-01T00:00:00.000Z,40.447441,-81.471157
+OH0791400,Port Washington Police Department,25281,OH,East North Central,Midwest,Region II,TUSCARAWAS,City,False,2013-09-01T00:00:00.000Z,40.447441,-81.471157
+OH0791800,Strasburg Police Department,14860,OH,East North Central,Midwest,Region II,TUSCARAWAS,City,True,2001-05-01T00:00:00.000Z,40.592636,-81.52986
+OH0791900,Tuscarawas Police Department,25280,OH,East North Central,Midwest,Region II,TUSCARAWAS,City,False,2013-06-01T00:00:00.000Z,40.447441,-81.471157
+OH0792100,Muskingum Watershed Conservancy District,25836,OH,East North Central,Midwest,Region II,TUSCARAWAS,Other,True,2016-04-01T00:00:00.000Z,40.447441,-81.471157
+OH0800000,Union County Sheriff's Office,14861,OH,East North Central,Midwest,Region II,UNION,County,True,2004-01-01T00:00:00.000Z,40.23653,-83.36893
+OH0800100,Marysville Police Department,14862,OH,East North Central,Midwest,Region II,UNION,City,True,2006-01-01T00:00:00.000Z,40.235283,-83.36669
+OH0800200,Richwood Police Department,14863,OH,East North Central,Midwest,Region II,UNION,City,True,2005-02-01T00:00:00.000Z,40.295901,-83.367042
+OH0810000,Van Wert County Sheriff's Office,14864,OH,East North Central,Midwest,Region II,VAN WERT,County,True,2002-08-01T00:00:00.000Z,40.85552,-84.585775
+OH0810100,Van Wert Police Department,14865,OH,East North Central,Midwest,Region II,VAN WERT,City,True,2006-10-01T00:00:00.000Z,40.85552,-84.585775
+OH0810200,Convoy,33826,OH,East North Central,Midwest,Region II,VAN WERT,City,False,2021-11-01T00:00:00.000Z,,
+OH0820000,Vinton County Sheriff's Office,14866,OH,East North Central,Midwest,Region II,VINTON,County,True,2004-09-01T00:00:00.000Z,39.247055,-82.478905
+OH0820100,McArthur Police Department,14867,OH,East North Central,Midwest,Region II,VINTON,City,True,2006-08-01T00:00:00.000Z,39.246674,-82.47956
+OH0820200,Hamden,33820,OH,East North Central,Midwest,Region II,VINTON,City,False,2022-05-01T00:00:00.000Z,,
+OH0830000,Warren County Sheriff's Office,14868,OH,East North Central,Midwest,Region II,WARREN,County,True,1999-01-01T00:00:00.000Z,39.421608,-84.201096
+OH0830100,Franklin Police Department,14869,OH,East North Central,Midwest,Region II,WARREN,City,True,2003-10-01T00:00:00.000Z,39.425652,-84.169906
+OH0830200,Harveysburg Police Department,14870,OH,East North Central,Midwest,Region II,WARREN,City,True,2006-01-01T00:00:00.000Z,39.503155,-84.00976
+OH0830300,Lebanon Police Department,14871,OH,East North Central,Midwest,Region II,WARREN,City,True,2018-01-01T00:00:00.000Z,39.43554,-84.20856
+OH0830400,Mason Police Department,14872,OH,East North Central,Midwest,Region II,WARREN,City,True,2006-03-01T00:00:00.000Z,39.354202,-84.30957
+OH0830500,Morrow ,22772,OH,East North Central,Midwest,Region II,WARREN,City,True,2021-01-01T00:00:00.000Z,,
+OH0830800,Carlisle Police Department,14874,OH,East North Central,Midwest,Region II,"MONTGOMERY, WARREN",City,True,2005-08-01T00:00:00.000Z,39.584137,-84.323814
+OH0831000,"Hamilton Township Police Department, Warren County",23109,OH,East North Central,Midwest,Region II,WARREN,City,True,2011-12-01T00:00:00.000Z,,
+OH0831400,Springboro Police Department,14876,OH,East North Central,Midwest,Region II,"MONTGOMERY, WARREN",City,True,2005-08-01T00:00:00.000Z,39.55903,-84.24074
+OH0831500,Waynesville Police Department,14877,OH,East North Central,Midwest,Region II,WARREN,City,True,2004-01-01T00:00:00.000Z,39.5511,-84.09087
+OH0831600,Clearcreek Township Police Department,14878,OH,East North Central,Midwest,Region II,WARREN,City,True,2001-01-01T00:00:00.000Z,39.54641,-84.194954
+OH0840000,Washington County Sheriff's Office,14879,OH,East North Central,Midwest,Region II,WASHINGTON,County,True,2010-04-01T00:00:00.000Z,39.415436,-81.45458
+OH0840100,Belpre Police Department,14880,OH,East North Central,Midwest,Region II,WASHINGTON,City,True,2001-10-01T00:00:00.000Z,39.450684,-81.490653
+OH0840200,Marietta Police Department,14881,OH,East North Central,Midwest,Region II,WASHINGTON,City,True,2010-07-01T00:00:00.000Z,39.41622,-81.45329
+OH0840300,Matamoras Police Department,14882,OH,East North Central,Midwest,Region II,WASHINGTON,City,True,2002-05-01T00:00:00.000Z,39.450684,-81.490653
+OH0840400,Beverly Police Department,14883,OH,East North Central,Midwest,Region II,WASHINGTON,City,True,2005-01-01T00:00:00.000Z,39.450684,-81.490653
+OH0840500,Lowell Police Department,14884,OH,East North Central,Midwest,Region II,WASHINGTON,City,True,2020-07-01T00:00:00.000Z,39.450684,-81.490653
+OH084089E,Marietta College,14885,OH,East North Central,Midwest,Region II,WASHINGTON,University or College,False,1999-01-01T00:00:00.000Z,39.411762,-81.44463
+OH0850000,Wayne County Sheriff's Office,14886,OH,East North Central,Midwest,Region II,WAYNE,County,True,2003-01-01T00:00:00.000Z,40.829661,-81.887194
+OH0850100,Orrville Police Department,14887,OH,East North Central,Midwest,Region II,WAYNE,City,True,2016-12-01T00:00:00.000Z,40.841557,-81.76422
+OH0850200,Rittman Police Department,14888,OH,East North Central,Midwest,Region II,"MEDINA, WAYNE",City,False,,40.972855,-81.78036
+OH0850300,Wooster Police Department,14889,OH,East North Central,Midwest,Region II,WAYNE,City,True,2006-01-01T00:00:00.000Z,40.79921,-81.94194
+OH0850400,Apple Creek Police Department,23221,OH,East North Central,Midwest,Region II,WAYNE,City,True,2013-03-01T00:00:00.000Z,40.829661,-81.887194
+OH0850700,Creston Police Department,14890,OH,East North Central,Midwest,Region II,"MEDINA, WAYNE",City,True,2001-08-01T00:00:00.000Z,40.98553,-81.892555
+OH0850800,Dalton Police Department,14891,OH,East North Central,Midwest,Region II,WAYNE,City,False,,40.829661,-81.887194
+OH0850900,Doylestown Police Department,14892,OH,East North Central,Midwest,Region II,WAYNE,City,False,1998-08-01T00:00:00.000Z,40.968033,-81.69843
+OH0851100,Marshallville Police Department,14893,OH,East North Central,Midwest,Region II,WAYNE,City,False,2005-10-01T00:00:00.000Z,40.829661,-81.887194
+OH0851200,Mount Eaton Police Department,14894,OH,East North Central,Midwest,Region II,WAYNE,City,False,,40.829661,-81.887194
+OH0851300,Shreve Police Department,14895,OH,East North Central,Midwest,Region II,WAYNE,City,False,2001-01-01T00:00:00.000Z,40.829661,-81.887194
+OH0851400,Smithville Police Department,14896,OH,East North Central,Midwest,Region II,WAYNE,City,True,2005-04-01T00:00:00.000Z,40.829661,-81.887194
+OH0851500,West Salem Police Department,14897,OH,East North Central,Midwest,Region II,WAYNE,City,False,2001-12-01T00:00:00.000Z,40.829661,-81.887194
+OH0852000,Ohio State University: Wooster,14898,OH,East North Central,Midwest,Region II,WAYNE,University or College,False,2007-01-01T00:00:00.000Z,40.829661,-81.887194
+OH0860000,Williams County Sheriff's Office,14899,OH,East North Central,Midwest,Region II,WILLIAMS,County,False,2007-10-01T00:00:00.000Z,41.564958,-84.584323
+OH0860100,Bryan Police Department,14900,OH,East North Central,Midwest,Region II,WILLIAMS,City,True,2007-01-01T00:00:00.000Z,41.474686,-84.55369
+OH0860200,Montpelier Police Department,14901,OH,East North Central,Midwest,Region II,WILLIAMS,City,True,2000-01-01T00:00:00.000Z,41.585308,-84.609924
+OH0860500,Edgerton Police Department,14902,OH,East North Central,Midwest,Region II,WILLIAMS,City,False,2005-12-01T00:00:00.000Z,41.564958,-84.584323
+OH0860700,Pioneer Police Department,14903,OH,East North Central,Midwest,Region II,WILLIAMS,City,True,2008-06-01T00:00:00.000Z,41.564958,-84.584323
+OH0860900,West Unity Police Department,14904,OH,East North Central,Midwest,Region II,WILLIAMS,City,False,2006-01-01T00:00:00.000Z,41.586483,-84.43377
+OH0870000,Wood County Sheriff's Office,14905,OH,East North Central,Midwest,Region II,WOOD,County,True,2006-01-01T00:00:00.000Z,41.360183,-83.622682
+OH0870100,Bowling Green Police Department,14906,OH,East North Central,Midwest,Region II,WOOD,City,True,2006-01-01T00:00:00.000Z,41.374912,-83.65162
+OH0870200,North Baltimore Police Department,14907,OH,East North Central,Midwest,Region II,WOOD,City,True,2003-12-01T00:00:00.000Z,41.183567,-83.67838
+OH0870300,Perrysburg Police Department,14908,OH,East North Central,Midwest,Region II,WOOD,City,True,2014-03-01T00:00:00.000Z,41.55711,-83.63056
+OH0870400,Rossford Police Department,14909,OH,East North Central,Midwest,Region II,WOOD,City,False,2004-07-01T00:00:00.000Z,41.610867,-83.56178
+OH0870600,Bloomdale Police Department,14910,OH,East North Central,Midwest,Region II,WOOD,City,True,2015-08-01T00:00:00.000Z,41.360183,-83.622682
+OH0870700,Bradner Police Department,14911,OH,East North Central,Midwest,Region II,WOOD,City,False,2011-04-01T00:00:00.000Z,41.324215,-83.437035
+OH0871200,Haskins Police Department,14913,OH,East North Central,Midwest,Region II,WOOD,City,True,2009-08-01T00:00:00.000Z,41.360183,-83.622682
+OH0871500,Luckey Police Department,14914,OH,East North Central,Midwest,Region II,WOOD,City,False,2004-02-01T00:00:00.000Z,41.360183,-83.622682
+OH0871800,Northwood Police Department,14915,OH,East North Central,Midwest,Region II,WOOD,City,True,2001-01-01T00:00:00.000Z,41.608757,-83.48422
+OH0871900,Pemberville Police Department,14916,OH,East North Central,Midwest,Region II,WOOD,City,True,2008-10-01T00:00:00.000Z,41.360183,-83.622682
+OH0872100,Risingsun Police Department,23046,OH,East North Central,Midwest,Region II,WOOD,City,True,2012-04-01T00:00:00.000Z,41.360183,-83.622682
+OH0872300,Walbridge Police Department,14917,OH,East North Central,Midwest,Region II,WOOD,City,False,2006-11-01T00:00:00.000Z,41.360183,-83.622682
+OH0872400,Wayne Police Department,14918,OH,East North Central,Midwest,Region II,WOOD,City,False,2009-04-01T00:00:00.000Z,41.303146,-83.47704
+OH0872700,Bowling Green State University,14920,OH,East North Central,Midwest,Region II,WOOD,University or College,True,2011-07-01T00:00:00.000Z,41.360183,-83.622682
+OH0872800,Perrysburg Township Police Department,14921,OH,East North Central,Midwest,Region II,WOOD,City,True,2014-02-01T00:00:00.000Z,41.360183,-83.622682
+OH0873000,Lake Township Police Department,14922,OH,East North Central,Midwest,Region II,WOOD,City,False,1999-10-01T00:00:00.000Z,41.576626,-83.473526
+OH0873400,Wood County Park District,14923,OH,East North Central,Midwest,Region II,WOOD,Other,True,1999-01-01T00:00:00.000Z,41.42511,-83.629196
+OH0880000,Wyandot County Sheriff's Office,14924,OH,East North Central,Midwest,Region II,WYANDOT,County,True,2006-06-01T00:00:00.000Z,40.827488,-83.28093
+OH0880100,Carey Police Department,14925,OH,East North Central,Midwest,Region II,WYANDOT,City,True,2005-12-01T00:00:00.000Z,40.840122,-83.313172
+OH0880200,Upper Sandusky Police Department,14926,OH,East North Central,Midwest,Region II,WYANDOT,City,True,2007-09-01T00:00:00.000Z,40.82784,-83.282974
+OHCIP0000,Cincinnati Police Department,14929,OH,East North Central,Midwest,Region II,HAMILTON,City,True,1998-01-01T00:00:00.000Z,39.103947,-84.518715
+OHCLP0000,Cleveland Police Department,14930,OH,East North Central,Midwest,Region II,CUYAHOGA,City,True,2003-01-01T00:00:00.000Z,41.53992,-81.62757
+OHCOP0000,Columbus Police Department,14931,OH,East North Central,Midwest,Region II,"DELAWARE, FAIRFIELD, FRANKLIN",City,True,2003-01-01T00:00:00.000Z,39.9643,-83.0046
+OHOHP0000,Ohio State Highway Patrol,14932,OH,East North Central,Midwest,Region II,NOT SPECIFIED,State Police,True,2003-01-01T00:00:00.000Z,39.969575,-83.006863

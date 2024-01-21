@@ -1,0 +1,349 @@
+ori,agency_name,agency_id,state_abbr,division_name,region_name,region_desc,county_name,agency_type_name,nibrs,nibrs_start_date,latitude,longitude
+IN0010000,Adams County Sheriff's Office,5685,IN,East North Central,Midwest,Region II,ADAMS,County,False,,40.8274,-84.922035
+IN0010100,Berne Police Department,5686,IN,East North Central,Midwest,Region II,ADAMS,City,False,,40.745733,-84.93613
+IN0010200,Decatur Police Department,5687,IN,East North Central,Midwest,Region II,ADAMS,City,False,,40.834805,-84.92653
+IN0020000,Allen County Sheriff's Office,5688,IN,East North Central,Midwest,Region II,ALLEN,County,True,2020-09-01T00:00:00.000Z,41.091855,-85.07223
+IN0020100,Fort Wayne Police Department,5689,IN,East North Central,Midwest,Region II,ALLEN,City,True,2020-09-01T00:00:00.000Z,41.091855,-85.07223
+IN0020200,New Haven Police Department,5690,IN,East North Central,Midwest,Region II,ALLEN,City,True,2020-09-01T00:00:00.000Z,41.07018,-85.01878
+IN0020300,Purdue University:,33466,IN,East North Central,Midwest,Region II,ALLEN,University or College,True,2021-01-01T00:00:00.000Z,,
+IN0021000,Woodburn,35754,IN,East North Central,Midwest,Region II,ALLEN,City,True,2020-10-01T00:00:00.000Z,,
+IN002129E,Parkview Health,34731,IN,East North Central,Midwest,Region II,ALLEN,Other,True,2022-04-01T00:00:00.000Z,,
+IN0030000,Bartholomew County Sheriff's Office,5691,IN,East North Central,Midwest,Region II,BARTHOLOMEW,County,True,2020-11-01T00:00:00.000Z,39.200375,-85.91906
+IN0030100,Columbus Police Department,5692,IN,East North Central,Midwest,Region II,BARTHOLOMEW,City,False,2020-10-01T00:00:00.000Z,39.199764,-85.92089
+IN0030700,Indiana University: ,33640,IN,East North Central,Midwest,Region II,BARTHOLOMEW,University or College,True,2021-02-01T00:00:00.000Z,,
+IN0040000,Benton County Sheriff's Office,5693,IN,East North Central,Midwest,Region II,BENTON,County,False,,40.617615,-87.31641
+IN0040100,Fowler Police Department,5694,IN,East North Central,Midwest,Region II,BENTON,City,False,,40.608253,-87.315479
+IN0050000,Blackford County Sheriff's Office,5695,IN,East North Central,Midwest,Region II,BLACKFORD,County,True,2019-01-01T00:00:00.000Z,40.45038,-85.27664
+IN0050100,Hartford City Police Department,5696,IN,East North Central,Midwest,Region II,BLACKFORD,City,True,2021-01-01T00:00:00.000Z,40.4564,-85.37011
+IN0060000,Boone County Sheriff's Office,5697,IN,East North Central,Midwest,Region II,BOONE,County,True,2018-11-01T00:00:00.000Z,40.031673,-86.45087
+IN0060100,Lebanon Police Department,5698,IN,East North Central,Midwest,Region II,BOONE,City,True,2019-06-01T00:00:00.000Z,40.047546,-86.46674
+IN0060300,Zionsville Police Department,5699,IN,East North Central,Midwest,Region II,BOONE,City,True,2017-09-01T00:00:00.000Z,39.94826,-86.27286
+IN0060500,Whitestown Police Department,5700,IN,East North Central,Midwest,Region II,BOONE,City,True,2017-07-01T00:00:00.000Z,39.949295,-86.36269
+IN0070000,Brown County Sheriff's Office,5701,IN,East North Central,Midwest,Region II,BROWN,County,False,2020-10-01T00:00:00.000Z,39.192585,-86.23941
+IN0080000,Carroll County Sheriff's Office,5702,IN,East North Central,Midwest,Region II,CARROLL,County,False,,40.58524,-86.67635
+IN0080100,Delphi Police Department,5703,IN,East North Central,Midwest,Region II,CARROLL,City,False,,40.586514,-86.6728
+IN0080400,Burlington,31456,IN,East North Central,Midwest,Region II,CARROLL,City,True,2019-10-01T00:00:00.000Z,,
+IN0090000,Cass County Sheriff's Office,5704,IN,East North Central,Midwest,Region II,CASS,County,True,2021-01-01T00:00:00.000Z,40.753799,-86.355168
+IN0090100,Logansport Police Department,5705,IN,East North Central,Midwest,Region II,CASS,City,True,2019-04-01T00:00:00.000Z,40.75449,-86.36293
+IN0100000,Clark County Sheriff's Office,5706,IN,East North Central,Midwest,Region II,CLARK,County,True,2018-01-01T00:00:00.000Z,38.276726,-85.73727
+IN0100100,Charlestown Police Department,5707,IN,East North Central,Midwest,Region II,CLARK,City,True,2020-01-01T00:00:00.000Z,38.442017,-85.66367
+IN0100200,Clarksville Police Department,5708,IN,East North Central,Midwest,Region II,CLARK,City,True,2020-01-01T00:00:00.000Z,38.326065,-85.76038
+IN0100300,Jeffersonville Police Department,5709,IN,East North Central,Midwest,Region II,CLARK,City,True,2018-05-01T00:00:00.000Z,38.476217,-85.711122
+IN0100400,Sellersburg Police Department,5710,IN,East North Central,Midwest,Region II,CLARK,City,True,2020-01-01T00:00:00.000Z,38.397934,-85.75479
+IN0100600,Utica,33468,IN,East North Central,Midwest,Region II,CLARK,City,True,2020-10-01T00:00:00.000Z,,
+IN0110000,Clay County Sheriff's Office,5711,IN,East North Central,Midwest,Region II,CLAY,County,False,,39.523907,-87.120094
+IN0110100,Brazil Police Department,5712,IN,East North Central,Midwest,Region II,CLAY,City,False,,39.523224,-87.12599
+IN0110600,Knightsville,29195,IN,East North Central,Midwest,Region II,CLAY,City,False,2019-06-01T00:00:00.000Z,,
+IN0120000,Clinton County Sheriff's Office,5713,IN,East North Central,Midwest,Region II,CLINTON,County,True,2020-06-01T00:00:00.000Z,40.27968,-86.50957
+IN0120100,Frankfort Police Department,5714,IN,East North Central,Midwest,Region II,CLINTON,City,True,2019-07-01T00:00:00.000Z,40.2816,-86.51342
+IN0130000,Crawford County Sheriff's Office,5715,IN,East North Central,Midwest,Region II,CRAWFORD,County,False,,38.289433,-86.440871
+IN0130200,Marengo,29199,IN,East North Central,Midwest,Region II,CRAWFORD,City,True,2019-04-01T00:00:00.000Z,,
+IN0130300,Leavenworth,29717,IN,East North Central,Midwest,Region II,CRAWFORD,City,False,2019-05-01T00:00:00.000Z,,
+IN0140000,Daviess County Sheriff's Office,5716,IN,East North Central,Midwest,Region II,DAVIESS,County,True,2020-06-01T00:00:00.000Z,38.65781,-87.17127
+IN0140100,Washington Police Department,5717,IN,East North Central,Midwest,Region II,DAVIESS,City,True,2018-06-01T00:00:00.000Z,38.657803,-87.17234
+IN0150000,Dearborn County Sheriff's Office,5718,IN,East North Central,Midwest,Region II,DEARBORN,County,False,,39.090332,-84.85051
+IN0150100,Aurora Police Department,5719,IN,East North Central,Midwest,Region II,DEARBORN,City,False,,39.05508,-84.89966
+IN0150200,Lawrenceburg Police Department,5720,IN,East North Central,Midwest,Region II,DEARBORN,City,True,2020-07-01T00:00:00.000Z,39.094707,-84.850334
+IN0150300,Greendale Police Department,5721,IN,East North Central,Midwest,Region II,DEARBORN,City,False,,39.108585,-84.86384
+IN0160000,Decatur County Sheriff's Office,5722,IN,East North Central,Midwest,Region II,DECATUR,County,False,,39.334103,-85.48897
+IN0160100,Greensburg Police Department,5723,IN,East North Central,Midwest,Region II,DECATUR,City,False,,39.30598,-85.499831
+IN0170000,De Kalb County Sheriff's Office,5724,IN,East North Central,Midwest,Region II,DEKALB,County,True,2019-01-01T00:00:00.000Z,41.366367,-85.054344
+IN0170100,Auburn Police Department,5725,IN,East North Central,Midwest,Region II,DEKALB,City,True,2019-08-01T00:00:00.000Z,41.401189,-85.000185
+IN0170200,Butler,30454,IN,East North Central,Midwest,Region II,DEKALB,City,True,2020-01-01T00:00:00.000Z,,
+IN0170300,Garrett Police Department,5726,IN,East North Central,Midwest,Region II,DEKALB,City,False,2018-12-01T00:00:00.000Z,41.35083,-85.13691
+IN0170400,Waterloo Police Department,5727,IN,East North Central,Midwest,Region II,DEKALB,City,True,2021-01-01T00:00:00.000Z,41.401189,-85.000185
+IN0180000,Delaware County Sheriff's Office,5728,IN,East North Central,Midwest,Region II,DELAWARE,County,True,2020-02-01T00:00:00.000Z,40.194565,-85.386536
+IN0180100,Muncie Police Department,5729,IN,East North Central,Midwest,Region II,DELAWARE,City,True,2019-11-01T00:00:00.000Z,40.195507,-85.38763
+IN0180300,Gaston,33470,IN,East North Central,Midwest,Region II,DELAWARE,City,True,2019-07-01T00:00:00.000Z,,
+IN0180400,Yorktown,34167,IN,East North Central,Midwest,Region II,DELAWARE,City,True,2021-01-01T00:00:00.000Z,,
+IN0180500,Ball State University,5730,IN,East North Central,Midwest,Region II,DELAWARE,University or College,False,,40.19484,-85.40772
+IN0190000,Dubois County Sheriff's Office,5731,IN,East North Central,Midwest,Region II,DUBOIS,County,False,2019-04-01T00:00:00.000Z,38.385845,-86.92831
+IN0190100,Huntingburg Police Department,5732,IN,East North Central,Midwest,Region II,DUBOIS,City,True,2018-03-01T00:00:00.000Z,38.373344,-86.873385
+IN0190200,Jasper Police Department,5733,IN,East North Central,Midwest,Region II,DUBOIS,City,True,2018-07-01T00:00:00.000Z,38.39138,-86.92853
+IN0200000,Elkhart County Sheriff's Office,5734,IN,East North Central,Midwest,Region II,ELKHART,County,True,2015-04-01T00:00:00.000Z,41.62335,-85.981346
+IN0200100,Elkhart Police Department,5735,IN,East North Central,Midwest,Region II,ELKHART,City,True,2020-01-01T00:00:00.000Z,41.684654,-85.96748
+IN0200200,Goshen Police Department,5736,IN,East North Central,Midwest,Region II,ELKHART,City,True,2019-11-01T00:00:00.000Z,41.58371,-85.83426
+IN0200300,Nappanee Police Department,5737,IN,East North Central,Midwest,Region II,"ELKHART, KOSCIUSKO",City,True,2020-04-01T00:00:00.000Z,41.441673,-86.00391
+IN0200400,Bristol,33472,IN,East North Central,Midwest,Region II,ELKHART,City,True,2021-01-01T00:00:00.000Z,,
+IN0210000,Fayette County Sheriff's Office,5738,IN,East North Central,Midwest,Region II,FAYETTE,County,False,,39.640503,-85.14049
+IN0210100,Connersville Police Department,5739,IN,East North Central,Midwest,Region II,FAYETTE,City,False,,39.641346,-85.13931
+IN0220000,Floyd County Sheriff's Office,5740,IN,East North Central,Midwest,Region II,FLOYD,County,True,2021-01-01T00:00:00.000Z,38.284374,-85.824684
+IN0220100,New Albany Police Department,5741,IN,East North Central,Midwest,Region II,FLOYD,City,True,2020-01-01T00:00:00.000Z,38.284374,-85.824684
+IN0220200,Indiana University: Southeast,5742,IN,East North Central,Midwest,Region II,FLOYD,University or College,True,2021-08-01T00:00:00.000Z,38.345913,-85.81652
+IN0220300,Georgetown Police Department,5743,IN,East North Central,Midwest,Region II,FLOYD,City,False,,38.317936,-85.911474
+IN0230000,Fountain County Sheriff's Office,5744,IN,East North Central,Midwest,Region II,FOUNTAIN,County,False,,40.121237,-87.234872
+IN0230100,Attica Police Department,5745,IN,East North Central,Midwest,Region II,FOUNTAIN,City,False,,40.121237,-87.234872
+IN0230200,Covington Police Department,5746,IN,East North Central,Midwest,Region II,FOUNTAIN,City,False,,40.121237,-87.234872
+IN0240000,Franklin County Sheriff's Office,5747,IN,East North Central,Midwest,Region II,FRANKLIN,County,True,2021-02-01T00:00:00.000Z,39.409762,-85.066964
+IN0240100,Brookville Police Department,5748,IN,East North Central,Midwest,Region II,FRANKLIN,City,True,2019-06-01T00:00:00.000Z,39.421207,-85.01279
+IN0250000,Fulton County Sheriff's Office,5749,IN,East North Central,Midwest,Region II,FULTON,County,False,2020-04-01T00:00:00.000Z,41.065823,-86.21438
+IN0250100,Rochester Police Department,5750,IN,East North Central,Midwest,Region II,FULTON,City,False,,41.050384,-86.265006
+IN0260000,Gibson County Sheriff's Office,5751,IN,East North Central,Midwest,Region II,GIBSON,County,True,2021-01-01T00:00:00.000Z,38.357185,-87.56729
+IN0260100,Princeton Police Department,5752,IN,East North Central,Midwest,Region II,GIBSON,City,False,,38.317413,-87.580566
+IN0260200,Oakland City Police Department,5753,IN,East North Central,Midwest,Region II,GIBSON,City,False,,38.338707,-87.34393
+IN0270000,Grant County Sheriff's Office,5754,IN,East North Central,Midwest,Region II,GRANT,County,True,2021-01-01T00:00:00.000Z,40.557896,-85.6612
+IN0270100,Gas City Police Department,5755,IN,East North Central,Midwest,Region II,GRANT,City,False,,40.487904,-85.61279
+IN0270200,Marion Police Department,5756,IN,East North Central,Midwest,Region II,GRANT,City,True,2021-08-01T00:00:00.000Z,40.558777,-85.65731
+IN0270300,Fairmount Police Department,5757,IN,East North Central,Midwest,Region II,GRANT,City,True,2022-01-01T00:00:00.000Z,40.415604,-85.65213
+IN0280000,Greene County Sheriff's Office,5758,IN,East North Central,Midwest,Region II,GREENE,County,True,2019-03-01T00:00:00.000Z,39.0486,-87.005245
+IN0280100,Bloomfield Police Department,25670,IN,East North Central,Midwest,Region II,GREENE,City,True,2021-01-01T00:00:00.000Z,39.0486,-87.005245
+IN0280200,Jasonville Police Department,5759,IN,East North Central,Midwest,Region II,GREENE,City,False,,39.163113,-87.20094
+IN0280300,Linton Police Department,5760,IN,East North Central,Midwest,Region II,GREENE,City,True,2019-04-01T00:00:00.000Z,39.034966,-87.16806
+IN0280500,Worthington,28134,IN,East North Central,Midwest,Region II,GREENE,City,False,2018-01-01T00:00:00.000Z,,
+IN0280600,Linton-Stockton School Corporation,29214,IN,East North Central,Midwest,Region II,GREENE,Other,True,2019-01-01T00:00:00.000Z,,
+IN0290000,Hamilton County Sheriff's Office,5761,IN,East North Central,Midwest,Region II,HAMILTON,County,True,2020-05-01T00:00:00.000Z,40.052868,-85.995735
+IN0290100,Carmel Police Department,5762,IN,East North Central,Midwest,Region II,HAMILTON,City,True,2020-04-01T00:00:00.000Z,40.04987,-86.020586
+IN0290200,Noblesville Police Department,5763,IN,East North Central,Midwest,Region II,HAMILTON,City,True,2020-06-01T00:00:00.000Z,40.044323,-86.013504
+IN0290300,Sheridan,31775,IN,East North Central,Midwest,Region II,HAMILTON,City,True,2020-05-01T00:00:00.000Z,,
+IN0290400,Westfield Police Department,5764,IN,East North Central,Midwest,Region II,HAMILTON,City,True,2013-01-01T00:00:00.000Z,40.04237,-86.154106
+IN0290500,Arcadia,31774,IN,East North Central,Midwest,Region II,HAMILTON,City,True,2020-04-01T00:00:00.000Z,,
+IN0290600,Cicero,31622,IN,East North Central,Midwest,Region II,HAMILTON,City,True,2020-05-01T00:00:00.000Z,,
+IN0290700,Fishers Police Department,5765,IN,East North Central,Midwest,Region II,HAMILTON,City,True,2020-05-01T00:00:00.000Z,39.958286,-86.01655
+IN0300000,Hancock County Sheriff's Office,5766,IN,East North Central,Midwest,Region II,HANCOCK,County,True,2015-03-01T00:00:00.000Z,39.785263,-85.7681
+IN0300100,Greenfield Police Department,5767,IN,East North Central,Midwest,Region II,HANCOCK,City,True,2018-01-01T00:00:00.000Z,39.784073,-85.76923
+IN0300200,Fortville,31621,IN,East North Central,Midwest,Region II,HANCOCK,City,False,2020-06-01T00:00:00.000Z,,
+IN0300300,New Palestine,28274,IN,East North Central,Midwest,Region II,HANCOCK,City,True,2019-02-01T00:00:00.000Z,,
+IN0300500,Shirley,29215,IN,East North Central,Midwest,Region II,"HANCOCK, HENRY",City,True,2019-02-01T00:00:00.000Z,,
+IN0300700,McCordsville,31623,IN,East North Central,Midwest,Region II,HANCOCK,City,True,2020-01-01T00:00:00.000Z,,
+IN0310000,Harrison County Sheriff's Office,5768,IN,East North Central,Midwest,Region II,HARRISON,County,True,2021-01-01T00:00:00.000Z,38.18644,-86.103681
+IN0310100,Corydon Police Department,5769,IN,East North Central,Midwest,Region II,HARRISON,City,False,,38.211063,-86.127304
+IN0320000,Hendricks County Sheriff's Office,5770,IN,East North Central,Midwest,Region II,HENDRICKS,County,True,2015-04-01T00:00:00.000Z,39.768749,-86.510286
+IN0320100,Brownsburg Police Department,5771,IN,East North Central,Midwest,Region II,HENDRICKS,City,True,2020-01-01T00:00:00.000Z,39.8429,-86.39809
+IN0320200,Danville Police Department,5772,IN,East North Central,Midwest,Region II,HENDRICKS,City,True,2020-03-01T00:00:00.000Z,39.76231,-86.5204
+IN0320300,Plainfield Police Department,5773,IN,East North Central,Midwest,Region II,HENDRICKS,City,True,2019-07-01T00:00:00.000Z,39.707325,-86.38823
+IN0320400,Stilesville,30676,IN,East North Central,Midwest,Region II,HENDRICKS,City,False,,,
+IN0320500,Amo,30677,IN,East North Central,Midwest,Region II,HENDRICKS,City,True,2019-08-01T00:00:00.000Z,,
+IN0320600,Coatesville,34169,IN,East North Central,Midwest,Region II,HENDRICKS,City,False,,,
+IN0320700,Clayton,30678,IN,East North Central,Midwest,Region II,HENDRICKS,City,True,2020-03-01T00:00:00.000Z,,
+IN0320800,Pittsboro,30674,IN,East North Central,Midwest,Region II,HENDRICKS,City,True,2020-01-01T00:00:00.000Z,,
+IN0320900,Lizton,30694,IN,East North Central,Midwest,Region II,HENDRICKS,City,False,2019-06-01T00:00:00.000Z,,
+IN0321000,North Salem,30695,IN,East North Central,Midwest,Region II,HENDRICKS,City,False,,,
+IN0321100,Avon Police Department,5774,IN,East North Central,Midwest,Region II,HENDRICKS,City,True,2017-05-01T00:00:00.000Z,39.76266,-86.407646
+IN0321200,Brownsburg Community School,30675,IN,East North Central,Midwest,Region II,HENDRICKS,Other,True,2020-01-01T00:00:00.000Z,,
+IN0330000,Henry County Sheriff's Office,5775,IN,East North Central,Midwest,Region II,HENRY,County,True,2020-04-01T00:00:00.000Z,39.93183,-85.37166
+IN0330200,New Castle Police Department,5776,IN,East North Central,Midwest,Region II,HENRY,City,False,,39.932564,-85.37027
+IN0340000,Howard County Sheriff's Office,5777,IN,East North Central,Midwest,Region II,HOWARD,County,True,2019-02-01T00:00:00.000Z,40.47628,-86.155525
+IN0340100,Kokomo Police Department,5778,IN,East North Central,Midwest,Region II,HOWARD,City,True,2020-01-01T00:00:00.000Z,40.486435,-86.12997
+IN0340200,Russiaville Police Department,5779,IN,East North Central,Midwest,Region II,HOWARD,City,False,,40.41886,-86.271355
+IN0340500,Indiana University:,28417,IN,East North Central,Midwest,Region II,HOWARD,University or College,True,2021-01-01T00:00:00.000Z,,
+IN0350000,Huntington County Sheriff's Office,5780,IN,East North Central,Midwest,Region II,HUNTINGTON,County,False,2019-06-01T00:00:00.000Z,40.88037,-85.490814
+IN0350100,Huntington Police Department,5781,IN,East North Central,Midwest,Region II,HUNTINGTON,City,True,2020-01-01T00:00:00.000Z,40.880775,-85.49544
+IN0350200,Warren Police Department,25841,IN,East North Central,Midwest,Region II,HUNTINGTON,City,False,,40.826394,-85.478597
+IN0350300,Markle,28854,IN,East North Central,Midwest,Region II,"HUNTINGTON, WELLS",City,True,2019-02-01T00:00:00.000Z,,
+IN0360000,Jackson County Sheriff's Office,5782,IN,East North Central,Midwest,Region II,JACKSON,County,True,2020-07-01T00:00:00.000Z,38.911957,-86.042516
+IN0360100,Brownstown Police Department,5783,IN,East North Central,Midwest,Region II,JACKSON,City,False,,38.879627,-86.04306
+IN0360200,Seymour Police Department,5784,IN,East North Central,Midwest,Region II,JACKSON,City,True,2020-02-01T00:00:00.000Z,38.911957,-86.042516
+IN0370000,Jasper County Sheriff's Office,5785,IN,East North Central,Midwest,Region II,JASPER,County,False,,41.017688,-87.118814
+IN0370100,Rensselaer Police Department,5786,IN,East North Central,Midwest,Region II,JASPER,City,False,,40.93574,-87.15165
+IN0370300,Remington,31455,IN,East North Central,Midwest,Region II,JASPER,City,False,2020-01-01T00:00:00.000Z,,
+IN0380000,Jay County Sheriff's Office,5787,IN,East North Central,Midwest,Region II,JAY,County,True,2022-01-01T00:00:00.000Z,40.432327,-84.979485
+IN0380100,Dunkirk Police Department,5788,IN,East North Central,Midwest,Region II,"BLACKFORD, JAY",City,False,,40.374813,-85.20994
+IN0380200,Portland Police Department,5789,IN,East North Central,Midwest,Region II,JAY,City,False,,40.433407,-85.15029
+IN0390000,Jefferson County Sheriff's Office,5790,IN,East North Central,Midwest,Region II,JEFFERSON,County,False,,38.735718,-85.37574
+IN0390100,Madison Police Department,5791,IN,East North Central,Midwest,Region II,JEFFERSON,City,False,,38.736877,-85.242676
+IN0400000,Jennings County Sheriff's Office,5792,IN,East North Central,Midwest,Region II,JENNINGS,County,True,2021-01-01T00:00:00.000Z,38.996234,-85.628111
+IN0400100,North Vernon Police Department,5793,IN,East North Central,Midwest,Region II,JENNINGS,City,True,2021-01-01T00:00:00.000Z,38.996234,-85.628111
+IN0410000,Johnson County Sheriff's Office,5794,IN,East North Central,Midwest,Region II,JOHNSON,County,True,2018-10-01T00:00:00.000Z,39.477665,-86.08667
+IN0410100,Edinburgh Police Department,5795,IN,East North Central,Midwest,Region II,"BARTHOLOMEW, JOHNSON, SHELBY",City,True,2019-09-01T00:00:00.000Z,39.353203,-85.9678
+IN0410200,Franklin Police Department,5796,IN,East North Central,Midwest,Region II,JOHNSON,City,True,2019-09-01T00:00:00.000Z,39.514023,-86.073074
+IN0410300,Greenwood Police Department,5797,IN,East North Central,Midwest,Region II,JOHNSON,City,True,2020-06-01T00:00:00.000Z,39.61119,-86.103516
+IN0410400,New Whiteland Police Department,5798,IN,East North Central,Midwest,Region II,JOHNSON,City,True,2019-06-01T00:00:00.000Z,39.495986,-86.0946
+IN0410500,Prince's Lakes Police Department,5799,IN,East North Central,Midwest,Region II,JOHNSON,City,True,2021-01-01T00:00:00.000Z,39.495986,-86.0946
+IN0410600,Whiteland,32255,IN,East North Central,Midwest,Region II,JOHNSON,City,True,2020-08-01T00:00:00.000Z,,
+IN0410700,Trafalgar,31457,IN,East North Central,Midwest,Region II,JOHNSON,City,True,2020-07-01T00:00:00.000Z,,
+IN0410800,Bargersville Police Department,5800,IN,East North Central,Midwest,Region II,JOHNSON,City,True,2019-05-01T00:00:00.000Z,39.495986,-86.0946
+IN0420000,Knox County Sheriff's Office,5801,IN,East North Central,Midwest,Region II,KNOX,County,False,,38.643105,-87.52594
+IN0420100,Bicknell Police Department,5802,IN,East North Central,Midwest,Region II,KNOX,City,False,,38.77351,-87.30709
+IN0420200,Vincennes Police Department,5803,IN,East North Central,Midwest,Region II,KNOX,City,True,2019-12-01T00:00:00.000Z,38.67804,-87.52916
+IN0430000,Kosciusko County Sheriff's Office,5804,IN,East North Central,Midwest,Region II,KOSCIUSKO,County,True,2019-07-01T00:00:00.000Z,41.2391,-85.85586
+IN0430100,Warsaw Police Department,5805,IN,East North Central,Midwest,Region II,KOSCIUSKO,City,True,2019-08-01T00:00:00.000Z,41.244293,-85.861575
+IN0430200,Winona Lake Police Department,5806,IN,East North Central,Midwest,Region II,KOSCIUSKO,City,True,2019-07-01T00:00:00.000Z,41.244293,-85.861575
+IN0430300,Syracuse,29715,IN,East North Central,Midwest,Region II,KOSCIUSKO,City,True,2019-08-01T00:00:00.000Z,,
+IN0430600,North Webster,29216,IN,East North Central,Midwest,Region II,KOSCIUSKO,City,True,2019-08-01T00:00:00.000Z,,
+IN0430800,Silver Lake,29217,IN,East North Central,Midwest,Region II,KOSCIUSKO,City,True,2019-07-01T00:00:00.000Z,,
+IN0431000,Claypool,29198,IN,East North Central,Midwest,Region II,KOSCIUSKO,City,True,2019-08-01T00:00:00.000Z,,
+IN0440000,LaGrange County Sheriff's Office,5807,IN,East North Central,Midwest,Region II,LAGRANGE,County,True,2021-01-01T00:00:00.000Z,41.62806,-85.416176
+IN0440600,Prairie Heights Community Schools Corporation,29716,IN,East North Central,Midwest,Region II,LAGRANGE,Other,True,2019-08-01T00:00:00.000Z,,
+IN0450000,Lake County Sheriff's Office,5808,IN,East North Central,Midwest,Region II,LAKE,County,True,2018-12-01T00:00:00.000Z,41.44919,-87.36488
+IN0450100,Cedar Lake Police Department,5809,IN,East North Central,Midwest,Region II,LAKE,City,True,2019-03-01T00:00:00.000Z,41.472239,-87.374337
+IN0450200,Crown Point Police Department,5810,IN,East North Central,Midwest,Region II,LAKE,City,True,2021-04-01T00:00:00.000Z,41.419033,-87.36317
+IN0450300,East Chicago Police Department,5811,IN,East North Central,Midwest,Region II,LAKE,City,True,2020-02-01T00:00:00.000Z,41.472239,-87.374337
+IN0450400,Lake Station Police Department,5812,IN,East North Central,Midwest,Region II,LAKE,City,False,,41.571323,-87.25953
+IN0450500,Gary Police Department,5813,IN,East North Central,Midwest,Region II,LAKE,City,False,,41.601505,-87.34981
+IN0450600,Griffith Police Department,5814,IN,East North Central,Midwest,Region II,LAKE,City,True,2020-04-01T00:00:00.000Z,41.523117,-87.427635
+IN0450700,Hammond Police Department,5815,IN,East North Central,Midwest,Region II,LAKE,City,True,2020-06-01T00:00:00.000Z,41.614895,-87.51721
+IN0450800,Highland Police Department,5816,IN,East North Central,Midwest,Region II,LAKE,City,True,2019-01-01T00:00:00.000Z,41.553314,-87.448364
+IN0450900,Hobart Police Department,5817,IN,East North Central,Midwest,Region II,LAKE,City,True,2019-03-01T00:00:00.000Z,41.472239,-87.374337
+IN0451000,Munster Police Department,5818,IN,East North Central,Midwest,Region II,LAKE,City,True,2019-01-01T00:00:00.000Z,41.560726,-87.5049
+IN0451100,Whiting Police Department,5819,IN,East North Central,Midwest,Region II,LAKE,City,True,2020-01-01T00:00:00.000Z,41.472239,-87.374337
+IN0451200,Lowell Police Department,5820,IN,East North Central,Midwest,Region II,LAKE,City,True,2019-02-01T00:00:00.000Z,41.28989,-87.40668
+IN0451300,Dyer Police Department,5821,IN,East North Central,Midwest,Region II,LAKE,City,True,2019-06-01T00:00:00.000Z,41.493587,-87.52195
+IN0451400,Merrillville Police Department,5822,IN,East North Central,Midwest,Region II,LAKE,City,True,2019-02-01T00:00:00.000Z,41.4781,-87.336006
+IN0451500,St. John Police Department,5823,IN,East North Central,Midwest,Region II,LAKE,City,True,2019-01-01T00:00:00.000Z,41.449944,-87.46898
+IN0451600,Schererville Police Department,5824,IN,East North Central,Midwest,Region II,LAKE,City,True,2019-04-01T00:00:00.000Z,41.492115,-87.45069
+IN0451700,New Chicago Police Department,5825,IN,East North Central,Midwest,Region II,LAKE,City,False,,41.558266,-87.27614
+IN0451800,Indiana University: Northwest,5826,IN,East North Central,Midwest,Region II,LAKE,University or College,True,2021-01-01T00:00:00.000Z,41.556625,-87.336624
+IN045249E,Indiana Harbor Belt Railroad,31620,IN,East North Central,Midwest,Region II,LAKE,Other,True,2019-03-01T00:00:00.000Z,,
+IN0460000,La Porte County Sheriff's Office,5827,IN,East North Central,Midwest,Region II,LA PORTE,County,True,2016-04-01T00:00:00.000Z,41.549013,-86.744739
+IN0460100,La Porte Police Department,5828,IN,East North Central,Midwest,Region II,LA PORTE,City,True,2017-07-01T00:00:00.000Z,41.60687,-86.717415
+IN0460200,Michigan City Police Department,5829,IN,East North Central,Midwest,Region II,LA PORTE,City,True,2017-01-01T00:00:00.000Z,41.720554,-86.9035
+IN0460300,Long Beach Police Department,5830,IN,East North Central,Midwest,Region II,LA PORTE,City,False,,41.74378,-86.849594
+IN0460400,Kingsford Heights Police Department,5831,IN,East North Central,Midwest,Region II,LA PORTE,City,False,,41.549013,-86.744739
+IN0460500,Trail Creek  Police Department,5832,IN,East North Central,Midwest,Region II,LA PORTE,City,False,,41.70277,-86.86354
+IN0460600,Westville Police Department,5833,IN,East North Central,Midwest,Region II,LA PORTE,City,False,2017-05-01T00:00:00.000Z,41.549013,-86.744739
+IN0461100,Kingsbury,28535,IN,East North Central,Midwest,Region II,LA PORTE,City,False,2019-01-01T00:00:00.000Z,,
+IN046139E,Northern Indiana Commuter Transportation District,5835,IN,East North Central,Midwest,Region II,LA PORTE,Other State Agency,False,,41.61242,-87.480736
+IN0461500,La Porte Metro Operations Drug Task Force,27170,IN,East North Central,Midwest,Region II,LA PORTE,Other,False,2017-02-01T00:00:00.000Z,,
+IN0470000,Lawrence County Sheriff's Office,5836,IN,East North Central,Midwest,Region II,LAWRENCE,County,False,,38.86306,-86.48269
+IN0470100,Bedford Police Department,5837,IN,East North Central,Midwest,Region II,LAWRENCE,City,True,2020-08-01T00:00:00.000Z,38.860798,-86.48569
+IN0470200,Mitchell Police Department,5838,IN,East North Central,Midwest,Region II,LAWRENCE,City,False,,38.730087,-86.47108
+IN0480000,Madison County Sheriff's Office,5839,IN,East North Central,Midwest,Region II,MADISON,County,True,2020-05-01T00:00:00.000Z,40.10869,-85.67042
+IN0480100,Alexandria Police Department,5840,IN,East North Central,Midwest,Region II,MADISON,City,False,,40.262653,-85.67318
+IN0480200,Anderson Police Department,5841,IN,East North Central,Midwest,Region II,MADISON,City,True,2020-11-01T00:00:00.000Z,40.105686,-85.67817
+IN0480300,Elwood Police Department,5842,IN,East North Central,Midwest,Region II,"MADISON, TIPTON",City,True,2020-09-01T00:00:00.000Z,40.27503,-85.841736
+IN0480500,Pendleton,33474,IN,East North Central,Midwest,Region II,MADISON,City,True,2021-01-01T00:00:00.000Z,,
+IN0480700,Chesterfield Police Department,5843,IN,East North Central,Midwest,Region II,"DELAWARE, MADISON",City,False,,40.166203,-85.722454
+IN0490100,Beech Grove Police Department,5845,IN,East North Central,Midwest,Region II,MARION,City,True,2019-05-01T00:00:00.000Z,39.782976,-86.135794
+IN0490200,Lawrence Police Department,5846,IN,East North Central,Midwest,Region II,MARION,City,True,2017-01-01T00:00:00.000Z,39.782976,-86.135794
+IN0490300,Speedway Police Department,5847,IN,East North Central,Midwest,Region II,MARION,City,True,2019-06-01T00:00:00.000Z,39.785248,-86.25071
+IN0490400,Indiana University: Indianapolis,5848,IN,East North Central,Midwest,Region II,MARION,University or College,False,,39.774788,-86.182755
+IN0490600,Indianapolis International Airport,5849,IN,East North Central,Midwest,Region II,MARION,Other,True,2018-05-01T00:00:00.000Z,39.782976,-86.135794
+IN0491900,Cumberland Police Department,5850,IN,East North Central,Midwest,Region II,"HANCOCK, MARION",City,True,2019-07-01T00:00:00.000Z,39.822604,-85.772904
+IN0493000,"Secretary of State, Securities Division",29694,IN,East North Central,Midwest,Region II,NOT SPECIFIED,Other State Agency,False,2019-01-01T00:00:00.000Z,,
+IN049359E,Marian University,5851,IN,East North Central,Midwest,Region II,MARION,University or College,True,2020-01-01T00:00:00.000Z,39.814747,-86.20089
+IN049399E,University of Indianapolis,30574,IN,East North Central,Midwest,Region II,MARION,University or College,True,2019-07-01T00:00:00.000Z,,
+IN049409E,Butler University,23204,IN,East North Central,Midwest,Region II,MARION,University or College,False,2018-08-01T00:00:00.000Z,,
+IN0494700,Indiana Gaming Commission,30435,IN,East North Central,Midwest,Region II,NOT SPECIFIED,Other State Agency,True,2020-01-01T00:00:00.000Z,,
+IN0494800,Indiana Office of Inspector General,33304,IN,East North Central,Midwest,Region II,MARION,Other State Agency,True,2020-01-01T00:00:00.000Z,,
+IN0495300,Indianapolis Public Schools,30536,IN,East North Central,Midwest,Region II,MARION,Other,True,2019-07-01T00:00:00.000Z,,
+IN0500000,Marshall County Sheriff's Office,5852,IN,East North Central,Midwest,Region II,MARSHALL,County,False,,41.325003,-86.269036
+IN0500100,Bremen Police Department,5853,IN,East North Central,Midwest,Region II,MARSHALL,City,False,,41.446304,-86.14652
+IN0500200,Plymouth Police Department,5854,IN,East North Central,Midwest,Region II,MARSHALL,City,False,,41.34162,-86.310776
+IN0500500,Culver Police Department,5855,IN,East North Central,Midwest,Region II,MARSHALL,City,False,,41.325003,-86.269036
+IN0500600,Argos,32501,IN,East North Central,Midwest,Region II,MARSHALL,City,False,2019-11-01T00:00:00.000Z,,
+IN0510000,Martin County Sheriff's Office,5856,IN,East North Central,Midwest,Region II,MARTIN,County,False,,38.705322,-86.801847
+IN0510100,Loogootee Police Department,5857,IN,East North Central,Midwest,Region II,MARTIN,City,True,2019-01-01T00:00:00.000Z,38.678627,-86.91553
+IN0520000,Miami County Sheriff's Office,5858,IN,East North Central,Midwest,Region II,MIAMI,County,True,2020-01-01T00:00:00.000Z,40.793068,-86.09387
+IN0520100,Peru Police Department,5859,IN,East North Central,Midwest,Region II,MIAMI,City,False,2020-01-01T00:00:00.000Z,40.752552,-86.06816
+IN0530000,Monroe County Sheriff's Office,5860,IN,East North Central,Midwest,Region II,MONROE,County,True,2019-01-01T00:00:00.000Z,39.16861,-86.534874
+IN0530100,Bloomington Police Department,5861,IN,East North Central,Midwest,Region II,MONROE,City,True,2019-03-01T00:00:00.000Z,39.164577,-86.53207
+IN0530200,Indiana University: Bloomington,5862,IN,East North Central,Midwest,Region II,MONROE,University or College,True,2021-01-01T00:00:00.000Z,39.17892,-86.51533
+IN0530300,Ellettsville Police Department,5863,IN,East North Central,Midwest,Region II,MONROE,City,False,,39.240227,-86.63141
+IN0540000,Montgomery County Sheriff's Office,5864,IN,East North Central,Midwest,Region II,MONTGOMERY,County,True,2019-06-01T00:00:00.000Z,40.040296,-86.892715
+IN0540100,Crawfordsville Police Department,5865,IN,East North Central,Midwest,Region II,MONTGOMERY,City,True,2021-05-01T00:00:00.000Z,40.044224,-86.89985
+IN0550000,Morgan County Sheriff's Office,5866,IN,East North Central,Midwest,Region II,MORGAN,County,False,,39.428463,-86.43792
+IN0550100,Martinsville Police Department,5867,IN,East North Central,Midwest,Region II,MORGAN,City,False,,39.482646,-86.447457
+IN0550200,Mooresville Police Department,5868,IN,East North Central,Midwest,Region II,MORGAN,City,False,,39.612793,-86.37765
+IN0560000,Newton County Sheriff's Office,5869,IN,East North Central,Midwest,Region II,NEWTON,County,False,,40.962399,-87.402172
+IN0570000,Noble County Sheriff's Office,5870,IN,East North Central,Midwest,Region II,NOBLE,County,True,2018-10-01T00:00:00.000Z,41.400565,-85.417697
+IN0570100,Kendallville Police Department,5871,IN,East North Central,Midwest,Region II,NOBLE,City,True,2019-06-01T00:00:00.000Z,41.445343,-85.26603
+IN0570200,Ligonier Police Department,5872,IN,East North Central,Midwest,Region II,NOBLE,City,False,,41.463715,-85.58761
+IN0570300,Albion Police Department,5873,IN,East North Central,Midwest,Region II,NOBLE,City,True,2020-02-01T00:00:00.000Z,41.400565,-85.417697
+IN0580000,Ohio County Sheriff's Office,5874,IN,East North Central,Midwest,Region II,OHIO,County,False,,38.940527,-84.964299
+IN0590000,Orange County Sheriff's Office,5875,IN,East North Central,Midwest,Region II,ORANGE,County,False,,38.556114,-86.466995
+IN0600000,Owen County Sheriff's Office,5877,IN,East North Central,Midwest,Region II,OWEN,County,False,,39.28902,-86.77273
+IN0610000,Parke County Sheriff's Office,5879,IN,East North Central,Midwest,Region II,PARKE,County,False,,39.77425,-87.19695
+IN0620000,Perry County Sheriff's Office,5881,IN,East North Central,Midwest,Region II,PERRY,County,False,,38.081436,-86.62654
+IN0620100,Tell City Police Department,5882,IN,East North Central,Midwest,Region II,PERRY,City,True,2022-01-01T00:00:00.000Z,38.081436,-86.62654
+IN0620200,Cannelton Police Department,5883,IN,East North Central,Midwest,Region II,PERRY,City,False,2016-08-01T00:00:00.000Z,37.91188,-86.7402
+IN0620300,Troy,32498,IN,East North Central,Midwest,Region II,PERRY,City,False,2019-02-01T00:00:00.000Z,,
+IN0630000,Pike County Sheriff's Office,5884,IN,East North Central,Midwest,Region II,PIKE,County,False,,38.489563,-87.282425
+IN0630100,Petersburg Police Department,5885,IN,East North Central,Midwest,Region II,PIKE,City,False,,38.49105,-87.28032
+IN0640000,Porter County Sheriff's Office,5886,IN,East North Central,Midwest,Region II,PORTER,County,True,2020-09-01T00:00:00.000Z,41.444218,-87.027214
+IN0640100,Chesterton Police Department,5887,IN,East North Central,Midwest,Region II,PORTER,City,True,2021-01-01T00:00:00.000Z,41.611656,-87.062904
+IN0640200,Portage Police Department,5888,IN,East North Central,Midwest,Region II,PORTER,City,True,2020-11-01T00:00:00.000Z,41.50992,-87.071309
+IN0640300,Valparaiso Police Department,5889,IN,East North Central,Midwest,Region II,PORTER,City,True,2020-12-01T00:00:00.000Z,41.464615,-87.06096
+IN0640400,Burns Harbor Police Department,5890,IN,East North Central,Midwest,Region II,PORTER,City,False,,41.609596,-87.126076
+IN0640600,Porter Police Department,5891,IN,East North Central,Midwest,Region II,PORTER,City,True,2021-01-01T00:00:00.000Z,41.61601,-87.07242
+IN0640700,Ogden Dunes,29197,IN,East North Central,Midwest,Region II,PORTER,City,True,2019-09-01T00:00:00.000Z,,
+IN0641000,Hebron Police Department,5892,IN,East North Central,Midwest,Region II,PORTER,City,False,,41.50992,-87.071309
+IN0641100,Kouts Police Department,5893,IN,East North Central,Midwest,Region II,PORTER,City,False,,41.50992,-87.071309
+IN0650000,Posey County Sheriff's Office,5894,IN,East North Central,Midwest,Region II,POSEY,County,True,2021-01-01T00:00:00.000Z,37.93618,-87.914764
+IN0650100,Mount Vernon Police Department,5895,IN,East North Central,Midwest,Region II,POSEY,City,True,2021-01-01T00:00:00.000Z,37.93335,-87.89608
+IN0650500,Cynthiana,29718,IN,East North Central,Midwest,Region II,POSEY,City,False,2019-08-01T00:00:00.000Z,,
+IN0660000,Pulaski County Sheriff's Office,5896,IN,East North Central,Midwest,Region II,PULASKI,County,True,2017-09-01T00:00:00.000Z,41.05055,-86.603546
+IN0670000,Putnam County Sheriff's Office,5897,IN,East North Central,Midwest,Region II,PUTNAM,County,False,2020-05-01T00:00:00.000Z,39.665544,-86.853325
+IN0670100,Greencastle Police Department,5898,IN,East North Central,Midwest,Region II,PUTNAM,City,False,,39.638935,-86.865456
+IN067079E,Depauw University,5899,IN,East North Central,Midwest,Region II,PUTNAM,University or College,False,,39.64033,-86.85903
+IN0680000,Randolph County Sheriff's Office,5900,IN,East North Central,Midwest,Region II,RANDOLPH,County,False,,40.170464,-84.98039
+IN0680100,Union City Police Department,5901,IN,East North Central,Midwest,Region II,RANDOLPH,City,False,,40.164174,-85.005481
+IN0680200,Winchester Police Department,5902,IN,East North Central,Midwest,Region II,RANDOLPH,City,False,,40.2377,-84.91944
+IN0680400,Lynn Police Department,5903,IN,East North Central,Midwest,Region II,RANDOLPH,City,False,,40.164174,-85.005481
+IN0690000,Ripley County Sheriff's Office,5904,IN,East North Central,Midwest,Region II,RIPLEY,County,False,,39.10023,-85.260541
+IN0690100,Batesville Police Department,5905,IN,East North Central,Midwest,Region II,"FRANKLIN, RIPLEY",City,True,2019-06-01T00:00:00.000Z,39.296787,-85.22322
+IN0700000,Rush County Sheriff's Office,5906,IN,East North Central,Midwest,Region II,RUSH,County,False,,39.60758,-85.4443
+IN0700100,Rushville Police Department,5907,IN,East North Central,Midwest,Region II,RUSH,City,False,,39.623795,-85.447815
+IN0710000,St. Joseph County Sheriff's Office,5908,IN,East North Central,Midwest,Region II,ST JOSEPH,County,True,2018-10-01T00:00:00.000Z,41.66508,-86.25508
+IN0710100,Mishawaka Police Department,5909,IN,East North Central,Midwest,Region II,ST JOSEPH,City,True,2020-01-01T00:00:00.000Z,41.66217,-86.17931
+IN0710200,South Bend Police Department,5910,IN,East North Central,Midwest,Region II,ST JOSEPH,City,True,2018-08-01T00:00:00.000Z,41.665035,-86.259445
+IN0710300,Walkerton Police Department,5911,IN,East North Central,Midwest,Region II,ST JOSEPH,City,True,2019-04-01T00:00:00.000Z,41.46642,-86.4838
+IN0710500,New Carlisle,30436,IN,East North Central,Midwest,Region II,ST JOSEPH,City,True,2020-02-01T00:00:00.000Z,,
+IN0710600,North Liberty Police Department,5912,IN,East North Central,Midwest,Region II,ST JOSEPH,City,False,,41.617699,-86.288159
+IN0710700,Roseland Police Department,5913,IN,East North Central,Midwest,Region II,ST JOSEPH,City,True,2019-07-01T00:00:00.000Z,41.71583,-86.24552
+IN0710800,Indiana University: South Bend,5914,IN,East North Central,Midwest,Region II,ST JOSEPH,University or College,True,2021-01-01T00:00:00.000Z,41.665787,-86.223076
+IN0710900,Osceola,29234,IN,East North Central,Midwest,Region II,ST JOSEPH,City,True,2019-03-01T00:00:00.000Z,,
+IN0711100,St. Joseph County Airport Authority,5915,IN,East North Central,Midwest,Region II,ST JOSEPH,Other,False,,41.696514,-86.31143
+IN0720000,Scott County Sheriff's Office,5916,IN,East North Central,Midwest,Region II,SCOTT,County,True,2022-01-01T00:00:00.000Z,38.684704,-85.768875
+IN0720100,Scottsburg Police Department,5917,IN,East North Central,Midwest,Region II,SCOTT,City,False,,38.688457,-85.79422
+IN0720200,Austin Police Department,5918,IN,East North Central,Midwest,Region II,SCOTT,City,True,2022-01-01T00:00:00.000Z,38.739536,-85.8028
+IN0730000,Shelby County Sheriff's Office,5919,IN,East North Central,Midwest,Region II,SHELBY,County,True,2020-07-01T00:00:00.000Z,39.52082,-85.778175
+IN0730100,Shelbyville Police Department,5920,IN,East North Central,Midwest,Region II,SHELBY,City,True,2020-08-01T00:00:00.000Z,39.52082,-85.77815
+IN0740000,Spencer County Sheriff's Office,5921,IN,East North Central,Midwest,Region II,SPENCER,County,False,,37.883904,-87.04615
+IN0740100,Rockport,32499,IN,East North Central,Midwest,Region II,SPENCER,City,True,2019-01-01T00:00:00.000Z,,
+IN0740300,Santa Claus,32810,IN,East North Central,Midwest,Region II,SPENCER,City,True,2021-01-01T00:00:00.000Z,,
+IN0740600,Chrisney,29695,IN,East North Central,Midwest,Region II,SPENCER,City,False,2018-10-01T00:00:00.000Z,,
+IN0750000,Starke County Sheriff's Office,5922,IN,East North Central,Midwest,Region II,STARKE,County,True,2019-07-01T00:00:00.000Z,41.298477,-86.622
+IN0750100,Knox Police Department,5923,IN,East North Central,Midwest,Region II,STARKE,City,True,2019-08-01T00:00:00.000Z,41.298363,-86.62329
+IN0750200,North Judson Police Department,5924,IN,East North Central,Midwest,Region II,STARKE,City,False,,41.216045,-86.77538
+IN0760000,Steuben County Sheriff's Office,5925,IN,East North Central,Midwest,Region II,STEUBEN,County,True,2019-08-01T00:00:00.000Z,41.643437,-85.002467
+IN0760100,Angola Police Department,5926,IN,East North Central,Midwest,Region II,STEUBEN,City,True,2019-04-01T00:00:00.000Z,41.63571,-85.00053
+IN0760300,Fremont,32500,IN,East North Central,Midwest,Region II,STEUBEN,City,True,2019-08-01T00:00:00.000Z,,
+IN0760600,Clear Lake,33464,IN,East North Central,Midwest,Region II,STEUBEN,City,True,2021-01-01T00:00:00.000Z,,
+IN0770000,Sullivan County Sheriff's Office,5927,IN,East North Central,Midwest,Region II,SULLIVAN,County,True,2021-06-01T00:00:00.000Z,39.09564,-87.405846
+IN0770100,Sullivan Police Department,5928,IN,East North Central,Midwest,Region II,SULLIVAN,City,False,,39.09577,-87.40839
+IN0770200,Shelburn,25954,IN,East North Central,Midwest,Region II,SULLIVAN,City,False,2019-01-01T00:00:00.000Z,,
+IN0780000,Switzerland County Sheriff's Office,5929,IN,East North Central,Midwest,Region II,SWITZERLAND,County,False,,38.74819,-85.06934
+IN0780100,Vevay,31454,IN,East North Central,Midwest,Region II,SWITZERLAND,City,False,2019-11-01T00:00:00.000Z,,
+IN0790000,Tippecanoe County Sheriff's Office,5930,IN,East North Central,Midwest,Region II,TIPPECANOE,County,True,2021-01-01T00:00:00.000Z,40.44817,-86.88045
+IN0790100,Lafayette Police Department,5931,IN,East North Central,Midwest,Region II,TIPPECANOE,City,True,2021-11-01T00:00:00.000Z,40.41753,-86.89064
+IN0790200,West Lafayette Police Department,5932,IN,East North Central,Midwest,Region II,TIPPECANOE,City,True,2020-11-01T00:00:00.000Z,40.410015,-86.85338
+IN0790300,Purdue University,5933,IN,East North Central,Midwest,Region II,TIPPECANOE,University or College,True,2021-01-01T00:00:00.000Z,40.42592,-86.922325
+IN0790500,Dayton Police Department,23147,IN,East North Central,Midwest,Region II,TIPPECANOE,City,True,2021-02-01T00:00:00.000Z,40.38926,-86.893943
+IN0790600,Clarks Hill Police Department,5934,IN,East North Central,Midwest,Region II,TIPPECANOE,City,False,,40.38926,-86.893943
+IN0800000,Tipton County Sheriff's Office,5935,IN,East North Central,Midwest,Region II,TIPTON,County,False,,40.28091,-86.041565
+IN0800100,Tipton Police Department,5936,IN,East North Central,Midwest,Region II,TIPTON,City,False,,40.282288,-86.03904
+IN0810000,Union  County Sheriff's Office,5937,IN,East North Central,Midwest,Region II,UNION,County,False,,39.635426,-84.92835
+IN0820000,Vanderburgh County Sheriff's Office,5938,IN,East North Central,Midwest,Region II,VANDERBURGH,County,True,2020-06-01T00:00:00.000Z,38.011547,-87.540665
+IN0820100,Evansville Police Department,5939,IN,East North Central,Midwest,Region II,VANDERBURGH,City,True,2020-06-01T00:00:00.000Z,37.97335,-87.568
+IN0820600,Indiana University:,33642,IN,East North Central,Midwest,Region II,VANDERBURGH,University or College,True,2021-01-01T00:00:00.000Z,,
+IN0830000,Vermillion County Sheriff's Office,5940,IN,East North Central,Midwest,Region II,VERMILLION,County,False,,39.854045,-87.462071
+IN0830100,Clinton Police Department,5941,IN,East North Central,Midwest,Region II,VERMILLION,City,False,,39.854045,-87.462071
+IN0840000,Vigo County Sheriff's Office,5942,IN,East North Central,Midwest,Region II,VIGO,County,True,2017-08-01T00:00:00.000Z,39.467476,-87.41535
+IN0840100,Terre Haute Police Department,5943,IN,East North Central,Midwest,Region II,VIGO,City,True,2017-12-01T00:00:00.000Z,39.467537,-87.39904
+IN0840200,West Terre Haute Police Department,5944,IN,East North Central,Midwest,Region II,VIGO,City,False,,39.46546,-87.44884
+IN0840300,Indiana State University,5945,IN,East North Central,Midwest,Region II,VIGO,University or College,True,2021-01-01T00:00:00.000Z,39.46854,-87.410034
+IN0840600,Hulman Regional Airport Authority,29714,IN,East North Central,Midwest,Region II,VIGO,Other,False,2019-05-01T00:00:00.000Z,,
+IN0850000,Wabash County Sheriff's Office,5946,IN,East North Central,Midwest,Region II,WABASH,County,False,,40.843717,-85.795175
+IN0850100,North Manchester Police Department,5947,IN,East North Central,Midwest,Region II,WABASH,City,False,,40.99894,-85.778046
+IN0850200,Wabash Police Department,5948,IN,East North Central,Midwest,Region II,WABASH,City,False,,40.843717,-85.795175
+IN0860000,Warren County Sheriff's Office,5949,IN,East North Central,Midwest,Region II,WARREN,County,False,,40.2884,-87.29324
+IN0870000,Warrick County Sheriff's Office,5950,IN,East North Central,Midwest,Region II,WARRICK,County,True,2021-06-01T00:00:00.000Z,38.097764,-87.272023
+IN0870100,Boonville Police Department,5951,IN,East North Central,Midwest,Region II,WARRICK,City,True,2021-07-01T00:00:00.000Z,38.04901,-87.274055
+IN0880000,Washington County Sheriff's Office,5952,IN,East North Central,Midwest,Region II,WASHINGTON,County,True,2020-07-01T00:00:00.000Z,38.59752,-86.0918
+IN0880100,Salem Police Department,5953,IN,East North Central,Midwest,Region II,WASHINGTON,City,False,,38.600613,-86.104751
+IN0890000,Wayne County Sheriff's Office,5954,IN,East North Central,Midwest,Region II,WAYNE,County,False,,39.863091,-85.006735
+IN0890100,Richmond Police Department,5955,IN,East North Central,Midwest,Region II,WAYNE,City,False,,39.8294,-84.895226
+IN0890200,Cambridge City Police Department,5956,IN,East North Central,Midwest,Region II,WAYNE,City,False,,39.81133,-85.17166
+IN0890400,Hagerstown Police Department,5957,IN,East North Central,Midwest,Region II,WAYNE,City,False,,39.91166,-85.160645
+IN0891100,Indiana University:,28595,IN,East North Central,Midwest,Region II,WAYNE,University or College,True,2021-08-01T00:00:00.000Z,,
+IN0900000,Wells County Sheriff's Office,5958,IN,East North Central,Midwest,Region II,WELLS,County,True,2019-06-01T00:00:00.000Z,40.733032,-85.194336
+IN0900100,Bluffton Police Department,5959,IN,East North Central,Midwest,Region II,WELLS,City,True,2018-12-01T00:00:00.000Z,40.73975,-85.17003
+IN0910000,White County Sheriff's Office,5960,IN,East North Central,Midwest,Region II,WHITE,County,False,,40.75095,-86.864293
+IN0910100,Monticello Police Department,5961,IN,East North Central,Midwest,Region II,WHITE,City,False,,40.75095,-86.864293
+IN0910300,Monon,32495,IN,East North Central,Midwest,Region II,WHITE,City,True,2020-01-01T00:00:00.000Z,,
+IN0920000,Whitley County Sheriff's Office,5962,IN,East North Central,Midwest,Region II,WHITLEY,County,False,,41.155937,-85.48844
+IN0920100,Columbia City Police Department,5963,IN,East North Central,Midwest,Region II,WHITLEY,City,True,2017-03-01T00:00:00.000Z,41.15683,-85.48983
+IN0920300,South Whitley Police Department,5964,IN,East North Central,Midwest,Region II,WHITLEY,City,False,,41.136426,-85.501892
+INIEP0000,Indiana State Excise Police,6057,IN,East North Central,Midwest,Region II,NOT SPECIFIED,Other State Agency,True,2021-01-01T00:00:00.000Z,39.767017,-86.15258
+INIPD0000,Indianapolis Police Department,6058,IN,East North Central,Midwest,Region II,MARION,City,True,2019-01-01T00:00:00.000Z,39.76786,-86.15264
+INISP0000,Indiana State Police,6059,IN,East North Central,Midwest,Region II,NOT SPECIFIED,State Police,True,2013-01-01T00:00:00.000Z,39.76858,-86.16357

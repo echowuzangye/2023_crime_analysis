@@ -1,0 +1,591 @@
+ori,agency_name,agency_id,state_abbr,division_name,region_name,region_desc,county_name,agency_type_name,nibrs,nibrs_start_date,latitude,longitude
+NY0010000,Albany County Sheriff's Office,12938,NY,Middle Atlantic,Northeast,Region I,ALBANY,County,False,,42.639824,-73.96267
+NY0010100,Albany Police Department,12939,NY,Middle Atlantic,Northeast,Region I,ALBANY,City,True,2020-11-01T00:00:00.000Z,42.588272,-73.974015
+NY0010200,Cohoes Police Department,12940,NY,Middle Atlantic,Northeast,Region I,ALBANY,City,False,,42.774536,-73.700066
+NY0010300,Watervliet Police Department,12941,NY,Middle Atlantic,Northeast,Region I,ALBANY,City,False,,42.725674,-73.69997
+NY0012000,Green Island Village Police Department,12942,NY,Middle Atlantic,Northeast,Region I,ALBANY,City,False,,42.74209,-73.69237
+NY0012100,Altamont Village Police Department,12943,NY,Middle Atlantic,Northeast,Region I,ALBANY,City,False,,42.588272,-73.974015
+NY0012500,Menands Village Police Department,12945,NY,Middle Atlantic,Northeast,Region I,ALBANY,City,False,,42.690357,-73.725815
+NY0015100,Bethlehem Town Police Department,12946,NY,Middle Atlantic,Northeast,Region I,ALBANY,City,True,2021-01-01T00:00:00.000Z,42.588272,-73.974015
+NY0015200,Guilderland Town Police Department,12947,NY,Middle Atlantic,Northeast,Region I,ALBANY,City,False,,42.588272,-73.974015
+NY0015300,Colonie Town Police Department,12948,NY,Middle Atlantic,Northeast,Region I,ALBANY,City,True,2021-01-01T00:00:00.000Z,42.588272,-73.974015
+NY0015500,State Park:,29175,NY,Middle Atlantic,Northeast,Region I,NOT SPECIFIED,Other State Agency,False,,,
+NY0015800,Coeymans Town Police Department,12950,NY,Middle Atlantic,Northeast,Region I,ALBANY,City,False,,42.46919,-73.80931
+NY0020000,Allegany County Sheriff's Office,12951,NY,Middle Atlantic,Northeast,Region I,ALLEGANY,County,False,,42.247871,-78.026115
+NY0022000,Alfred Village Police Department,12952,NY,Middle Atlantic,Northeast,Region I,ALLEGANY,City,False,,42.253975,-77.79123
+NY0022100,Amity Town and Belmont Village Police Department,12964,NY,Middle Atlantic,Northeast,Region I,ALLEGANY,City,False,,42.247871,-78.026115
+NY0022200,Andover Village Police Department,12953,NY,Middle Atlantic,Northeast,Region I,ALLEGANY,City,False,,42.247871,-78.026115
+NY0022300,Angelica Village  Police Department,12954,NY,Middle Atlantic,Northeast,Region I,ALLEGANY,City,False,,42.247871,-78.026115
+NY0022400,Bolivar Village Police Department,12955,NY,Middle Atlantic,Northeast,Region I,ALLEGANY,City,False,,42.067944,-78.1674
+NY0022600,Cuba Town Police Department,12957,NY,Middle Atlantic,Northeast,Region I,ALLEGANY,City,False,,42.21543,-78.28183
+NY0022800,Wellsville Village Police Department,12959,NY,Middle Atlantic,Northeast,Region I,ALLEGANY,City,False,,42.11885,-77.94299
+NY0025000,Friendship Town Police Department,12963,NY,Middle Atlantic,Northeast,Region I,ALLEGANY,City,False,,42.247871,-78.026115
+NY0027000,Independence Town Police Department,12966,NY,Middle Atlantic,Northeast,Region I,ALLEGANY,City,False,,42.03696,-77.76822
+NY0030000,Broome County Sheriff's Office,12968,NY,Middle Atlantic,Northeast,Region I,BROOME,County,True,2020-01-01T00:00:00.000Z,42.132046,-75.914276
+NY0030100,Binghamton Police Department,12969,NY,Middle Atlantic,Northeast,Region I,BROOME,City,True,2019-01-01T00:00:00.000Z,42.097076,-75.911995
+NY0030200,Endicott Village Police Department,12970,NY,Middle Atlantic,Northeast,Region I,BROOME,City,True,2019-01-01T00:00:00.000Z,42.161977,-75.830283
+NY0030300,Johnson City Village Police Department,12971,NY,Middle Atlantic,Northeast,Region I,BROOME,City,True,2019-01-01T00:00:00.000Z,42.115253,-75.95462
+NY0032000,Port Dickinson Village Police Department,12973,NY,Middle Atlantic,Northeast,Region I,BROOME,City,False,,42.138203,-75.89554
+NY0036400,Vestal Town Police Department,12976,NY,Middle Atlantic,Northeast,Region I,BROOME,City,True,2019-01-01T00:00:00.000Z,42.161977,-75.830283
+NY0040000,Cattaraugus County Sheriff's Office,12978,NY,Middle Atlantic,Northeast,Region I,CATTARAUGUS,County,True,2020-12-01T00:00:00.000Z,42.25149,-78.80058
+NY0040100,Olean Police Department,12979,NY,Middle Atlantic,Northeast,Region I,CATTARAUGUS,City,True,2021-01-01T00:00:00.000Z,42.077515,-78.42975
+NY0042000,Allegany Village Police Department,12980,NY,Middle Atlantic,Northeast,Region I,CATTARAUGUS,City,False,,42.239169,-78.662421
+NY0042300,Ellicottville Police Department,12981,NY,Middle Atlantic,Northeast,Region I,CATTARAUGUS,City,False,,42.239169,-78.662421
+NY0042400,Franklinville Village Police Department,12982,NY,Middle Atlantic,Northeast,Region I,CATTARAUGUS,City,False,,42.239169,-78.662421
+NY0042600,Cattaraugus Village Police Department,12984,NY,Middle Atlantic,Northeast,Region I,CATTARAUGUS,City,False,,42.329826,-78.86864
+NY0042800,Portville Village Police Department,12985,NY,Middle Atlantic,Northeast,Region I,CATTARAUGUS,City,False,,42.239169,-78.662421
+NY0043300,Salamanca Police Department,12988,NY,Middle Atlantic,Northeast,Region I,CATTARAUGUS,City,False,,42.239169,-78.662421
+NY0049000,State Park: Allegany Region,12991,NY,Middle Atlantic,Northeast,Region I,NOT SPECIFIED,Other State Agency,False,,42.239169,-78.662421
+NY0050000,Cayuga County Sheriff's Office,12992,NY,Middle Atlantic,Northeast,Region I,CAYUGA,County,True,2019-12-01T00:00:00.000Z,42.977413,-76.54245
+NY0050100,Auburn Police Department,12993,NY,Middle Atlantic,Northeast,Region I,CAYUGA,City,True,2020-01-01T00:00:00.000Z,42.934895,-76.56634
+NY0052100,Weedsport Village Police Department,12995,NY,Middle Atlantic,Northeast,Region I,CAYUGA,City,False,,43.047684,-76.56141
+NY0052200,Port Byron Village Police Department,12996,NY,Middle Atlantic,Northeast,Region I,CAYUGA,City,False,,43.008546,-76.574587
+NY0052600,Moravia Village Police Department,12997,NY,Middle Atlantic,Northeast,Region I,CAYUGA,City,False,,43.008546,-76.574587
+NY0060000,Chautauqua County Sheriff's Office,12999,NY,Middle Atlantic,Northeast,Region I,CHAUTAUQUA,County,True,2020-07-01T00:00:00.000Z,42.254875,-79.503944
+NY0060100,Dunkirk Police Department,13000,NY,Middle Atlantic,Northeast,Region I,CHAUTAUQUA,City,True,2020-08-01T00:00:00.000Z,42.304216,-79.407595
+NY0060200,Jamestown Police Department,13001,NY,Middle Atlantic,Northeast,Region I,CHAUTAUQUA,City,True,2019-01-01T00:00:00.000Z,42.096424,-79.236565
+NY0062000,Lakewood-Busti Police Department,13002,NY,Middle Atlantic,Northeast,Region I,CHAUTAUQUA,City,True,2020-07-01T00:00:00.000Z,42.103367,-79.32411
+NY0062900,Fredonia Village Police Department,13009,NY,Middle Atlantic,Northeast,Region I,CHAUTAUQUA,City,True,2020-07-01T00:00:00.000Z,42.440598,-79.33228
+NY0063200,Westfield Village Police Department,13012,NY,Middle Atlantic,Northeast,Region I,CHAUTAUQUA,City,True,2020-08-01T00:00:00.000Z,42.304216,-79.407595
+NY0065200,Carroll Town Police Department,13016,NY,Middle Atlantic,Northeast,Region I,CHAUTAUQUA,City,True,2020-07-01T00:00:00.000Z,42.304216,-79.407595
+NY0065900,Ellicott Town Police Department,13017,NY,Middle Atlantic,Northeast,Region I,CHAUTAUQUA,City,True,2020-07-01T00:00:00.000Z,42.120502,-79.20066
+NY0070000,Chemung County Sheriff's Office,13021,NY,Middle Atlantic,Northeast,Region I,CHEMUNG,County,False,,42.091446,-76.800964
+NY0070100,Elmira Police Department,13022,NY,Middle Atlantic,Northeast,Region I,CHEMUNG,City,False,,42.091324,-76.80329
+NY0072100,Elmira Heights Village Police Department,13023,NY,Middle Atlantic,Northeast,Region I,CHEMUNG,City,False,,42.12821,-76.82175
+NY0072200,Horseheads Village Police Department,13024,NY,Middle Atlantic,Northeast,Region I,CHEMUNG,City,False,,42.15528,-76.747179
+NY0075500,Elmira Town Police Department,13026,NY,Middle Atlantic,Northeast,Region I,CHEMUNG,City,False,,42.077976,-76.84392
+NY0080000,Chenango County Sheriff's Office,13028,NY,Middle Atlantic,Northeast,Region I,CHENANGO,County,False,,42.489732,-75.604905
+NY0082000,Afton Village Police Department,13029,NY,Middle Atlantic,Northeast,Region I,CHENANGO,City,False,,42.489732,-75.604905
+NY0082100,Bainbridge Village Police Department,13030,NY,Middle Atlantic,Northeast,Region I,CHENANGO,City,False,,42.294674,-75.48137
+NY0082200,Greene Village Police Department,13031,NY,Middle Atlantic,Northeast,Region I,CHENANGO,City,False,,42.32981,-75.77092
+NY0082400,Norwich Police Department,13033,NY,Middle Atlantic,Northeast,Region I,CHENANGO,City,True,2021-12-01T00:00:00.000Z,42.53143,-75.52138
+NY0082500,Oxford Village Police Department,13034,NY,Middle Atlantic,Northeast,Region I,CHENANGO,City,False,,42.489732,-75.604905
+NY0082700,Sherburne Village Police Department,13035,NY,Middle Atlantic,Northeast,Region I,CHENANGO,City,False,,42.489732,-75.604905
+NY0082800,New Berlin Town Police Department,13036,NY,Middle Atlantic,Northeast,Region I,CHENANGO,City,False,,42.622704,-75.33214
+NY0090000,Clinton County Sheriff's Office,13038,NY,Middle Atlantic,Northeast,Region I,CLINTON,County,False,,44.719185,-73.468605
+NY0090100,Plattsburgh City Police Department,13039,NY,Middle Atlantic,Northeast,Region I,CLINTON,City,False,,44.692303,-73.45473
+NY0100000,Columbia County Sheriff's Office,13044,NY,Middle Atlantic,Northeast,Region I,COLUMBIA,County,False,,42.249664,-73.75654
+NY0100100,Hudson Police Department,13045,NY,Middle Atlantic,Northeast,Region I,COLUMBIA,City,True,2019-08-01T00:00:00.000Z,42.247728,-73.626803
+NY0100200,Philmont Village Police Department,13046,NY,Middle Atlantic,Northeast,Region I,COLUMBIA,City,False,,42.24936,-73.648186
+NY0100300,Greenport Town Police Department,13047,NY,Middle Atlantic,Northeast,Region I,COLUMBIA,City,False,,42.256104,-73.76002
+NY0102000,Chatham Village Police Department,13051,NY,Middle Atlantic,Northeast,Region I,COLUMBIA,City,False,,42.363182,-73.59556
+NY0102500,Stockport Town Police Department,13053,NY,Middle Atlantic,Northeast,Region I,COLUMBIA,City,False,,42.247728,-73.626803
+NY0110000,Cortland County Sheriff's Office,13056,NY,Middle Atlantic,Northeast,Region I,CORTLAND,County,True,2021-07-01T00:00:00.000Z,42.597927,-76.175285
+NY0110100,Cortland Police Department,13057,NY,Middle Atlantic,Northeast,Region I,CORTLAND,City,True,2021-10-01T00:00:00.000Z,42.599316,-76.1797
+NY0112000,Homer Village Police Department,13058,NY,Middle Atlantic,Northeast,Region I,CORTLAND,City,True,2021-05-01T00:00:00.000Z,42.594039,-76.07624
+NY0120000,Delaware County Sheriff's Office,13061,NY,Middle Atlantic,Northeast,Region I,DELAWARE,County,False,,42.193986,-74.966728
+NY0122100,Delhi Village Police Department,13062,NY,Middle Atlantic,Northeast,Region I,DELAWARE,City,False,,42.193986,-74.966728
+NY0122400,Hancock Village Police Department,13063,NY,Middle Atlantic,Northeast,Region I,DELAWARE,City,False,,41.955193,-75.269455
+NY0122700,Sidney Village Police Department,13064,NY,Middle Atlantic,Northeast,Region I,DELAWARE,City,False,,42.316654,-75.390076
+NY0122900,Walton Village Police Department,13065,NY,Middle Atlantic,Northeast,Region I,DELAWARE,City,False,,42.164715,-75.1354
+NY0124200,Colchester Town Police Department,13066,NY,Middle Atlantic,Northeast,Region I,DELAWARE,City,False,,42.193986,-74.966728
+NY0130000,Dutchess County Sheriff's Office,13067,NY,Middle Atlantic,Northeast,Region I,DUTCHESS,County,True,2021-01-01T00:00:00.000Z,41.710106,-73.920654
+NY0130100,Beacon Police Department,13068,NY,Middle Atlantic,Northeast,Region I,DUTCHESS,City,True,2021-01-01T00:00:00.000Z,41.75501,-73.739951
+NY0130200,Poughkeepsie Police Department,13069,NY,Middle Atlantic,Northeast,Region I,DUTCHESS,City,False,,41.7064,-73.92799
+NY0132000,Fishkill Village Police Department,13072,NY,Middle Atlantic,Northeast,Region I,DUTCHESS,City,True,2021-10-01T00:00:00.000Z,41.53271,-73.90609
+NY0132100,Millerton Village Police Department,25361,NY,Middle Atlantic,Northeast,Region I,DUTCHESS,City,False,,41.75501,-73.739951
+NY0132400,Wappingers Falls Village Police Department,13074,NY,Middle Atlantic,Northeast,Region I,DUTCHESS,City,False,,41.59587,-73.91826
+NY0132500,Red Hook Village Police Department,13075,NY,Middle Atlantic,Northeast,Region I,DUTCHESS,City,False,,41.75501,-73.739951
+NY0132700,Rhinebeck Village Police Department,13077,NY,Middle Atlantic,Northeast,Region I,DUTCHESS,City,False,,41.927055,-73.908806
+NY0132800,Millbrook Village Police Department,13078,NY,Middle Atlantic,Northeast,Region I,DUTCHESS,City,False,,41.75501,-73.739951
+NY0135000,Pine Plains Town Police Department,13079,NY,Middle Atlantic,Northeast,Region I,DUTCHESS,City,False,,41.75501,-73.739951
+NY0136300,Poughkeepsie Town Police Department,13081,NY,Middle Atlantic,Northeast,Region I,DUTCHESS,City,True,2021-01-01T00:00:00.000Z,41.70077,-73.88943
+NY0136400,Fishkill Town Police Department,13082,NY,Middle Atlantic,Northeast,Region I,DUTCHESS,City,False,,41.75501,-73.739951
+NY0136500,Hyde Park Town Police Department,13083,NY,Middle Atlantic,Northeast,Region I,DUTCHESS,City,True,2020-08-01T00:00:00.000Z,41.804367,-73.91172
+NY0136600,East Fishkill Town Police Department,13084,NY,Middle Atlantic,Northeast,Region I,DUTCHESS,City,True,2021-04-01T00:00:00.000Z,41.55363,-73.79471
+NY0139000,State Park: Taconic Region,13086,NY,Middle Atlantic,Northeast,Region I,NOT SPECIFIED,Other State Agency,False,,41.75501,-73.739951
+NY0140000,Erie County Sheriff's Office,13087,NY,Middle Atlantic,Northeast,Region I,ERIE,County,False,,42.752759,-78.778192
+NY0140100,Buffalo Police Department,13088,NY,Middle Atlantic,Northeast,Region I,ERIE,City,True,2020-10-01T00:00:00.000Z,42.965775,-78.74092
+NY0140200,Lackawanna Police Department,13089,NY,Middle Atlantic,Northeast,Region I,ERIE,City,False,,42.825806,-78.82484
+NY0140300,Tonawanda Police Department,13090,NY,Middle Atlantic,Northeast,Region I,ERIE,City,False,,43.018867,-78.886345
+NY0140400,Kenmore Village Police Department,13091,NY,Middle Atlantic,Northeast,Region I,ERIE,City,True,2022-06-01T00:00:00.000Z,42.962654,-78.878716
+NY0142200,East Aurora-Aurora Town Police Department,13093,NY,Middle Atlantic,Northeast,Region I,ERIE,City,False,,42.76101,-76.70471
+NY0142400,Depew Village Police Department,13094,NY,Middle Atlantic,Northeast,Region I,ERIE,City,False,,42.904728,-78.68635
+NY0142600,Gowanda Village Police Department,13096,NY,Middle Atlantic,Northeast,Region I,"CATTARAUGUS, ERIE",City,False,,42.462967,-78.93606
+NY0142900,Blasdell Village Police Department,13099,NY,Middle Atlantic,Northeast,Region I,ERIE,City,False,,42.79794,-78.8298
+NY0143000,Hamburg Village Police Department,13100,NY,Middle Atlantic,Northeast,Region I,ERIE,City,False,,42.71606,-78.83262
+NY0143200,Akron Village Police Department,13102,NY,Middle Atlantic,Northeast,Region I,ERIE,City,False,,43.020176,-78.50191
+NY0143700,Niagara Frontier Transportation Authority,31955,NY,Middle Atlantic,Northeast,Region I,ERIE,Other,False,,,
+NY0145100,Amherst Town Police Department,13103,NY,Middle Atlantic,Northeast,Region I,ERIE,City,False,,43.017994,-78.782845
+NY0145400,Brant Town Police Department,13106,NY,Middle Atlantic,Northeast,Region I,ERIE,City,False,,42.752759,-78.778192
+NY0145500,Cheektowaga Town Police Department,13107,NY,Middle Atlantic,Northeast,Region I,ERIE,City,False,,42.903458,-78.75433
+NY0146000,Orchard Park Town Police Department,13108,NY,Middle Atlantic,Northeast,Region I,ERIE,City,False,,42.7661,-78.74385
+NY0146100,Eden Town Police Department,13109,NY,Middle Atlantic,Northeast,Region I,ERIE,City,False,,42.652393,-78.89419
+NY0146300,Evans Town Police Department,13110,NY,Middle Atlantic,Northeast,Region I,ERIE,City,False,,42.63766,-79.027725
+NY0146500,Hamburg Town Police Department,13112,NY,Middle Atlantic,Northeast,Region I,ERIE,City,False,,42.728985,-78.825615
+NY0146700,Lancaster Town Police Department,13114,NY,Middle Atlantic,Northeast,Region I,ERIE,City,False,,42.929108,-78.622665
+NY0147200,Tonawanda Town Police Department,13116,NY,Middle Atlantic,Northeast,Region I,ERIE,City,False,,42.98086,-78.86628
+NY0147400,West Seneca Town Police Department,13117,NY,Middle Atlantic,Northeast,Region I,ERIE,City,False,,42.832394,-78.753716
+NY0150000,Essex County Sheriff's Office,13119,NY,Middle Atlantic,Northeast,Region I,ESSEX,County,False,,44.108971,-73.777573
+NY0152300,Lake Placid Village Police Department,13121,NY,Middle Atlantic,Northeast,Region I,ESSEX,City,False,,44.108971,-73.777573
+NY0152700,Ticonderoga Town Police Department,13122,NY,Middle Atlantic,Northeast,Region I,ESSEX,City,False,,44.108971,-73.777573
+NY0155100,Moriah Town Police Department,13123,NY,Middle Atlantic,Northeast,Region I,ESSEX,City,False,,44.043102,-73.45808
+NY0160000,Franklin County Sheriff's Office,13126,NY,Middle Atlantic,Northeast,Region I,FRANKLIN,County,False,,44.594376,-74.31067
+NY0162000,Tupper Lake Village Police Department,13127,NY,Middle Atlantic,Northeast,Region I,FRANKLIN,City,False,,44.594376,-74.31067
+NY0162300,Saranac Lake Village Police Department,13128,NY,Middle Atlantic,Northeast,Region I,"ESSEX, FRANKLIN",City,False,,44.326756,-74.131386
+NY0162400,Malone Village Police Department,13129,NY,Middle Atlantic,Northeast,Region I,FRANKLIN,City,False,,44.850082,-74.28859
+NY0170000,Fulton County Sheriff's Office,13131,NY,Middle Atlantic,Northeast,Region I,FULTON,County,False,,43.115609,-74.423678
+NY0170100,Gloversville Police Department,13132,NY,Middle Atlantic,Northeast,Region I,FULTON,City,True,2022-02-01T00:00:00.000Z,43.050793,-74.348816
+NY0170200,Johnstown Police Department,13133,NY,Middle Atlantic,Northeast,Region I,FULTON,City,True,2022-06-01T00:00:00.000Z,43.115609,-74.423678
+NY0172100,Northville Village Police Department,13134,NY,Middle Atlantic,Northeast,Region I,FULTON,City,False,,43.115609,-74.423678
+NY0180000,Genesee County Sheriff's Office,13136,NY,Middle Atlantic,Northeast,Region I,GENESEE,County,True,2019-01-01T00:00:00.000Z,43.012383,-78.2021
+NY0180100,Batavia Police Department,13137,NY,Middle Atlantic,Northeast,Region I,GENESEE,City,True,2020-06-01T00:00:00.000Z,42.998146,-78.18762
+NY0182300,Le Roy Village Police Department,13138,NY,Middle Atlantic,Northeast,Region I,GENESEE,City,True,2021-05-01T00:00:00.000Z,42.97761,-77.988976
+NY0190000,Greene County Sheriff's Office,13140,NY,Middle Atlantic,Northeast,Region I,GREENE,County,False,,42.217846,-73.86338
+NY0192000,Athens Village  Police Department,13141,NY,Middle Atlantic,Northeast,Region I,GREENE,City,False,,42.2625,-73.81121
+NY0192100,Catskill Village Police Department,13142,NY,Middle Atlantic,Northeast,Region I,GREENE,City,False,,42.22232,-73.86779
+NY0192200,Coxsackie Village Police Department,13143,NY,Middle Atlantic,Northeast,Region I,GREENE,City,False,,42.358818,-73.81303
+NY0192500,Windham Town Police Department,13145,NY,Middle Atlantic,Northeast,Region I,GREENE,City,False,,42.286964,-74.149554
+NY0195000,Hunter Town Police Department,13147,NY,Middle Atlantic,Northeast,Region I,GREENE,City,False,,42.286964,-74.149554
+NY0195100,Durham Town Police Department,13148,NY,Middle Atlantic,Northeast,Region I,GREENE,City,False,,42.286964,-74.149554
+NY0195200,Cairo Town Police Department,13149,NY,Middle Atlantic,Northeast,Region I,GREENE,City,False,,42.286964,-74.149554
+NY0200000,Hamilton County Sheriff's Office,13150,NY,Middle Atlantic,Northeast,Region I,HAMILTON,County,False,,43.657879,-74.502456
+NY0205000,Inlet Town Police Department,13151,NY,Middle Atlantic,Northeast,Region I,HAMILTON,City,False,,43.657879,-74.502456
+NY0210000,Herkimer County Sheriff's Office,13152,NY,Middle Atlantic,Northeast,Region I,HERKIMER,County,False,,43.028564,-74.988914
+NY0212100,Frankfort Village Police Department,13153,NY,Middle Atlantic,Northeast,Region I,HERKIMER,City,False,,43.03963,-75.06943
+NY0212200,Ilion Village Police Department,13154,NY,Middle Atlantic,Northeast,Region I,HERKIMER,City,True,2020-12-01T00:00:00.000Z,43.014633,-75.03761
+NY0212300,Mohawk Village Police Department,13155,NY,Middle Atlantic,Northeast,Region I,HERKIMER,City,False,,43.00903,-75.00515
+NY0212400,Herkimer Village Police Department,13156,NY,Middle Atlantic,Northeast,Region I,HERKIMER,City,False,,43.02696,-74.98698
+NY0212500,Dolgeville Village Police Department,13157,NY,Middle Atlantic,Northeast,Region I,"FULTON, HERKIMER",City,False,,43.103516,-74.77017
+NY0212900,Little Falls Police Department,13158,NY,Middle Atlantic,Northeast,Region I,HERKIMER,City,False,,43.04471,-74.85576
+NY0216700,Webb Town Police Department,13160,NY,Middle Atlantic,Northeast,Region I,HERKIMER,City,False,,43.571009,-74.841097
+NY0216800,Frankfort Town Police Department,13161,NY,Middle Atlantic,Northeast,Region I,HERKIMER,City,False,,43.0387,-75.072685
+NY0220000,Jefferson County Sheriff's Office,13162,NY,Middle Atlantic,Northeast,Region I,JEFFERSON,County,True,2020-07-01T00:00:00.000Z,43.995371,-76.053514
+NY0220100,Watertown Police Department,13163,NY,Middle Atlantic,Northeast,Region I,JEFFERSON,City,True,2021-01-01T00:00:00.000Z,43.995371,-76.053514
+NY0222000,Adams Village Police Department,13164,NY,Middle Atlantic,Northeast,Region I,JEFFERSON,City,False,,43.808777,-76.02422
+NY0222100,Alexandria Bay Village Police Department,13165,NY,Middle Atlantic,Northeast,Region I,JEFFERSON,City,False,,43.995371,-76.053514
+NY0222300,Brownville Village  Police Department,13166,NY,Middle Atlantic,Northeast,Region I,JEFFERSON,City,False,,43.981037,-75.89368
+NY0222400,Dexter Village Police Department,13167,NY,Middle Atlantic,Northeast,Region I,JEFFERSON,City,False,,43.995371,-76.053514
+NY0222500,Glen Park Village Police Department,13168,NY,Middle Atlantic,Northeast,Region I,JEFFERSON,City,False,,43.995371,-76.053514
+NY0222600,Cape Vincent Village Police Department,13169,NY,Middle Atlantic,Northeast,Region I,JEFFERSON,City,False,,43.995371,-76.053514
+NY0222700,West Carthage Village Police Department,13170,NY,Middle Atlantic,Northeast,Region I,JEFFERSON,City,False,,43.973236,-75.62325
+NY0222800,Clayton Village Police Department,13171,NY,Middle Atlantic,Northeast,Region I,JEFFERSON,City,False,,43.995371,-76.053514
+NY0223300,Sackets Harbor Village Police Department,13172,NY,Middle Atlantic,Northeast,Region I,JEFFERSON,City,False,,43.995371,-76.053514
+NY0223400,Black River Police Department,13173,NY,Middle Atlantic,Northeast,Region I,JEFFERSON,City,False,,43.995371,-76.053514
+NY0223700,Theresa Village Police Department,13174,NY,Middle Atlantic,Northeast,Region I,JEFFERSON,City,False,,44.213318,-75.79902
+NY0223800,Carthage Village Police Department,13175,NY,Middle Atlantic,Northeast,Region I,JEFFERSON,City,False,,43.97707,-75.60746
+NY0229000,State Park: Thousand Island Region,13179,NY,Middle Atlantic,Northeast,Region I,NOT SPECIFIED,Other State Agency,False,,44.33075,-75.91748
+NY0240000,Lewis County Sheriff's Office,13184,NY,Middle Atlantic,Northeast,Region I,LEWIS,County,True,2021-01-01T00:00:00.000Z,43.782681,-75.44414
+NY0242400,Lowville Village Police Department,13187,NY,Middle Atlantic,Northeast,Region I,LEWIS,City,False,,43.79684,-75.4833
+NY0250000,Livingston County Sheriff's Office,13190,NY,Middle Atlantic,Northeast,Region I,LIVINGSTON,County,True,2021-01-01T00:00:00.000Z,42.800175,-77.81615
+NY0252000,Avon Village Police Department,13191,NY,Middle Atlantic,Northeast,Region I,LIVINGSTON,City,False,,42.727485,-77.769779
+NY0252100,Caledonia Village Police Department,13192,NY,Middle Atlantic,Northeast,Region I,LIVINGSTON,City,False,,42.727485,-77.769779
+NY0252200,Geneseo Village Police Department,13193,NY,Middle Atlantic,Northeast,Region I,LIVINGSTON,City,False,,42.79529,-77.81701
+NY0252600,Mount Morris Village Police Department,13194,NY,Middle Atlantic,Northeast,Region I,LIVINGSTON,City,False,,42.723648,-77.87283
+NY0252700,Dansville Village Police Department,13195,NY,Middle Atlantic,Northeast,Region I,LIVINGSTON,City,False,,42.559494,-77.69501
+NY0256000,Nunda Town and Village Police Department,13197,NY,Middle Atlantic,Northeast,Region I,LIVINGSTON,City,False,,42.727485,-77.769779
+NY0260000,Madison County Sheriff's Office,13198,NY,Middle Atlantic,Northeast,Region I,MADISON,County,False,,42.910026,-75.663575
+NY0260100,Oneida Police Department,13199,NY,Middle Atlantic,Northeast,Region I,MADISON,City,False,,43.09671,-75.65287
+NY0262100,Cazenovia Village Police Department,13200,NY,Middle Atlantic,Northeast,Region I,MADISON,City,False,,42.929863,-75.8523
+NY0262500,Hamilton Village Police Department,13201,NY,Middle Atlantic,Northeast,Region I,MADISON,City,False,,42.826935,-75.54349
+NY0262600,Canastota Village Police Department,13202,NY,Middle Atlantic,Northeast,Region I,MADISON,City,False,,43.081123,-75.750786
+NY0262900,Chittenango Village Police Department,13203,NY,Middle Atlantic,Northeast,Region I,MADISON,City,False,,43.04495,-75.86658
+NY0270000,Monroe County Sheriff's Office,13205,NY,Middle Atlantic,Northeast,Region I,MONROE,County,True,2019-01-01T00:00:00.000Z,43.152992,-77.61453
+NY0270100,Rochester Police Department,13206,NY,Middle Atlantic,Northeast,Region I,MONROE,City,True,2021-02-01T00:00:00.000Z,43.15193,-77.61099
+NY0270200,Irondequoit Town Police Department,13207,NY,Middle Atlantic,Northeast,Region I,MONROE,City,True,2020-06-01T00:00:00.000Z,43.21119,-77.581154
+NY0272400,East Rochester Village Police Department,13209,NY,Middle Atlantic,Northeast,Region I,MONROE,City,True,2020-01-01T00:00:00.000Z,43.11023,-77.49459
+NY0272500,Fairport Village Police Department,13210,NY,Middle Atlantic,Northeast,Region I,MONROE,City,True,2019-11-01T00:00:00.000Z,43.100693,-77.441925
+NY0272800,Brockport Village Police Department,13211,NY,Middle Atlantic,Northeast,Region I,MONROE,City,True,2019-05-01T00:00:00.000Z,43.464475,-77.664656
+NY0275000,Brighton Town Police Department,13212,NY,Middle Atlantic,Northeast,Region I,MONROE,City,True,2020-01-01T00:00:00.000Z,43.126137,-77.574745
+NY0275300,Gates Town Police Department,13213,NY,Middle Atlantic,Northeast,Region I,MONROE,City,True,2021-11-01T00:00:00.000Z,43.149868,-77.69255
+NY0275400,Greece Town Police Department,13214,NY,Middle Atlantic,Northeast,Region I,MONROE,City,True,2019-01-01T00:00:00.000Z,43.260735,-77.665306
+NY0275900,Ogden Town Police Department,13215,NY,Middle Atlantic,Northeast,Region I,MONROE,City,True,2020-01-01T00:00:00.000Z,43.464475,-77.664656
+NY0276700,Webster Town and Village Police Department,13216,NY,Middle Atlantic,Northeast,Region I,MONROE,City,True,2020-01-01T00:00:00.000Z,43.209213,-77.45785
+NY0280000,Montgomery County Sheriff's Office,13218,NY,Middle Atlantic,Northeast,Region I,MONTGOMERY,County,True,2021-01-01T00:00:00.000Z,42.900891,-74.435357
+NY0280100,Amsterdam Police Department,13219,NY,Middle Atlantic,Northeast,Region I,MONTGOMERY,City,False,,42.939663,-74.192474
+NY0282200,Canajoharie Village Police Department,13220,NY,Middle Atlantic,Northeast,Region I,MONTGOMERY,City,False,,42.906868,-74.573845
+NY0282400,Fort Plain Village Police Department,13221,NY,Middle Atlantic,Northeast,Region I,MONTGOMERY,City,False,,42.933716,-74.62485
+NY0282800,St. Johnsville Village Police Department,13222,NY,Middle Atlantic,Northeast,Region I,MONTGOMERY,City,False,,42.900891,-74.435357
+NY0290000,Nassau County Police Department,13223,NY,Middle Atlantic,Northeast,Region I,NASSAU,County,False,,40.73739,-73.63862
+NY0290100,Glen Cove Police Department,13224,NY,Middle Atlantic,Northeast,Region I,NASSAU,City,False,,40.864162,-73.63184
+NY0290200,Long Beach Police Department,13225,NY,Middle Atlantic,Northeast,Region I,NASSAU,City,False,,40.589405,-73.665955
+NY0290300,Floral Park Village Police Department,13226,NY,Middle Atlantic,Northeast,Region I,NASSAU,City,False,,40.723755,-73.70521
+NY0290400,Freeport Village Police Department,13227,NY,Middle Atlantic,Northeast,Region I,NASSAU,City,True,2022-01-01T00:00:00.000Z,40.65861,-73.58728
+NY0290500,Garden City Village Police Department,13228,NY,Middle Atlantic,Northeast,Region I,NASSAU,City,False,,40.726276,-73.63595
+NY0290600,Hempstead Village Police Department,13229,NY,Middle Atlantic,Northeast,Region I,NASSAU,City,True,2021-01-01T00:00:00.000Z,40.70976,-73.62349
+NY0290700,Lynbrook Village Police Department,13230,NY,Middle Atlantic,Northeast,Region I,NASSAU,City,False,,40.65772,-73.674095
+NY0290900,Rockville Centre Village Police Department,13232,NY,Middle Atlantic,Northeast,Region I,NASSAU,City,False,,40.729612,-73.589419
+NY0293300,Great Neck Estates Village Police Department,13256,NY,Middle Atlantic,Northeast,Region I,NASSAU,City,False,,40.789864,-73.73124
+NY0293500,Sands Point Village Police Department,13257,NY,Middle Atlantic,Northeast,Region I,NASSAU,City,False,,40.855755,-73.71583
+NY0293900,Malverne Village Police Department,13258,NY,Middle Atlantic,Northeast,Region I,NASSAU,City,False,,40.729612,-73.589419
+NY0294100,Kensington Village Police Department,13259,NY,Middle Atlantic,Northeast,Region I,NASSAU,City,False,,40.791668,-73.730385
+NY0294300,Old Westbury Village Police Department,13261,NY,Middle Atlantic,Northeast,Region I,NASSAU,City,True,2020-12-01T00:00:00.000Z,40.780228,-73.605354
+NY0294400,Kings Point Village Police Department,13262,NY,Middle Atlantic,Northeast,Region I,NASSAU,City,False,,40.815666,-73.75625
+NY0294700,Centre Island Village Police Department,13263,NY,Middle Atlantic,Northeast,Region I,NASSAU,City,False,,40.914623,-73.52805
+NY0295500,Port Washington Police Department,13265,NY,Middle Atlantic,Northeast,Region I,NASSAU,City,False,,40.823345,-73.68199
+NY0296300,Lake Success Village Police Department,13267,NY,Middle Atlantic,Northeast,Region I,NASSAU,City,False,,40.7677,-73.71991
+NY0297200,Old Brookville Village Police Department,13268,NY,Middle Atlantic,Northeast,Region I,NASSAU,City,False,,40.729612,-73.589419
+NY0298800,Oyster Bay Cove Village Police Department,13270,NY,Middle Atlantic,Northeast,Region I,NASSAU,City,False,,40.729612,-73.589419
+NY0299300,United States Merchant Marine Academy,13271,NY,Middle Atlantic,Northeast,Region I,NASSAU,University or College,False,,40.81241,-73.759125
+NY0299700,Muttontown,35820,NY,Middle Atlantic,Northeast,Region I,NASSAU,City,False,,,
+NY0299800,Brookville,35797,NY,Middle Atlantic,Northeast,Region I,NASSAU,City,False,,,
+NY0303000,New York City Police Department,13274,NY,Middle Atlantic,Northeast,Region I,NOT SPECIFIED,City,False,,40.776557,-73.970174
+NY0303100,State Park: New York City Region,13275,NY,Middle Atlantic,Northeast,Region I,NOT SPECIFIED,Other State Agency,False,,40.776557,-73.970174
+NY0308300,New York City Metropolitan Transportation Authority,13278,NY,Middle Atlantic,Northeast,Region I,NOT SPECIFIED,Other,False,,40.754368,-73.97812
+NY0310000,Niagara County Sheriff's Office,13279,NY,Middle Atlantic,Northeast,Region I,NIAGARA,County,True,2019-05-01T00:00:00.000Z,43.181637,-78.73824
+NY0310100,Lockport Police Department,13280,NY,Middle Atlantic,Northeast,Region I,NIAGARA,City,False,,43.456731,-78.792142
+NY0310200,Niagara Falls Police Department,13281,NY,Middle Atlantic,Northeast,Region I,NIAGARA,City,True,2021-01-01T00:00:00.000Z,43.456731,-78.792142
+NY0310300,North Tonawanda Police Department,13282,NY,Middle Atlantic,Northeast,Region I,NIAGARA,City,True,2020-01-01T00:00:00.000Z,43.02939,-78.86944
+NY0312000,Middleport Village Police Department,13283,NY,Middle Atlantic,Northeast,Region I,NIAGARA,City,False,,43.456731,-78.792142
+NY0312300,Youngstown Village Police Department,13285,NY,Middle Atlantic,Northeast,Region I,NIAGARA,City,True,2020-01-01T00:00:00.000Z,43.456731,-78.792142
+NY0315400,Lewiston Town and Village Police Department,13286,NY,Middle Atlantic,Northeast,Region I,NIAGARA,City,True,2020-01-01T00:00:00.000Z,43.17389,-79.04445
+NY0315500,Niagara Town Police Department,13287,NY,Middle Atlantic,Northeast,Region I,NIAGARA,City,True,2020-01-01T00:00:00.000Z,43.122276,-78.98145
+NY0315900,Somerset Town,29174,NY,Middle Atlantic,Northeast,Region I,NIAGARA,City,True,2020-01-01T00:00:00.000Z,,
+NY0319000,State Park: Niagara Region,13288,NY,Middle Atlantic,Northeast,Region I,NOT SPECIFIED,Other State Agency,False,,43.456731,-78.792142
+NY0320000,Oneida County Sheriff's Office,13289,NY,Middle Atlantic,Northeast,Region I,ONEIDA,County,True,2021-01-01T00:00:00.000Z,43.158234,-75.3763
+NY0320100,Rome Police Department,13290,NY,Middle Atlantic,Northeast,Region I,ONEIDA,City,True,2020-02-01T00:00:00.000Z,43.213676,-75.45473
+NY0320200,Utica Police Department,13291,NY,Middle Atlantic,Northeast,Region I,ONEIDA,City,True,2019-01-01T00:00:00.000Z,43.104015,-75.23255
+NY0322100,Boonville Village Police Department,13292,NY,Middle Atlantic,Northeast,Region I,ONEIDA,City,False,,43.242727,-75.434282
+NY0322300,Camden Village Police Department,13293,NY,Middle Atlantic,Northeast,Region I,ONEIDA,City,False,,43.336124,-75.74451
+NY0322400,Sherrill Police Department,13294,NY,Middle Atlantic,Northeast,Region I,ONEIDA,City,True,2021-09-01T00:00:00.000Z,43.071316,-75.59923
+NY0323100,Vernon Village Police Department,13298,NY,Middle Atlantic,Northeast,Region I,ONEIDA,City,False,,43.242727,-75.434282
+NY0323700,Whitesboro Village Police Department,13299,NY,Middle Atlantic,Northeast,Region I,ONEIDA,City,False,,43.13645,-75.30252
+NY0323800,Yorkville Village Police Department,13300,NY,Middle Atlantic,Northeast,Region I,ONEIDA,City,False,,43.242727,-75.434282
+NY0323900,Oriskany Village Police Department,13301,NY,Middle Atlantic,Northeast,Region I,ONEIDA,City,False,,43.242727,-75.434282
+NY0324000,New York Mills Village Police Department,13302,NY,Middle Atlantic,Northeast,Region I,ONEIDA,City,False,,43.242727,-75.434282
+NY0324100,New Hartford Town and Village Police Department,13303,NY,Middle Atlantic,Northeast,Region I,ONEIDA,City,True,2019-01-01T00:00:00.000Z,43.05529,-75.27844
+NY0325000,Whitestown Town Police Department,13304,NY,Middle Atlantic,Northeast,Region I,ONEIDA,City,False,,43.106163,-75.321625
+NY0325100,Kirkland Town Police Department,13305,NY,Middle Atlantic,Northeast,Region I,ONEIDA,City,False,,43.242727,-75.434282
+NY0330000,Onondaga County Sheriff's Office,13306,NY,Middle Atlantic,Northeast,Region I,ONONDAGA,County,False,,43.047646,-76.147446
+NY0330100,Syracuse Police Department,13307,NY,Middle Atlantic,Northeast,Region I,ONONDAGA,City,False,,43.046753,-76.14747
+NY0332400,Jordan Village Police Department,13309,NY,Middle Atlantic,Northeast,Region I,ONONDAGA,City,False,,43.00653,-76.196117
+NY0332600,Solvay Village Police Department,13310,NY,Middle Atlantic,Northeast,Region I,ONONDAGA,City,False,,43.061012,-76.21294
+NY0332700,Baldwinsville Village Police Department,13311,NY,Middle Atlantic,Northeast,Region I,ONONDAGA,City,False,,43.158607,-76.33341
+NY0332900,Manlius Town Police Department,13313,NY,Middle Atlantic,Northeast,Region I,ONONDAGA,City,False,,43.00653,-76.196117
+NY0333000,Marcellus Village Police Department,13314,NY,Middle Atlantic,Northeast,Region I,ONONDAGA,City,False,,42.98244,-76.341354
+NY0333100,Liverpool Village Police Department,13315,NY,Middle Atlantic,Northeast,Region I,ONONDAGA,City,False,,43.103813,-76.20982
+NY0333200,Skaneateles Village Police Department,13316,NY,Middle Atlantic,Northeast,Region I,ONONDAGA,City,False,,42.945023,-76.432106
+NY0333500,North Syracuse Village Police Department,13318,NY,Middle Atlantic,Northeast,Region I,ONONDAGA,City,False,,43.13237,-76.12807
+NY0335000,Camillus Town and Village Police Department,13319,NY,Middle Atlantic,Northeast,Region I,ONONDAGA,City,False,,43.035553,-76.3154
+NY0335100,Cicero Town Police Department,13320,NY,Middle Atlantic,Northeast,Region I,ONONDAGA,City,False,,43.00653,-76.196117
+NY0335300,Dewitt Town Police Department,13322,NY,Middle Atlantic,Northeast,Region I,ONONDAGA,City,False,,43.00653,-76.196117
+NY0335600,Geddes Town Police Department,13323,NY,Middle Atlantic,Northeast,Region I,ONONDAGA,City,False,,43.060307,-76.21281
+NY0339000,State Park: Central Region,13325,NY,Middle Atlantic,Northeast,Region I,NOT SPECIFIED,Other State Agency,False,,42.99434,-76.09826
+NY0340000,Ontario County Sheriff's Office,13326,NY,Middle Atlantic,Northeast,Region I,ONTARIO,County,False,,42.889885,-77.27641
+NY0340200,Geneva Police Department,13327,NY,Middle Atlantic,Northeast,Region I,ONTARIO,City,False,,42.871147,-76.98003
+NY0342100,Clifton Springs Village Police Department,13328,NY,Middle Atlantic,Northeast,Region I,ONTARIO,City,False,,42.96147,-77.13843
+NY0342500,Phelps Village Police Department,13332,NY,Middle Atlantic,Northeast,Region I,ONTARIO,City,False,,42.95991,-77.06157
+NY0342900,Canandaigua Police Department,13333,NY,Middle Atlantic,Northeast,Region I,ONTARIO,City,False,,42.856695,-77.303277
+NY0350000,Orange County Sheriff's Office,13334,NY,Middle Atlantic,Northeast,Region I,ORANGE,County,False,,41.405544,-74.35576
+NY0350100,Middletown Police Department,13335,NY,Middle Atlantic,Northeast,Region I,ORANGE,City,True,2021-01-01T00:00:00.000Z,41.44597,-74.42122
+NY0350200,Newburgh Police Department,13336,NY,Middle Atlantic,Northeast,Region I,ORANGE,City,False,,41.531647,-74.06472
+NY0352000,Washingtonville Village Police Department,13337,NY,Middle Atlantic,Northeast,Region I,ORANGE,City,False,,41.40241,-74.306252
+NY0352100,Chester Village Police Department,13338,NY,Middle Atlantic,Northeast,Region I,ORANGE,City,True,2021-09-01T00:00:00.000Z,41.362164,-74.27227
+NY0352200,Cornwall-on-Hudson Village Police Department,13339,NY,Middle Atlantic,Northeast,Region I,ORANGE,City,False,,41.439156,-74.02982
+NY0352300,Goshen Village Police Department,13340,NY,Middle Atlantic,Northeast,Region I,ORANGE,City,False,,41.402164,-74.3263
+NY0352400,Highland Falls Village Police Department,13341,NY,Middle Atlantic,Northeast,Region I,ORANGE,City,False,,41.370472,-73.96523
+NY0352600,Monroe Village Police Department,13342,NY,Middle Atlantic,Northeast,Region I,ORANGE,City,False,,41.32736,-74.18705
+NY0352700,Montgomery Village Police Department,13343,NY,Middle Atlantic,Northeast,Region I,ORANGE,City,False,,41.40241,-74.306252
+NY0352800,Walden Village Police Department,13344,NY,Middle Atlantic,Northeast,Region I,ORANGE,City,True,2021-01-01T00:00:00.000Z,41.40241,-74.306252
+NY0353200,Maybrook Village Police Department,13346,NY,Middle Atlantic,Northeast,Region I,ORANGE,City,True,2021-01-01T00:00:00.000Z,41.48338,-74.21824
+NY0353300,Greenwood Lake Village Police Department,13347,NY,Middle Atlantic,Northeast,Region I,ORANGE,City,True,2021-09-01T00:00:00.000Z,41.40241,-74.306252
+NY0353400,Florida Village Police Department,13348,NY,Middle Atlantic,Northeast,Region I,ORANGE,City,False,,41.330868,-74.35646
+NY0353500,Port Jervis Police Department,13349,NY,Middle Atlantic,Northeast,Region I,ORANGE,City,True,2021-01-01T00:00:00.000Z,41.374706,-74.691216
+NY0353600,Tuxedo Park Village Police Department,13350,NY,Middle Atlantic,Northeast,Region I,ORANGE,City,False,,41.40241,-74.306252
+NY0353700,Harriman Village Police Department,13351,NY,Middle Atlantic,Northeast,Region I,ORANGE,City,False,,41.40241,-74.306252
+NY0355000,Mount Hope Town Police Department,13352,NY,Middle Atlantic,Northeast,Region I,ORANGE,City,False,,41.40241,-74.306252
+NY0355200,Cornwall Town Police Department,13353,NY,Middle Atlantic,Northeast,Region I,ORANGE,City,False,,41.439156,-74.02982
+NY0355800,Highlands Town Police Department,13354,NY,Middle Atlantic,Northeast,Region I,ORANGE,City,False,,41.40241,-74.306252
+NY0356300,Newburgh Town Police Department,13355,NY,Middle Atlantic,Northeast,Region I,ORANGE,City,False,,41.531647,-74.06472
+NY0356500,Tuxedo Town Police Department,13356,NY,Middle Atlantic,Northeast,Region I,ORANGE,City,False,,41.40241,-74.306252
+NY0356700,New Windsor Town Police Department,13357,NY,Middle Atlantic,Northeast,Region I,ORANGE,City,False,,41.48312,-74.0622
+NY0356900,Woodbury Town Police Department,13358,NY,Middle Atlantic,Northeast,Region I,ORANGE,City,False,,41.40241,-74.306252
+NY0357000,Warwick Town Police Department,13359,NY,Middle Atlantic,Northeast,Region I,ORANGE,City,False,,41.40241,-74.306252
+NY0357100,Deerpark Town Police Department,13360,NY,Middle Atlantic,Northeast,Region I,ORANGE,City,True,2021-01-01T00:00:00.000Z,41.40241,-74.306252
+NY0357300,Blooming Grove Town Police Department,13361,NY,Middle Atlantic,Northeast,Region I,ORANGE,City,False,,41.40241,-74.306252
+NY0357400,Montgomery Town Police Department,13362,NY,Middle Atlantic,Northeast,Region I,ORANGE,City,False,,41.52123,-74.19974
+NY0357600,Crawford Town Police Department,13364,NY,Middle Atlantic,Northeast,Region I,ORANGE,City,False,,41.40241,-74.306252
+NY0357700,Chester Town Police Department,13365,NY,Middle Atlantic,Northeast,Region I,ORANGE,City,False,,41.34125,-74.2756
+NY0357800,Wallkill Town Police Department,13366,NY,Middle Atlantic,Northeast,Region I,ORANGE,City,False,,41.40241,-74.306252
+NY0358100,Goshen Town Police Department,13367,NY,Middle Atlantic,Northeast,Region I,ORANGE,City,True,2020-11-01T00:00:00.000Z,41.39594,-74.35012
+NY0360000,Orleans County Sheriff's Office,13368,NY,Middle Atlantic,Northeast,Region I,ORLEANS,County,False,,43.502287,-78.229726
+NY0362000,Albion Village Police Department,13369,NY,Middle Atlantic,Northeast,Region I,ORLEANS,City,False,,43.246365,-78.19221
+NY0362100,Holley Village Police Department,13370,NY,Middle Atlantic,Northeast,Region I,ORLEANS,City,False,,43.22434,-78.02505
+NY0362200,Medina Village Police Department,13371,NY,Middle Atlantic,Northeast,Region I,ORLEANS,City,False,,43.218803,-78.386894
+NY0370000,Oswego County Sheriff's Office,13374,NY,Middle Atlantic,Northeast,Region I,OSWEGO,County,True,2021-01-01T00:00:00.000Z,43.461443,-76.209258
+NY0370100,Fulton City Police Department,13375,NY,Middle Atlantic,Northeast,Region I,OSWEGO,City,False,2021-01-01T00:00:00.000Z,43.32085,-76.41618
+NY0370200,Oswego City Police Department,13376,NY,Middle Atlantic,Northeast,Region I,OSWEGO,City,True,2021-01-01T00:00:00.000Z,43.461443,-76.209258
+NY0372300,Central Square Village Police Department,13378,NY,Middle Atlantic,Northeast,Region I,OSWEGO,City,False,,43.461443,-76.209258
+NY0372600,Pulaski Village Police Department,13380,NY,Middle Atlantic,Northeast,Region I,OSWEGO,City,False,,43.461443,-76.209258
+NY0372900,Phoenix Village Police Department,13381,NY,Middle Atlantic,Northeast,Region I,OSWEGO,City,False,,43.23015,-76.29938
+NY0380000,Otsego County Sheriff's Office,13384,NY,Middle Atlantic,Northeast,Region I,OTSEGO,County,True,2022-01-01T00:00:00.000Z,42.597073,-74.933784
+NY0380100,Oneonta City Police Department,13385,NY,Middle Atlantic,Northeast,Region I,OTSEGO,City,True,2020-09-01T00:00:00.000Z,42.451134,-75.0639
+NY0382400,Cooperstown Village Police Department,13387,NY,Middle Atlantic,Northeast,Region I,OTSEGO,City,False,,42.69997,-74.92187
+NY0390000,Putnam County Sheriff's Office,13391,NY,Middle Atlantic,Northeast,Region I,PUTNAM,County,False,,41.427322,-73.67724
+NY0392000,Cold Spring Village Police Department,13393,NY,Middle Atlantic,Northeast,Region I,PUTNAM,City,False,,41.418026,-73.95797
+NY0392200,Brewster Police Department,13395,NY,Middle Atlantic,Northeast,Region I,PUTNAM,City,False,,41.394382,-73.618515
+NY0395000,Carmel Town Police Department,13396,NY,Middle Atlantic,Northeast,Region I,PUTNAM,City,True,2020-01-01T00:00:00.000Z,41.37683,-73.7241
+NY0395100,Kent Town Police Department,13397,NY,Middle Atlantic,Northeast,Region I,PUTNAM,City,False,,41.47284,-73.66805
+NY0410000,Rensselaer County Sheriff's Office,13403,NY,Middle Atlantic,Northeast,Region I,RENSSELAER,County,False,,42.70896,-73.70169
+NY0410100,Rensselaer City Police Department,13404,NY,Middle Atlantic,Northeast,Region I,RENSSELAER,City,False,,42.638588,-73.747215
+NY0410200,Troy Police Department,13405,NY,Middle Atlantic,Northeast,Region I,RENSSELAER,City,False,,42.729664,-73.68714
+NY0412000,Hoosick Falls Village Police Department,13407,NY,Middle Atlantic,Northeast,Region I,RENSSELAER,City,False,,42.90078,-73.350586
+NY0412100,Nassau Village Police Department,13408,NY,Middle Atlantic,Northeast,Region I,RENSSELAER,City,False,,42.710421,-73.513845
+NY0415200,East Greenbush Town Police Department,13410,NY,Middle Atlantic,Northeast,Region I,RENSSELAER,City,False,,42.61729,-73.73202
+NY0415300,North Greenbush Town Police Department,13411,NY,Middle Atlantic,Northeast,Region I,RENSSELAER,City,False,,42.686752,-73.68143
+NY0415400,Schodack Town Police Department,13412,NY,Middle Atlantic,Northeast,Region I,RENSSELAER,City,False,,42.710421,-73.513845
+NY0430000,Rockland County Sheriff's Office,13419,NY,Middle Atlantic,Northeast,Region I,ROCKLAND,County,True,2021-01-01T00:00:00.000Z,41.147655,-73.99469
+NY0432500,Piermont Village Police Department,13425,NY,Middle Atlantic,Northeast,Region I,ROCKLAND,City,True,2020-01-01T00:00:00.000Z,41.040302,-73.91618
+NY0432800,Spring Valley Village Police Department,13427,NY,Middle Atlantic,Northeast,Region I,ROCKLAND,City,True,2019-05-01T00:00:00.000Z,41.121002,-74.04268
+NY0432900,Suffern Village Police Department,13428,NY,Middle Atlantic,Northeast,Region I,ROCKLAND,City,True,2022-05-01T00:00:00.000Z,41.113567,-74.14971
+NY0435000,Clarkstown Town Police Department,13430,NY,Middle Atlantic,Northeast,Region I,ROCKLAND,City,True,2019-11-01T00:00:00.000Z,41.14642,-73.988495
+NY0435100,Haverstraw Town Police Department,13431,NY,Middle Atlantic,Northeast,Region I,ROCKLAND,City,True,2022-07-01T00:00:00.000Z,41.202034,-73.994125
+NY0435200,Orangetown Town Police Department,13432,NY,Middle Atlantic,Northeast,Region I,ROCKLAND,City,True,2019-01-01T00:00:00.000Z,41.044815,-73.966
+NY0435300,Ramapo Town Police Department,13433,NY,Middle Atlantic,Northeast,Region I,ROCKLAND,City,False,,41.112587,-74.13757
+NY0435400,Stony Point Town Police Department,13434,NY,Middle Atlantic,Northeast,Region I,ROCKLAND,City,True,2020-01-01T00:00:00.000Z,41.227478,-73.9944
+NY0439000,State Park: Palisades Region,13436,NY,Middle Atlantic,Northeast,Region I,NOT SPECIFIED,Other State Agency,False,,41.154639,-74.024645
+NY0440000,St. Lawrence County Sheriff's Office,13437,NY,Middle Atlantic,Northeast,Region I,ST LAWRENCE,County,True,2020-01-01T00:00:00.000Z,44.488112,-75.074311
+NY0440100,Ogdensburg Police Department,13438,NY,Middle Atlantic,Northeast,Region I,ST LAWRENCE,City,True,2020-07-01T00:00:00.000Z,44.69654,-75.47554
+NY0440200,Massena Village Police Department,13439,NY,Middle Atlantic,Northeast,Region I,ST LAWRENCE,City,True,2020-12-01T00:00:00.000Z,44.93134,-74.89285
+NY0442000,Canton Village Police Department,13440,NY,Middle Atlantic,Northeast,Region I,ST LAWRENCE,City,True,2020-07-01T00:00:00.000Z,44.596363,-75.157295
+NY0442300,Gouverneur Village Police Department,13441,NY,Middle Atlantic,Northeast,Region I,ST LAWRENCE,City,True,2020-10-01T00:00:00.000Z,44.488112,-75.074311
+NY0442800,Norwood Village  Police Department,13442,NY,Middle Atlantic,Northeast,Region I,ST LAWRENCE,City,False,,44.488112,-75.074311
+NY0442900,Potsdam Village Police Department,13443,NY,Middle Atlantic,Northeast,Region I,ST LAWRENCE,City,True,2019-11-01T00:00:00.000Z,44.488112,-75.074311
+NY0445100,Norfolk Town  Police Department,13445,NY,Middle Atlantic,Northeast,Region I,ST LAWRENCE,City,False,,44.488112,-75.074311
+NY0450000,Saratoga County Sheriff's Office,13446,NY,Middle Atlantic,Northeast,Region I,SARATOGA,County,True,2019-05-01T00:00:00.000Z,43.017933,-73.872955
+NY0450100,Saratoga Springs Police Department,13447,NY,Middle Atlantic,Northeast,Region I,SARATOGA,City,False,,43.083195,-73.7844
+NY0452000,Ballston Spa Village Police Department,13448,NY,Middle Atlantic,Northeast,Region I,SARATOGA,City,False,,43.001907,-73.85091
+NY0452300,Mechanicville Police Department,13450,NY,Middle Atlantic,Northeast,Region I,SARATOGA,City,False,,42.9038,-73.68571
+NY0452400,South Glens Falls Village Police Department,13451,NY,Middle Atlantic,Northeast,Region I,SARATOGA,City,False,,43.295177,-73.6358
+NY0452900,State Park: Saratoga/Capital Region,13453,NY,Middle Atlantic,Northeast,Region I,NOT SPECIFIED,Other State Agency,False,,43.062622,-73.7828
+NY0456800,Waterford Town and Village Police Department,13456,NY,Middle Atlantic,Northeast,Region I,SARATOGA,City,False,,42.79027,-73.67855
+NY0457000,Stillwater Town Police Department,13457,NY,Middle Atlantic,Northeast,Region I,SARATOGA,City,False,,43.106135,-73.855387
+NY0460000,Schenectady County Sheriff's Office,13459,NY,Middle Atlantic,Northeast,Region I,SCHENECTADY,County,False,,42.809704,-73.93967
+NY0460100,Schenectady Police Department,13460,NY,Middle Atlantic,Northeast,Region I,SCHENECTADY,City,True,2021-01-01T00:00:00.000Z,42.814327,-73.93844
+NY0462000,Scotia Village Police Department,13461,NY,Middle Atlantic,Northeast,Region I,SCHENECTADY,City,False,,42.827026,-73.963905
+NY0465100,Glenville Town Police Department,13462,NY,Middle Atlantic,Northeast,Region I,SCHENECTADY,City,False,,42.86895,-73.931786
+NY0465200,Niskayuna Town Police Department,13463,NY,Middle Atlantic,Northeast,Region I,SCHENECTADY,City,False,,42.818302,-73.88601
+NY0465400,Rotterdam Town Police Department,13464,NY,Middle Atlantic,Northeast,Region I,SCHENECTADY,City,True,2022-01-01T00:00:00.000Z,42.817539,-74.043548
+NY0470000,Schoharie County Sheriff's Office,13465,NY,Middle Atlantic,Northeast,Region I,SCHOHARIE,County,True,2022-01-01T00:00:00.000Z,42.591294,-74.438172
+NY0472000,Cobleskill Village Police Department,13466,NY,Middle Atlantic,Northeast,Region I,SCHOHARIE,City,False,,42.591294,-74.438172
+NY0472400,Schoharie Village Police Department,13469,NY,Middle Atlantic,Northeast,Region I,SCHOHARIE,City,False,,42.591294,-74.438172
+NY0480000,Schuyler County Sheriff's Office,13471,NY,Middle Atlantic,Northeast,Region I,SCHUYLER,County,True,2021-11-01T00:00:00.000Z,42.376373,-76.87096
+NY0482100,Watkins Glen Village Police Department,13472,NY,Middle Atlantic,Northeast,Region I,SCHUYLER,City,False,,42.380924,-76.87368
+NY0490000,Seneca County Sheriff's Office,13473,NY,Middle Atlantic,Northeast,Region I,SENECA,County,True,2020-09-01T00:00:00.000Z,42.782294,-76.827088
+NY0490100,Seneca Falls Town Police Department,23153,NY,Middle Atlantic,Northeast,Region I,SENECA,City,True,2020-08-01T00:00:00.000Z,42.782294,-76.827088
+NY0492000,Interlaken Village Police Department,13474,NY,Middle Atlantic,Northeast,Region I,SENECA,City,False,,42.782294,-76.827088
+NY0492100,Waterloo Village Police Department,13475,NY,Middle Atlantic,Northeast,Region I,SENECA,City,True,2020-06-01T00:00:00.000Z,42.782294,-76.827088
+NY0500000,Steuben County Sheriff's Office,13478,NY,Middle Atlantic,Northeast,Region I,STEUBEN,County,True,2021-09-01T00:00:00.000Z,42.34924,-77.2951
+NY0500100,Corning Police Department,13479,NY,Middle Atlantic,Northeast,Region I,STEUBEN,City,False,,42.266725,-77.385525
+NY0500200,Hornell Police Department,13480,NY,Middle Atlantic,Northeast,Region I,STEUBEN,City,False,,42.324493,-77.66153
+NY0502000,Addison Town and Village Police Department,13481,NY,Middle Atlantic,Northeast,Region I,STEUBEN,City,False,,42.10307,-77.23801
+NY0502200,Bath Village Police Department,13483,NY,Middle Atlantic,Northeast,Region I,STEUBEN,City,False,,42.335793,-77.31812
+NY0502400,Canisteo Village Police Department,13484,NY,Middle Atlantic,Northeast,Region I,STEUBEN,City,False,,42.272625,-77.60589
+NY0502500,Cohocton Town Police Department,13485,NY,Middle Atlantic,Northeast,Region I,STEUBEN,City,False,,42.266725,-77.385525
+NY0502600,Painted Post Village Police Department,13486,NY,Middle Atlantic,Northeast,Region I,STEUBEN,City,False,,42.266725,-77.385525
+NY0502800,Hammondsport Village Police Department,13487,NY,Middle Atlantic,Northeast,Region I,STEUBEN,City,False,,42.266725,-77.385525
+NY0502900,Wayland Village Police Department,13488,NY,Middle Atlantic,Northeast,Region I,STEUBEN,City,False,,42.56781,-77.59157
+NY0510000,Suffolk County Sheriff's Office,13496,NY,Middle Atlantic,Northeast,Region I,SUFFOLK,County,False,,40.943554,-72.692218
+NY0510100,Suffolk County Police Department,13497,NY,Middle Atlantic,Northeast,Region I,SUFFOLK,County,False,,40.943554,-72.692218
+NY0512000,Amityville Village Police Department,13507,NY,Middle Atlantic,Northeast,Region I,SUFFOLK,City,False,,40.67743,-73.41865
+NY0512400,Sag Harbor Village Police Department,13508,NY,Middle Atlantic,Northeast,Region I,SUFFOLK,City,False,,40.943554,-72.692218
+NY0512500,Northport Village Police Department,13509,NY,Middle Atlantic,Northeast,Region I,SUFFOLK,City,False,,40.900837,-73.3474
+NY0512600,Southampton Village Police Department,13510,NY,Middle Atlantic,Northeast,Region I,SUFFOLK,City,False,,40.943554,-72.692218
+NY0513200,East Hampton Village Police Department,13513,NY,Middle Atlantic,Northeast,Region I,SUFFOLK,City,False,,41.002808,-72.16744
+NY0513300,Ocean Beach Village Police Department,13514,NY,Middle Atlantic,Northeast,Region I,SUFFOLK,City,False,,40.943554,-72.692218
+NY0513600,Huntington Bay Village Police Department,13515,NY,Middle Atlantic,Northeast,Region I,SUFFOLK,City,False,,40.897408,-73.41339
+NY0513700,Lloyd Harbor Village Police Department,13516,NY,Middle Atlantic,Northeast,Region I,SUFFOLK,City,False,,40.893555,-73.45264
+NY0513900,Quogue Village Police Department,13517,NY,Middle Atlantic,Northeast,Region I,SUFFOLK,City,False,,40.943554,-72.692218
+NY0514000,Westhampton Beach Village Police Department,13518,NY,Middle Atlantic,Northeast,Region I,SUFFOLK,City,False,,40.81428,-72.646545
+NY0514100,Nissequogue Village Police Department,13519,NY,Middle Atlantic,Northeast,Region I,SUFFOLK,City,False,,40.943554,-72.692218
+NY0514400,Asharoken Village Police Department,13520,NY,Middle Atlantic,Northeast,Region I,SUFFOLK,City,False,,40.918556,-73.35144
+NY0514600,Head of the Harbor Village Police Department,13521,NY,Middle Atlantic,Northeast,Region I,SUFFOLK,City,False,,40.88701,-73.15881
+NY0515200,East Hampton Town Police Department,13522,NY,Middle Atlantic,Northeast,Region I,SUFFOLK,City,False,,40.96728,-72.17503
+NY0515500,Riverhead Town Police Department,13523,NY,Middle Atlantic,Northeast,Region I,SUFFOLK,City,False,,40.92219,-72.653984
+NY0515600,Shelter Island Town Police Department,13524,NY,Middle Atlantic,Northeast,Region I,SUFFOLK,City,False,,40.943554,-72.692218
+NY0515800,Southampton Town Police Department,13525,NY,Middle Atlantic,Northeast,Region I,SUFFOLK,City,False,,40.884583,-72.5349
+NY0515900,Southold Town Police Department,13526,NY,Middle Atlantic,Northeast,Region I,SUFFOLK,City,True,2019-08-01T00:00:00.000Z,40.943554,-72.692218
+NY0519000,State Park: Long Island Region,13529,NY,Middle Atlantic,Northeast,Region I,NOT SPECIFIED,Other State Agency,False,,40.737644,-73.34626
+NY0520000,Sullivan County Sheriff's Office,13530,NY,Middle Atlantic,Northeast,Region I,SULLIVAN,County,False,,41.720176,-74.76468
+NY0522000,Liberty Village Police Department,13531,NY,Middle Atlantic,Northeast,Region I,SULLIVAN,City,False,,41.804783,-74.74745
+NY0522200,Monticello Village Police Department,13532,NY,Middle Atlantic,Northeast,Region I,SULLIVAN,City,False,,41.720176,-74.76468
+NY0522300,Woodridge Village Police Department,13533,NY,Middle Atlantic,Northeast,Region I,SULLIVAN,City,False,,41.720176,-74.76468
+NY0525400,Fallsburg Town Police Department,13535,NY,Middle Atlantic,Northeast,Region I,SULLIVAN,City,False,,41.720176,-74.76468
+NY0530000,Tioga County Sheriff's Office,13538,NY,Middle Atlantic,Northeast,Region I,TIOGA,County,True,2022-07-01T00:00:00.000Z,42.178057,-76.297456
+NY0532000,Waverly Village Police Department,13539,NY,Middle Atlantic,Northeast,Region I,TIOGA,City,True,2022-05-01T00:00:00.000Z,42.008163,-76.529106
+NY0532400,Owego Village Police Department,13543,NY,Middle Atlantic,Northeast,Region I,TIOGA,City,False,,42.104965,-76.26314
+NY0540000,Tompkins County Sheriff's Office,13545,NY,Middle Atlantic,Northeast,Region I,TOMPKINS,County,False,,42.495815,-76.46919
+NY0540100,Ithaca Police Department,13546,NY,Middle Atlantic,Northeast,Region I,TOMPKINS,City,False,,42.453003,-76.473481
+NY054029E,Ithaca College,13696,NY,Middle Atlantic,Northeast,Region I,TOMPKINS,University or College,False,,42.421062,-76.50125
+NY054119E,Cornell University,13695,NY,Middle Atlantic,Northeast,Region I,TOMPKINS,University or College,True,2019-08-01T00:00:00.000Z,,
+NY0542000,Dryden Village Police Department,13547,NY,Middle Atlantic,Northeast,Region I,TOMPKINS,City,False,,42.453003,-76.473481
+NY0542200,Groton Village Police Department,13549,NY,Middle Atlantic,Northeast,Region I,TOMPKINS,City,False,,42.59068,-76.36532
+NY0542400,Trumansburg Village Police Department,13550,NY,Middle Atlantic,Northeast,Region I,TOMPKINS,City,False,,42.453003,-76.473481
+NY0542500,Cayuga Heights Village Police Department,13551,NY,Middle Atlantic,Northeast,Region I,TOMPKINS,City,False,,42.469223,-76.47913
+NY0549000,State Park: Finger Lakes Region,13552,NY,Middle Atlantic,Northeast,Region I,NOT SPECIFIED,Other State Agency,False,,42.453003,-76.473481
+NY0550000,Ulster County Sheriff's Office,13553,NY,Middle Atlantic,Northeast,Region I,ULSTER,County,True,2021-01-01T00:00:00.000Z,41.947216,-74.265458
+NY0550100,Kingston Police Department,13554,NY,Middle Atlantic,Northeast,Region I,ULSTER,City,False,,41.947216,-74.265458
+NY0550300,Ulster Regional Gang Enforcement Narcotics Team,13556,NY,Middle Atlantic,Northeast,Region I,ULSTER,Other,True,2021-01-01T00:00:00.000Z,41.912647,-74.01875
+NY0552600,Ellenville Village Police Department,13559,NY,Middle Atlantic,Northeast,Region I,ULSTER,City,False,2020-07-01T00:00:00.000Z,41.947216,-74.265458
+NY0552700,New Paltz Town and Village Police Department,13560,NY,Middle Atlantic,Northeast,Region I,ULSTER,City,True,2021-01-01T00:00:00.000Z,41.947216,-74.265458
+NY0555600,Lloyd Town Police Department,13561,NY,Middle Atlantic,Northeast,Region I,ULSTER,City,True,2020-09-01T00:00:00.000Z,41.719204,-73.965546
+NY0555800,Marlborough Town Police Department,13562,NY,Middle Atlantic,Northeast,Region I,ULSTER,City,True,2021-08-01T00:00:00.000Z,41.947216,-74.265458
+NY0556100,Plattekill Town Police Department,13564,NY,Middle Atlantic,Northeast,Region I,ULSTER,City,True,2020-08-01T00:00:00.000Z,41.947216,-74.265458
+NY0556600,Woodstock Town Police Department,13565,NY,Middle Atlantic,Northeast,Region I,ULSTER,City,True,2021-01-01T00:00:00.000Z,41.947216,-74.265458
+NY0558000,Saugerties Town Police Department,13566,NY,Middle Atlantic,Northeast,Region I,ULSTER,City,True,2021-01-01T00:00:00.000Z,42.081314,-73.958374
+NY0558100,Shandaken Town Police Department,13567,NY,Middle Atlantic,Northeast,Region I,ULSTER,City,True,2020-06-01T00:00:00.000Z,41.947216,-74.265458
+NY0559100,Rosendale Town Police Department,13568,NY,Middle Atlantic,Northeast,Region I,ULSTER,City,True,2021-01-01T00:00:00.000Z,41.947216,-74.265458
+NY0559500,Ulster Town Police Department,13569,NY,Middle Atlantic,Northeast,Region I,ULSTER,City,True,2021-01-01T00:00:00.000Z,41.947216,-74.265458
+NY0559700,Olive Town Police Department,13571,NY,Middle Atlantic,Northeast,Region I,ULSTER,City,False,2020-06-01T00:00:00.000Z,41.947216,-74.265458
+NY0559900,Shawangunk Town Police Department,13573,NY,Middle Atlantic,Northeast,Region I,ULSTER,City,True,2020-09-01T00:00:00.000Z,41.947216,-74.265458
+NY0560000,Warren County Sheriff's Office,13574,NY,Middle Atlantic,Northeast,Region I,WARREN,County,True,2021-01-01T00:00:00.000Z,43.555105,-73.838139
+NY0560100,Glens Falls Police Department,13575,NY,Middle Atlantic,Northeast,Region I,WARREN,City,True,2020-07-01T00:00:00.000Z,43.31059,-73.6439
+NY0565000,Bolton Town Police Department,13577,NY,Middle Atlantic,Northeast,Region I,WARREN,City,False,,43.555105,-73.838139
+NY0570000,Washington County Sheriff's Office,13581,NY,Middle Atlantic,Northeast,Region I,WASHINGTON,County,True,2022-11-01T00:00:00.000Z,43.280876,-73.58645
+NY0572100,Cambridge Village Police Department,13582,NY,Middle Atlantic,Northeast,Region I,WASHINGTON,City,False,,43.036777,-73.37807
+NY0572200,Greenwich Village Police Department,13583,NY,Middle Atlantic,Northeast,Region I,WASHINGTON,City,False,,43.091846,-73.50392
+NY0572400,Fort Edward Village Police Department,13584,NY,Middle Atlantic,Northeast,Region I,WASHINGTON,City,False,2021-06-01T00:00:00.000Z,43.312377,-73.439428
+NY0572500,Granville Village Police Department,13585,NY,Middle Atlantic,Northeast,Region I,WASHINGTON,City,False,,43.312377,-73.439428
+NY0572600,Hudson Falls Village Police Department,13586,NY,Middle Atlantic,Northeast,Region I,WASHINGTON,City,False,,43.312377,-73.439428
+NY0572800,Whitehall Village Police Department,13588,NY,Middle Atlantic,Northeast,Region I,WASHINGTON,City,False,,43.312377,-73.439428
+NY0580000,Wayne County Sheriff's Office,13589,NY,Middle Atlantic,Northeast,Region I,WAYNE,County,False,,43.458758,-77.063164
+NY0582000,Newark Village Police Department,13590,NY,Middle Atlantic,Northeast,Region I,WAYNE,City,False,,43.045876,-77.0914
+NY0582100,Wolcott Village Police Department,13591,NY,Middle Atlantic,Northeast,Region I,WAYNE,City,False,,43.458758,-77.063164
+NY0582200,Clyde Village Police Department,13592,NY,Middle Atlantic,Northeast,Region I,WAYNE,City,False,,43.458758,-77.063164
+NY0582500,Palmyra Village Police Department,13594,NY,Middle Atlantic,Northeast,Region I,WAYNE,City,False,,43.063538,-77.23607
+NY0582800,Sodus Village Police Department,13595,NY,Middle Atlantic,Northeast,Region I,WAYNE,City,False,,43.23527,-77.06209
+NY0582900,Sodus Point Village Police Department,13596,NY,Middle Atlantic,Northeast,Region I,WAYNE,City,False,,43.458758,-77.063164
+NY0583000,Macedon Town and Village Police Department,13597,NY,Middle Atlantic,Northeast,Region I,WAYNE,City,False,,43.066544,-77.36103
+NY0590000,Westchester Public Safety County Sheriff's Office,13601,NY,Middle Atlantic,Northeast,Region I,WESTCHESTER,County,False,,41.09963,-73.81091
+NY0590100,Peekskill Police Department,13602,NY,Middle Atlantic,Northeast,Region I,WESTCHESTER,City,False,,41.29041,-73.92195
+NY0590200,White Plains Police Department,13603,NY,Middle Atlantic,Northeast,Region I,WESTCHESTER,City,False,,41.029545,-73.771935
+NY0590300,Mount Vernon Police Department,13604,NY,Middle Atlantic,Northeast,Region I,WESTCHESTER,City,False,,40.912704,-73.8375
+NY0590400,New Rochelle Police Department,13605,NY,Middle Atlantic,Northeast,Region I,WESTCHESTER,City,True,2020-01-01T00:00:00.000Z,41.15277,-73.745912
+NY0590500,Ossining Village Police Department,13606,NY,Middle Atlantic,Northeast,Region I,WESTCHESTER,City,False,,41.158268,-73.863884
+NY0590600,Port Chester Village Police Department,13607,NY,Middle Atlantic,Northeast,Region I,WESTCHESTER,City,False,,41.00708,-73.65825
+NY0590700,Yonkers Police Department,13608,NY,Middle Atlantic,Northeast,Region I,WESTCHESTER,City,True,2020-12-01T00:00:00.000Z,40.92953,-73.89687
+NY0590800,Rye Police Department,13609,NY,Middle Atlantic,Northeast,Region I,WESTCHESTER,City,False,,41.15277,-73.745912
+NY0590900,Mamaroneck Village Police Department,13610,NY,Middle Atlantic,Northeast,Region I,WESTCHESTER,City,False,,41.15277,-73.745912
+NY0591000,Scarsdale Village Police Department,13611,NY,Middle Atlantic,Northeast,Region I,WESTCHESTER,City,True,2021-01-01T00:00:00.000Z,41.005074,-73.785225
+NY0592100,Croton-on-Hudson Village Police Department,13614,NY,Middle Atlantic,Northeast,Region I,WESTCHESTER,City,False,,41.208473,-73.88717
+NY0592200,Bronxville Village Police Department,13615,NY,Middle Atlantic,Northeast,Region I,WESTCHESTER,City,False,,41.15277,-73.745912
+NY0592300,Tuckahoe Village Police Department,13616,NY,Middle Atlantic,Northeast,Region I,WESTCHESTER,City,False,,40.95008,-73.8268
+NY0592400,Ardsley Village Police Department,13617,NY,Middle Atlantic,Northeast,Region I,WESTCHESTER,City,False,,41.011612,-73.84646
+NY0592500,Dobbs Ferry Village Police Department,13618,NY,Middle Atlantic,Northeast,Region I,WESTCHESTER,City,False,,41.015167,-73.87486
+NY0592600,Hastings-on-Hudson Village Police Department,13619,NY,Middle Atlantic,Northeast,Region I,WESTCHESTER,City,False,,40.995667,-73.88313
+NY0592700,Irvington Village Police Department,13620,NY,Middle Atlantic,Northeast,Region I,WESTCHESTER,City,False,,41.0392,-73.86781
+NY0592800,Tarrytown Village Police Department,13621,NY,Middle Atlantic,Northeast,Region I,WESTCHESTER,City,True,2021-01-01T00:00:00.000Z,41.07594,-73.86303
+NY0592900,Larchmont Village Police Department,13622,NY,Middle Atlantic,Northeast,Region I,WESTCHESTER,City,False,,41.15277,-73.745912
+NY0593100,Briarcliff Manor Village Police Department,13623,NY,Middle Atlantic,Northeast,Region I,WESTCHESTER,City,False,,41.14998,-73.83011
+NY0593200,Sleepy Hollow Village Police Department,13624,NY,Middle Atlantic,Northeast,Region I,WESTCHESTER,City,False,,41.085026,-73.86
+NY0593300,Pleasantville Village Police Department,13625,NY,Middle Atlantic,Northeast,Region I,WESTCHESTER,City,False,,41.134453,-73.79186
+NY0593500,Pelham Village Police Department,13626,NY,Middle Atlantic,Northeast,Region I,WESTCHESTER,City,False,,40.911274,-73.809685
+NY0593700,Pelham Manor Village Police Department,13628,NY,Middle Atlantic,Northeast,Region I,WESTCHESTER,City,False,,40.890064,-73.80414
+NY0593900,Elmsford Village Police Department,13629,NY,Middle Atlantic,Northeast,Region I,WESTCHESTER,City,False,,41.15277,-73.745912
+NY0594100,Buchanan Village Police Department,13630,NY,Middle Atlantic,Northeast,Region I,WESTCHESTER,City,False,,41.26186,-73.938286
+NY0595000,Bedford Town Police Department,13631,NY,Middle Atlantic,Northeast,Region I,WESTCHESTER,City,True,2020-12-01T00:00:00.000Z,41.239838,-73.69817
+NY0595200,Eastchester Town Police Department,13632,NY,Middle Atlantic,Northeast,Region I,WESTCHESTER,City,False,,40.956276,-73.81135
+NY0595300,Greenburgh Town Police Department,13633,NY,Middle Atlantic,Northeast,Region I,WESTCHESTER,City,True,2019-04-01T00:00:00.000Z,41.0404,-73.78661
+NY0595400,Harrison Town Police Department,13634,NY,Middle Atlantic,Northeast,Region I,WESTCHESTER,City,False,,40.99811,-73.72359
+NY0595500,Lewisboro Town Police Department,13635,NY,Middle Atlantic,Northeast,Region I,WESTCHESTER,City,False,,41.15277,-73.745912
+NY0595600,Mamaroneck Town Police Department,13636,NY,Middle Atlantic,Northeast,Region I,WESTCHESTER,City,False,,40.94287,-73.740265
+NY0595700,Mount Pleasant Town Police Department,13637,NY,Middle Atlantic,Northeast,Region I,WESTCHESTER,City,False,,41.15277,-73.745912
+NY0595800,New Castle Town Police Department,13638,NY,Middle Atlantic,Northeast,Region I,WESTCHESTER,City,False,,41.165226,-73.768295
+NY0595900,North Castle Town Police Department,13639,NY,Middle Atlantic,Northeast,Region I,WESTCHESTER,City,False,,41.124985,-73.71375
+NY0596300,Pound Ridge Town Police Department,13640,NY,Middle Atlantic,Northeast,Region I,WESTCHESTER,City,False,,41.15277,-73.745912
+NY0596800,Yorktown Town Police Department,13641,NY,Middle Atlantic,Northeast,Region I,WESTCHESTER,City,True,2021-01-01T00:00:00.000Z,41.28067,-73.792404
+NY0597200,Rye Brook Village Police Department,13642,NY,Middle Atlantic,Northeast,Region I,WESTCHESTER,City,False,,41.029926,-73.670715
+NY0600000,Wyoming County Sheriff's Office,13647,NY,Middle Atlantic,Northeast,Region I,WYOMING,County,True,2021-02-01T00:00:00.000Z,42.743763,-78.1326
+NY0602000,Arcade Village Police Department,13648,NY,Middle Atlantic,Northeast,Region I,WYOMING,City,True,2020-10-01T00:00:00.000Z,42.535408,-78.42481
+NY0602100,Attica Village Police Department,13649,NY,Middle Atlantic,Northeast,Region I,"GENESEE, WYOMING",City,False,,42.862885,-78.28045
+NY0602300,Perry Village Police Department,13650,NY,Middle Atlantic,Northeast,Region I,WYOMING,City,False,,42.701363,-78.228567
+NY0602700,Warsaw Village Police Department,13651,NY,Middle Atlantic,Northeast,Region I,WYOMING,City,False,,42.701363,-78.228567
+NY0609000,State Park: Genesee Region,13652,NY,Middle Atlantic,Northeast,Region I,NOT SPECIFIED,Other State Agency,False,,42.57181,-78.05198
+NY0610000,Yates County Sheriff's Office,13653,NY,Middle Atlantic,Northeast,Region I,YATES,County,True,2021-02-01T00:00:00.000Z,42.66487,-77.05609
+NY0612000,Penn Yan Village Police Department,13654,NY,Middle Atlantic,Northeast,Region I,YATES,City,False,,42.638237,-77.104324
+NY112WN00,New York City Department of Environmental Police: Delaware County,13660,NY,Middle Atlantic,Northeast,Region I,DELAWARE,Other,False,,42.193986,-74.966728
+NY152WN00,New York City Department of Environmental Police: Sullivan County,13663,NY,Middle Atlantic,Northeast,Region I,SULLIVAN,Other,False,,41.720176,-74.76468
+NY153WN00,"New York City Department of Environmental Protection Police: Westchester County, Hillview",25749,NY,Middle Atlantic,Northeast,Region I,WESTCHESTER,Other,False,,,
+NY154WN00,New York City Department of Environmental Protection Police: Schoharie County,25743,NY,Middle Atlantic,Northeast,Region I,SCHOHARIE,Other,False,,,
+NY155WN00,New York City Department of Environmental Police: Ulster County,13664,NY,Middle Atlantic,Northeast,Region I,ULSTER,Other,False,,41.947216,-74.265458
+NY159WN00,"New York City Department of Environmental Police: Westchester County, Croton-Kensico",13665,NY,Middle Atlantic,Northeast,Region I,WESTCHESTER,Other,False,,41.076023,-73.8118
+NY201UN00,State University of New York: Albany,13666,NY,Middle Atlantic,Northeast,Region I,ALBANY,University or College,False,,42.588272,-73.974015
+NY202UN00,State University of New York Agricultural and Technical College: Alfred,13668,NY,Middle Atlantic,Northeast,Region I,ALLEGANY,University or College,False,,42.247871,-78.026115
+NY203UN00,State University of New York: Binghamton,13669,NY,Middle Atlantic,Northeast,Region I,BROOME,University or College,False,,42.161977,-75.830283
+NY206UN00,State University of New York College: Fredonia,13670,NY,Middle Atlantic,Northeast,Region I,CHAUTAUQUA,University or College,True,2020-07-01T00:00:00.000Z,42.304216,-79.407595
+NY209UN00,State University of New York College: Plattsburgh,13671,NY,Middle Atlantic,Northeast,Region I,CLINTON,University or College,False,,44.752712,-73.705643
+NY211UC00,State University of New York College: Cortland,13672,NY,Middle Atlantic,Northeast,Region I,CORTLAND,University or College,False,,42.594039,-76.07624
+NY212UN00,State University of New York College: Technology,13673,NY,Middle Atlantic,Northeast,Region I,DELAWARE,University or College,False,,42.193986,-74.966728
+NY214UB00,State University of New York: Buffalo,13675,NY,Middle Atlantic,Northeast,Region I,ERIE,University or College,True,2021-06-01T00:00:00.000Z,42.752759,-78.778192
+NY214UC00,State University of New York College: Buffalo,13676,NY,Middle Atlantic,Northeast,Region I,ERIE,University or College,True,2021-01-01T00:00:00.000Z,42.752759,-78.778192
+NY223UN00,State University of New York: Downstate Medical Center,13677,NY,Middle Atlantic,Northeast,Region I,KINGS,University or College,False,,40.635133,-73.950777
+NY225UN00,State University of New York College: Geneseo,13678,NY,Middle Atlantic,Northeast,Region I,LIVINGSTON,University or College,True,2021-01-01T00:00:00.000Z,42.727485,-77.769779
+NY226UN00,State University of New York Agricultural and Technical College: Morrisville,13679,NY,Middle Atlantic,Northeast,Region I,MADISON,University or College,True,2022-05-01T00:00:00.000Z,42.910026,-75.663575
+NY227UN00,State University of New York College: Brockport,13680,NY,Middle Atlantic,Northeast,Region I,MONROE,University or College,True,2020-10-01T00:00:00.000Z,43.464475,-77.664656
+NY229UN00,State University of New York College: Old Westbury,13681,NY,Middle Atlantic,Northeast,Region I,NASSAU,University or College,False,,40.729612,-73.589419
+NY230UN00,State University of New York College: Optometry,13682,NY,Middle Atlantic,Northeast,Region I,NEW YORK,University or College,True,2021-01-01T00:00:00.000Z,40.776557,-73.970174
+NY232UN00,State University of New York College: Utica-Rome,13683,NY,Middle Atlantic,Northeast,Region I,ONEIDA,University or College,True,2020-07-01T00:00:00.000Z,43.242727,-75.434282
+NY233UE00,State University of New York College: Environmental Science and Forestry,13684,NY,Middle Atlantic,Northeast,Region I,ONONDAGA,University or College,False,,43.033867,-76.1392
+NY233UM00,State University of New York: Upstate Medical Center,13685,NY,Middle Atlantic,Northeast,Region I,ONONDAGA,University or College,False,,43.00653,-76.196117
+NY237UN00,State University of New York College: Oswego,13687,NY,Middle Atlantic,Northeast,Region I,OSWEGO,University or College,True,2020-10-01T00:00:00.000Z,43.461443,-76.209258
+NY238UN00,State University of New York College: Oneonta,13688,NY,Middle Atlantic,Northeast,Region I,OTSEGO,University or College,False,,42.629776,-75.028841
+NY244UK00,State University of New York Agricultural and Technical College: Canton,13690,NY,Middle Atlantic,Northeast,Region I,ST LAWRENCE,University or College,False,,44.488112,-75.074311
+NY244UP00,State University of New York College: Potsdam,13691,NY,Middle Atlantic,Northeast,Region I,ST LAWRENCE,University or College,False,,44.488112,-75.074311
+NY247UN00,State University of New York Agricultural and Technical College: Cobleskill,13692,NY,Middle Atlantic,Northeast,Region I,SCHOHARIE,University or College,False,,42.591294,-74.438172
+NY251UF00,State University of New York Agricultural and Technical College: Farmingdale,13693,NY,Middle Atlantic,Northeast,Region I,SUFFOLK,University or College,True,2020-10-01T00:00:00.000Z,40.943554,-72.692218
+NY251US00,State University of New York: Stony Brook,13694,NY,Middle Atlantic,Northeast,Region I,SUFFOLK,University or College,True,2021-01-01T00:00:00.000Z,40.943554,-72.692218
+NY255UN00,State University of New York College: New Paltz,13697,NY,Middle Atlantic,Northeast,Region I,ULSTER,University or College,True,2021-01-01T00:00:00.000Z,41.947216,-74.265458
+NY259UN00,State University of New York College: Purchase,13698,NY,Middle Atlantic,Northeast,Region I,WESTCHESTER,University or College,False,,41.15277,-73.745912
+NY262UN00,State University of New York: Maritime College,13699,NY,Middle Atlantic,Northeast,Region I,BRONX,University or College,False,,40.848711,-73.852939
+NY301SG00,State Police: Albany County,13700,NY,Middle Atlantic,Northeast,Region I,ALBANY,State Police,False,,42.716103,-73.75535
+NY302SA00,State Police: Allegany County,13703,NY,Middle Atlantic,Northeast,Region I,ALLEGANY,State Police,False,,43.029232,-78.19006
+NY303SC00,State Police: Broome County,13705,NY,Middle Atlantic,Northeast,Region I,BROOME,State Police,False,,42.161977,-75.830283
+NY304SA00,State Police: Cattaraugus County,13707,NY,Middle Atlantic,Northeast,Region I,CATTARAUGUS,State Police,False,,43.029232,-78.19006
+NY305SE00,State Police: Cayuga County,13709,NY,Middle Atlantic,Northeast,Region I,CAYUGA,State Police,False,,43.008546,-76.574587
+NY306SA00,State Police: Chautauqua County,13712,NY,Middle Atlantic,Northeast,Region I,CHAUTAUQUA,State Police,False,,43.029232,-78.19006
+NY307SE00,State Police: Chemung County,13715,NY,Middle Atlantic,Northeast,Region I,CHEMUNG,State Police,False,,42.957077,-77.34294
+NY308SC00,State Police: Chenango County,13717,NY,Middle Atlantic,Northeast,Region I,CHENANGO,State Police,False,,42.489732,-75.604905
+NY309SB00,State Police: Clinton County,13719,NY,Middle Atlantic,Northeast,Region I,CLINTON,State Police,False,,44.752712,-73.705643
+NY310SK00,State Police: Columbia County,13721,NY,Middle Atlantic,Northeast,Region I,COLUMBIA,State Police,False,,42.247728,-73.626803
+NY311SC00,State Police: Cortland County,13724,NY,Middle Atlantic,Northeast,Region I,CORTLAND,State Police,False,,42.594039,-76.07624
+NY312SC00,State Police: Delaware County,13726,NY,Middle Atlantic,Northeast,Region I,DELAWARE,State Police,False,,42.193986,-74.966728
+NY313SK00,State Police: Dutchess County,13728,NY,Middle Atlantic,Northeast,Region I,DUTCHESS,State Police,False,,41.75501,-73.739951
+NY314SA00,State Police: Erie County,13731,NY,Middle Atlantic,Northeast,Region I,ERIE,State Police,False,,43.029232,-78.19006
+NY315SB00,State Police: Essex County,13734,NY,Middle Atlantic,Northeast,Region I,ESSEX,State Police,False,,44.108971,-73.777573
+NY316SB00,State Police: Franklin County,13736,NY,Middle Atlantic,Northeast,Region I,FRANKLIN,State Police,False,,44.594376,-74.31067
+NY317SG00,State Police: Fulton County,13738,NY,Middle Atlantic,Northeast,Region I,FULTON,State Police,False,,42.716103,-73.75535
+NY318SA00,State Police: Genesee County,13740,NY,Middle Atlantic,Northeast,Region I,GENESEE,State Police,False,,43.029232,-78.19007
+NY319SF00,State Police: Greene County,13743,NY,Middle Atlantic,Northeast,Region I,GREENE,State Police,False,,42.286964,-74.149554
+NY320SG00,State Police: Hamilton County,13747,NY,Middle Atlantic,Northeast,Region I,HAMILTON,State Police,False,,42.716103,-73.75535
+NY321SD00,State Police: Herkimer County,13749,NY,Middle Atlantic,Northeast,Region I,HERKIMER,State Police,False,,43.571009,-74.841097
+NY322SD00,State Police: Jefferson County,13752,NY,Middle Atlantic,Northeast,Region I,JEFFERSON,State Police,False,,43.995371,-76.053514
+NY324SD00,State Police: Lewis County,13755,NY,Middle Atlantic,Northeast,Region I,LEWIS,State Police,False,,43.782681,-75.44414
+NY325SE00,State Police: Livingston County,13757,NY,Middle Atlantic,Northeast,Region I,LIVINGSTON,State Police,False,,42.957077,-77.34294
+NY326SD00,State Police: Madison County,13759,NY,Middle Atlantic,Northeast,Region I,MADISON,State Police,False,,42.910026,-75.663575
+NY327SE00,State Police: Monroe County,13762,NY,Middle Atlantic,Northeast,Region I,MONROE,State Police,False,,42.957077,-77.34294
+NY328SG00,State Police: Montgomery County,13765,NY,Middle Atlantic,Northeast,Region I,MONTGOMERY,State Police,False,,42.716103,-73.75535
+NY329SL00,State Police: Nassau County,13768,NY,Middle Atlantic,Northeast,Region I,NASSAU,State Police,False,,40.724537,-73.42363
+NY330SS00,State Police: New York County,13772,NY,Middle Atlantic,Northeast,Region I,NEW YORK,State Police,False,,40.776557,-73.970174
+NY331SA00,State Police: Niagara County,13773,NY,Middle Atlantic,Northeast,Region I,NIAGARA,State Police,False,,43.029232,-78.19006
+NY332SD00,State Police: Oneida County,13776,NY,Middle Atlantic,Northeast,Region I,ONEIDA,State Police,False,,43.242727,-75.434282
+NY333SD00,State Police: Onondaga County,13779,NY,Middle Atlantic,Northeast,Region I,ONONDAGA,State Police,False,,43.00653,-76.196117
+NY334SE00,State Police: Ontario County,13782,NY,Middle Atlantic,Northeast,Region I,ONTARIO,State Police,False,,42.957077,-77.34294
+NY335SF00,State Police: Orange County,13785,NY,Middle Atlantic,Northeast,Region I,ORANGE,State Police,False,,42.957077,-77.34294
+NY336SA00,State Police: Orleans County,13788,NY,Middle Atlantic,Northeast,Region I,ORLEANS,State Police,False,,43.029232,-78.19006
+NY337SD00,State Police: Oswego County,13791,NY,Middle Atlantic,Northeast,Region I,OSWEGO,State Police,False,,43.461443,-76.209258
+NY338SC00,State Police: Otsego County,13794,NY,Middle Atlantic,Northeast,Region I,OTSEGO,State Police,False,,42.629776,-75.028841
+NY339SK00,State Police: Putnam County,13796,NY,Middle Atlantic,Northeast,Region I,PUTNAM,State Police,False,,41.427904,-73.743882
+NY341SG00,State Police: Rensselaer County,13800,NY,Middle Atlantic,Northeast,Region I,RENSSELAER,State Police,False,,42.716103,-73.75535
+NY343SF00,State Police: Rockland County,13804,NY,Middle Atlantic,Northeast,Region I,ROCKLAND,State Police,False,,41.154639,-74.024645
+NY344SB00,State Police: St. Lawrence County,13807,NY,Middle Atlantic,Northeast,Region I,ST LAWRENCE,State Police,False,,44.488112,-75.074311
+NY345SG00,State Police: Saratoga County,13809,NY,Middle Atlantic,Northeast,Region I,SARATOGA,State Police,False,,42.716103,-73.75535
+NY346SG00,State Police: Schenectady County,13812,NY,Middle Atlantic,Northeast,Region I,SCHENECTADY,State Police,False,,42.716103,-73.75535
+NY347SG00,State Police: Schoharie County,13815,NY,Middle Atlantic,Northeast,Region I,SCHOHARIE,State Police,False,,42.716103,-73.75535
+NY348SE00,State Police: Schuyler County,13817,NY,Middle Atlantic,Northeast,Region I,SCHUYLER,State Police,False,,42.957077,-77.34294
+NY349SE00,State Police: Seneca County,13819,NY,Middle Atlantic,Northeast,Region I,SENECA,State Police,False,,42.957077,-77.34294
+NY350SE00,State Police: Steuben County,13822,NY,Middle Atlantic,Northeast,Region I,STEUBEN,State Police,False,,42.957077,-77.34294
+NY351SL00,State Police: Suffolk County,13825,NY,Middle Atlantic,Northeast,Region I,SUFFOLK,State Police,False,,40.724537,-73.42363
+NY352SF00,State Police: Sullivan County,13827,NY,Middle Atlantic,Northeast,Region I,SULLIVAN,State Police,False,,41.720176,-74.76468
+NY353SC00,State Police: Tioga County,13829,NY,Middle Atlantic,Northeast,Region I,TIOGA,State Police,False,,42.178057,-76.297456
+NY354SC00,State Police: Tompkins County,13831,NY,Middle Atlantic,Northeast,Region I,TOMPKINS,State Police,False,,42.453003,-76.473481
+NY355SF00,State Police: Ulster County,13833,NY,Middle Atlantic,Northeast,Region I,ULSTER,State Police,False,,41.947216,-74.265458
+NY356SG00,State Police: Warren County,13836,NY,Middle Atlantic,Northeast,Region I,WARREN,State Police,False,,42.716103,-73.75535
+NY357SG00,State Police: Washington County,13838,NY,Middle Atlantic,Northeast,Region I,WASHINGTON,State Police,False,,42.716103,-73.75535
+NY358SE00,State Police: Wayne County,13841,NY,Middle Atlantic,Northeast,Region I,WAYNE,State Police,False,,42.957077,-77.34294
+NY359SK00,State Police: Westchester County,13844,NY,Middle Atlantic,Northeast,Region I,WESTCHESTER,State Police,False,,41.15277,-73.745912
+NY360SA00,State Police: Wyoming County,13847,NY,Middle Atlantic,Northeast,Region I,WYOMING,State Police,False,,43.029232,-78.19006
+NY361SE00,State Police: Yates County,13849,NY,Middle Atlantic,Northeast,Region I,YATES,State Police,False,,42.957077,-77.34294
+NY410UR00,Rensselaer Polytechnic Institute ,31975,NY,Middle Atlantic,Northeast,Region I,RENSSELAER,University or College,False,,,
+NY433PR0X,Onondaga County Parks,13883,NY,Middle Atlantic,Northeast,Region I,ONONDAGA,Other,False,,43.101364,-76.20629
+NYDI02100,Oneida Indian Nation,14057,NY,Middle Atlantic,Northeast,Region I,NOT SPECIFIED,Tribal,True,2020-12-01T00:00:00.000Z,42.910026,-75.663575
+NYDI02200,St. Regis Tribal,14058,NY,Middle Atlantic,Northeast,Region I,NOT SPECIFIED,Tribal,True,2021-01-01T00:00:00.000Z,44.594376,-74.31067
