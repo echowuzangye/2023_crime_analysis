@@ -1,0 +1,4 @@
+ori,agency_name,agency_id,state_abbr,division_name,region_name,region_desc,county_name,agency_type_name,nibrs,nibrs_start_date,latitude,longitude
+DC0011300,DC Fire and Emergency Medical Services Arson Investigation Unit,25315,DC,South Atlantic,South,Region III,NOT SPECIFIED,Other,False,,38.904103,-77.017229
+DCMPD0000,Washington Police Department,2243,DC,South Atlantic,South,Region III,NOT SPECIFIED,City,True,2021-08-01T00:00:00.000Z,38.894764,-77.015205
+DCMTP0000,Metro Transit Police,2244,DC,South Atlantic,South,Region III,NOT SPECIFIED,Other,True,2000-01-01T00:00:00.000Z,38.89739,-77.01894

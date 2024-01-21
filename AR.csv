@@ -1,0 +1,310 @@
+ori,agency_name,agency_id,state_abbr,division_name,region_name,region_desc,county_name,agency_type_name,nibrs,nibrs_start_date,latitude,longitude
+AR0010000,Arkansas County Sheriff's Office,497,AR,West South Central,South,Region III,ARKANSAS,County,True,2003-01-01T00:00:00.000Z,34.500004,-91.55133
+AR0010100,De Witt Police Department,498,AR,West South Central,South,Region III,ARKANSAS,City,True,2003-10-01T00:00:00.000Z,34.29578,-91.33483
+AR0010200,Stuttgart Police Department,499,AR,West South Central,South,Region III,ARKANSAS,City,True,2004-01-01T00:00:00.000Z,34.498188,-91.55266
+AR0010300,Gillett Police Department,500,AR,West South Central,South,Region III,ARKANSAS,City,True,2019-01-01T00:00:00.000Z,34.289573,-91.376547
+AR0010500,St. Charles Police Department,25305,AR,West South Central,South,Region III,ARKANSAS,City,True,2014-02-01T00:00:00.000Z,34.289573,-91.376547
+AR0020000,Ashley County Sheriff's Office,501,AR,West South Central,South,Region III,ASHLEY,County,True,2008-01-01T00:00:00.000Z,33.22701,-91.79664
+AR0020100,Crossett Police Department,502,AR,West South Central,South,Region III,ASHLEY,City,True,2003-07-01T00:00:00.000Z,33.190835,-91.772267
+AR0020200,Hamburg Police Department,503,AR,West South Central,South,Region III,ASHLEY,City,True,2003-01-01T00:00:00.000Z,33.190835,-91.772267
+AR0030000,Baxter County Sheriff's Office,505,AR,West South Central,South,Region III,BAXTER,County,True,2002-10-01T00:00:00.000Z,36.28071,-92.330438
+AR0030100,Mountain Home Police Department,506,AR,West South Central,South,Region III,BAXTER,City,True,2002-10-01T00:00:00.000Z,36.333,-92.38602
+AR0030200,Cotter Police Department,507,AR,West South Central,South,Region III,BAXTER,City,True,2003-10-01T00:00:00.000Z,36.28071,-92.330438
+AR0030300,Gassville Police Department,508,AR,West South Central,South,Region III,BAXTER,City,True,2003-01-01T00:00:00.000Z,36.28071,-92.330438
+AR0030400,Lakeview Police Department,509,AR,West South Central,South,Region III,BAXTER,City,True,2003-01-01T00:00:00.000Z,36.28071,-92.330438
+AR0030500,Norfork Police Department,25306,AR,West South Central,South,Region III,BAXTER,City,True,2014-02-01T00:00:00.000Z,36.28071,-92.330438
+AR0040000,Benton County Sheriff's Office,510,AR,West South Central,South,Region III,BENTON,County,True,2006-01-01T00:00:00.000Z,36.337825,-94.256187
+AR0040100,Bentonville Police Department,511,AR,West South Central,South,Region III,BENTON,City,True,2008-01-01T00:00:00.000Z,36.38833,-94.21991
+AR0040200,Rogers Police Department,512,AR,West South Central,South,Region III,BENTON,City,True,2008-01-01T00:00:00.000Z,36.337825,-94.256187
+AR0040300,Siloam Springs Police Department,513,AR,West South Central,South,Region III,BENTON,City,True,2008-01-01T00:00:00.000Z,36.18789,-94.54058
+AR0040400,Pea Ridge Police Department,514,AR,West South Central,South,Region III,BENTON,City,True,2003-01-01T00:00:00.000Z,36.337825,-94.256187
+AR0040500,Gentry Police Department,515,AR,West South Central,South,Region III,BENTON,City,True,2003-01-01T00:00:00.000Z,36.267563,-94.483574
+AR0040600,Lowell Police Department,516,AR,West South Central,South,Region III,BENTON,City,True,2003-01-01T00:00:00.000Z,36.2561,-94.13233
+AR0040700,Gravette Police Department,517,AR,West South Central,South,Region III,BENTON,City,True,2003-01-01T00:00:00.000Z,36.42675,-94.45365
+AR0040800,Decatur Police Department,518,AR,West South Central,South,Region III,BENTON,City,True,2003-10-01T00:00:00.000Z,36.337825,-94.256187
+AR0040900,Cave Springs Police Department,519,AR,West South Central,South,Region III,BENTON,City,True,2003-12-01T00:00:00.000Z,36.337825,-94.256187
+AR0041100,Sulphur Springs Police Department,520,AR,West South Central,South,Region III,BENTON,City,False,2004-01-01T00:00:00.000Z,36.337825,-94.256187
+AR0041300,Centerton Police Department,521,AR,West South Central,South,Region III,BENTON,City,True,2003-01-01T00:00:00.000Z,36.337825,-94.256187
+AR0041400,Northwest Arkansas Community College,522,AR,West South Central,South,Region III,BENTON,University or College,True,2009-12-01T00:00:00.000Z,36.337825,-94.256187
+AR0041600,Little Flock Police Department,523,AR,West South Central,South,Region III,BENTON,City,True,2005-01-01T00:00:00.000Z,36.37721,-94.13746
+AR0041700,Northwest Arkansas Regional Airport,26751,AR,West South Central,South,Region III,BENTON,Other,True,2016-01-01T00:00:00.000Z,,
+AR0042000,Highfill Police Department,524,AR,West South Central,South,Region III,BENTON,City,True,2007-04-01T00:00:00.000Z,36.25874,-94.350586
+AR0042100,Bella Vista Police Department,525,AR,West South Central,South,Region III,BENTON,City,True,2008-01-01T00:00:00.000Z,36.337825,-94.256187
+AR0050000,Boone County Sheriff's Office,526,AR,West South Central,South,Region III,BOONE,County,True,2008-01-01T00:00:00.000Z,36.304308,-93.079204
+AR0050100,Harrison Police Department,527,AR,West South Central,South,Region III,BOONE,City,True,2002-12-01T00:00:00.000Z,36.304308,-93.079204
+AR0050200,Diamond City Police Department,528,AR,West South Central,South,Region III,BOONE,City,True,2008-01-01T00:00:00.000Z,36.304308,-93.079204
+AR0050500,Lead Hill,31054,AR,West South Central,South,Region III,BOONE,City,False,2020-01-01T00:00:00.000Z,,
+AR0060000,Bradley County Sheriff's Office,529,AR,West South Central,South,Region III,BRADLEY,County,True,2005-01-01T00:00:00.000Z,33.614407,-92.06419
+AR0060100,Warren Police Department,530,AR,West South Central,South,Region III,BRADLEY,City,True,2003-01-01T00:00:00.000Z,33.615875,-92.06316
+AR0070000,Calhoun County Sheriff's Office,532,AR,West South Central,South,Region III,CALHOUN,County,True,2003-01-01T00:00:00.000Z,33.56046,-92.513879
+AR0070100,Hampton Police Department,533,AR,West South Central,South,Region III,CALHOUN,City,True,2003-01-01T00:00:00.000Z,33.56046,-92.513879
+AR0080000,Carroll County Sheriff's Office,534,AR,West South Central,South,Region III,CARROLL,County,True,2003-03-01T00:00:00.000Z,36.35576,-93.548454
+AR0080100,Berryville Police Department,535,AR,West South Central,South,Region III,CARROLL,City,True,2003-11-01T00:00:00.000Z,36.36506,-93.56514
+AR0080200,Eureka Springs Police Department,536,AR,West South Central,South,Region III,CARROLL,City,True,2003-11-01T00:00:00.000Z,36.337774,-93.541663
+AR0080300,Green Forest Police Department,537,AR,West South Central,South,Region III,CARROLL,City,True,2005-12-01T00:00:00.000Z,36.337774,-93.541663
+AR0090000,Chicot County Sheriff's Office,538,AR,West South Central,South,Region III,CHICOT,County,True,2007-09-01T00:00:00.000Z,33.331024,-91.28178
+AR0090200,Eudora Police Department,540,AR,West South Central,South,Region III,CHICOT,City,True,2007-01-01T00:00:00.000Z,33.108925,-91.26192
+AR0090300,Lake Village Police Department,541,AR,West South Central,South,Region III,CHICOT,City,True,2003-01-01T00:00:00.000Z,33.267139,-91.297158
+AR0100000,Clark County Sheriff's Office,542,AR,West South Central,South,Region III,CLARK,County,True,2003-03-01T00:00:00.000Z,34.11872,-93.05244
+AR0100100,Arkadelphia Police Department,543,AR,West South Central,South,Region III,CLARK,City,True,2003-01-01T00:00:00.000Z,34.12099,-93.053696
+AR0100200,Gurdon Police Department,544,AR,West South Central,South,Region III,CLARK,City,True,2003-03-01T00:00:00.000Z,34.053316,-93.176208
+AR0100300,Caddo Valley Police Department,545,AR,West South Central,South,Region III,CLARK,City,True,2003-01-01T00:00:00.000Z,34.18449,-93.06645
+AR0100400,Henderson State University,546,AR,West South Central,South,Region III,CLARK,University or College,True,2008-01-01T00:00:00.000Z,34.053316,-93.176208
+AR0100500,Amity Police Department,25673,AR,West South Central,South,Region III,CLARK,City,True,2015-03-01T00:00:00.000Z,34.053316,-93.176208
+AR0110000,Clay County Sheriff's Office,547,AR,West South Central,South,Region III,CLAY,County,True,2003-01-01T00:00:00.000Z,36.367302,-90.418704
+AR0110100,Corning Police Department,548,AR,West South Central,South,Region III,CLAY,City,True,2003-09-01T00:00:00.000Z,36.367302,-90.418704
+AR0110200,Piggott Police Department,549,AR,West South Central,South,Region III,CLAY,City,True,2003-01-01T00:00:00.000Z,36.381676,-90.19208
+AR0120000,Cleburne County Sheriff's Office,550,AR,West South Central,South,Region III,CLEBURNE,County,True,2003-09-01T00:00:00.000Z,35.48342,-92.03951
+AR0120100,Heber Springs Police Department,551,AR,West South Central,South,Region III,CLEBURNE,City,True,2003-03-01T00:00:00.000Z,35.566288,-92.059974
+AR0120200,Quitman Police Department,552,AR,West South Central,South,Region III,"CLEBURNE, FAULKNER",City,True,2004-04-01T00:00:00.000Z,35.566288,-92.059974
+AR0120300,Greers Ferry Police Department,553,AR,West South Central,South,Region III,CLEBURNE,City,True,2004-06-01T00:00:00.000Z,35.566288,-92.059974
+AR0130000,Cleveland County Sheriff's Office,554,AR,West South Central,South,Region III,CLEVELAND,County,True,2003-01-01T00:00:00.000Z,33.893201,-92.188714
+AR0140000,Columbia County Sheriff's Office,556,AR,West South Central,South,Region III,COLUMBIA,County,True,2003-01-01T00:00:00.000Z,33.223038,-93.232843
+AR0140100,Magnolia Police Department,557,AR,West South Central,South,Region III,COLUMBIA,City,True,2005-01-01T00:00:00.000Z,33.223038,-93.232843
+AR0140500,Southern Arkansas University,558,AR,West South Central,South,Region III,COLUMBIA,University or College,True,2010-01-01T00:00:00.000Z,33.288986,-93.23718
+AR0150000,Conway County Sheriff's Office,559,AR,West South Central,South,Region III,CONWAY,County,True,2003-03-01T00:00:00.000Z,35.1585,-92.768936
+AR0150100,Morrilton Police Department,560,AR,West South Central,South,Region III,CONWAY,City,True,2004-08-01T00:00:00.000Z,35.265702,-92.689248
+AR0150300,Plumerville Police Department,561,AR,West South Central,South,Region III,CONWAY,City,True,2003-12-01T00:00:00.000Z,35.265702,-92.689248
+AR0150400,Menifee Police Department,23073,AR,West South Central,South,Region III,CONWAY,City,True,2012-05-01T00:00:00.000Z,35.265702,-92.689248
+AR0150500,University of Arkansas Community College at Morrilton,26632,AR,West South Central,South,Region III,CONWAY,University or College,True,2016-03-01T00:00:00.000Z,,
+AR0160000,Craighead County Sheriff's Office,562,AR,West South Central,South,Region III,CRAIGHEAD,County,True,2003-01-01T00:00:00.000Z,35.828268,-90.630411
+AR0160100,Jonesboro Police Department,563,AR,West South Central,South,Region III,CRAIGHEAD,City,True,2003-08-01T00:00:00.000Z,35.838394,-90.70817
+AR0160200,Caraway Police Department,564,AR,West South Central,South,Region III,CRAIGHEAD,City,True,2005-03-01T00:00:00.000Z,35.828268,-90.630411
+AR0160300,Lake City Police Department,565,AR,West South Central,South,Region III,CRAIGHEAD,City,True,2003-05-01T00:00:00.000Z,35.828268,-90.630411
+AR0160400,Bay Police Department,566,AR,West South Central,South,Region III,CRAIGHEAD,City,True,2003-06-01T00:00:00.000Z,35.828268,-90.630411
+AR0160500,Arkansas State University: Jonesboro,567,AR,West South Central,South,Region III,CRAIGHEAD,University or College,True,2003-01-01T00:00:00.000Z,35.828268,-90.630411
+AR0160600,Monette Police Department,568,AR,West South Central,South,Region III,CRAIGHEAD,City,True,2007-02-01T00:00:00.000Z,35.828268,-90.630411
+AR0160700,Bono Police Department,569,AR,West South Central,South,Region III,CRAIGHEAD,City,True,2006-04-01T00:00:00.000Z,35.828268,-90.630411
+AR0161500,Brookland Police Department,23120,AR,West South Central,South,Region III,CRAIGHEAD,City,True,2012-09-01T00:00:00.000Z,35.828268,-90.630411
+AR0170000,Crawford County Sheriff's Office,570,AR,West South Central,South,Region III,CRAWFORD,County,True,2003-01-01T00:00:00.000Z,35.583041,-94.236224
+AR0170100,Van Buren Police Department,571,AR,West South Central,South,Region III,CRAWFORD,City,True,2002-07-01T00:00:00.000Z,35.438732,-94.348175
+AR0170200,Alma Police Department,572,AR,West South Central,South,Region III,CRAWFORD,City,True,2003-03-01T00:00:00.000Z,35.583041,-94.236224
+AR0170300,Mulberry Police Department,573,AR,West South Central,South,Region III,CRAWFORD,City,True,2007-01-01T00:00:00.000Z,35.583041,-94.236224
+AR0170500,Dyer Police Department,23228,AR,West South Central,South,Region III,CRAWFORD,City,True,2012-06-01T00:00:00.000Z,35.583041,-94.236224
+AR0170600,Mountainburg,26631,AR,West South Central,South,Region III,CRAWFORD,City,False,2017-01-01T00:00:00.000Z,,
+AR0170700,Kibler,33791,AR,West South Central,South,Region III,CRAWFORD,City,True,2022-01-01T00:00:00.000Z,,
+AR0171200,Cedarville,26389,AR,West South Central,South,Region III,CRAWFORD,City,True,2016-07-01T00:00:00.000Z,,
+AR0180000,Crittenden County Sheriff's Office,574,AR,West South Central,South,Region III,CRITTENDEN,County,True,2003-02-01T00:00:00.000Z,35.173553,-90.19129
+AR0180100,West Memphis Police Department,575,AR,West South Central,South,Region III,CRITTENDEN,City,True,2004-01-01T00:00:00.000Z,35.146515,-90.17703
+AR0180200,Earle Police Department,576,AR,West South Central,South,Region III,CRITTENDEN,City,True,2005-08-01T00:00:00.000Z,35.211878,-90.315331
+AR0180300,Turrell,30534,AR,West South Central,South,Region III,CRITTENDEN,City,True,2020-03-01T00:00:00.000Z,,
+AR0180400,Marion Police Department,577,AR,West South Central,South,Region III,CRITTENDEN,City,True,2003-07-01T00:00:00.000Z,35.211878,-90.315331
+AR0190000,Cross County Sheriff's Office,578,AR,West South Central,South,Region III,CROSS,County,True,2003-01-01T00:00:00.000Z,35.223557,-90.786934
+AR0190100,Wynne Police Department,579,AR,West South Central,South,Region III,CROSS,City,True,2004-08-01T00:00:00.000Z,35.223675,-90.78702
+AR0190200,Parkin Police Department,580,AR,West South Central,South,Region III,CROSS,City,True,2011-04-01T00:00:00.000Z,35.291259,-90.773894
+AR0190300,Cherry Valley,26611,AR,West South Central,South,Region III,CROSS,City,True,2016-01-01T00:00:00.000Z,,
+AR0200000,Dallas County Sheriff's Office,581,AR,West South Central,South,Region III,DALLAS,County,False,2006-01-01T00:00:00.000Z,33.967823,-92.653999
+AR0200100,Fordyce Police Department,582,AR,West South Central,South,Region III,DALLAS,City,True,2003-08-01T00:00:00.000Z,33.967823,-92.653999
+AR0210000,Desha County Sheriff's Office,583,AR,West South Central,South,Region III,DESHA,County,True,2003-09-01T00:00:00.000Z,33.828748,-91.244427
+AR0210100,McGehee Police Department,584,AR,West South Central,South,Region III,DESHA,City,True,2003-01-01T00:00:00.000Z,33.828748,-91.244427
+AR0210300,Dumas Police Department,586,AR,West South Central,South,Region III,DESHA,City,True,2003-01-01T00:00:00.000Z,33.828748,-91.244427
+AR0220000,Drew County Sheriff's Office,587,AR,West South Central,South,Region III,DREW,County,True,2003-01-01T00:00:00.000Z,33.626446,-91.79111
+AR0220100,Monticello Police Department,588,AR,West South Central,South,Region III,DREW,City,True,2003-08-01T00:00:00.000Z,33.587242,-91.722778
+AR0220300,University of Arkansas: Monticello,589,AR,West South Central,South,Region III,DREW,University or College,True,2003-01-01T00:00:00.000Z,33.587242,-91.722778
+AR0230000,Faulkner County Sheriff's Office,590,AR,West South Central,South,Region III,FAULKNER,County,True,2004-07-01T00:00:00.000Z,35.088737,-92.442505
+AR0230100,Conway Police Department,591,AR,West South Central,South,Region III,FAULKNER,City,True,2008-01-01T00:00:00.000Z,35.08855,-92.43863
+AR0230200,Greenbrier Police Department,592,AR,West South Central,South,Region III,FAULKNER,City,True,2004-01-01T00:00:00.000Z,35.146356,-92.324654
+AR0230300,Mayflower Police Department,593,AR,West South Central,South,Region III,FAULKNER,City,True,2007-07-01T00:00:00.000Z,35.146356,-92.324654
+AR0230400,Vilonia Police Department,594,AR,West South Central,South,Region III,FAULKNER,City,True,2003-05-01T00:00:00.000Z,35.146356,-92.324654
+AR0230500,Guy Police Department,595,AR,West South Central,South,Region III,FAULKNER,City,True,2007-01-01T00:00:00.000Z,35.146356,-92.324654
+AR0230600,University of Central Arkansas,596,AR,West South Central,South,Region III,FAULKNER,University or College,True,2003-01-01T00:00:00.000Z,35.146356,-92.324654
+AR0240000,Franklin County Sheriff's Office,597,AR,West South Central,South,Region III,FRANKLIN,County,True,2006-10-01T00:00:00.000Z,35.508573,-93.887672
+AR0240100,Ozark Police Department,598,AR,West South Central,South,Region III,FRANKLIN,City,True,2003-01-01T00:00:00.000Z,35.508573,-93.887672
+AR0240200,Charleston Police Department,599,AR,West South Central,South,Region III,FRANKLIN,City,True,2003-01-01T00:00:00.000Z,35.508573,-93.887672
+AR0250000,Fulton County Sheriff's Office,600,AR,West South Central,South,Region III,FULTON,County,True,2003-01-01T00:00:00.000Z,36.383447,-91.819245
+AR0250100,Salem Police Department,601,AR,West South Central,South,Region III,FULTON,City,True,2004-02-01T00:00:00.000Z,36.383447,-91.819245
+AR0250200,Mammoth Spring Police Department,602,AR,West South Central,South,Region III,FULTON,City,True,2006-03-01T00:00:00.000Z,36.383447,-91.819245
+AR0260000,Garland County Sheriff's Office,603,AR,West South Central,South,Region III,GARLAND,County,True,2004-01-01T00:00:00.000Z,34.504906,-93.05932
+AR0260100,Hot Springs Police Department,604,AR,West South Central,South,Region III,GARLAND,City,True,2001-02-01T00:00:00.000Z,34.578861,-93.146915
+AR0270000,Grant County Sheriff's Office,606,AR,West South Central,South,Region III,GRANT,County,True,2003-01-01T00:00:00.000Z,34.306824,-92.40039
+AR0270100,Sheridan Police Department,607,AR,West South Central,South,Region III,GRANT,City,True,2003-01-01T00:00:00.000Z,34.305027,-92.39071
+AR0280000,Greene County Sheriff's Office,608,AR,West South Central,South,Region III,GREENE,County,True,2003-01-01T00:00:00.000Z,36.07919,-90.54762
+AR0280100,Paragould Police Department,609,AR,West South Central,South,Region III,GREENE,City,True,2005-01-01T00:00:00.000Z,36.119922,-90.565241
+AR0280200,Marmaduke Police Department,610,AR,West South Central,South,Region III,GREENE,City,True,2004-06-01T00:00:00.000Z,36.186962,-90.38301
+AR0290000,Hempstead County Sheriff's Office,611,AR,West South Central,South,Region III,HEMPSTEAD,County,True,2003-01-01T00:00:00.000Z,33.728611,-93.665809
+AR0290100,Hope Police Department,612,AR,West South Central,South,Region III,HEMPSTEAD,City,True,2004-07-01T00:00:00.000Z,33.728611,-93.665809
+AR0300000,Hot Spring County Sheriff's Office,613,AR,West South Central,South,Region III,HOT SPRING,County,True,2016-09-01T00:00:00.000Z,34.356274,-92.80937
+AR0300100,Malvern Police Department,614,AR,West South Central,South,Region III,HOT SPRING,City,True,2010-01-01T00:00:00.000Z,34.356274,-92.80937
+AR0310000,Howard County Sheriff's Office,616,AR,West South Central,South,Region III,HOWARD,County,True,2003-01-01T00:00:00.000Z,34.083064,-93.990931
+AR0310100,Nashville Police Department,617,AR,West South Central,South,Region III,HOWARD,City,True,2003-01-01T00:00:00.000Z,33.947216,-93.84702
+AR0310400,Mineral Springs Police Department,619,AR,West South Central,South,Region III,HOWARD,City,True,2004-01-01T00:00:00.000Z,34.083064,-93.990931
+AR0320000,Independence County Sheriff's Office,620,AR,West South Central,South,Region III,INDEPENDENCE,County,True,2007-01-01T00:00:00.000Z,35.737499,-91.559942
+AR0320100,Batesville Police Department,621,AR,West South Central,South,Region III,INDEPENDENCE,City,True,2015-06-01T00:00:00.000Z,35.771168,-91.65075
+AR0330000,Izard County Sheriff's Office,624,AR,West South Central,South,Region III,IZARD,County,True,2004-01-01T00:00:00.000Z,36.094879,-91.913625
+AR0340000,Jackson County Sheriff's Office,626,AR,West South Central,South,Region III,JACKSON,County,True,2003-01-01T00:00:00.000Z,35.596605,-91.223178
+AR0340100,Newport Police Department,627,AR,West South Central,South,Region III,JACKSON,City,True,2008-01-01T00:00:00.000Z,35.596605,-91.223178
+AR0340200,Tuckerman Police Department,628,AR,West South Central,South,Region III,JACKSON,City,True,2005-02-01T00:00:00.000Z,35.596605,-91.223178
+AR0340300,Diaz Police Department,629,AR,West South Central,South,Region III,JACKSON,City,True,2004-01-01T00:00:00.000Z,35.596605,-91.223178
+AR0340600,Swifton Police Department,630,AR,West South Central,South,Region III,JACKSON,City,True,2003-03-01T00:00:00.000Z,35.596605,-91.223178
+AR0340700,Arkansas State University: Newport,25832,AR,West South Central,South,Region III,JACKSON,University or College,True,2016-01-01T00:00:00.000Z,35.596605,-91.223178
+AR0350000,Jefferson County Sheriff's Office,631,AR,West South Central,South,Region III,JEFFERSON,County,True,2003-01-01T00:00:00.000Z,34.277695,-91.930701
+AR0350100,Pine Bluff Police Department,632,AR,West South Central,South,Region III,JEFFERSON,City,True,2009-01-01T00:00:00.000Z,34.221638,-92.00195
+AR0350200,White Hall Police Department,633,AR,West South Central,South,Region III,JEFFERSON,City,True,2008-01-01T00:00:00.000Z,34.273453,-92.09051
+AR0350300,Redfield Police Department,634,AR,West South Central,South,Region III,JEFFERSON,City,True,2003-01-01T00:00:00.000Z,34.277695,-91.930701
+AR0350400,University of Arkansas: Pine Bluff,635,AR,West South Central,South,Region III,JEFFERSON,University or College,True,2009-01-01T00:00:00.000Z,34.277695,-91.930701
+AR0360000,Johnson County Sheriff's Office,637,AR,West South Central,South,Region III,JOHNSON,County,True,2008-01-01T00:00:00.000Z,35.573359,-93.466322
+AR0360100,Clarksville Police Department,638,AR,West South Central,South,Region III,JOHNSON,City,True,2008-01-01T00:00:00.000Z,35.47226,-93.4646
+AR0360300,Lamar Police Department,639,AR,West South Central,South,Region III,JOHNSON,City,True,2011-01-01T00:00:00.000Z,35.573359,-93.466322
+AR0370000,Lafayette County Sheriff's Office,640,AR,West South Central,South,Region III,LAFAYETTE,County,True,2004-04-01T00:00:00.000Z,33.24066,-93.611643
+AR0370200,Stamps Police Department,641,AR,West South Central,South,Region III,LAFAYETTE,City,True,2008-11-01T00:00:00.000Z,33.36069,-93.49839
+AR0370300,Lewisville Police Department,642,AR,West South Central,South,Region III,LAFAYETTE,City,True,2004-04-01T00:00:00.000Z,33.24066,-93.611643
+AR0380000,Lawrence County Sheriff's Office,643,AR,West South Central,South,Region III,LAWRENCE,County,True,2005-03-01T00:00:00.000Z,36.070007,-90.957855
+AR0380100,Walnut Ridge Police Department,644,AR,West South Central,South,Region III,LAWRENCE,City,True,2003-01-01T00:00:00.000Z,36.068058,-90.95553
+AR0380200,Hoxie Police Department,645,AR,West South Central,South,Region III,LAWRENCE,City,True,2005-01-01T00:00:00.000Z,36.041098,-91.101153
+AR0380400,Ravenden Police Department,646,AR,West South Central,South,Region III,LAWRENCE,City,True,2008-03-01T00:00:00.000Z,36.244396,-91.27053
+AR0380500,Black Rock Police Department,25308,AR,West South Central,South,Region III,LAWRENCE,City,True,2013-01-01T00:00:00.000Z,36.041098,-91.101153
+AR0390000,Lee County Sheriff's Office,647,AR,West South Central,South,Region III,LEE,County,True,2003-01-01T00:00:00.000Z,34.774548,-90.75726
+AR0390100,Marianna Police Department,648,AR,West South Central,South,Region III,LEE,City,True,2003-01-01T00:00:00.000Z,34.774353,-90.756905
+AR0400000,Lincoln County Sheriff's Office,649,AR,West South Central,South,Region III,LINCOLN,County,True,2003-04-01T00:00:00.000Z,33.939323,-91.84514
+AR0400200,Star City Police Department,651,AR,West South Central,South,Region III,LINCOLN,City,True,2003-01-01T00:00:00.000Z,33.957665,-91.727624
+AR0410000,Little River County Sheriff's Office,653,AR,West South Central,South,Region III,LITTLE RIVER,County,True,2003-09-01T00:00:00.000Z,33.67288,-94.13271
+AR0410100,Ashdown Police Department,654,AR,West South Central,South,Region III,LITTLE RIVER,City,True,2003-01-01T00:00:00.000Z,33.699497,-94.229774
+AR0420000,Logan County Sheriff's Office,656,AR,West South Central,South,Region III,LOGAN,County,True,2004-01-01T00:00:00.000Z,35.288918,-93.734955
+AR0420100,Booneville Police Department,657,AR,West South Central,South,Region III,LOGAN,City,True,2003-01-01T00:00:00.000Z,35.140034,-93.91495
+AR0420200,Paris Police Department,658,AR,West South Central,South,Region III,LOGAN,City,True,2003-01-01T00:00:00.000Z,35.218549,-93.720563
+AR0430000,Lonoke County Sheriff's Office,659,AR,West South Central,South,Region III,LONOKE,County,True,2003-01-01T00:00:00.000Z,34.78607,-91.89906
+AR0430100,England Police Department,660,AR,West South Central,South,Region III,LONOKE,City,True,2003-04-01T00:00:00.000Z,34.755114,-91.894132
+AR0430200,Cabot Police Department,661,AR,West South Central,South,Region III,LONOKE,City,True,2003-06-01T00:00:00.000Z,34.755114,-91.894132
+AR0430300,Carlisle Police Department,662,AR,West South Central,South,Region III,LONOKE,City,True,2003-01-01T00:00:00.000Z,34.755114,-91.894132
+AR0430400,Lonoke Police Department,663,AR,West South Central,South,Region III,LONOKE,City,True,2003-10-01T00:00:00.000Z,34.783905,-91.901344
+AR0430500,Austin Police Department,664,AR,West South Central,South,Region III,LONOKE,City,True,2005-05-01T00:00:00.000Z,34.755114,-91.894132
+AR0430600,Ward Police Department,665,AR,West South Central,South,Region III,LONOKE,City,True,2004-09-01T00:00:00.000Z,34.755114,-91.894132
+AR0440000,Madison County Sheriff's Office,666,AR,West South Central,South,Region III,MADISON,County,True,2003-09-01T00:00:00.000Z,36.012545,-93.724053
+AR0440100,Huntsville Police Department,667,AR,West South Central,South,Region III,MADISON,City,False,,36.012545,-93.724053
+AR0450000,Marion County Sheriff's Office,668,AR,West South Central,South,Region III,MARION,County,True,2003-03-01T00:00:00.000Z,36.266656,-92.678588
+AR0450200,Bull Shoals Police Department,670,AR,West South Central,South,Region III,MARION,City,True,2003-01-01T00:00:00.000Z,36.266656,-92.678588
+AR0450300,Flippin Police Department,671,AR,West South Central,South,Region III,MARION,City,True,2003-01-01T00:00:00.000Z,36.266656,-92.678588
+AR0460000,Miller County Sheriff's Office,672,AR,West South Central,South,Region III,MILLER,County,True,2010-01-01T00:00:00.000Z,33.39993,-94.02271
+AR0460100,Texarkana Police Department,673,AR,West South Central,South,Region III,MILLER,City,True,2009-01-01T00:00:00.000Z,33.421623,-94.04305
+AR0470000,Mississippi County Sheriff's Office,674,AR,West South Central,South,Region III,MISSISSIPPI,County,True,2002-03-01T00:00:00.000Z,35.766943,-90.052209
+AR0470100,Blytheville Police Department,675,AR,West South Central,South,Region III,MISSISSIPPI,City,True,2005-01-01T00:00:00.000Z,35.928474,-89.904274
+AR0470200,Osceola Police Department,676,AR,West South Central,South,Region III,MISSISSIPPI,City,True,2003-01-01T00:00:00.000Z,35.766943,-90.052209
+AR0470300,Leachville Police Department,677,AR,West South Central,South,Region III,MISSISSIPPI,City,True,2003-10-01T00:00:00.000Z,35.766943,-90.052209
+AR0470500,Luxora Police Department,678,AR,West South Central,South,Region III,MISSISSIPPI,City,True,2003-01-01T00:00:00.000Z,35.766943,-90.052209
+AR0470600,Wilson,26732,AR,West South Central,South,Region III,MISSISSIPPI,City,True,2016-01-01T00:00:00.000Z,,
+AR0470700,Gosnell Police Department,679,AR,West South Central,South,Region III,MISSISSIPPI,City,True,2003-01-01T00:00:00.000Z,35.957237,-89.965126
+AR0471000,Etowah Police Department,682,AR,West South Central,South,Region III,MISSISSIPPI,City,True,2003-01-01T00:00:00.000Z,35.766943,-90.052209
+AR0480000,Monroe County Sheriff's Office,683,AR,West South Central,South,Region III,MONROE,County,True,2003-12-01T00:00:00.000Z,34.69242,-91.31478
+AR0480100,Brinkley Police Department,684,AR,West South Central,South,Region III,MONROE,City,True,2006-01-01T00:00:00.000Z,34.888054,-91.1939
+AR0480200,Clarendon Police Department,685,AR,West South Central,South,Region III,MONROE,City,True,2005-12-01T00:00:00.000Z,34.679513,-91.203314
+AR0490000,Montgomery County Sheriff's Office,687,AR,West South Central,South,Region III,MONTGOMERY,County,False,2008-01-01T00:00:00.000Z,34.545652,-93.664147
+AR0500000,Nevada County Sheriff's Office,688,AR,West South Central,South,Region III,NEVADA,County,True,2008-01-01T00:00:00.000Z,33.666699,-93.305072
+AR0500100,Prescott Police Department,689,AR,West South Central,South,Region III,NEVADA,City,True,2008-01-01T00:00:00.000Z,33.801895,-93.381935
+AR0510000,Newton County Sheriff's Office,690,AR,West South Central,South,Region III,NEWTON,County,True,2004-01-01T00:00:00.000Z,35.910062,-93.215084
+AR0520000,Ouachita County Sheriff's Office,691,AR,West South Central,South,Region III,OUACHITA,County,False,2004-01-01T00:00:00.000Z,33.591158,-92.878418
+AR0520100,Camden Police Department,692,AR,West South Central,South,Region III,OUACHITA,City,False,2003-01-01T00:00:00.000Z,33.577393,-92.834
+AR0520600,Southern Arkansas University Tech,695,AR,West South Central,South,Region III,OUACHITA,University or College,True,2011-01-01T00:00:00.000Z,33.591158,-92.878418
+AR0530000,Perry County Sheriff's Office,696,AR,West South Central,South,Region III,PERRY,County,True,2003-01-01T00:00:00.000Z,34.946363,-92.926877
+AR0530100,Perryville Police Department,697,AR,West South Central,South,Region III,PERRY,City,True,2004-01-01T00:00:00.000Z,34.946363,-92.926877
+AR0540000,Phillips County Sheriff's Office,698,AR,West South Central,South,Region III,PHILLIPS,County,False,,34.425842,-90.848386
+AR0540100,Helena-West Helena Police Department,699,AR,West South Central,South,Region III,PHILLIPS,City,True,2004-01-01T00:00:00.000Z,34.54406,-90.649284
+AR0550000,Pike County Sheriff's Office,703,AR,West South Central,South,Region III,PIKE,County,True,2003-01-01T00:00:00.000Z,34.158191,-93.658659
+AR0550100,Murfreesboro Police Department,704,AR,West South Central,South,Region III,PIKE,City,True,2004-08-01T00:00:00.000Z,34.158191,-93.658659
+AR0550200,Glenwood Police Department,705,AR,West South Central,South,Region III,"MONTGOMERY, PIKE",City,True,2004-01-01T00:00:00.000Z,34.327526,-93.55145
+AR0560000,Poinsett County Sheriff's Office,706,AR,West South Central,South,Region III,POINSETT,County,True,2003-01-01T00:00:00.000Z,35.58099,-90.71705
+AR0560100,Marked Tree Police Department,707,AR,West South Central,South,Region III,POINSETT,City,True,2003-04-01T00:00:00.000Z,35.531933,-90.422485
+AR0560200,Trumann Police Department,708,AR,West South Central,South,Region III,POINSETT,City,True,2003-01-01T00:00:00.000Z,35.568981,-90.680595
+AR0560300,Harrisburg Police Department,709,AR,West South Central,South,Region III,POINSETT,City,True,2003-01-01T00:00:00.000Z,35.561455,-90.717445
+AR0560400,Lepanto Police Department,710,AR,West South Central,South,Region III,POINSETT,City,False,2003-01-01T00:00:00.000Z,35.568981,-90.680595
+AR0560500,Tyronza Police Department,711,AR,West South Central,South,Region III,POINSETT,City,False,2004-02-01T00:00:00.000Z,35.492546,-90.3585
+AR0560700,Weiner Police Department,712,AR,West South Central,South,Region III,POINSETT,City,True,2004-01-01T00:00:00.000Z,35.619717,-90.899994
+AR0570000,Polk County Sheriff's Office,713,AR,West South Central,South,Region III,POLK,County,True,2003-01-01T00:00:00.000Z,34.58666,-94.238434
+AR0570100,Mena Police Department,714,AR,West South Central,South,Region III,POLK,City,True,2007-12-01T00:00:00.000Z,34.586895,-94.23994
+AR0580000,Pope County Sheriff's Office,715,AR,West South Central,South,Region III,POPE,County,True,2006-01-01T00:00:00.000Z,35.27959,-93.108185
+AR0580100,Russellville Police Department,716,AR,West South Central,South,Region III,POPE,City,True,2000-01-01T00:00:00.000Z,35.28542,-93.13359
+AR0580200,Atkins Police Department,717,AR,West South Central,South,Region III,POPE,City,True,2003-01-01T00:00:00.000Z,35.455297,-93.031535
+AR0580400,Arkansas Tech University,718,AR,West South Central,South,Region III,POPE,University or College,True,2004-02-01T00:00:00.000Z,35.455297,-93.031535
+AR0580700,Dover Police Department,719,AR,West South Central,South,Region III,POPE,City,True,2003-10-01T00:00:00.000Z,35.455297,-93.031535
+AR0581000,Pottsville Police Department,721,AR,West South Central,South,Region III,POPE,City,True,2003-08-01T00:00:00.000Z,35.24981,-93.04601
+AR0581900,Pottsville School District,32935,AR,West South Central,South,Region III,POPE,Other,True,2020-01-01T00:00:00.000Z,,
+AR0590000,Prairie County Sheriff's Office,722,AR,West South Central,South,Region III,PRAIRIE,County,True,2005-01-01T00:00:00.000Z,34.977436,-91.49404
+AR0590100,Hazen Police Department,723,AR,West South Central,South,Region III,PRAIRIE,City,True,2004-01-01T00:00:00.000Z,34.828225,-91.557199
+AR0590200,Des Arc Police Department,724,AR,West South Central,South,Region III,PRAIRIE,City,True,2005-03-01T00:00:00.000Z,34.828225,-91.557199
+AR0600000,Pulaski County Sheriff's Office,726,AR,West South Central,South,Region III,PULASKI,County,True,2004-01-01T00:00:00.000Z,34.724297,-92.306465
+AR0600100,Jacksonville Police Department,727,AR,West South Central,South,Region III,PULASKI,City,True,2008-01-01T00:00:00.000Z,34.867607,-92.12715
+AR0600200,Little Rock Police Department,728,AR,West South Central,South,Region III,PULASKI,City,True,2002-08-01T00:00:00.000Z,34.749084,-92.277565
+AR0600300,North Little Rock Police Department,729,AR,West South Central,South,Region III,PULASKI,City,True,2003-02-01T00:00:00.000Z,34.77923,-92.26978
+AR0600400,Sherwood Police Department,730,AR,West South Central,South,Region III,PULASKI,City,True,1999-02-01T00:00:00.000Z,34.832664,-92.209816
+AR0600500,University of Arkansas: Little Rock,731,AR,West South Central,South,Region III,PULASKI,University or College,True,2003-10-01T00:00:00.000Z,34.726933,-92.3419
+AR0600700,Alexander Police Department,25626,AR,West South Central,South,Region III,"PULASKI, SALINE",City,True,2015-05-01T00:00:00.000Z,34.773988,-92.316515
+AR0600800,Cammack Village Police Department,732,AR,West South Central,South,Region III,PULASKI,City,True,2004-02-01T00:00:00.000Z,34.776836,-92.34476
+AR0600900,University of Arkansas: Medical Sciences,733,AR,West South Central,South,Region III,PULASKI,University or College,True,2008-01-01T00:00:00.000Z,34.751553,-92.3207
+AR0601400,Camp Robinson Police Department,734,AR,West South Central,South,Region III,PULASKI,Other State Agency,True,2004-02-01T00:00:00.000Z,34.773988,-92.316515
+AR0601600,Maumelle Police Department,735,AR,West South Central,South,Region III,PULASKI,City,True,2003-01-01T00:00:00.000Z,34.773988,-92.316515
+AR0601700,State Capitol Police,736,AR,West South Central,South,Region III,PULASKI,Other State Agency,True,2004-04-01T00:00:00.000Z,34.746395,-92.28793
+AR0602400,University of Arkansas:,33721,AR,West South Central,South,Region III,PULASKI,University or College,True,2022-01-01T00:00:00.000Z,,
+AR0610000,Randolph County Sheriff's Office,737,AR,West South Central,South,Region III,RANDOLPH,County,True,2004-01-01T00:00:00.000Z,36.252094,-90.95637
+AR0610100,Pocahontas Police Department,738,AR,West South Central,South,Region III,RANDOLPH,City,True,2003-01-01T00:00:00.000Z,36.262936,-90.96942
+AR0620000,St. Francis County Sheriff's Office,739,AR,West South Central,South,Region III,ST FRANCIS,County,True,2003-01-01T00:00:00.000Z,35.014438,-90.742138
+AR0620100,Forrest City Police Department,740,AR,West South Central,South,Region III,ST FRANCIS,City,True,2003-01-01T00:00:00.000Z,35.010025,-90.78682
+AR0620200,Hughes Police Department,23126,AR,West South Central,South,Region III,ST FRANCIS,City,True,2012-01-01T00:00:00.000Z,35.014438,-90.742138
+AR0620600,Madison  Police Department,741,AR,West South Central,South,Region III,ST FRANCIS,City,False,2010-03-01T00:00:00.000Z,35.014438,-90.742138
+AR0630000,Saline County Sheriff's Office,742,AR,West South Central,South,Region III,SALINE,County,True,2011-01-01T00:00:00.000Z,34.556995,-92.57763
+AR0630100,Benton Police Department,743,AR,West South Central,South,Region III,SALINE,City,True,2006-04-01T00:00:00.000Z,34.56359,-92.585594
+AR0630200,Bryant Police Department,744,AR,West South Central,South,Region III,SALINE,City,True,2007-01-01T00:00:00.000Z,34.61423,-92.49969
+AR0630300,Haskell,26928,AR,West South Central,South,Region III,SALINE,City,True,2017-01-01T00:00:00.000Z,,
+AR0630400,Shannon Hills Police Department,25310,AR,West South Central,South,Region III,SALINE,City,True,2014-01-01T00:00:00.000Z,34.648525,-92.674463
+AR0640000,Scott County Sheriff's Office,745,AR,West South Central,South,Region III,SCOTT,County,True,2003-05-01T00:00:00.000Z,34.858869,-94.063641
+AR0640100,Waldron Police Department,746,AR,West South Central,South,Region III,SCOTT,City,True,2003-01-01T00:00:00.000Z,34.858869,-94.063641
+AR0650000,Searcy County Sheriff's Office,747,AR,West South Central,South,Region III,SEARCY,County,True,2005-12-01T00:00:00.000Z,35.90966,-92.699351
+AR0650100,Marshall,30374,AR,West South Central,South,Region III,SEARCY,City,True,2019-01-01T00:00:00.000Z,,
+AR0660000,Sebastian County Sheriff's Office,748,AR,West South Central,South,Region III,SEBASTIAN,County,True,2003-01-01T00:00:00.000Z,35.386814,-94.42259
+AR0660100,Fort Smith Police Department,749,AR,West South Central,South,Region III,SEBASTIAN,City,True,2002-12-01T00:00:00.000Z,35.38317,-94.4234
+AR0660200,Greenwood Police Department,750,AR,West South Central,South,Region III,SEBASTIAN,City,True,2003-01-01T00:00:00.000Z,35.196981,-94.274989
+AR0660300,Barling Police Department,751,AR,West South Central,South,Region III,SEBASTIAN,City,True,2003-01-01T00:00:00.000Z,35.3253,-94.29946
+AR0660600,Hackett,25914,AR,West South Central,South,Region III,SEBASTIAN,City,True,2020-01-01T00:00:00.000Z,,
+AR0660700,Mansfield Police Department,752,AR,West South Central,South,Region III,"SCOTT, SEBASTIAN",City,True,2007-03-01T00:00:00.000Z,35.196981,-94.274989
+AR0660900,Hartford,33449,AR,West South Central,South,Region III,SEBASTIAN,City,True,2021-01-01T00:00:00.000Z,,
+AR0661200,Lavaca Police Department,25311,AR,West South Central,South,Region III,SEBASTIAN,City,True,2013-04-01T00:00:00.000Z,35.196981,-94.274989
+AR0661400,Bonanza,35855,AR,West South Central,South,Region III,SEBASTIAN,City,True,2020-01-01T00:00:00.000Z,,
+AR0661700,Huntington,26633,AR,West South Central,South,Region III,SEBASTIAN,City,False,2016-12-01T00:00:00.000Z,,
+AR0661900,Fort Smith Public Schools,32954,AR,West South Central,South,Region III,SEBASTIAN,Other,True,2020-01-01T00:00:00.000Z,,
+AR0670000,Sevier County Sheriff's Office,753,AR,West South Central,South,Region III,SEVIER,County,True,2006-01-01T00:00:00.000Z,33.994608,-94.24329
+AR0670100,De Queen Police Department,754,AR,West South Central,South,Region III,SEVIER,City,True,2003-01-01T00:00:00.000Z,34.038074,-94.33912
+AR0680000,Sharp County Sheriff's Office,755,AR,West South Central,South,Region III,SHARP,County,False,2003-01-01T00:00:00.000Z,36.173399,-91.471069
+AR0680200,Hardy Police Department,757,AR,West South Central,South,Region III,"FULTON, SHARP",City,True,2007-01-01T00:00:00.000Z,36.173399,-91.471069
+AR0680300,Ash Flat Police Department,758,AR,West South Central,South,Region III,"FULTON, SHARP",City,True,2004-08-01T00:00:00.000Z,36.173399,-91.471069
+AR0680400,Cherokee Village Police Department,759,AR,West South Central,South,Region III,"FULTON, SHARP",City,True,2004-09-01T00:00:00.000Z,36.173399,-91.471069
+AR0680600,Highland Police Department,760,AR,West South Central,South,Region III,SHARP,City,True,2004-03-01T00:00:00.000Z,36.259796,-91.54158
+AR0690000,Stone County Sheriff's Office,761,AR,West South Central,South,Region III,STONE,County,True,2003-01-01T00:00:00.000Z,35.856989,-92.140494
+AR0690100,Mountain View Police Department,762,AR,West South Central,South,Region III,STONE,City,True,2003-02-01T00:00:00.000Z,35.856989,-92.140494
+AR0700000,Union County Sheriff's Office,763,AR,West South Central,South,Region III,UNION,County,True,2002-02-01T00:00:00.000Z,33.210384,-92.63095
+AR0700100,El Dorado Police Department,764,AR,West South Central,South,Region III,UNION,City,True,2003-04-01T00:00:00.000Z,33.168219,-92.598145
+AR0700200,Smackover Police Department,765,AR,West South Central,South,Region III,UNION,City,True,2022-02-01T00:00:00.000Z,33.364445,-92.72366
+AR0710000,Van Buren County Sheriff's Office,766,AR,West South Central,South,Region III,VAN BUREN,County,True,2006-11-01T00:00:00.000Z,35.582959,-92.515977
+AR0710100,Fairfield Bay Police Department,767,AR,West South Central,South,Region III,"CLEBURNE, VAN BUREN",City,True,2003-01-01T00:00:00.000Z,35.582959,-92.515977
+AR0710200,Clinton Police Department,768,AR,West South Central,South,Region III,VAN BUREN,City,True,2003-11-01T00:00:00.000Z,35.582959,-92.515977
+AR0710300,Damascus Police Department,25419,AR,West South Central,South,Region III,"FAULKNER, VAN BUREN",City,True,2013-11-01T00:00:00.000Z,35.582959,-92.515977
+AR0720000,Washington County Sheriff's Office,769,AR,West South Central,South,Region III,WASHINGTON,County,True,2003-07-01T00:00:00.000Z,36.034187,-94.17598
+AR0720100,Fayetteville Police Department,770,AR,West South Central,South,Region III,WASHINGTON,City,True,2003-09-01T00:00:00.000Z,36.06085,-94.15727
+AR0720200,Springdale Police Department,771,AR,West South Central,South,Region III,"BENTON, WASHINGTON",City,True,2009-01-01T00:00:00.000Z,36.18645,-94.12982
+AR0720300,Prairie Grove Police Department,772,AR,West South Central,South,Region III,WASHINGTON,City,True,2003-08-01T00:00:00.000Z,35.971209,-94.218417
+AR0720400,University of Arkansas: Fayetteville,773,AR,West South Central,South,Region III,WASHINGTON,University or College,True,2007-01-01T00:00:00.000Z,36.064884,-94.1802
+AR0720500,Farmington Police Department,774,AR,West South Central,South,Region III,WASHINGTON,City,True,2003-01-01T00:00:00.000Z,35.971209,-94.218417
+AR0720600,Lincoln Police Department,775,AR,West South Central,South,Region III,WASHINGTON,City,True,2003-01-01T00:00:00.000Z,35.971209,-94.218417
+AR0720700,Greenland Police Department,776,AR,West South Central,South,Region III,WASHINGTON,City,True,2003-01-01T00:00:00.000Z,35.971209,-94.218417
+AR0720800,West Fork Police Department,777,AR,West South Central,South,Region III,WASHINGTON,City,True,2003-01-01T00:00:00.000Z,35.971209,-94.218417
+AR0720900,Johnson Police Department,778,AR,West South Central,South,Region III,WASHINGTON,City,True,2012-01-01T00:00:00.000Z,35.971209,-94.218417
+AR0721000,Elkins Police Department,779,AR,West South Central,South,Region III,WASHINGTON,City,True,2006-06-01T00:00:00.000Z,36.0264,-94.0277
+AR0721600,Goshen,33699,AR,West South Central,South,Region III,WASHINGTON,City,True,2021-01-01T00:00:00.000Z,,
+AR0722000,Tontitown,35853,AR,West South Central,South,Region III,WASHINGTON,City,True,2022-01-01T00:00:00.000Z,,
+AR0730000,White County Sheriff's Office,780,AR,West South Central,South,Region III,WHITE,County,True,2004-01-01T00:00:00.000Z,35.254722,-91.753158
+AR0730100,Searcy Police Department,781,AR,West South Central,South,Region III,WHITE,City,True,2007-01-01T00:00:00.000Z,35.254722,-91.753158
+AR0730200,Bald Knob Police Department,782,AR,West South Central,South,Region III,WHITE,City,True,2003-01-01T00:00:00.000Z,35.254722,-91.753158
+AR0730300,Beebe Police Department,783,AR,West South Central,South,Region III,WHITE,City,True,2003-01-01T00:00:00.000Z,35.254722,-91.753158
+AR0730400,Kensett Police Department,784,AR,West South Central,South,Region III,WHITE,City,True,2003-01-01T00:00:00.000Z,35.23232,-91.66712
+AR0730600,Rose Bud Police Department,786,AR,West South Central,South,Region III,WHITE,City,True,2004-03-01T00:00:00.000Z,35.254722,-91.753158
+AR0730700,Judsonia Police Department,787,AR,West South Central,South,Region III,WHITE,City,True,2006-05-01T00:00:00.000Z,35.254722,-91.753158
+AR0730800,Bradford Police Department,788,AR,West South Central,South,Region III,WHITE,City,True,2004-01-01T00:00:00.000Z,35.42481,-91.456474
+AR0730900,Higginson Police Department,789,AR,West South Central,South,Region III,WHITE,City,True,2013-12-01T00:00:00.000Z,35.254722,-91.753158
+AR0731000,McRae Police Department,790,AR,West South Central,South,Region III,WHITE,City,True,2004-05-01T00:00:00.000Z,35.112488,-91.82137
+AR0731200,Arkansas State University: Beebe,791,AR,West South Central,South,Region III,WHITE,University or College,True,2004-04-01T00:00:00.000Z,35.254722,-91.753158
+AR0740000,Woodruff County Sheriff's Office,792,AR,West South Central,South,Region III,WOODRUFF,County,True,2003-01-01T00:00:00.000Z,35.28729,-91.36512
+AR0740100,Augusta Police Department,793,AR,West South Central,South,Region III,WOODRUFF,City,True,2004-08-01T00:00:00.000Z,35.189071,-91.244418
+AR0740200,McCrory Police Department,794,AR,West South Central,South,Region III,WOODRUFF,City,True,2003-01-01T00:00:00.000Z,35.189071,-91.244418
+AR0740400,Patterson,31514,AR,West South Central,South,Region III,WOODRUFF,City,True,2020-01-01T00:00:00.000Z,,
+AR0750000,Yell County Sheriff's Office,795,AR,West South Central,South,Region III,YELL,County,True,2003-01-01T00:00:00.000Z,34.997713,-93.408303
+AR0750100,Dardanelle Police Department,796,AR,West South Central,South,Region III,YELL,City,True,2003-01-01T00:00:00.000Z,34.997713,-93.408303
+AR0750200,Danville Police Department,797,AR,West South Central,South,Region III,YELL,City,True,2003-08-01T00:00:00.000Z,34.997713,-93.408303
+AR0750300,Ola Police Department,798,AR,West South Central,South,Region III,YELL,City,True,2003-07-01T00:00:00.000Z,34.997713,-93.408303
+ARASP0000,Arkansas State Police,800,AR,West South Central,South,Region III,NOT SPECIFIED,State Police,False,,34.773988,-92.316515

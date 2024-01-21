@@ -1,0 +1,414 @@
+ori,agency_name,agency_id,state_abbr,division_name,region_name,region_desc,county_name,agency_type_name,nibrs,nibrs_start_date,latitude,longitude
+TN0010000,Anderson County Sheriff's Office,18170,TN,East South Central,South,Region III,ANDERSON,County,True,1997-05-01T00:00:00.000Z,36.099857,-84.133644
+TN0010100,Clinton Police Department,18171,TN,East South Central,South,Region III,ANDERSON,City,True,1997-11-01T00:00:00.000Z,36.099937,-84.13391
+TN0010200,Rocky Top Police Department,18172,TN,East South Central,South,Region III,"ANDERSON, CAMPBELL",City,True,1997-10-01T00:00:00.000Z,36.116731,-84.195418
+TN0010300,Oak Ridge Police Department,18173,TN,East South Central,South,Region III,"ANDERSON, ROANE",City,True,1997-08-01T00:00:00.000Z,36.116731,-84.195418
+TN0010400,Norris Police Department,18174,TN,East South Central,South,Region III,ANDERSON,City,True,1999-04-01T00:00:00.000Z,36.116731,-84.195418
+TN0010600,7th Judicial District Crime Task Force,18176,TN,East South Central,South,Region III,ANDERSON,Other,True,2013-01-01T00:00:00.000Z,,
+TN0020000,Bedford County Sheriff's Office,18178,TN,East South Central,South,Region III,BEDFORD,County,True,1999-06-01T00:00:00.000Z,35.485344,-86.46293
+TN0020100,Shelbyville Police Department,18179,TN,East South Central,South,Region III,BEDFORD,City,True,1999-02-01T00:00:00.000Z,35.485355,-86.463066
+TN0020200,Wartrace Police Department,18180,TN,East South Central,South,Region III,BEDFORD,City,False,2001-01-01T00:00:00.000Z,35.51366,-86.458294
+TN0030000,Benton County Sheriff's Office,18182,TN,East South Central,South,Region III,BENTON,County,True,1999-03-01T00:00:00.000Z,36.069253,-88.071212
+TN0030100,Camden Police Department,18183,TN,East South Central,South,Region III,BENTON,City,True,1999-06-01T00:00:00.000Z,36.069253,-88.071212
+TN0030200,Big Sandy Police Department,18184,TN,East South Central,South,Region III,BENTON,City,True,2000-09-01T00:00:00.000Z,36.069253,-88.071212
+TN0040000,Bledsoe County Sheriff's Office,18186,TN,East South Central,South,Region III,BLEDSOE,County,True,1998-01-01T00:00:00.000Z,35.593668,-85.205979
+TN0040100,Pikeville Police Department,18187,TN,East South Central,South,Region III,BLEDSOE,City,True,2000-08-01T00:00:00.000Z,35.593668,-85.205979
+TN0050000,Blount County Sheriff's Office,18189,TN,East South Central,South,Region III,BLOUNT,County,True,1998-01-01T00:00:00.000Z,35.75494,-83.95834
+TN0050100,Alcoa Police Department,18190,TN,East South Central,South,Region III,BLOUNT,City,True,1998-01-01T00:00:00.000Z,35.688185,-83.922973
+TN0050200,Maryville Police Department,18191,TN,East South Central,South,Region III,BLOUNT,City,True,1998-01-01T00:00:00.000Z,35.688185,-83.922973
+TN0050500,Townsend Police Department,18194,TN,East South Central,South,Region III,BLOUNT,City,True,1999-07-01T00:00:00.000Z,35.688185,-83.922973
+TN0050600,Drug Task Force: 5th Judicial District,18195,TN,East South Central,South,Region III,BLOUNT,Other,True,1998-08-01T00:00:00.000Z,35.688185,-83.922973
+TN0050700,Knoxville Metropolitan Airport,18196,TN,East South Central,South,Region III,BLOUNT,Other,True,1998-06-01T00:00:00.000Z,35.992726,-83.937721
+TN0060000,Bradley County Sheriff's Office,18198,TN,East South Central,South,Region III,BRADLEY,County,True,1997-12-01T00:00:00.000Z,35.153914,-84.859414
+TN0060100,Cleveland Police Department,18199,TN,East South Central,South,Region III,BRADLEY,City,True,1999-03-01T00:00:00.000Z,35.159904,-84.87444
+TN0060200,Charleston Police Department,18200,TN,East South Central,South,Region III,BRADLEY,City,True,1999-06-01T00:00:00.000Z,35.153914,-84.859414
+TN0060300,Drug Task Force: 10th Judicial District,18201,TN,East South Central,South,Region III,BRADLEY,Other,True,1999-03-01T00:00:00.000Z,35.153914,-84.859414
+TN0060500,Cleveland State Community College,18203,TN,East South Central,South,Region III,BRADLEY,University or College,True,1998-01-01T00:00:00.000Z,35.203487,-84.87649
+TN0070000,Campbell County Sheriff's Office,18206,TN,East South Central,South,Region III,CAMPBELL,County,True,1997-10-01T00:00:00.000Z,36.401592,-84.159249
+TN0070100,Jellico Police Department,18207,TN,East South Central,South,Region III,CAMPBELL,City,True,1998-06-01T00:00:00.000Z,36.586983,-84.13009
+TN0070200,La Follette Police Department,18208,TN,East South Central,South,Region III,CAMPBELL,City,True,1998-01-01T00:00:00.000Z,36.3797,-84.121765
+TN0070300,Caryville Police Department,18209,TN,East South Central,South,Region III,CAMPBELL,City,True,1999-03-01T00:00:00.000Z,36.303528,-84.22275
+TN0070400,Jacksboro Police Department,18210,TN,East South Central,South,Region III,CAMPBELL,City,True,1999-04-01T00:00:00.000Z,36.401592,-84.159249
+TN0080000,Cannon County Sheriff's Office,18216,TN,East South Central,South,Region III,CANNON,County,True,1997-11-01T00:00:00.000Z,35.808394,-86.062404
+TN0080100,Woodbury Police Department,18217,TN,East South Central,South,Region III,CANNON,City,True,1998-11-01T00:00:00.000Z,35.82605,-86.08409
+TN0090000,Carroll County Sheriff's Office,18218,TN,East South Central,South,Region III,CARROLL,County,True,1997-09-01T00:00:00.000Z,36.002686,-88.429405
+TN0090100,Huntingdon Police Department,18219,TN,East South Central,South,Region III,CARROLL,City,True,1997-12-01T00:00:00.000Z,35.96788,-88.45168
+TN0090200,Bruceton Police Department,18220,TN,East South Central,South,Region III,CARROLL,City,True,1998-05-01T00:00:00.000Z,35.96788,-88.45168
+TN0090300,McKenzie Police Department,18221,TN,East South Central,South,Region III,"CARROLL, HENRY, WEAKLEY",City,True,1997-11-01T00:00:00.000Z,35.96788,-88.45168
+TN0090400,Trezevant Police Department,18222,TN,East South Central,South,Region III,CARROLL,City,True,2000-11-01T00:00:00.000Z,35.96788,-88.45168
+TN0090600,Hollow Rock Police Department,18223,TN,East South Central,South,Region III,CARROLL,City,True,1999-07-01T00:00:00.000Z,35.96788,-88.45168
+TN0090700,Drug Task Force: 24th Judicial District,18224,TN,East South Central,South,Region III,CARROLL,Other,True,1999-06-01T00:00:00.000Z,35.96788,-88.45168
+TN0090800,Clarksburg Police Department,18225,TN,East South Central,South,Region III,CARROLL,City,False,2000-03-01T00:00:00.000Z,35.96788,-88.45168
+TN0100000,Carter County Sheriff's Office,18228,TN,East South Central,South,Region III,CARTER,County,True,1997-09-01T00:00:00.000Z,36.348682,-82.210266
+TN0100100,Elizabethton Police Department,18229,TN,East South Central,South,Region III,CARTER,City,True,1997-11-01T00:00:00.000Z,36.3471,-82.21435
+TN0110000,Cheatham County Sheriff's Office,18235,TN,East South Central,South,Region III,CHEATHAM,County,True,1999-01-01T00:00:00.000Z,36.25518,-87.100816
+TN0110100,Ashland City Police Department,18236,TN,East South Central,South,Region III,CHEATHAM,City,True,1998-03-01T00:00:00.000Z,36.25518,-87.100816
+TN0110200,Kingston Springs Police Department,18237,TN,East South Central,South,Region III,CHEATHAM,City,True,1997-11-01T00:00:00.000Z,36.25518,-87.100816
+TN0110300,Pleasant View Police Department,18238,TN,East South Central,South,Region III,CHEATHAM,City,True,1999-06-01T00:00:00.000Z,36.25518,-87.100816
+TN0120000,Chester County Sheriff's Office,18239,TN,East South Central,South,Region III,CHESTER,County,True,1999-01-01T00:00:00.000Z,35.420253,-88.611353
+TN0120100,Henderson Police Department,18240,TN,East South Central,South,Region III,CHESTER,City,True,1999-03-01T00:00:00.000Z,35.420253,-88.611353
+TN0130000,Claiborne County Sheriff's Office,18243,TN,East South Central,South,Region III,CLAIBORNE,County,True,1998-12-01T00:00:00.000Z,36.501542,-83.660722
+TN0130100,New Tazewell Police Department,18244,TN,East South Central,South,Region III,CLAIBORNE,City,True,1997-11-01T00:00:00.000Z,36.501542,-83.660722
+TN0130200,Tazewell Police Department,18245,TN,East South Central,South,Region III,CLAIBORNE,City,True,1997-10-01T00:00:00.000Z,36.501542,-83.660722
+TN013059E,Lincoln Memorial University,25403,TN,East South Central,South,Region III,CLAIBORNE,University or College,True,2013-01-01T00:00:00.000Z,,
+TN0140000,Clay County Sheriff's Office,18248,TN,East South Central,South,Region III,CLAY,County,True,1999-04-01T00:00:00.000Z,36.550278,-85.507256
+TN0140100,Celina Police Department,18249,TN,East South Central,South,Region III,CLAY,City,True,2000-01-01T00:00:00.000Z,36.545788,-85.545816
+TN0150000,Cocke County Sheriff's Office,18250,TN,East South Central,South,Region III,COCKE,County,True,1997-09-01T00:00:00.000Z,35.966923,-83.18384
+TN0150100,Newport Police Department,18251,TN,East South Central,South,Region III,COCKE,City,True,1997-10-01T00:00:00.000Z,35.916198,-83.119223
+TN0160000,Coffee County Sheriff's Office,18252,TN,East South Central,South,Region III,COFFEE,County,True,1999-02-01T00:00:00.000Z,35.479515,-86.084785
+TN0160100,Manchester Police Department,18253,TN,East South Central,South,Region III,COFFEE,City,True,1997-11-01T00:00:00.000Z,35.483685,-86.089195
+TN0160200,Tullahoma Police Department,18254,TN,East South Central,South,Region III,"COFFEE, FRANKLIN",City,True,1996-09-01T00:00:00.000Z,35.488759,-86.078219
+TN0160500,Drug Task Force: 14th Judicial District,18256,TN,East South Central,South,Region III,COFFEE,Other,False,1998-01-01T00:00:00.000Z,35.488759,-86.078219
+TN0160600,Motlow State Community College,26160,TN,East South Central,South,Region III,COFFEE,University or College,True,2016-09-01T00:00:00.000Z,,
+TN0170000,Crockett County Sheriff's Office,18260,TN,East South Central,South,Region III,CROCKETT,County,True,1997-11-01T00:00:00.000Z,35.811312,-89.135349
+TN0170100,Alamo Police Department,18261,TN,East South Central,South,Region III,CROCKETT,City,True,1998-05-01T00:00:00.000Z,35.78513,-89.11777
+TN0170200,Bells Police Department,18262,TN,East South Central,South,Region III,CROCKETT,City,True,1999-12-01T00:00:00.000Z,35.811312,-89.135349
+TN0170300,Friendship Police Department,18263,TN,East South Central,South,Region III,CROCKETT,City,True,1999-12-01T00:00:00.000Z,35.811312,-89.135349
+TN0170400,Maury City Police Department,18264,TN,East South Central,South,Region III,CROCKETT,City,True,2000-07-01T00:00:00.000Z,35.811312,-89.135349
+TN0170500,Gadsden Police Department,18265,TN,East South Central,South,Region III,CROCKETT,City,True,2000-01-01T00:00:00.000Z,35.811312,-89.135349
+TN0180000,Cumberland County Sheriff's Office,18266,TN,East South Central,South,Region III,CUMBERLAND,County,True,1999-03-01T00:00:00.000Z,35.941387,-85.02328
+TN0180100,Crossville Police Department,18267,TN,East South Central,South,Region III,CUMBERLAND,City,True,1998-10-01T00:00:00.000Z,35.947414,-85.02842
+TN0180300,Wildlife Resources Agency: Region 3,18269,TN,East South Central,South,Region III,CUMBERLAND,Other State Agency,True,2000-06-01T00:00:00.000Z,35.970467,-85.02599
+TN0190100,Nashville Metropolitan Police Department,18271,TN,East South Central,South,Region III,DAVIDSON,City,True,1999-10-01T00:00:00.000Z,36.16728,-86.77937
+TN0190200,Berry Hill Police Department,18272,TN,East South Central,South,Region III,DAVIDSON,City,True,2001-05-01T00:00:00.000Z,36.169129,-86.78479
+TN0190300,Belle Meade Police Department,18273,TN,East South Central,South,Region III,DAVIDSON,City,True,1997-11-01T00:00:00.000Z,36.121338,-86.85264
+TN0190400,Goodlettsville Police Department,18274,TN,East South Central,South,Region III,"DAVIDSON, SUMNER",City,True,1998-10-01T00:00:00.000Z,36.169129,-86.78479
+TN0190600,Metropolitan Nashville Park Police,18276,TN,East South Central,South,Region III,DAVIDSON,Other,True,2001-05-01T00:00:00.000Z,36.169129,-86.78479
+TN0190800,Nashville International Airport,18278,TN,East South Central,South,Region III,DAVIDSON,Other,True,1999-04-01T00:00:00.000Z,36.169129,-86.78479
+TN0191000,Wildlife Resources Agency: Region 2,18293,TN,East South Central,South,Region III,DAVIDSON,Other State Agency,True,2000-07-01T00:00:00.000Z,36.169129,-86.78479
+TN0191700,Tennessee State University,18295,TN,East South Central,South,Region III,DAVIDSON,University or College,True,1997-01-01T00:00:00.000Z,36.166924,-86.82855
+TN0191800,Alcoholic Beverage Commission,18296,TN,East South Central,South,Region III,NOT SPECIFIED,Other State Agency,True,1999-05-01T00:00:00.000Z,36.163166,-86.782555
+TN0192100,Tennessee Department of Revenue Special Investigations Unit,18299,TN,East South Central,South,Region III,NOT SPECIFIED,Other State Agency,True,1998-01-01T00:00:00.000Z,36.138702,-86.82345
+TN0192300,Nashville State Community College,18300,TN,East South Central,South,Region III,DAVIDSON,University or College,True,1997-11-01T00:00:00.000Z,36.13429,-86.85825
+TN019410X,Department of Correction Internal Affairs,18302,TN,East South Central,South,Region III,DAVIDSON,Other State Agency,True,2006-01-01T00:00:00.000Z,36.163383,-86.78189
+TN019580X,Department of Agriculture,27312,TN,East South Central,South,Region III,DAVIDSON,Other State Agency,True,2017-10-01T00:00:00.000Z,,
+TN0196400,Tennessee Board of Regents,33632,TN,East South Central,South,Region III,DAVIDSON,Other State Agency,False,,,
+TN019980X,Tenncare Office of Inspector General,18303,TN,East South Central,South,Region III,NOT SPECIFIED,Other State Agency,True,2005-02-01T00:00:00.000Z,,
+TN0199E00,Vanderbilt University,18304,TN,East South Central,South,Region III,DAVIDSON,University or College,True,1997-10-01T00:00:00.000Z,36.143402,-86.810074
+TN0200000,Decatur County Sheriff's Office,18305,TN,East South Central,South,Region III,DECATUR,County,True,1997-11-01T00:00:00.000Z,35.603422,-88.107384
+TN0200100,Parsons Police Department,18306,TN,East South Central,South,Region III,DECATUR,City,True,1999-07-01T00:00:00.000Z,35.603422,-88.107384
+TN0200200,Decaturville Police Department,18307,TN,East South Central,South,Region III,DECATUR,City,True,2001-03-01T00:00:00.000Z,35.603422,-88.107384
+TN0210000,DeKalb County Sheriff's Office,18308,TN,East South Central,South,Region III,DEKALB,County,True,1997-07-01T00:00:00.000Z,35.960674,-85.81349
+TN0210100,Smithville Police Department,18309,TN,East South Central,South,Region III,DEKALB,City,True,1997-11-01T00:00:00.000Z,35.960735,-85.81172
+TN0210200,Alexandria Police Department,18310,TN,East South Central,South,Region III,DEKALB,City,True,1998-01-01T00:00:00.000Z,35.986471,-85.834914
+TN0220000,Dickson County Sheriff's Office,18312,TN,East South Central,South,Region III,DICKSON,County,True,1998-11-01T00:00:00.000Z,36.145533,-87.364155
+TN0220100,Dickson Police Department,18313,TN,East South Central,South,Region III,DICKSON,City,True,1999-03-01T00:00:00.000Z,36.074745,-87.39052
+TN0220200,Burns Police Department,18314,TN,East South Central,South,Region III,DICKSON,City,True,2001-03-01T00:00:00.000Z,36.145533,-87.364155
+TN0220300,White Bluff Police Department,18315,TN,East South Central,South,Region III,DICKSON,City,True,2000-07-01T00:00:00.000Z,36.145533,-87.364155
+TN0220400,Drug Task Force: 23rd Judicial District,18316,TN,East South Central,South,Region III,DICKSON,Other,True,1999-01-01T00:00:00.000Z,36.145533,-87.364155
+TN0220600,Dickson City Park Ranger Division,18318,TN,East South Central,South,Region III,DICKSON,Other,True,2006-07-01T00:00:00.000Z,36.069824,-87.38374
+TN0230000,Dyer County Sheriff's Office,18321,TN,East South Central,South,Region III,DYER,County,True,2000-09-01T00:00:00.000Z,36.030766,-89.384285
+TN0230100,Dyersburg Police Department,18322,TN,East South Central,South,Region III,DYER,City,True,1998-07-01T00:00:00.000Z,36.03224,-89.38953
+TN0230200,Newbern Police Department,18323,TN,East South Central,South,Region III,DYER,City,True,1998-12-01T00:00:00.000Z,36.112892,-89.262344
+TN0230300,Trimble Police Department,18324,TN,East South Central,South,Region III,"DYER, OBION",City,False,1999-08-01T00:00:00.000Z,36.054196,-89.398306
+TN0240000,Fayette County Sheriff's Office,18327,TN,East South Central,South,Region III,FAYETTE,County,True,1999-02-01T00:00:00.000Z,35.196993,-89.413803
+TN0240100,Somerville Police Department,18328,TN,East South Central,South,Region III,FAYETTE,City,True,1997-11-01T00:00:00.000Z,35.245144,-89.34894
+TN0240200,Gallaway Police Department,18329,TN,East South Central,South,Region III,FAYETTE,City,True,1998-11-01T00:00:00.000Z,35.196993,-89.413803
+TN0240300,Rossville Police Department,18330,TN,East South Central,South,Region III,FAYETTE,City,True,2000-01-01T00:00:00.000Z,35.196993,-89.413803
+TN0240400,Moscow Police Department,18331,TN,East South Central,South,Region III,FAYETTE,City,False,2000-10-01T00:00:00.000Z,35.196993,-89.413803
+TN0240500,Oakland Police Department,18332,TN,East South Central,South,Region III,FAYETTE,City,True,1999-07-01T00:00:00.000Z,35.196993,-89.413803
+TN0240700,Drug Task Force: 25th Judicial District,18334,TN,East South Central,South,Region III,FAYETTE,Other,False,1998-01-01T00:00:00.000Z,35.746006,-89.52996
+TN0240800,Piperton Police Department,18335,TN,East South Central,South,Region III,FAYETTE,City,True,2005-08-01T00:00:00.000Z,35.196993,-89.413803
+TN0250000,Fentress County Sheriff's Office,18336,TN,East South Central,South,Region III,FENTRESS,County,True,1997-06-01T00:00:00.000Z,36.375971,-84.932658
+TN0250100,Jamestown Police Department,18337,TN,East South Central,South,Region III,FENTRESS,City,True,1997-12-01T00:00:00.000Z,36.375971,-84.932658
+TN0260000,Franklin County Sheriff's Office,18339,TN,East South Central,South,Region III,FRANKLIN,County,True,1999-01-01T00:00:00.000Z,35.155926,-86.099203
+TN0260100,University of the South,18340,TN,East South Central,South,Region III,FRANKLIN,University or College,True,1997-12-01T00:00:00.000Z,35.204693,-85.920906
+TN0260200,Winchester Police Department,18341,TN,East South Central,South,Region III,FRANKLIN,City,True,1998-12-01T00:00:00.000Z,35.18289,-86.114006
+TN0260300,Cowan Police Department,18342,TN,East South Central,South,Region III,FRANKLIN,City,True,2000-04-01T00:00:00.000Z,35.155926,-86.099203
+TN0260400,Decherd Police Department,18343,TN,East South Central,South,Region III,FRANKLIN,City,True,1997-08-01T00:00:00.000Z,35.155926,-86.099203
+TN0260500,Estill Springs Police Department,18344,TN,East South Central,South,Region III,FRANKLIN,City,True,1997-11-01T00:00:00.000Z,35.155926,-86.099203
+TN0260600,Huntland Police Department,18345,TN,East South Central,South,Region III,FRANKLIN,City,True,1998-01-01T00:00:00.000Z,35.155926,-86.099203
+TN0270000,Gibson County Sheriff's Office,18348,TN,East South Central,South,Region III,GIBSON,County,True,1998-12-01T00:00:00.000Z,35.982616,-88.94164
+TN0270100,Humboldt Police Department,18349,TN,East South Central,South,Region III,"GIBSON, MADISON",City,True,1998-12-01T00:00:00.000Z,35.82147,-88.916824
+TN0270200,Milan Police Department,18350,TN,East South Central,South,Region III,GIBSON,City,True,1997-08-01T00:00:00.000Z,35.90479,-88.757065
+TN0270300,Trenton Police Department,18351,TN,East South Central,South,Region III,GIBSON,City,True,1997-11-01T00:00:00.000Z,35.978756,-88.94174
+TN0270400,Dyer Police Department,18352,TN,East South Central,South,Region III,GIBSON,City,True,1998-01-01T00:00:00.000Z,36.063286,-88.98966
+TN0270500,Bradford Police Department,18353,TN,East South Central,South,Region III,GIBSON,City,True,1999-04-01T00:00:00.000Z,35.991679,-88.933822
+TN0270600,Gibson Police Department,18354,TN,East South Central,South,Region III,GIBSON,City,True,1998-01-01T00:00:00.000Z,35.991679,-88.933822
+TN0270800,Rutherford Police Department,18355,TN,East South Central,South,Region III,GIBSON,City,True,1998-02-01T00:00:00.000Z,35.991679,-88.933822
+TN0270900,Medina Police Department,18356,TN,East South Central,South,Region III,GIBSON,City,True,1999-08-01T00:00:00.000Z,35.991679,-88.933822
+TN0280000,Giles County Sheriff's Office,18357,TN,East South Central,South,Region III,GILES,County,True,1999-06-01T00:00:00.000Z,35.217453,-87.0561
+TN0280100,Pulaski Police Department,18358,TN,East South Central,South,Region III,GILES,City,True,2000-01-01T00:00:00.000Z,35.197826,-87.031525
+TN0280200,Minor Hill Police Department,18359,TN,East South Central,South,Region III,GILES,City,True,1999-09-01T00:00:00.000Z,35.202723,-87.035319
+TN0280300,Ardmore Police Department,18360,TN,East South Central,South,Region III,"GILES, LINCOLN",City,True,1999-11-01T00:00:00.000Z,35.202723,-87.035319
+TN0280400,Lynnville Police Department,18361,TN,East South Central,South,Region III,GILES,City,False,2000-06-01T00:00:00.000Z,35.202723,-87.035319
+TN0280500,Elkton Police Department,18362,TN,East South Central,South,Region III,GILES,City,True,2000-03-01T00:00:00.000Z,35.202723,-87.035319
+TN0290000,Grainger County Sheriff's Office,18365,TN,East South Central,South,Region III,GRAINGER,County,True,1997-11-01T00:00:00.000Z,36.277463,-83.509493
+TN0290100,Rutledge Police Department,18366,TN,East South Central,South,Region III,GRAINGER,City,True,1999-10-01T00:00:00.000Z,36.277463,-83.509493
+TN0290200,Blaine Police Department,18367,TN,East South Central,South,Region III,GRAINGER,City,True,1998-12-01T00:00:00.000Z,36.277463,-83.509493
+TN0290300,Bean Station Police Department,18368,TN,East South Central,South,Region III,GRAINGER,City,True,1999-08-01T00:00:00.000Z,36.277463,-83.509493
+TN0300000,Greene County Sheriff's Office,18369,TN,East South Central,South,Region III,GREENE,County,True,1999-01-01T00:00:00.000Z,36.16281,-82.829865
+TN0300100,Greeneville Police Department,18370,TN,East South Central,South,Region III,GREENE,City,True,1998-08-01T00:00:00.000Z,36.163723,-82.82877
+TN0300200,Baileyton Police Department,18371,TN,East South Central,South,Region III,GREENE,City,True,1998-12-01T00:00:00.000Z,36.33344,-82.83809
+TN0300300,Drug Task Force: 3rd Judicial District,18372,TN,East South Central,South,Region III,GREENE,Other,True,1998-01-01T00:00:00.000Z,36.179514,-82.847485
+TN0300400,Tusculum Police Department,18373,TN,East South Central,South,Region III,GREENE,City,True,1998-07-01T00:00:00.000Z,36.179514,-82.847485
+TN0300700,Mosheim,33572,TN,East South Central,South,Region III,GREENE,City,True,2021-09-01T00:00:00.000Z,,
+TN0310000,Grundy County Sheriff's Office,18376,TN,East South Central,South,Region III,GRUNDY,County,True,1999-07-01T00:00:00.000Z,35.387273,-85.722188
+TN0310100,Tracy City Police Department,18377,TN,East South Central,South,Region III,GRUNDY,City,True,1997-11-01T00:00:00.000Z,35.387273,-85.722188
+TN0310400,Monteagle Police Department,18380,TN,East South Central,South,Region III,"FRANKLIN, GRUNDY, MARION",City,True,2000-01-01T00:00:00.000Z,35.133422,-85.618399
+TN0320000,Hamblen County Sheriff's Office,18381,TN,East South Central,South,Region III,HAMBLEN,County,True,1998-07-01T00:00:00.000Z,36.214855,-83.29905
+TN0320100,Morristown Police Department,18382,TN,East South Central,South,Region III,"HAMBLEN, JEFFERSON",City,True,1998-09-01T00:00:00.000Z,36.218397,-83.266071
+TN0320200,Walters State Community College,18383,TN,East South Central,South,Region III,HAMBLEN,University or College,True,1998-01-01T00:00:00.000Z,36.218397,-83.266071
+TN0320400,Wildlife Resources Agency: Region 4,18385,TN,East South Central,South,Region III,HAMBLEN,Other State Agency,True,2000-06-01T00:00:00.000Z,36.218397,-83.266071
+TN0330000,Hamilton County Sheriff's Office,18387,TN,East South Central,South,Region III,HAMILTON,County,True,2000-01-01T00:00:00.000Z,35.049618,-85.30953
+TN0330100,Chattanooga Police Department,18388,TN,East South Central,South,Region III,HAMILTON,City,True,2000-03-01T00:00:00.000Z,35.159186,-85.202296
+TN0330200,East Ridge Police Department,18389,TN,East South Central,South,Region III,HAMILTON,City,True,1999-08-01T00:00:00.000Z,34.99704,-85.242805
+TN0330300,Lookout Mountain Police Department,18390,TN,East South Central,South,Region III,HAMILTON,City,True,2000-01-01T00:00:00.000Z,35.159186,-85.202296
+TN0330500,Signal Mountain Police Department,18391,TN,East South Central,South,Region III,HAMILTON,City,True,1996-12-01T00:00:00.000Z,35.13595,-85.331924
+TN0330600,Soddy-Daisy Police Department,18392,TN,East South Central,South,Region III,HAMILTON,City,True,1997-11-01T00:00:00.000Z,35.24669,-85.18715
+TN0330700,Collegedale Police Department,18393,TN,East South Central,South,Region III,HAMILTON,City,True,1997-06-01T00:00:00.000Z,35.159186,-85.202296
+TN0330800,Red Bank Police Department,18394,TN,East South Central,South,Region III,HAMILTON,City,True,1999-11-01T00:00:00.000Z,35.10601,-85.29774
+TN0330900,University of Tennessee: Chattanooga,18395,TN,East South Central,South,Region III,HAMILTON,University or College,True,1997-11-01T00:00:00.000Z,35.047035,-85.29402
+TN0331300,Chattanooga Metropolitan Airport,18399,TN,East South Central,South,Region III,HAMILTON,Other,True,2000-07-01T00:00:00.000Z,35.03214,-85.19461
+TN0331700,Chattanooga State Community College,18402,TN,East South Central,South,Region III,HAMILTON,University or College,True,1998-01-01T00:00:00.000Z,35.096436,-85.237816
+TN0332300,Chattanooga Housing Authority,18404,TN,East South Central,South,Region III,HAMILTON,Other,True,2008-06-01T00:00:00.000Z,35.014614,-85.28143
+TN0340000,Hancock County Sheriff's Office,18405,TN,East South Central,South,Region III,HANCOCK,County,True,1997-11-01T00:00:00.000Z,36.521419,-83.227453
+TN0350000,Hardeman County Sheriff's Office,18407,TN,East South Central,South,Region III,HARDEMAN,County,True,1996-09-01T00:00:00.000Z,35.218489,-88.98883
+TN0350100,Bolivar Police Department,18408,TN,East South Central,South,Region III,HARDEMAN,City,True,2000-01-01T00:00:00.000Z,35.25703,-88.98929
+TN0350200,Whiteville Police Department,18409,TN,East South Central,South,Region III,HARDEMAN,City,True,1999-08-01T00:00:00.000Z,35.218489,-88.98883
+TN0350300,Middleton Police Department,18410,TN,East South Central,South,Region III,HARDEMAN,City,True,1999-11-01T00:00:00.000Z,35.218489,-88.98883
+TN0350500,Grand Junction Police Department,18411,TN,East South Central,South,Region III,"FAYETTE, HARDEMAN",City,True,1998-01-01T00:00:00.000Z,35.218489,-88.98883
+TN0350700,Toone Police Department,18412,TN,East South Central,South,Region III,HARDEMAN,City,True,2001-01-01T00:00:00.000Z,35.218489,-88.98883
+TN0360000,Hardin County Sheriff's Office,18414,TN,East South Central,South,Region III,HARDIN,County,True,1999-08-01T00:00:00.000Z,35.201893,-88.185696
+TN0360100,Savannah Police Department,18415,TN,East South Central,South,Region III,HARDIN,City,True,1997-09-01T00:00:00.000Z,35.201893,-88.185696
+TN0360500,Saltillo Police Department,18418,TN,East South Central,South,Region III,HARDIN,City,True,2010-05-01T00:00:00.000Z,35.201893,-88.185696
+TN0370000,Hawkins County Sheriff's Office,18420,TN,East South Central,South,Region III,HAWKINS,County,True,2000-06-01T00:00:00.000Z,36.452211,-82.931386
+TN0370100,Rogersville Police Department,18421,TN,East South Central,South,Region III,HAWKINS,City,True,1997-11-01T00:00:00.000Z,36.452211,-82.931386
+TN0370200,Surgoinsville Police Department,18422,TN,East South Central,South,Region III,HAWKINS,City,True,2000-09-01T00:00:00.000Z,36.452211,-82.931386
+TN0370300,Mount Carmel Police Department,18423,TN,East South Central,South,Region III,HAWKINS,City,True,1996-10-01T00:00:00.000Z,36.452211,-82.931386
+TN0370400,Church Hill Police Department,18424,TN,East South Central,South,Region III,HAWKINS,City,True,1997-09-01T00:00:00.000Z,36.452211,-82.931386
+TN0380000,Haywood County Sheriff's Office,18426,TN,East South Central,South,Region III,HAYWOOD,County,True,1998-12-01T00:00:00.000Z,35.58669,-89.282536
+TN0380100,Brownsville Police Department,18427,TN,East South Central,South,Region III,HAYWOOD,City,True,1998-03-01T00:00:00.000Z,35.58669,-89.282536
+TN0390000,Henderson County Sheriff's Office,18428,TN,East South Central,South,Region III,HENDERSON,County,True,1998-01-01T00:00:00.000Z,35.64882,-88.39278
+TN0390100,Lexington Police Department,18429,TN,East South Central,South,Region III,HENDERSON,City,True,1997-11-01T00:00:00.000Z,35.647858,-88.393234
+TN0390200,Scotts Hill Police Department,18430,TN,East South Central,South,Region III,"DECATUR, HENDERSON",City,True,2000-06-01T00:00:00.000Z,35.603422,-88.107384
+TN0400000,Henry County Sheriff's Office,18432,TN,East South Central,South,Region III,HENRY,County,True,1996-09-01T00:00:00.000Z,36.325398,-88.300384
+TN0400100,Paris Police Department,18433,TN,East South Central,South,Region III,HENRY,City,True,1998-01-01T00:00:00.000Z,36.325398,-88.300384
+TN0400200,Puryear Police Department,18434,TN,East South Central,South,Region III,HENRY,City,True,1999-08-01T00:00:00.000Z,36.325398,-88.300384
+TN0400400,Henry Police Department,18436,TN,East South Central,South,Region III,HENRY,City,True,1999-07-01T00:00:00.000Z,36.325398,-88.300384
+TN0410000,Hickman County Sheriff's Office,18438,TN,East South Central,South,Region III,HICKMAN,County,True,1999-02-01T00:00:00.000Z,35.802291,-87.467101
+TN0410100,Centerville Police Department,18439,TN,East South Central,South,Region III,HICKMAN,City,True,1997-11-01T00:00:00.000Z,35.802291,-87.467101
+TN0420000,Houston County Sheriff's Office,18440,TN,East South Central,South,Region III,HOUSTON,County,True,1999-04-01T00:00:00.000Z,36.285784,-87.705599
+TN0420100,Erin Police Department,18441,TN,East South Central,South,Region III,HOUSTON,City,True,1997-12-01T00:00:00.000Z,36.285784,-87.705599
+TN0430000,Humphreys County Sheriff's Office,18442,TN,East South Central,South,Region III,HUMPHREYS,County,True,1997-11-01T00:00:00.000Z,36.04044,-87.790625
+TN0430100,Waverly Police Department,18443,TN,East South Central,South,Region III,HUMPHREYS,City,True,1997-11-01T00:00:00.000Z,36.04044,-87.790625
+TN0430200,New Johnsonville Police Department,18444,TN,East South Central,South,Region III,HUMPHREYS,City,True,1999-10-01T00:00:00.000Z,36.04044,-87.790625
+TN0430300,McEwen Police Department,18445,TN,East South Central,South,Region III,HUMPHREYS,City,True,1999-05-01T00:00:00.000Z,36.04044,-87.790625
+TN0440000,Jackson County Sheriff's Office,18447,TN,East South Central,South,Region III,JACKSON,County,True,1999-02-01T00:00:00.000Z,36.354241,-85.674094
+TN0440100,Gainesboro Police Department,18448,TN,East South Central,South,Region III,JACKSON,City,True,1999-10-01T00:00:00.000Z,36.354241,-85.674094
+TN0450000,Jefferson County Sheriff's Office,18449,TN,East South Central,South,Region III,JEFFERSON,County,True,1998-10-01T00:00:00.000Z,36.048479,-83.440966
+TN0450100,Jefferson City Police Department,18450,TN,East South Central,South,Region III,JEFFERSON,City,True,1998-07-01T00:00:00.000Z,36.048479,-83.440966
+TN0450200,White Pine Police Department,18451,TN,East South Central,South,Region III,JEFFERSON,City,True,1997-11-01T00:00:00.000Z,36.048479,-83.440966
+TN0450300,Dandridge Police Department,18452,TN,East South Central,South,Region III,JEFFERSON,City,True,1997-10-01T00:00:00.000Z,36.048479,-83.440966
+TN0450400,New Market Police Department,18453,TN,East South Central,South,Region III,JEFFERSON,City,True,1998-12-01T00:00:00.000Z,36.048479,-83.440966
+TN0460000,Johnson County Sheriff's Office,18456,TN,East South Central,South,Region III,JOHNSON,County,True,2000-01-01T00:00:00.000Z,36.468067,-81.80009
+TN0460100,Mountain City Police Department,18457,TN,East South Central,South,Region III,JOHNSON,City,True,1999-01-01T00:00:00.000Z,36.453203,-81.861247
+TN0470000,Knox County Sheriff's Office,18458,TN,East South Central,South,Region III,KNOX,County,True,1998-12-01T00:00:00.000Z,35.992726,-83.937721
+TN0470100,Knoxville Police Department,18459,TN,East South Central,South,Region III,KNOX,City,True,2000-03-01T00:00:00.000Z,35.992726,-83.937721
+TN0470500,University of Tennessee: Knoxville,18460,TN,East South Central,South,Region III,KNOX,University or College,True,1997-10-01T00:00:00.000Z,35.958885,-83.92579
+TN0472200,Pellissippi State Community College,26037,TN,East South Central,South,Region III,KNOX,University or College,True,2015-01-01T00:00:00.000Z,,
+TN0480000,Lake County Sheriff's Office,18468,TN,East South Central,South,Region III,LAKE,County,True,2000-02-01T00:00:00.000Z,36.378246,-89.48386
+TN0480100,Ridgely Police Department,18469,TN,East South Central,South,Region III,LAKE,City,True,1998-11-01T00:00:00.000Z,36.264492,-89.48746
+TN0480200,Tiptonville Police Department,18470,TN,East South Central,South,Region III,LAKE,City,True,1999-10-01T00:00:00.000Z,36.378044,-89.483826
+TN0490000,Lauderdale County Sheriff's Office,18472,TN,East South Central,South,Region III,LAUDERDALE,County,True,1999-05-01T00:00:00.000Z,35.762951,-89.627732
+TN0490100,Ripley Police Department,18473,TN,East South Central,South,Region III,LAUDERDALE,City,True,1998-12-01T00:00:00.000Z,35.762951,-89.627732
+TN0490200,Halls Police Department,18474,TN,East South Central,South,Region III,LAUDERDALE,City,True,1997-11-01T00:00:00.000Z,35.762951,-89.627732
+TN0490300,Henning Police Department,18475,TN,East South Central,South,Region III,LAUDERDALE,City,True,1999-11-01T00:00:00.000Z,35.762951,-89.627732
+TN0490400,Gates Police Department,18476,TN,East South Central,South,Region III,LAUDERDALE,City,True,1999-08-01T00:00:00.000Z,35.762951,-89.627732
+TN0500000,Lawrence County Sheriff's Office,18479,TN,East South Central,South,Region III,LAWRENCE,County,True,1999-07-01T00:00:00.000Z,35.241077,-87.33164
+TN0500100,Lawrenceburg Police Department,18480,TN,East South Central,South,Region III,LAWRENCE,City,True,1998-11-01T00:00:00.000Z,35.220476,-87.396546
+TN0500200,Loretto Police Department,18481,TN,East South Central,South,Region III,LAWRENCE,City,True,1998-12-01T00:00:00.000Z,35.220476,-87.396546
+TN0500300,St. Joseph Police Department,18482,TN,East South Central,South,Region III,LAWRENCE,City,True,2000-06-01T00:00:00.000Z,35.220476,-87.396546
+TN0500700,Ethridge Police Department,18485,TN,East South Central,South,Region III,LAWRENCE,City,True,1997-12-01T00:00:00.000Z,35.220476,-87.396546
+TN0500800,Drug Task Force: 22nd Judicial District,18486,TN,East South Central,South,Region III,LAWRENCE,Other,True,1999-08-01T00:00:00.000Z,35.220476,-87.396546
+TN0510000,Lewis County Sheriff's Office,18488,TN,East South Central,South,Region III,LEWIS,County,True,1997-11-01T00:00:00.000Z,35.55375,-87.54093
+TN0510100,Hohenwald Police Department,18489,TN,East South Central,South,Region III,LEWIS,City,True,1998-12-01T00:00:00.000Z,35.523244,-87.496983
+TN0520000,Lincoln County Sheriff's Office,18491,TN,East South Central,South,Region III,LINCOLN,County,True,1999-02-01T00:00:00.000Z,35.161266,-86.558624
+TN0520100,Fayetteville Police Department,18492,TN,East South Central,South,Region III,LINCOLN,City,True,1999-01-01T00:00:00.000Z,35.151,-86.56791
+TN0530000,Loudon County Sheriff's Office,18493,TN,East South Central,South,Region III,LOUDON,County,True,1997-11-01T00:00:00.000Z,35.73745,-84.316204
+TN0530100,Lenoir City Police Department,18494,TN,East South Central,South,Region III,LOUDON,City,True,1997-11-01T00:00:00.000Z,35.73745,-84.316204
+TN0530200,Loudon Police Department,18495,TN,East South Central,South,Region III,LOUDON,City,True,1997-11-01T00:00:00.000Z,35.73745,-84.316204
+TN0540000,McMinn County Sheriff's Office,18496,TN,East South Central,South,Region III,MCMINN,County,True,1998-01-01T00:00:00.000Z,35.424471,-84.619962
+TN0540100,Athens Police Department,18497,TN,East South Central,South,Region III,MCMINN,City,True,1999-10-01T00:00:00.000Z,35.424471,-84.619962
+TN0540200,Englewood Police Department,18498,TN,East South Central,South,Region III,MCMINN,City,True,1998-06-01T00:00:00.000Z,35.424471,-84.619962
+TN0540300,Etowah Police Department,18499,TN,East South Central,South,Region III,MCMINN,City,True,1997-12-01T00:00:00.000Z,35.424471,-84.619962
+TN0540400,Calhoun Police Department,18500,TN,East South Central,South,Region III,MCMINN,City,True,1999-09-01T00:00:00.000Z,35.424471,-84.619962
+TN0540500,Niota Police Department,18501,TN,East South Central,South,Region III,MCMINN,City,True,1999-06-01T00:00:00.000Z,35.424471,-84.619962
+TN0550000,McNairy County Sheriff's Office,18504,TN,East South Central,South,Region III,MCNAIRY,County,True,1999-11-01T00:00:00.000Z,35.158752,-88.594795
+TN0550100,Selmer Police Department,18505,TN,East South Central,South,Region III,MCNAIRY,City,True,1999-08-01T00:00:00.000Z,35.170628,-88.591644
+TN0550200,Adamsville Police Department,18506,TN,East South Central,South,Region III,"HARDIN, MCNAIRY",City,True,1997-10-01T00:00:00.000Z,35.175228,-88.563629
+TN0560000,Macon County Sheriff's Office,18509,TN,East South Central,South,Region III,MACON,County,True,1997-10-01T00:00:00.000Z,36.503487,-86.00329
+TN0560100,Lafayette Police Department,18510,TN,East South Central,South,Region III,MACON,City,True,1997-11-01T00:00:00.000Z,36.521484,-86.02448
+TN0560200,Red Boiling Springs Police Department,18511,TN,East South Central,South,Region III,MACON,City,True,1999-03-01T00:00:00.000Z,36.537757,-86.000959
+TN0570000,Madison County Sheriff's Office,18512,TN,East South Central,South,Region III,MADISON,County,True,1999-08-01T00:00:00.000Z,35.615646,-88.81118
+TN0570100,Jackson Police Department,18513,TN,East South Central,South,Region III,MADISON,City,True,1999-07-01T00:00:00.000Z,35.610466,-88.81519
+TN0570700,Wildlife Resources Agency: Region 1,18516,TN,East South Central,South,Region III,MADISON,Other State Agency,True,2000-06-01T00:00:00.000Z,35.630108,-88.72919
+TN0570800,Jackson State Community College,18517,TN,East South Central,South,Region III,MADISON,University or College,True,1998-02-01T00:00:00.000Z,35.648434,-88.79635
+TN0580000,Marion County Sheriff's Office,18523,TN,East South Central,South,Region III,MARION,County,True,1997-12-01T00:00:00.000Z,35.133422,-85.618399
+TN0580100,South Pittsburg Police Department,18524,TN,East South Central,South,Region III,MARION,City,True,1997-11-01T00:00:00.000Z,35.013992,-85.70527
+TN0580200,Whitwell Police Department,18525,TN,East South Central,South,Region III,MARION,City,True,1999-01-01T00:00:00.000Z,35.133422,-85.618399
+TN0580300,Jasper Police Department,18526,TN,East South Central,South,Region III,MARION,City,True,2000-01-01T00:00:00.000Z,35.133422,-85.618399
+TN0580500,Kimball Police Department,18527,TN,East South Central,South,Region III,MARION,City,True,2000-03-01T00:00:00.000Z,35.133422,-85.618399
+TN0580700,Drug Task Force: 12th Judicial District,18529,TN,East South Central,South,Region III,MARION,Other,True,1998-08-01T00:00:00.000Z,35.133422,-85.618399
+TN0590000,Marshall County Sheriff's Office,18531,TN,East South Central,South,Region III,MARSHALL,County,True,1997-04-01T00:00:00.000Z,35.4499,-86.786964
+TN0590100,Lewisburg Police Department,18532,TN,East South Central,South,Region III,MARSHALL,City,True,1997-09-01T00:00:00.000Z,35.450912,-86.78779
+TN0590200,Chapel Hill Police Department,18533,TN,East South Central,South,Region III,MARSHALL,City,True,1998-11-01T00:00:00.000Z,35.468387,-86.765886
+TN0590300,Cornersville Police Department,18534,TN,East South Central,South,Region III,MARSHALL,City,True,1999-01-01T00:00:00.000Z,35.468387,-86.765886
+TN0590400,Petersburg Police Department,18535,TN,East South Central,South,Region III,"LINCOLN, MARSHALL",City,True,1999-11-01T00:00:00.000Z,35.142532,-86.593388
+TN0590500,Drug Task Force: 17th Judicial District,18536,TN,East South Central,South,Region III,MARSHALL,Other,True,2000-03-01T00:00:00.000Z,35.51366,-86.458294
+TN0590800,State Park Rangers: Chief Rangers Office,18538,TN,East South Central,South,Region III,MARSHALL,Other State Agency,False,2010-01-01T00:00:00.000Z,35.468387,-86.765886
+TN0600000,Maury County Sheriff's Office,18539,TN,East South Central,South,Region III,MAURY,County,True,1999-02-01T00:00:00.000Z,35.644005,-87.065765
+TN0600100,Columbia Police Department,18540,TN,East South Central,South,Region III,MAURY,City,True,1998-07-01T00:00:00.000Z,35.615696,-87.077763
+TN0600200,Mount Pleasant Police Department,18541,TN,East South Central,South,Region III,MAURY,City,True,1997-10-01T00:00:00.000Z,35.615696,-87.077763
+TN0600300,Spring Hill Police Department,18542,TN,East South Central,South,Region III,"MAURY, WILLIAMSON",City,True,1997-11-01T00:00:00.000Z,35.615696,-87.077763
+TN0600400,Columbia State Community College,18543,TN,East South Central,South,Region III,MAURY,University or College,True,1997-11-01T00:00:00.000Z,35.615696,-87.077763
+TN0610000,Meigs County Sheriff's Office,18545,TN,East South Central,South,Region III,MEIGS,County,True,1997-11-01T00:00:00.000Z,35.503397,-84.823888
+TN0610100,Decatur Police Department,18546,TN,East South Central,South,Region III,MEIGS,City,True,1999-12-01T00:00:00.000Z,35.503397,-84.823888
+TN0620000,Monroe County Sheriff's Office,18547,TN,East South Central,South,Region III,MONROE,County,True,1997-12-01T00:00:00.000Z,35.447666,-84.249786
+TN0620100,Sweetwater Police Department,18548,TN,East South Central,South,Region III,"MCMINN, MONROE",City,True,1997-11-01T00:00:00.000Z,35.447666,-84.249786
+TN0620200,Madisonville Police Department,18549,TN,East South Central,South,Region III,MONROE,City,True,1998-01-01T00:00:00.000Z,35.515385,-84.36499
+TN0620300,Tellico Plains Police Department,18550,TN,East South Central,South,Region III,MONROE,City,False,1999-05-01T00:00:00.000Z,35.447666,-84.249786
+TN0620500,Vonore Police Department,18552,TN,East South Central,South,Region III,MONROE,City,True,1998-02-01T00:00:00.000Z,35.447666,-84.249786
+TN0630000,Montgomery County Sheriff's Office,18554,TN,East South Central,South,Region III,MONTGOMERY,County,True,1999-04-01T00:00:00.000Z,36.52607,-87.35954
+TN0630100,Clarksville Police Department,18555,TN,East South Central,South,Region III,MONTGOMERY,City,True,1997-12-01T00:00:00.000Z,36.500354,-87.380887
+TN0630200,Austin Peay State University,18556,TN,East South Central,South,Region III,MONTGOMERY,University or College,True,1997-11-01T00:00:00.000Z,36.500354,-87.380887
+TN0630500,Drug Task Force: 19th Judicial District,18558,TN,East South Central,South,Region III,MONTGOMERY,Other,True,1998-04-01T00:00:00.000Z,36.500354,-87.380887
+TN0640000,Moore County Sheriff's Office,18561,TN,East South Central,South,Region III,MOORE,County,True,1997-11-01T00:00:00.000Z,35.28143,-86.37776
+TN0650000,Morgan County Sheriff's Office,18562,TN,East South Central,South,Region III,MORGAN,County,True,1997-04-01T00:00:00.000Z,36.138697,-84.639262
+TN0650100,Wartburg Police Department,18563,TN,East South Central,South,Region III,MORGAN,City,True,2000-02-01T00:00:00.000Z,36.138697,-84.639262
+TN0660000,Obion County Sheriff's Office,18565,TN,East South Central,South,Region III,OBION,County,True,1997-11-01T00:00:00.000Z,36.445904,-89.06224
+TN0660100,Union City Police Department,18566,TN,East South Central,South,Region III,OBION,City,True,1998-01-01T00:00:00.000Z,36.358171,-89.149879
+TN0660200,South Fulton Police Department,18567,TN,East South Central,South,Region III,OBION,City,True,1997-04-01T00:00:00.000Z,36.358171,-89.149879
+TN0660300,Kenton Police Department,18568,TN,East South Central,South,Region III,"GIBSON, OBION",City,True,1998-01-01T00:00:00.000Z,36.20233,-89.01205
+TN0660400,Troy Police Department,18569,TN,East South Central,South,Region III,OBION,City,True,1997-12-01T00:00:00.000Z,36.358171,-89.149879
+TN0660500,Obion Police Department,18570,TN,East South Central,South,Region III,OBION,City,True,2000-11-01T00:00:00.000Z,36.358171,-89.149879
+TN0660600,Drug Task Force: 27th Judicial District,18571,TN,East South Central,South,Region III,OBION,Other,True,1999-01-01T00:00:00.000Z,36.445904,-89.06224
+TN0660700,Hornbeak Police Department,18572,TN,East South Central,South,Region III,OBION,City,False,1999-06-01T00:00:00.000Z,36.358171,-89.149879
+TN0670000,Overton County Sheriff's Office,18574,TN,East South Central,South,Region III,OVERTON,County,True,1997-10-01T00:00:00.000Z,36.396347,-85.324104
+TN0670100,Livingston Police Department,18575,TN,East South Central,South,Region III,OVERTON,City,True,1997-11-01T00:00:00.000Z,36.393272,-85.32605
+TN0680000,Perry County Sheriff's Office,18578,TN,East South Central,South,Region III,PERRY,County,True,1999-09-01T00:00:00.000Z,35.58996,-87.85022
+TN0690000,Pickett County Sheriff's Office,18580,TN,East South Central,South,Region III,PICKETT,County,True,2000-01-01T00:00:00.000Z,36.559364,-85.075741
+TN0700000,Polk County Sheriff's Office,18582,TN,East South Central,South,Region III,POLK,County,True,1997-09-01T00:00:00.000Z,35.109437,-84.541112
+TN0700200,Benton Police Department,18584,TN,East South Central,South,Region III,POLK,City,True,1997-11-01T00:00:00.000Z,35.109437,-84.541112
+TN0710000,Putnam County Sheriff's Office,18586,TN,East South Central,South,Region III,PUTNAM,County,True,1997-10-01T00:00:00.000Z,36.16286,-85.5155
+TN0710100,Cookeville Police Department,18587,TN,East South Central,South,Region III,PUTNAM,City,True,1999-01-01T00:00:00.000Z,36.140807,-85.496928
+TN0710200,Algood Police Department,18588,TN,East South Central,South,Region III,PUTNAM,City,True,1997-12-01T00:00:00.000Z,36.140807,-85.496928
+TN0710300,Monterey Police Department,18589,TN,East South Central,South,Region III,PUTNAM,City,True,2000-01-01T00:00:00.000Z,36.140807,-85.496928
+TN0710400,Baxter Police Department,18590,TN,East South Central,South,Region III,PUTNAM,City,True,1999-03-01T00:00:00.000Z,36.140807,-85.496928
+TN0710500,Tennessee Technological University,18591,TN,East South Central,South,Region III,PUTNAM,University or College,True,1997-10-01T00:00:00.000Z,36.140807,-85.496928
+TN0720000,Rhea County Sheriff's Office,18594,TN,East South Central,South,Region III,RHEA,County,True,1996-12-01T00:00:00.000Z,35.600587,-84.949552
+TN0720100,Dayton Police Department,18595,TN,East South Central,South,Region III,RHEA,City,True,1997-11-01T00:00:00.000Z,35.600587,-84.949552
+TN0720200,Spring City Police Department,18596,TN,East South Central,South,Region III,RHEA,City,True,1997-12-01T00:00:00.000Z,35.600587,-84.949552
+TN0720300,Graysville Police Department,18597,TN,East South Central,South,Region III,RHEA,City,True,1998-01-01T00:00:00.000Z,35.600587,-84.949552
+TN0730000,Roane County Sheriff's Office,18599,TN,East South Central,South,Region III,ROANE,County,True,1997-07-01T00:00:00.000Z,35.872158,-84.51474
+TN0730100,Harriman Police Department,18600,TN,East South Central,South,Region III,ROANE,City,True,1998-05-01T00:00:00.000Z,35.847249,-84.523942
+TN0730200,Kingston Police Department,18601,TN,East South Central,South,Region III,ROANE,City,True,1998-06-01T00:00:00.000Z,35.872524,-84.51633
+TN0730300,Oliver Springs Police Department,18602,TN,East South Central,South,Region III,"ANDERSON, MORGAN, ROANE",City,True,1997-07-01T00:00:00.000Z,35.847249,-84.523942
+TN0730400,Rockwood Police Department,18603,TN,East South Central,South,Region III,ROANE,City,True,1997-11-01T00:00:00.000Z,35.867966,-84.68639
+TN0730500,Drug Task Force: 9th Judicial District,18604,TN,East South Central,South,Region III,ROANE,Other,True,1998-01-01T00:00:00.000Z,35.865707,-84.52077
+TN0730600,Roane State Community College,18605,TN,East South Central,South,Region III,ROANE,University or College,True,1997-11-01T00:00:00.000Z,35.847249,-84.523942
+TN0740000,Robertson County Sheriff's Office,18607,TN,East South Central,South,Region III,ROBERTSON,County,True,1998-06-01T00:00:00.000Z,36.508728,-86.88022
+TN0740100,Springfield Police Department,18608,TN,East South Central,South,Region III,ROBERTSON,City,True,1998-03-01T00:00:00.000Z,36.52753,-86.869377
+TN0740200,Greenbrier Police Department,18609,TN,East South Central,South,Region III,ROBERTSON,City,True,1998-03-01T00:00:00.000Z,36.52753,-86.869377
+TN0740400,Cross Plains Police Department,18611,TN,East South Central,South,Region III,ROBERTSON,City,True,1999-01-01T00:00:00.000Z,36.52922,-86.64708
+TN0740600,Coopertown Police Department,18612,TN,East South Central,South,Region III,ROBERTSON,City,True,1999-04-01T00:00:00.000Z,36.439938,-86.97061
+TN0750000,Rutherford County Sheriff's Office,18613,TN,East South Central,South,Region III,RUTHERFORD,County,True,1999-06-01T00:00:00.000Z,35.83635,-86.409584
+TN0750100,Murfreesboro Police Department,18614,TN,East South Central,South,Region III,RUTHERFORD,City,True,1998-01-01T00:00:00.000Z,35.84415,-86.391716
+TN0750200,Smyrna Police Department,18615,TN,East South Central,South,Region III,RUTHERFORD,City,True,2000-10-01T00:00:00.000Z,35.843369,-86.417213
+TN0750300,La Vergne Police Department,18616,TN,East South Central,South,Region III,RUTHERFORD,City,True,1998-08-01T00:00:00.000Z,35.843369,-86.417213
+TN0750400,Middle Tennessee State University,18617,TN,East South Central,South,Region III,RUTHERFORD,University or College,True,1997-02-01T00:00:00.000Z,35.843369,-86.417213
+TN0750500,Eagleville Police Department,18618,TN,East South Central,South,Region III,RUTHERFORD,City,True,1998-08-01T00:00:00.000Z,35.843369,-86.417213
+TN0760000,Scott County Sheriff's Office,18621,TN,East South Central,South,Region III,SCOTT,County,True,1997-08-01T00:00:00.000Z,36.436141,-84.505576
+TN0760100,Oneida Police Department,18622,TN,East South Central,South,Region III,SCOTT,City,True,1999-01-01T00:00:00.000Z,36.436141,-84.505576
+TN0770000,Sequatchie County Sheriff's Office,18625,TN,East South Central,South,Region III,SEQUATCHIE,County,True,1997-02-01T00:00:00.000Z,35.38184,-85.391136
+TN0770100,Dunlap Police Department,18626,TN,East South Central,South,Region III,SEQUATCHIE,City,True,1996-07-01T00:00:00.000Z,35.372358,-85.410322
+TN0780000,Sevier County Sheriff's Office,18627,TN,East South Central,South,Region III,SEVIER,County,True,1999-01-01T00:00:00.000Z,35.791253,-83.521972
+TN0780100,Gatlinburg Police Department,18628,TN,East South Central,South,Region III,SEVIER,City,True,1997-11-01T00:00:00.000Z,35.791253,-83.521972
+TN0780200,Sevierville Police Department,18629,TN,East South Central,South,Region III,SEVIER,City,True,1998-11-01T00:00:00.000Z,35.791253,-83.521972
+TN0780300,Pigeon Forge Police Department,18630,TN,East South Central,South,Region III,SEVIER,City,True,1998-12-01T00:00:00.000Z,35.791253,-83.521972
+TN0780400,Pittman Center Police Department,18631,TN,East South Central,South,Region III,SEVIER,City,True,1999-04-01T00:00:00.000Z,35.758984,-83.39628
+TN0780500,Drug Task Force: 4th Judicial District,18632,TN,East South Central,South,Region III,SEVIER,Other,True,1998-01-01T00:00:00.000Z,36.048479,-83.440966
+TN0790000,Shelby County Sheriff's Office,18633,TN,East South Central,South,Region III,SHELBY,County,True,2000-08-01T00:00:00.000Z,35.14924,-90.047455
+TN0790100,Collierville Police Department,18634,TN,East South Central,South,Region III,SHELBY,City,True,1999-07-01T00:00:00.000Z,35.042213,-89.667854
+TN0790200,Germantown Police Department,18635,TN,East South Central,South,Region III,SHELBY,City,True,1999-03-01T00:00:00.000Z,35.09635,-89.80717
+TN0790400,Millington Police Department,18636,TN,East South Central,South,Region III,SHELBY,City,True,1999-10-01T00:00:00.000Z,35.183794,-89.895397
+TN0790500,University of Tennessee: Health Science Center,18637,TN,East South Central,South,Region III,SHELBY,University or College,True,1997-10-01T00:00:00.000Z,35.14188,-90.035446
+TN0790600,Bartlett Police Department,18638,TN,East South Central,South,Region III,SHELBY,City,True,1999-06-01T00:00:00.000Z,35.228004,-89.80908
+TN0790900,University of Memphis,18639,TN,East South Central,South,Region III,SHELBY,University or College,True,1998-01-01T00:00:00.000Z,35.183794,-89.895397
+TN0791000,Memphis-Shelby County Airport Authority,18649,TN,East South Central,South,Region III,SHELBY,Other,True,1999-12-01T00:00:00.000Z,35.183794,-89.895397
+TN0792000,West Tennessee Violent Crime Task Force,18660,TN,East South Central,South,Region III,SHELBY,Other,True,1999-07-01T00:00:00.000Z,35.149635,-90.04888
+TN0792400,Southwest Tennessee Community College,18661,TN,East South Central,South,Region III,SHELBY,University or College,True,2003-01-01T00:00:00.000Z,35.183794,-89.895397
+TN079279E,Christian Brothers University,18662,TN,East South Central,South,Region III,SHELBY,University or College,False,2006-01-01T00:00:00.000Z,,
+TN0800000,Smith County Sheriff's Office,18663,TN,East South Central,South,Region III,SMITH,County,True,1999-04-01T00:00:00.000Z,36.25565,-85.942078
+TN0800100,Carthage Police Department,18664,TN,East South Central,South,Region III,SMITH,City,True,1999-02-01T00:00:00.000Z,36.25565,-85.942078
+TN0800200,South Carthage Police Department,18665,TN,East South Central,South,Region III,SMITH,City,True,1999-08-01T00:00:00.000Z,36.248238,-85.95148
+TN0800300,Gordonsville Police Department,18666,TN,East South Central,South,Region III,SMITH,City,True,2000-01-01T00:00:00.000Z,36.173046,-85.93376
+TN0810000,Stewart County Sheriff's Office,18667,TN,East South Central,South,Region III,STEWART,County,True,1997-11-01T00:00:00.000Z,36.511756,-87.851548
+TN0810200,Cumberland City Police Department,18668,TN,East South Central,South,Region III,STEWART,City,True,2000-08-01T00:00:00.000Z,36.511756,-87.851548
+TN0810300,Dover Police Department,18669,TN,East South Central,South,Region III,STEWART,City,True,1999-09-01T00:00:00.000Z,36.511756,-87.851548
+TN0820000,Sullivan County Sheriff's Office,18670,TN,East South Central,South,Region III,SULLIVAN,County,True,1999-02-01T00:00:00.000Z,36.510213,-82.299396
+TN0820100,Bristol Police Department,18671,TN,East South Central,South,Region III,SULLIVAN,City,True,1998-11-01T00:00:00.000Z,36.510213,-82.299396
+TN0820200,Kingsport Police Department,18672,TN,East South Central,South,Region III,"HAWKINS, SULLIVAN",City,True,1997-07-01T00:00:00.000Z,36.547108,-82.561806
+TN0820300,Bluff City Police Department,18673,TN,East South Central,South,Region III,SULLIVAN,City,True,1999-01-01T00:00:00.000Z,36.510213,-82.299396
+TN0820600,Drug Task Force: 2nd Judicial District,18675,TN,East South Central,South,Region III,SULLIVAN,Other,True,1999-06-01T00:00:00.000Z,36.510213,-82.299396
+TN0820700,Tri-Cities Regional Airport,18676,TN,East South Central,South,Region III,SULLIVAN,Other,True,2000-11-01T00:00:00.000Z,36.510213,-82.299396
+TN0820800,Northeast State Community College,18677,TN,East South Central,South,Region III,SULLIVAN,University or College,True,2005-09-01T00:00:00.000Z,36.510213,-82.299396
+TN0830000,Sumner County Sheriff's Office,18680,TN,East South Central,South,Region III,SUMNER,County,True,1999-04-01T00:00:00.000Z,36.387035,-86.446915
+TN0830100,Gallatin Police Department,18681,TN,East South Central,South,Region III,SUMNER,City,True,1999-01-01T00:00:00.000Z,36.473443,-86.459798
+TN0830200,Portland Police Department,18682,TN,East South Central,South,Region III,"ROBERTSON, SUMNER",City,True,1998-08-01T00:00:00.000Z,36.587227,-86.520874
+TN0830300,White House Police Department,18683,TN,East South Central,South,Region III,"ROBERTSON, SUMNER",City,True,1997-02-01T00:00:00.000Z,36.46635,-86.648674
+TN0830400,Hendersonville Police Department,18684,TN,East South Central,South,Region III,SUMNER,City,True,1999-06-01T00:00:00.000Z,36.473443,-86.459798
+TN0830500,Westmoreland Police Department,18685,TN,East South Central,South,Region III,SUMNER,City,True,1997-01-01T00:00:00.000Z,36.473443,-86.459798
+TN0830600,Millersville Police Department,18686,TN,East South Central,South,Region III,"ROBERTSON, SUMNER",City,True,1997-11-01T00:00:00.000Z,36.382824,-86.701614
+TN0830700,Drug Task Force: 18th Judicial District,18687,TN,East South Central,South,Region III,SUMNER,Other,True,1998-06-01T00:00:00.000Z,36.473443,-86.459798
+TN0830900,Volunteer State Community College,18689,TN,East South Central,South,Region III,SUMNER,University or College,True,1997-11-01T00:00:00.000Z,36.473443,-86.459798
+TN0840000,Tipton County Sheriff's Office,18690,TN,East South Central,South,Region III,TIPTON,County,True,1999-11-01T00:00:00.000Z,35.544147,-89.64928
+TN0840100,Covington Police Department,18691,TN,East South Central,South,Region III,TIPTON,City,True,1999-11-01T00:00:00.000Z,35.500297,-89.763708
+TN0840200,Munford Police Department,18692,TN,East South Central,South,Region III,TIPTON,City,True,1999-07-01T00:00:00.000Z,35.44703,-89.81368
+TN0840300,Mason Police Department,18693,TN,East South Central,South,Region III,TIPTON,City,True,2000-10-01T00:00:00.000Z,35.41264,-89.53431
+TN0840400,Brighton Police Department,18694,TN,East South Central,South,Region III,TIPTON,City,True,1998-12-01T00:00:00.000Z,35.500297,-89.763708
+TN0840500,Atoka Police Department,18695,TN,East South Central,South,Region III,TIPTON,City,True,1999-01-01T00:00:00.000Z,35.500297,-89.763708
+TN0850000,Hartsville/Trousdale County Sheriff's Office,18697,TN,East South Central,South,Region III,TROUSDALE,County,True,1997-07-01T00:00:00.000Z,36.39303,-86.156691
+TN0850200,Drug Task Force: 15th Judicial District,18699,TN,East South Central,South,Region III,TROUSDALE,Other,True,1998-08-01T00:00:00.000Z,36.39303,-86.156691
+TN0860000,Unicoi County Sheriff's Office,18701,TN,East South Central,South,Region III,UNICOI,County,True,1997-11-01T00:00:00.000Z,36.14528,-82.41659
+TN0860100,Erwin Police Department,18702,TN,East South Central,South,Region III,UNICOI,City,True,1997-09-01T00:00:00.000Z,36.100216,-82.418265
+TN0860300,Unicoi,30054,TN,East South Central,South,Region III,UNICOI,City,True,2020-01-01T00:00:00.000Z,,
+TN0870000,Union County Sheriff's Office,18703,TN,East South Central,South,Region III,UNION,County,True,1997-02-01T00:00:00.000Z,36.28414,-83.836088
+TN0870100,Maynardville Police Department,18704,TN,East South Central,South,Region III,UNION,City,True,2001-10-01T00:00:00.000Z,36.28414,-83.836088
+TN0870300,Plainview Police Department,18706,TN,East South Central,South,Region III,UNION,City,True,2006-02-01T00:00:00.000Z,36.18626,-83.78657
+TN0880000,Van Buren County Sheriff's Office,18707,TN,East South Central,South,Region III,VAN BUREN,County,True,1999-08-01T00:00:00.000Z,35.699245,-85.458411
+TN0880100,Spencer Police Department,18708,TN,East South Central,South,Region III,VAN BUREN,City,True,2000-03-01T00:00:00.000Z,35.699245,-85.458411
+TN0890000,Warren County Sheriff's Office,18709,TN,East South Central,South,Region III,WARREN,County,True,1999-01-01T00:00:00.000Z,35.69479,-85.74916
+TN0890100,McMinnville Police Department,18710,TN,East South Central,South,Region III,WARREN,City,True,1997-11-01T00:00:00.000Z,35.67825,-85.777343
+TN0890300,Drug Task Force: 31st Judicial District,18712,TN,East South Central,South,Region III,WARREN,Other,False,1999-01-01T00:00:00.000Z,35.689663,-85.77577
+TN0900000,Washington County Sheriff's Office,18714,TN,East South Central,South,Region III,WASHINGTON,County,True,1999-01-01T00:00:00.000Z,36.295665,-82.495037
+TN0900100,Johnson City Police Department,18715,TN,East South Central,South,Region III,"CARTER, SULLIVAN, WASHINGTON",City,True,1997-06-01T00:00:00.000Z,36.295665,-82.495037
+TN0900200,Jonesborough Police Department,18716,TN,East South Central,South,Region III,WASHINGTON,City,True,1997-02-01T00:00:00.000Z,36.296516,-82.47105
+TN0900300,East Tennessee State University,18717,TN,East South Central,South,Region III,WASHINGTON,University or College,True,1997-11-01T00:00:00.000Z,36.295665,-82.495037
+TN0900400,Drug Task Force: 1st Judicial District,18718,TN,East South Central,South,Region III,WASHINGTON,Other,True,1999-02-01T00:00:00.000Z,36.295665,-82.495037
+TN0910000,Wayne County Sheriff's Office,18720,TN,East South Central,South,Region III,WAYNE,County,True,1997-11-01T00:00:00.000Z,35.242687,-87.819703
+TN0910100,Waynesboro Police Department,18721,TN,East South Central,South,Region III,WAYNE,City,True,1997-11-01T00:00:00.000Z,35.242687,-87.819703
+TN0910200,Clifton Police Department,18722,TN,East South Central,South,Region III,WAYNE,City,True,1998-11-01T00:00:00.000Z,35.242687,-87.819703
+TN0910300,Collinwood Police Department,18723,TN,East South Central,South,Region III,WAYNE,City,True,2000-03-01T00:00:00.000Z,35.242687,-87.819703
+TN0920000,Weakley County Sheriff's Office,18724,TN,East South Central,South,Region III,WEAKLEY,County,True,1997-11-01T00:00:00.000Z,36.303386,-88.720803
+TN0920100,Dresden Police Department,18725,TN,East South Central,South,Region III,WEAKLEY,City,True,1999-04-01T00:00:00.000Z,36.291653,-88.70714
+TN0920200,Martin Police Department,18726,TN,East South Central,South,Region III,WEAKLEY,City,True,1998-09-01T00:00:00.000Z,36.303386,-88.720803
+TN0920300,Gleason Police Department,18727,TN,East South Central,South,Region III,WEAKLEY,City,True,1999-03-01T00:00:00.000Z,36.303386,-88.720803
+TN0920400,Greenfield Police Department,18728,TN,East South Central,South,Region III,WEAKLEY,City,True,1998-03-01T00:00:00.000Z,36.151653,-88.79991
+TN0920500,Sharon Police Department,18729,TN,East South Central,South,Region III,WEAKLEY,City,True,1998-01-01T00:00:00.000Z,36.303386,-88.720803
+TN0920600,University of Tennessee: Martin,18730,TN,East South Central,South,Region III,WEAKLEY,University or College,True,1997-07-01T00:00:00.000Z,36.303386,-88.720803
+TN0930000,White County Sheriff's Office,18732,TN,East South Central,South,Region III,WHITE,County,True,1999-07-01T00:00:00.000Z,35.928047,-85.46462
+TN0930100,Sparta Police Department,18733,TN,East South Central,South,Region III,WHITE,City,True,1997-11-01T00:00:00.000Z,35.927062,-85.455766
+TN0940000,Williamson County Sheriff's Office,18734,TN,East South Central,South,Region III,WILLIAMSON,County,True,1999-01-01T00:00:00.000Z,35.8983,-86.88448
+TN0940100,Franklin Police Department,18735,TN,East South Central,South,Region III,WILLIAMSON,City,True,1999-09-01T00:00:00.000Z,35.895096,-86.896757
+TN0940200,Fairview Police Department,18736,TN,East South Central,South,Region III,WILLIAMSON,City,True,1997-11-01T00:00:00.000Z,35.895096,-86.896757
+TN0940300,Brentwood Police Department,18737,TN,East South Central,South,Region III,WILLIAMSON,City,True,1999-12-01T00:00:00.000Z,35.895096,-86.896757
+TN0940400,Drug Task Force: 21st Judicial District,18738,TN,East South Central,South,Region III,WILLIAMSON,Other,False,1999-09-01T00:00:00.000Z,35.895096,-86.896757
+TN0940500,Nolensville Police Department,18739,TN,East South Central,South,Region III,WILLIAMSON,City,True,2000-09-01T00:00:00.000Z,35.895096,-86.896757
+TN0950000,Wilson County Sheriff's Office,18741,TN,East South Central,South,Region III,WILSON,County,True,1999-08-01T00:00:00.000Z,36.21229,-86.28905
+TN0950100,Lebanon Police Department,18742,TN,East South Central,South,Region III,WILSON,City,True,1998-01-01T00:00:00.000Z,36.1994,-86.28494
+TN0950200,Watertown Police Department,18743,TN,East South Central,South,Region III,WILSON,City,True,1999-11-01T00:00:00.000Z,36.096996,-86.140114
+TN0950300,Mount Juliet Police Department,18744,TN,East South Central,South,Region III,WILSON,City,True,1998-02-01T00:00:00.000Z,36.148476,-86.29021
+TNMPD0000,Memphis Police Department,18747,TN,East South Central,South,Region III,SHELBY,City,True,2000-08-01T00:00:00.000Z,35.14924,-90.047455
+TNTBI0000,Tennessee Bureau of Investigation,18748,TN,East South Central,South,Region III,NOT SPECIFIED,Other State Agency,True,1997-08-01T00:00:00.000Z,36.169129,-86.78479
+TNTHP0100,Department of Safety,18750,TN,East South Central,South,Region III,NOT SPECIFIED,State Police,True,1997-10-01T00:00:00.000Z,36.13587,-86.74122

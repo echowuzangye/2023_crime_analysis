@@ -1,0 +1,926 @@
+ori,agency_name,agency_id,state_abbr,division_name,region_name,region_desc,county_name,agency_type_name,nibrs,nibrs_start_date,latitude,longitude
+IL0010000,Adams County Sheriff's Office,4675,IL,East North Central,Midwest,Region II,ADAMS,County,True,2021-01-01T00:00:00.000Z,39.934517,-91.40799
+IL0010100,Camp Point Police Department,4676,IL,East North Central,Midwest,Region II,ADAMS,City,False,,40.039932,-91.0664
+IL0010300,Quincy Police Department,4677,IL,East North Central,Midwest,Region II,ADAMS,City,False,2021-01-01T00:00:00.000Z,39.931683,-91.40334
+IL0010800,John Wood Community College,25699,IL,East North Central,Midwest,Region II,ADAMS,University or College,True,2021-03-01T00:00:00.000Z,39.986052,-91.194961
+IL0020000,Alexander County Sheriff's Office,4680,IL,East North Central,Midwest,Region II,ALEXANDER,County,False,,37.004906,-89.175995
+IL0020100,Cairo Police Department,4681,IL,East North Central,Midwest,Region II,ALEXANDER,City,False,,37.002796,-89.17247
+IL0030000,Bond County Sheriff's Office,4682,IL,East North Central,Midwest,Region II,BOND,County,True,2022-01-01T00:00:00.000Z,38.8887,-89.412445
+IL0030100,Greenville Police Department,4683,IL,East North Central,Midwest,Region II,BOND,City,True,2022-01-01T00:00:00.000Z,38.889313,-89.41342
+IL0030200,Pocahontas,35490,IL,East North Central,Midwest,Region II,BOND,City,False,,,
+IL0030300,Sorento Police Department,4684,IL,East North Central,Midwest,Region II,BOND,City,False,,38.885924,-89.436592
+IL0030500,Pierron Police Department,23169,IL,East North Central,Midwest,Region II,"BOND, MADISON",City,False,,38.885924,-89.436592
+IL0040000,Boone County Sheriff's Office,4685,IL,East North Central,Midwest,Region II,BOONE,County,True,2022-06-01T00:00:00.000Z,42.264786,-88.84539
+IL0040100,Belvidere Police Department,4686,IL,East North Central,Midwest,Region II,BOONE,City,True,2022-06-01T00:00:00.000Z,42.318983,-88.824295
+IL0050000,Brown County Sheriff's Office,4687,IL,East North Central,Midwest,Region II,BROWN,County,False,,39.98675,-90.76378
+IL0050100,Mount Sterling Police Department,4688,IL,East North Central,Midwest,Region II,BROWN,City,False,,39.985912,-90.765884
+IL0060000,Bureau County Sheriff's Office,4689,IL,East North Central,Midwest,Region II,BUREAU,County,True,2022-11-01T00:00:00.000Z,41.36806,-89.466446
+IL0060100,Buda Police Department,4690,IL,East North Central,Midwest,Region II,BUREAU,City,False,,41.401304,-89.528377
+IL0060200,De Pue Police Department,4691,IL,East North Central,Midwest,Region II,BUREAU,City,False,,41.401304,-89.528377
+IL0060300,Ladd Police Department,25733,IL,East North Central,Midwest,Region II,BUREAU,City,False,,41.401304,-89.528377
+IL0060400,Princeton Police Department,4692,IL,East North Central,Midwest,Region II,BUREAU,City,True,2021-01-01T00:00:00.000Z,41.384266,-89.45636
+IL0060600,Spring Valley Police Department,4693,IL,East North Central,Midwest,Region II,BUREAU,City,True,2021-09-01T00:00:00.000Z,41.326485,-89.19818
+IL0060700,Walnut Police Department,23275,IL,East North Central,Midwest,Region II,BUREAU,City,False,,41.401304,-89.528377
+IL0061000,La Moille Police Department,4694,IL,East North Central,Midwest,Region II,BUREAU,City,False,,41.401304,-89.528377
+IL0061400,Bureau Police Department,4695,IL,East North Central,Midwest,Region II,BUREAU,City,False,,41.401304,-89.528377
+IL0061500,Neponset Police Department,4696,IL,East North Central,Midwest,Region II,BUREAU,City,False,,41.401304,-89.528377
+IL0061600,Cherry,35226,IL,East North Central,Midwest,Region II,BUREAU,City,True,2022-01-01T00:00:00.000Z,,
+IL0070000,Calhoun County Sheriff's Office,4697,IL,East North Central,Midwest,Region II,CALHOUN,County,True,2021-01-01T00:00:00.000Z,39.164262,-90.666295
+IL0070100,Hardin Police Department,4698,IL,East North Central,Midwest,Region II,CALHOUN,City,False,,39.164262,-90.666295
+IL0080000,Carroll County Sheriff's Office,4699,IL,East North Central,Midwest,Region II,CARROLL,County,False,,42.100468,-89.978806
+IL0080100,Chadwick Police Department,4700,IL,East North Central,Midwest,Region II,CARROLL,City,False,,42.059084,-89.926485
+IL0080200,Lanark Police Department,4701,IL,East North Central,Midwest,Region II,CARROLL,City,True,2022-01-01T00:00:00.000Z,42.102947,-89.83307
+IL0080300,Milledgeville Police Department,4702,IL,East North Central,Midwest,Region II,CARROLL,City,True,2022-01-01T00:00:00.000Z,42.059084,-89.926485
+IL0080400,Mount Carroll Police Department,4703,IL,East North Central,Midwest,Region II,CARROLL,City,True,2022-01-01T00:00:00.000Z,42.100483,-89.97884
+IL0080500,Savanna Police Department,4704,IL,East North Central,Midwest,Region II,CARROLL,City,False,,42.090908,-90.15475
+IL0080600,Shannon Police Department,4705,IL,East North Central,Midwest,Region II,CARROLL,City,False,2023-01-01T00:00:00.000Z,42.059084,-89.926485
+IL0080700,Thomson Police Department,4706,IL,East North Central,Midwest,Region II,CARROLL,City,False,,42.059084,-89.926485
+IL0090000,Cass County Sheriff's Office,4707,IL,East North Central,Midwest,Region II,CASS,County,True,2020-12-01T00:00:00.000Z,39.951588,-90.210526
+IL0090100,Ashland Police Department,4708,IL,East North Central,Midwest,Region II,CASS,City,False,,39.887833,-90.00718
+IL0090200,Beardstown Police Department,4709,IL,East North Central,Midwest,Region II,CASS,City,False,,39.969202,-90.245704
+IL0090300,Virginia Police Department,4710,IL,East North Central,Midwest,Region II,CASS,City,False,,39.950294,-90.21156
+IL0100000,Champaign County Sheriff's Office,4711,IL,East North Central,Midwest,Region II,CHAMPAIGN,County,True,2021-01-01T00:00:00.000Z,40.112507,-88.20559
+IL0100100,Champaign Police Department,4712,IL,East North Central,Midwest,Region II,CHAMPAIGN,City,True,2021-01-01T00:00:00.000Z,40.116344,-88.23911
+IL0100200,Homer Police Department,4713,IL,East North Central,Midwest,Region II,CHAMPAIGN,City,False,,40.037136,-87.96312
+IL0100300,Mahomet Police Department,4714,IL,East North Central,Midwest,Region II,CHAMPAIGN,City,True,2021-07-01T00:00:00.000Z,40.1919,-88.403824
+IL0100400,Rantoul Police Department,4715,IL,East North Central,Midwest,Region II,CHAMPAIGN,City,True,2021-01-01T00:00:00.000Z,40.311996,-88.15828
+IL0100500,Tolono Police Department,4716,IL,East North Central,Midwest,Region II,CHAMPAIGN,City,True,2021-01-01T00:00:00.000Z,40.13915,-88.197201
+IL0100600,Urbana Police Department,4717,IL,East North Central,Midwest,Region II,CHAMPAIGN,City,True,2021-01-01T00:00:00.000Z,39.96348,-88.34521
+IL0100700,University of Illinois: Urbana,4718,IL,East North Central,Midwest,Region II,CHAMPAIGN,University or College,True,2021-01-01T00:00:00.000Z,40.13915,-88.197201
+IL0100800,Fisher Police Department,4719,IL,East North Central,Midwest,Region II,CHAMPAIGN,City,False,,40.13915,-88.197201
+IL0101000,Thomasboro Police Department,4721,IL,East North Central,Midwest,Region II,CHAMPAIGN,City,False,,40.13915,-88.197201
+IL0101100,Gifford Police Department,4722,IL,East North Central,Midwest,Region II,CHAMPAIGN,City,False,,40.13915,-88.197201
+IL0101300,Ludlow Police Department,4724,IL,East North Central,Midwest,Region II,CHAMPAIGN,City,False,,40.13915,-88.197201
+IL0101500,Parkland College,4725,IL,East North Central,Midwest,Region II,CHAMPAIGN,University or College,True,2020-01-01T00:00:00.000Z,40.12754,-88.28658
+IL0110000,Christian County Sheriff's Office,4727,IL,East North Central,Midwest,Region II,CHRISTIAN,County,False,2021-01-01T00:00:00.000Z,39.545524,-89.279593
+IL0110100,Pana Police Department,4728,IL,East North Central,Midwest,Region II,"CHRISTIAN, SHELBY",City,True,2022-12-01T00:00:00.000Z,39.387722,-89.08104
+IL0110200,Taylorville Police Department,4729,IL,East North Central,Midwest,Region II,CHRISTIAN,City,False,,39.55031,-89.29512
+IL0110300,Kincaid Police Department,4730,IL,East North Central,Midwest,Region II,CHRISTIAN,City,True,2020-10-01T00:00:00.000Z,39.545524,-89.279593
+IL0110400,Stonington Police Department,4731,IL,East North Central,Midwest,Region II,CHRISTIAN,City,False,,39.545524,-89.279593
+IL0110500,Assumption Police Department,4732,IL,East North Central,Midwest,Region II,CHRISTIAN,City,True,2021-01-01T00:00:00.000Z,39.519127,-89.05005
+IL0110600,Edinburg Police Department,4733,IL,East North Central,Midwest,Region II,CHRISTIAN,City,True,2022-10-01T00:00:00.000Z,39.545524,-89.279593
+IL0110700,Morrisonville,27433,IL,East North Central,Midwest,Region II,CHRISTIAN,City,False,,,
+IL0120000,Clark County Sheriff's Office,4734,IL,East North Central,Midwest,Region II,CLARK,County,False,,39.39111,-87.697495
+IL0120100,Casey Police Department,4735,IL,East North Central,Midwest,Region II,"CLARK, CUMBERLAND",City,False,,39.29887,-87.99421
+IL0120200,Marshall Police Department,4736,IL,East North Central,Midwest,Region II,CLARK,City,True,2022-01-01T00:00:00.000Z,39.332364,-87.791687
+IL0120300,Martinsville Police Department,4737,IL,East North Central,Midwest,Region II,CLARK,City,False,,39.332364,-87.791687
+IL0130000,Clay County Sheriff's Office,4738,IL,East North Central,Midwest,Region II,CLAY,County,False,,38.747312,-88.483789
+IL0130200,Flora Police Department,4739,IL,East North Central,Midwest,Region II,CLAY,City,False,,38.669437,-88.48465
+IL0140000,Clinton County Sheriff's Office,4740,IL,East North Central,Midwest,Region II,CLINTON,County,True,2021-01-01T00:00:00.000Z,38.61018,-89.36788
+IL0140100,Beckemeyer Police Department,4741,IL,East North Central,Midwest,Region II,CLINTON,City,True,2021-01-01T00:00:00.000Z,38.606423,-89.423136
+IL0140200,Breese Police Department,4742,IL,East North Central,Midwest,Region II,CLINTON,City,True,2021-01-01T00:00:00.000Z,38.607517,-89.60945
+IL0140300,Carlyle Police Department,4743,IL,East North Central,Midwest,Region II,CLINTON,City,True,2020-07-01T00:00:00.000Z,38.610176,-89.36834
+IL0140400,New Baden Police Department,4744,IL,East North Central,Midwest,Region II,"CLINTON, ST CLAIR",City,True,2022-01-01T00:00:00.000Z,38.53508,-89.69929
+IL0140500,Trenton Police Department,4745,IL,East North Central,Midwest,Region II,CLINTON,City,True,2021-01-01T00:00:00.000Z,38.603107,-89.68259
+IL0140600,Albers Police Department,4746,IL,East North Central,Midwest,Region II,CLINTON,City,True,2021-01-01T00:00:00.000Z,38.606423,-89.423136
+IL0140700,Aviston Police Department,4747,IL,East North Central,Midwest,Region II,CLINTON,City,False,,38.606423,-89.423136
+IL0141300,Germantown Police Department,4748,IL,East North Central,Midwest,Region II,CLINTON,City,True,2021-01-01T00:00:00.000Z,38.606423,-89.423136
+IL0150000,Coles County Sheriff's Office,4749,IL,East North Central,Midwest,Region II,COLES,County,False,,39.49376,-88.17438
+IL0150200,Charleston Police Department,4750,IL,East North Central,Midwest,Region II,COLES,City,False,,39.49434,-88.175545
+IL0150300,Mattoon Police Department,4751,IL,East North Central,Midwest,Region II,COLES,City,False,,39.51368,-88.220782
+IL0150600,Eastern Illinois University,4752,IL,East North Central,Midwest,Region II,COLES,University or College,True,2022-01-01T00:00:00.000Z,39.51368,-88.220782
+IL0150900,Lake Land College,4755,IL,East North Central,Midwest,Region II,COLES,University or College,False,,39.51368,-88.220782
+IL0160000,Cook County Sheriff's Office,4756,IL,East North Central,Midwest,Region II,COOK,County,True,2022-12-01T00:00:00.000Z,41.894294,-87.645455
+IL0160100,Alsip Police Department,4757,IL,East North Central,Midwest,Region II,COOK,City,True,2021-02-01T00:00:00.000Z,41.669193,-87.73162
+IL0160200,Arlington Heights Police Department,4758,IL,East North Central,Midwest,Region II,COOK,City,True,2021-06-01T00:00:00.000Z,42.081783,-87.98046
+IL0160300,Barrington Police Department,4759,IL,East North Central,Midwest,Region II,"COOK, LAKE",City,True,2021-01-01T00:00:00.000Z,42.16161,-88.1434
+IL0160400,Barrington Hills Police Department,4760,IL,East North Central,Midwest,Region II,"COOK, KANE, LAKE, MCHENRY",City,True,2020-10-01T00:00:00.000Z,42.197117,-88.2176
+IL0160500,Bartlett Police Department,4761,IL,East North Central,Midwest,Region II,"COOK, DUPAGE, KANE",City,False,,41.99086,-88.18454
+IL0160600,Bedford Park Police Department,4762,IL,East North Central,Midwest,Region II,COOK,City,False,,41.775127,-87.81529
+IL0160700,Bellwood Police Department,4763,IL,East North Central,Midwest,Region II,COOK,City,True,2021-01-01T00:00:00.000Z,41.894294,-87.645455
+IL0160800,Berkeley Police Department,4764,IL,East North Central,Midwest,Region II,COOK,City,True,2022-12-01T00:00:00.000Z,41.882126,-87.91366
+IL0160900,Berwyn Police Department,4765,IL,East North Central,Midwest,Region II,COOK,City,True,2022-01-01T00:00:00.000Z,41.836037,-87.787445
+IL0161000,Blue Island Police Department,4766,IL,East North Central,Midwest,Region II,COOK,City,True,2021-06-01T00:00:00.000Z,41.656208,-87.68256
+IL0161100,Bridgeview Police Department,4767,IL,East North Central,Midwest,Region II,COOK,City,False,,41.755188,-87.80487
+IL0161200,Broadview Police Department,4768,IL,East North Central,Midwest,Region II,COOK,City,False,,41.894294,-87.645455
+IL0161300,Brookfield Police Department,4769,IL,East North Central,Midwest,Region II,COOK,City,False,,41.822517,-87.84271
+IL0161400,Buffalo Grove Police Department,4770,IL,East North Central,Midwest,Region II,"COOK, LAKE",City,True,2021-04-01T00:00:00.000Z,42.1529,-87.96767
+IL0161500,Burnham Police Department,4771,IL,East North Central,Midwest,Region II,COOK,City,False,,41.894294,-87.645455
+IL0161700,Calumet City Police Department,4772,IL,East North Central,Midwest,Region II,COOK,City,False,,41.615463,-87.55413
+IL0161800,Calumet Park Police Department,4773,IL,East North Central,Midwest,Region II,COOK,City,True,2022-01-01T00:00:00.000Z,41.668304,-87.65376
+IL0161900,Chicago Heights Police Department,4774,IL,East North Central,Midwest,Region II,COOK,City,True,2021-05-01T00:00:00.000Z,41.50243,-87.63595
+IL0161A00,Sauk Village Police Department,4775,IL,East North Central,Midwest,Region II,COOK,City,False,,41.894294,-87.645455
+IL0161B00,Stone Park Police Department,4776,IL,East North Central,Midwest,Region II,COOK,City,True,2021-01-01T00:00:00.000Z,41.901108,-87.883736
+IL0161C00,Willow Springs Police Department,4777,IL,East North Central,Midwest,Region II,COOK,City,True,2021-01-01T00:00:00.000Z,41.894294,-87.645455
+IL0161L00,Chicago Fire Department Arson Investigations,4779,IL,East North Central,Midwest,Region II,COOK,Other,False,,41.864697,-87.640656
+IL0161P00,Oak Forest Health Center,4780,IL,East North Central,Midwest,Region II,COOK,Other,False,,41.60316,-87.7365
+IL0162000,Chicago Ridge Police Department,4783,IL,East North Central,Midwest,Region II,COOK,City,True,2021-01-01T00:00:00.000Z,41.702793,-87.7793
+IL0162100,Cicero Police Department,4784,IL,East North Central,Midwest,Region II,COOK,City,True,2021-01-01T00:00:00.000Z,41.844807,-87.74826
+IL0162200,Country Club Hills Police Department,4785,IL,East North Central,Midwest,Region II,COOK,City,True,2022-11-01T00:00:00.000Z,41.571697,-87.706696
+IL0162300,Countryside Police Department,4786,IL,East North Central,Midwest,Region II,COOK,City,True,2021-12-01T00:00:00.000Z,41.789726,-87.85888
+IL0162400,Crestwood Police Department,4787,IL,East North Central,Midwest,Region II,COOK,City,True,2020-11-01T00:00:00.000Z,41.641247,-87.73788
+IL0162500,Des Plaines Police Department,4788,IL,East North Central,Midwest,Region II,COOK,City,True,2021-01-01T00:00:00.000Z,42.042133,-87.888695
+IL0162600,Dixmoor Police Department,4789,IL,East North Central,Midwest,Region II,COOK,City,False,,41.626278,-87.65764
+IL0162700,Dolton Police Department,4790,IL,East North Central,Midwest,Region II,COOK,City,False,,41.639812,-87.609985
+IL0162900,East Hazel Crest Police Department,4792,IL,East North Central,Midwest,Region II,COOK,City,True,2021-01-01T00:00:00.000Z,41.576813,-87.64854
+IL0162A00,Schaumburg Police Department,4793,IL,East North Central,Midwest,Region II,COOK,City,True,2021-04-01T00:00:00.000Z,42.026466,-88.102936
+IL0162B00,Streamwood Police Department,4794,IL,East North Central,Midwest,Region II,COOK,City,True,2021-04-01T00:00:00.000Z,42.01062,-88.16846
+IL0162C00,Wilmette Police Department,4795,IL,East North Central,Midwest,Region II,COOK,City,True,2021-01-01T00:00:00.000Z,41.894294,-87.645455
+IL0162F9E,Belt Railway,23079,IL,East North Central,Midwest,Region II,COOK,Other,True,2021-10-01T00:00:00.000Z,41.767036,-87.76129
+IL0162X9E,Northwestern University: ,34406,IL,East North Central,Midwest,Region II,COOK,University or College,False,,,
+IL0163000,Elk Grove Village Police Department,4798,IL,East North Central,Midwest,Region II,COOK,City,True,2021-06-01T00:00:00.000Z,42.003506,-88.00918
+IL0163100,Elmwood Park Police Department,4799,IL,East North Central,Midwest,Region II,COOK,City,True,2021-06-01T00:00:00.000Z,41.92342,-87.81194
+IL0163200,Evanston Police Department,4800,IL,East North Central,Midwest,Region II,COOK,City,True,2020-10-01T00:00:00.000Z,42.044216,-87.68356
+IL0163300,Evergreen Park Police Department,4801,IL,East North Central,Midwest,Region II,COOK,City,True,2021-02-01T00:00:00.000Z,41.72214,-87.70191
+IL0163400,Flossmoor Police Department,4802,IL,East North Central,Midwest,Region II,COOK,City,True,2021-01-01T00:00:00.000Z,41.542557,-87.68532
+IL0163500,Forest Park Police Department,4803,IL,East North Central,Midwest,Region II,COOK,City,True,2020-11-01T00:00:00.000Z,41.876747,-87.81457
+IL0163600,Forest View Police Department,4804,IL,East North Central,Midwest,Region II,COOK,City,False,2023-01-01T00:00:00.000Z,41.808594,-87.79711
+IL0163700,Franklin Park Police Department,4805,IL,East North Central,Midwest,Region II,COOK,City,True,2021-01-01T00:00:00.000Z,41.9368,-87.86413
+IL0163800,Glencoe Police Department,4806,IL,East North Central,Midwest,Region II,COOK,City,True,2020-07-01T00:00:00.000Z,42.13335,-87.757614
+IL0163900,Glenview Police Department,4807,IL,East North Central,Midwest,Region II,COOK,City,True,2021-04-01T00:00:00.000Z,41.894294,-87.645455
+IL0163A00,Schiller Park Police Department,4808,IL,East North Central,Midwest,Region II,COOK,City,False,,41.954773,-87.86553
+IL0163B00,Summit Police Department,4809,IL,East North Central,Midwest,Region II,COOK,City,True,2022-06-01T00:00:00.000Z,41.78578,-87.8111
+IL0163C00,Winnetka Police Department,4810,IL,East North Central,Midwest,Region II,COOK,City,True,2021-04-01T00:00:00.000Z,42.126747,-87.75121
+IL0163H00,Metropolitan Water Reclamation District of Greater Chicago,23499,IL,East North Central,Midwest,Region II,COOK,Other,False,,41.821484,-87.78204
+IL0164000,Glenwood Police Department,4811,IL,East North Central,Midwest,Region II,COOK,City,True,2021-01-01T00:00:00.000Z,41.894294,-87.645455
+IL0164100,Golf Police Department,4812,IL,East North Central,Midwest,Region II,COOK,City,True,2021-08-01T00:00:00.000Z,42.05881,-87.79693
+IL0164200,Hanover Park Police Department,4813,IL,East North Central,Midwest,Region II,"COOK, DUPAGE",City,True,2022-12-01T00:00:00.000Z,41.99101,-88.158226
+IL0164300,Harvey Police Department,4814,IL,East North Central,Midwest,Region II,COOK,City,True,2022-12-01T00:00:00.000Z,41.61171,-87.67151
+IL0164400,Harwood Heights Police Department,4815,IL,East North Central,Midwest,Region II,COOK,City,False,,41.963577,-87.81066
+IL0164500,Hazel Crest Police Department,4816,IL,East North Central,Midwest,Region II,COOK,City,True,2022-01-01T00:00:00.000Z,41.894294,-87.645455
+IL0164600,Hickory Hills Police Department,4817,IL,East North Central,Midwest,Region II,COOK,City,True,2022-07-01T00:00:00.000Z,41.732742,-87.83824
+IL0164700,Hillside Police Department,4818,IL,East North Central,Midwest,Region II,COOK,City,True,2022-02-01T00:00:00.000Z,41.878956,-87.90815
+IL0164900,Hodgkins Police Department,4819,IL,East North Central,Midwest,Region II,COOK,City,True,2021-02-01T00:00:00.000Z,41.783108,-87.856964
+IL0164A00,Skokie Police Department,4820,IL,East North Central,Midwest,Region II,COOK,City,True,2020-11-01T00:00:00.000Z,42.01612,-87.76066
+IL0164B00,Thornton Police Department,4821,IL,East North Central,Midwest,Region II,COOK,City,True,2020-10-01T00:00:00.000Z,41.57647,-87.6097
+IL0164C00,Worth Police Department,4822,IL,East North Central,Midwest,Region II,COOK,City,True,2021-01-01T00:00:00.000Z,41.69004,-87.79561
+IL0164K00,John H. Stroger Hospital,4823,IL,East North Central,Midwest,Region II,COOK,Other,False,,41.894294,-87.645455
+IL0164M9E,Burlington Northern Santa Fe Railway,4824,IL,East North Central,Midwest,Region II,COOK,Other,False,,41.824177,-87.71475
+IL0164X00,Canadian National Railway,4825,IL,East North Central,Midwest,Region II,COOK,Other,False,,41.569046,-87.65578
+IL0164Z9E,Norfolk Southern Railway: Cook County,4827,IL,East North Central,Midwest,Region II,COOK,Other,False,,41.702854,-87.57352
+IL0165000,Hoffman Estates Police Department,4828,IL,East North Central,Midwest,Region II,COOK,City,True,2021-05-01T00:00:00.000Z,42.048325,-88.10774
+IL0165100,Hometown Police Department,4829,IL,East North Central,Midwest,Region II,COOK,City,True,2022-12-01T00:00:00.000Z,41.728962,-87.72988
+IL0165200,Homewood Police Department,4830,IL,East North Central,Midwest,Region II,COOK,City,True,2021-01-01T00:00:00.000Z,41.563377,-87.66544
+IL0165300,Indian Head Park Police Department,4831,IL,East North Central,Midwest,Region II,COOK,City,False,,41.77169,-87.8948
+IL0165400,Inverness Police Department,4832,IL,East North Central,Midwest,Region II,COOK,City,True,2021-04-01T00:00:00.000Z,42.12435,-88.078354
+IL0165500,Justice Police Department,4833,IL,East North Central,Midwest,Region II,COOK,City,False,,41.748386,-87.840324
+IL0165600,Kenilworth Police Department,4834,IL,East North Central,Midwest,Region II,COOK,City,True,2021-07-01T00:00:00.000Z,42.08655,-87.71656
+IL0165700,La Grange Police Department,4835,IL,East North Central,Midwest,Region II,COOK,City,True,2021-01-01T00:00:00.000Z,41.8151,-87.87351
+IL0165800,La Grange Park Police Department,4836,IL,East North Central,Midwest,Region II,COOK,City,True,2021-01-01T00:00:00.000Z,41.82238,-87.87375
+IL0165900,Lansing Police Department,4837,IL,East North Central,Midwest,Region II,COOK,City,True,2022-01-01T00:00:00.000Z,41.894294,-87.645455
+IL0165A00,South Barrington Police Department,4838,IL,East North Central,Midwest,Region II,COOK,City,True,2021-01-01T00:00:00.000Z,42.077213,-88.141136
+IL0165F9E,Indiana Harbor Belt Railroad,4839,IL,East North Central,Midwest,Region II,COOK,Other,False,,41.63895,-87.641525
+IL0165H9E,CSX Transportation,4840,IL,East North Central,Midwest,Region II,COOK,Other,False,,41.647438,-87.64089
+IL0165K00,Cook County Forest Preserve,4841,IL,East North Central,Midwest,Region II,COOK,Other,True,2022-11-01T00:00:00.000Z,41.890553,-87.80514
+IL0165M00,Tinley Park Police Department,4842,IL,East North Central,Midwest,Region II,"COOK, WILL",City,True,2021-01-01T00:00:00.000Z,41.558353,-87.80897
+IL0165N00,Union Pacific Railroad: Cook County,4843,IL,East North Central,Midwest,Region II,COOK,Other,False,,41.905663,-87.91553
+IL0166000,Lemont Police Department,4844,IL,East North Central,Midwest,Region II,"COOK, DUPAGE, WILL",City,True,2021-01-01T00:00:00.000Z,41.656998,-87.9794
+IL0166100,Lincolnwood Police Department,4845,IL,East North Central,Midwest,Region II,COOK,City,False,2023-01-01T00:00:00.000Z,41.894294,-87.645455
+IL0166200,Lynwood Police Department,4846,IL,East North Central,Midwest,Region II,COOK,City,False,,41.894294,-87.645455
+IL0166300,Lyons Police Department,4847,IL,East North Central,Midwest,Region II,COOK,City,False,,41.81432,-87.82566
+IL0166400,McCook Police Department,4848,IL,East North Central,Midwest,Region II,COOK,City,False,,41.80036,-87.83257
+IL0166500,Markham Police Department,4849,IL,East North Central,Midwest,Region II,COOK,City,False,,41.5932,-87.69424
+IL0166600,Matteson Police Department,4850,IL,East North Central,Midwest,Region II,COOK,City,False,,41.517376,-87.7325
+IL0166700,Maywood Police Department,4851,IL,East North Central,Midwest,Region II,COOK,City,False,,41.894294,-87.645455
+IL0166800,Melrose Park Police Department,4852,IL,East North Central,Midwest,Region II,COOK,City,True,2021-01-01T00:00:00.000Z,41.890358,-87.85655
+IL0166900,Merrionette Park  Police Department,4853,IL,East North Central,Midwest,Region II,COOK,City,False,,41.679844,-87.70041
+IL0166A00,South Chicago Heights Police Department,4854,IL,East North Central,Midwest,Region II,COOK,City,True,2021-01-01T00:00:00.000Z,41.489216,-87.63642
+IL0166B00,Westchester Police Department,4855,IL,East North Central,Midwest,Region II,COOK,City,False,2023-01-01T00:00:00.000Z,41.894294,-87.645455
+IL0166C00,University of Illinois: Chicago,4856,IL,East North Central,Midwest,Region II,COOK,University or College,True,2021-01-01T00:00:00.000Z,41.864708,-87.650215
+IL0166L00,Chicago State University,4864,IL,East North Central,Midwest,Region II,COOK,University or College,True,2021-01-01T00:00:00.000Z,41.894294,-87.645455
+IL0166M00,Northeastern Illinois University,4865,IL,East North Central,Midwest,Region II,COOK,University or College,True,2021-01-01T00:00:00.000Z,41.981255,-87.71613
+IL0167000,Midlothian Police Department,4868,IL,East North Central,Midwest,Region II,COOK,City,True,2021-01-01T00:00:00.000Z,41.623646,-87.71761
+IL0167100,Morton Grove Police Department,4869,IL,East North Central,Midwest,Region II,COOK,City,True,2021-01-01T00:00:00.000Z,42.038143,-87.779175
+IL0167200,Mount Prospect Police Department,4870,IL,East North Central,Midwest,Region II,COOK,City,True,2021-04-01T00:00:00.000Z,42.062946,-87.93516
+IL0167300,Niles Police Department,4871,IL,East North Central,Midwest,Region II,COOK,City,True,2021-07-01T00:00:00.000Z,42.01199,-87.80143
+IL0167400,Norridge Police Department,4872,IL,East North Central,Midwest,Region II,COOK,City,False,,41.95299,-87.814644
+IL0167500,Northbrook Police Department,4873,IL,East North Central,Midwest,Region II,COOK,City,True,2022-08-01T00:00:00.000Z,42.12738,-87.85842
+IL0167600,Northfield Police Department,4874,IL,East North Central,Midwest,Region II,COOK,City,True,2021-01-01T00:00:00.000Z,42.100586,-87.726585
+IL0167700,Northlake Police Department,4875,IL,East North Central,Midwest,Region II,COOK,City,True,2022-12-01T00:00:00.000Z,41.90722,-87.901085
+IL0167800,North Riverside Police Department,4876,IL,East North Central,Midwest,Region II,COOK,City,False,,41.84688,-87.823074
+IL0167900,Oak Forest Police Department,4877,IL,East North Central,Midwest,Region II,COOK,City,False,,41.61132,-87.756294
+IL0167A00,South Holland Police Department,4878,IL,East North Central,Midwest,Region II,COOK,City,True,2021-04-01T00:00:00.000Z,41.60041,-87.61004
+IL0167B00,Western Springs Police Department,4879,IL,East North Central,Midwest,Region II,COOK,City,True,2022-01-01T00:00:00.000Z,41.81007,-87.89799
+IL0167E00,Oakton Community College,4881,IL,East North Central,Midwest,Region II,COOK,University or College,True,2021-01-01T00:00:00.000Z,42.05447,-87.88767
+IL0168000,Oak Lawn Police Department,4882,IL,East North Central,Midwest,Region II,COOK,City,True,2021-02-01T00:00:00.000Z,41.721596,-87.75278
+IL0168100,Oak Park Police Department,4883,IL,East North Central,Midwest,Region II,COOK,City,True,2022-01-01T00:00:00.000Z,41.894294,-87.645455
+IL0168200,Olympia Fields Police Department,4884,IL,East North Central,Midwest,Region II,COOK,City,True,2021-01-01T00:00:00.000Z,41.516365,-87.70654
+IL0168300,Orland Park Police Department,4885,IL,East North Central,Midwest,Region II,"COOK, WILL",City,False,,41.894294,-87.645455
+IL0168400,Palatine Police Department,4886,IL,East North Central,Midwest,Region II,COOK,City,True,2021-04-01T00:00:00.000Z,42.114235,-88.09946
+IL0168500,Palos Heights Police Department,4887,IL,East North Central,Midwest,Region II,COOK,City,True,2021-01-01T00:00:00.000Z,41.675106,-87.80669
+IL0168600,Palos Hills Police Department,4888,IL,East North Central,Midwest,Region II,COOK,City,True,2021-02-01T00:00:00.000Z,41.703754,-87.830894
+IL0168700,Palos Park Police Department,4889,IL,East North Central,Midwest,Region II,COOK,City,True,2021-01-01T00:00:00.000Z,41.667118,-87.83998
+IL0168800,Park Forest Police Department,4890,IL,East North Central,Midwest,Region II,"COOK, WILL",City,True,2021-07-01T00:00:00.000Z,41.484863,-87.67917
+IL0168900,Park Ridge Police Department,4891,IL,East North Central,Midwest,Region II,COOK,City,True,2022-12-01T00:00:00.000Z,42.008682,-87.830376
+IL0168A00,Steger Police Department,4892,IL,East North Central,Midwest,Region II,"COOK, WILL",City,True,2021-10-01T00:00:00.000Z,41.4698,-87.637825
+IL0168B00,Orland Hills Police Department,4893,IL,East North Central,Midwest,Region II,COOK,City,False,,41.894294,-87.645455
+IL0168C00,Burbank Police Department,4894,IL,East North Central,Midwest,Region II,COOK,City,True,2021-02-01T00:00:00.000Z,41.755737,-87.76213
+IL0169000,Phoenix Police Department,4895,IL,East North Central,Midwest,Region II,COOK,City,True,2021-05-01T00:00:00.000Z,41.614906,-87.63213
+IL0169100,Posen Police Department,4896,IL,East North Central,Midwest,Region II,COOK,City,True,2022-12-01T00:00:00.000Z,41.62634,-87.67991
+IL0169200,Richton Park Police Department,4897,IL,East North Central,Midwest,Region II,COOK,City,True,2022-04-01T00:00:00.000Z,41.484295,-87.72464
+IL0169300,Riverdale Police Department,4898,IL,East North Central,Midwest,Region II,COOK,City,False,,41.644535,-87.639755
+IL0169400,River Forest Police Department,4899,IL,East North Central,Midwest,Region II,COOK,City,True,2021-01-01T00:00:00.000Z,41.887012,-87.81961
+IL0169500,River Grove Police Department,4900,IL,East North Central,Midwest,Region II,COOK,City,True,2021-01-01T00:00:00.000Z,41.894294,-87.645455
+IL0169600,Riverside Police Department,4901,IL,East North Central,Midwest,Region II,COOK,City,False,,41.82658,-87.81881
+IL0169700,Robbins Police Department,4902,IL,East North Central,Midwest,Region II,COOK,City,False,,41.64423,-87.70256
+IL0169800,Rolling Meadows Police Department,4903,IL,East North Central,Midwest,Region II,COOK,City,True,2021-07-01T00:00:00.000Z,42.080147,-88.025314
+IL0169900,Rosemont Police Department,4904,IL,East North Central,Midwest,Region II,COOK,City,True,2021-01-01T00:00:00.000Z,41.894294,-87.645455
+IL0169A00,Stickney Police Department,4905,IL,East North Central,Midwest,Region II,COOK,City,True,2021-01-01T00:00:00.000Z,41.82141,-87.78656
+IL0169B00,Wheeling Police Department,4906,IL,East North Central,Midwest,Region II,COOK,City,True,2021-01-01T00:00:00.000Z,42.139435,-87.92131
+IL0169C00,South Suburban College,4907,IL,East North Central,Midwest,Region II,COOK,University or College,True,2022-01-01T00:00:00.000Z,41.607975,-87.617065
+IL0169D00,Harper College,4908,IL,East North Central,Midwest,Region II,COOK,University or College,True,2021-09-01T00:00:00.000Z,42.076283,-88.06976
+IL0169E00,Triton College,4909,IL,East North Central,Midwest,Region II,COOK,University or College,False,,41.913437,-87.84015
+IL0169F00,Morton College,4910,IL,East North Central,Midwest,Region II,COOK,University or College,True,2021-01-01T00:00:00.000Z,41.823547,-87.76313
+IL0169G00,Prospect Heights Police Department,4911,IL,East North Central,Midwest,Region II,COOK,City,True,2021-05-01T00:00:00.000Z,42.095287,-87.93548
+IL0169K00,Moraine Valley Community College,4912,IL,East North Central,Midwest,Region II,COOK,University or College,True,2021-09-01T00:00:00.000Z,41.894294,-87.645455
+IL0169W9E,University of Chicago: Cook County,23231,IL,East North Central,Midwest,Region II,COOK,University or College,True,2021-01-01T00:00:00.000Z,41.784737,-87.60442
+IL0169X00,METRA Police Department,22608,IL,East North Central,Midwest,Region II,COOK,Other,False,,,
+IL016AB9E,Loyola University ,4916,IL,East North Central,Midwest,Region II,COOK,University or College,True,2022-01-01T00:00:00.000Z,41.998474,-87.66032
+IL016AC9E,Northwestern University: Chicago,4917,IL,East North Central,Midwest,Region II,COOK,University or College,False,,41.89575,-87.622475
+IL016G000,Illinois Liquor Control Commission,33762,IL,East North Central,Midwest,Region II,NOT SPECIFIED,Other State Agency,True,2021-01-01T00:00:00.000Z,,
+IL016PP00,Chicago Heights Park District,27710,IL,East North Central,Midwest,Region II,COOK,Other,False,,,
+IL016PS0X,Prairie State College,26295,IL,East North Central,Midwest,Region II,COOK,University or College,False,,,
+IL016SL00,Canadian Pacific Railway,23193,IL,East North Central,Midwest,Region II,COOK,Other,False,,41.894294,-87.645455
+IL0170000,Crawford County Sheriff's Office,4920,IL,East North Central,Midwest,Region II,CRAWFORD,County,True,2022-01-01T00:00:00.000Z,39.00373,-87.757172
+IL0170100,Oblong Police Department,4921,IL,East North Central,Midwest,Region II,CRAWFORD,City,False,,39.000668,-87.90891
+IL0170200,Palestine Police Department,4922,IL,East North Central,Midwest,Region II,CRAWFORD,City,True,2022-01-01T00:00:00.000Z,39.000763,-87.61292
+IL0170300,Robinson Police Department,4923,IL,East North Central,Midwest,Region II,CRAWFORD,City,True,2022-01-01T00:00:00.000Z,39.00373,-87.757172
+IL0170400,Hutsonville Police Department,4924,IL,East North Central,Midwest,Region II,CRAWFORD,City,False,,39.00373,-87.757172
+IL0180000,Cumberland County Sheriff's Office,4925,IL,East North Central,Midwest,Region II,CUMBERLAND,County,False,,39.273121,-88.240619
+IL0180100,Greenup Police Department,4926,IL,East North Central,Midwest,Region II,CUMBERLAND,City,True,2022-12-01T00:00:00.000Z,39.273121,-88.240619
+IL0180200,Neoga Police Department,4927,IL,East North Central,Midwest,Region II,CUMBERLAND,City,True,2022-01-01T00:00:00.000Z,39.273121,-88.240619
+IL0190000,De Kalb County Sheriff's Office,4928,IL,East North Central,Midwest,Region II,DEKALB,County,True,2021-01-01T00:00:00.000Z,41.98908,-88.68437
+IL0190100,Genoa Police Department,4929,IL,East North Central,Midwest,Region II,DEKALB,City,True,2021-01-01T00:00:00.000Z,42.09955,-88.689125
+IL0190200,Hinckley Police Department,4930,IL,East North Central,Midwest,Region II,DEKALB,City,True,2022-12-01T00:00:00.000Z,41.767162,-88.65171
+IL0190300,Sandwich Police Department,4931,IL,East North Central,Midwest,Region II,"DEKALB, KENDALL",City,True,2021-01-01T00:00:00.000Z,41.64361,-88.61766
+IL0190400,Somonauk Police Department,4932,IL,East North Central,Midwest,Region II,"DEKALB, LA SALLE",City,True,2021-01-01T00:00:00.000Z,41.894612,-88.768991
+IL0190500,Sycamore Police Department,4933,IL,East North Central,Midwest,Region II,DEKALB,City,True,2021-01-01T00:00:00.000Z,41.894612,-88.768991
+IL0190600,Waterman Police Department,4934,IL,East North Central,Midwest,Region II,DEKALB,City,False,,41.894612,-88.768991
+IL0190700,Cortland Police Department,4935,IL,East North Central,Midwest,Region II,DEKALB,City,True,2021-01-01T00:00:00.000Z,41.9205,-88.68878
+IL0190800,De Kalb Police Department,4936,IL,East North Central,Midwest,Region II,DEKALB,City,True,2021-01-01T00:00:00.000Z,41.894612,-88.768991
+IL0190900,Kirkland Police Department,4937,IL,East North Central,Midwest,Region II,DEKALB,City,True,2021-01-01T00:00:00.000Z,41.894612,-88.768991
+IL0191000,Malta Police Department,23174,IL,East North Central,Midwest,Region II,DEKALB,City,False,,41.930542,-88.86216
+IL0191100,Northern Illinois University,4938,IL,East North Central,Midwest,Region II,DEKALB,University or College,True,2021-01-01T00:00:00.000Z,41.894612,-88.768991
+IL0191300,Kingston Police Department,4939,IL,East North Central,Midwest,Region II,DEKALB,City,True,2021-01-01T00:00:00.000Z,41.894612,-88.768991
+IL0200000,De Witt County Sheriff's Office,4940,IL,East North Central,Midwest,Region II,DEWITT,County,True,2021-04-01T00:00:00.000Z,40.153603,-88.96184
+IL0200100,Clinton Police Department,4941,IL,East North Central,Midwest,Region II,DEWITT,City,True,2021-01-01T00:00:00.000Z,40.153606,-88.96084
+IL0200200,Farmer City Police Department,4942,IL,East North Central,Midwest,Region II,DEWITT,City,True,2021-01-01T00:00:00.000Z,40.181499,-88.901853
+IL0210000,Douglas County Sheriff's Office,4943,IL,East North Central,Midwest,Region II,DOUGLAS,County,False,,39.766078,-88.222866
+IL0210100,Arcola Police Department,4944,IL,East North Central,Midwest,Region II,DOUGLAS,City,True,2021-11-01T00:00:00.000Z,39.684536,-88.3066
+IL0210200,Arthur Police Department,4945,IL,East North Central,Midwest,Region II,"DOUGLAS, MOULTRIE",City,True,2021-01-01T00:00:00.000Z,39.71689,-88.47198
+IL0210300,Atwood Police Department,4946,IL,East North Central,Midwest,Region II,"DOUGLAS, PIATT",City,True,2022-01-01T00:00:00.000Z,39.799187,-88.52839
+IL0210400,Newman Police Department,4947,IL,East North Central,Midwest,Region II,DOUGLAS,City,True,2021-04-01T00:00:00.000Z,39.766078,-88.222866
+IL0210500,Tuscola Police Department,4948,IL,East North Central,Midwest,Region II,DOUGLAS,City,True,2021-08-01T00:00:00.000Z,39.800533,-88.289375
+IL0210600,Villa Grove Police Department,4949,IL,East North Central,Midwest,Region II,DOUGLAS,City,False,,39.766078,-88.222866
+IL0220000,DuPage County Sheriff's Office,4950,IL,East North Central,Midwest,Region II,DUPAGE,County,False,,41.860474,-88.14257
+IL0220100,Addison Police Department,4951,IL,East North Central,Midwest,Region II,DUPAGE,City,True,2022-12-01T00:00:00.000Z,41.852058,-88.086038
+IL0220200,Bensenville Police Department,4952,IL,East North Central,Midwest,Region II,DUPAGE,City,False,,41.852058,-88.086038
+IL0220300,Bloomingdale Police Department,4953,IL,East North Central,Midwest,Region II,DUPAGE,City,False,,41.95097,-88.08084
+IL0220400,Carol Stream Police Department,4954,IL,East North Central,Midwest,Region II,DUPAGE,City,True,2022-12-01T00:00:00.000Z,41.91519,-88.12058
+IL0220500,Clarendon Hills Police Department,4955,IL,East North Central,Midwest,Region II,DUPAGE,City,False,,41.794437,-87.96457
+IL0220600,Downers Grove Police Department,4956,IL,East North Central,Midwest,Region II,DUPAGE,City,False,,41.795322,-88.00707
+IL0220700,Elmhurst Police Department,4957,IL,East North Central,Midwest,Region II,"COOK, DUPAGE",City,False,,41.899677,-87.93869
+IL0220800,Glendale Heights Police Department,4958,IL,East North Central,Midwest,Region II,DUPAGE,City,True,2022-12-01T00:00:00.000Z,41.852058,-88.086038
+IL0220900,Glen Ellyn Police Department,4959,IL,East North Central,Midwest,Region II,DUPAGE,City,False,,41.875446,-88.06578
+IL0221000,Hinsdale Police Department,4960,IL,East North Central,Midwest,Region II,"COOK, DUPAGE",City,True,2022-01-01T00:00:00.000Z,41.852058,-88.086038
+IL0221100,Itasca Police Department,4961,IL,East North Central,Midwest,Region II,DUPAGE,City,False,,41.98159,-87.99812
+IL0221200,Lisle Police Department,4962,IL,East North Central,Midwest,Region II,DUPAGE,City,False,,41.79429,-88.076805
+IL0221300,Lombard Police Department,4963,IL,East North Central,Midwest,Region II,DUPAGE,City,False,,41.86752,-88.01246
+IL0221400,Naperville Police Department,4964,IL,East North Central,Midwest,Region II,"DUPAGE, WILL",City,True,2021-06-01T00:00:00.000Z,41.766403,-88.17647
+IL0221500,Oak Brook Police Department,4965,IL,East North Central,Midwest,Region II,"COOK, DUPAGE",City,True,2022-12-01T00:00:00.000Z,41.832603,-87.939766
+IL0221600,Roselle Police Department,4966,IL,East North Central,Midwest,Region II,"COOK, DUPAGE",City,False,,41.98194,-88.07766
+IL0221700,Villa Park Police Department,4967,IL,East North Central,Midwest,Region II,DUPAGE,City,True,2021-05-01T00:00:00.000Z,41.88882,-87.98179
+IL0221800,Wayne Police Department,4968,IL,East North Central,Midwest,Region II,"DUPAGE, KANE",City,True,2021-05-01T00:00:00.000Z,41.852058,-88.086038
+IL0221900,West Chicago Police Department,4969,IL,East North Central,Midwest,Region II,DUPAGE,City,True,2022-12-01T00:00:00.000Z,41.880188,-88.20073
+IL0222000,Westmont Police Department,4970,IL,East North Central,Midwest,Region II,DUPAGE,City,False,,41.80669,-87.97578
+IL0222100,Wheaton Police Department,4971,IL,East North Central,Midwest,Region II,DUPAGE,City,False,,41.864056,-88.11937
+IL0222200,Winfield Police Department,4972,IL,East North Central,Midwest,Region II,DUPAGE,City,True,2021-01-01T00:00:00.000Z,41.852058,-88.086038
+IL0222300,Wood Dale Police Department,4973,IL,East North Central,Midwest,Region II,DUPAGE,City,False,,41.96867,-87.97883
+IL0222400,Woodridge Police Department,4974,IL,East North Central,Midwest,Region II,"DUPAGE, WILL",City,True,2022-12-01T00:00:00.000Z,41.756924,-88.04532
+IL0222500,Warrenville Police Department,4975,IL,East North Central,Midwest,Region II,DUPAGE,City,False,,41.852058,-88.086038
+IL0222700,Darien Police Department,4976,IL,East North Central,Midwest,Region II,DUPAGE,City,False,,41.744366,-87.98603
+IL0222900,Oakbrook Terrace Police Department,4977,IL,East North Central,Midwest,Region II,DUPAGE,City,False,,41.852058,-88.086038
+IL0223000,Willowbrook Police Department,4978,IL,East North Central,Midwest,Region II,DUPAGE,City,False,,41.748,-87.940796
+IL0223100,Burr Ridge Police Department,4979,IL,East North Central,Midwest,Region II,"COOK, DUPAGE",City,False,,41.7501,-87.91556
+IL0223300,DuPage County Forest Preserve,4981,IL,East North Central,Midwest,Region II,DUPAGE,Other,False,,41.852058,-88.086038
+IL0223700,College of DuPage,4982,IL,East North Central,Midwest,Region II,DUPAGE,University or College,True,2021-05-01T00:00:00.000Z,41.84443,-88.07428
+IL0225000,Naperville Park District,4984,IL,East North Central,Midwest,Region II,DUPAGE,Other,True,2021-01-01T00:00:00.000Z,41.772045,-88.15515
+IL022709E,Benedictine University: Lisle,4985,IL,East North Central,Midwest,Region II,DUPAGE,University or College,False,,,
+IL0230000,Edgar County Sheriff's Office,4987,IL,East North Central,Midwest,Region II,EDGAR,County,False,,39.679037,-87.74711
+IL0230100,Chrisman Police Department,4988,IL,East North Central,Midwest,Region II,EDGAR,City,False,,39.804432,-87.679436
+IL0230200,Kansas,27338,IL,East North Central,Midwest,Region II,EDGAR,City,False,,,
+IL0230300,Paris Police Department,4989,IL,East North Central,Midwest,Region II,EDGAR,City,False,2021-06-01T00:00:00.000Z,39.679037,-87.74711
+IL0240000,Edwards County Sheriff's Office,4990,IL,East North Central,Midwest,Region II,EDWARDS,County,True,2022-07-01T00:00:00.000Z,38.377003,-88.05676
+IL0240100,Albion Police Department,4991,IL,East North Central,Midwest,Region II,EDWARDS,City,False,,38.37845,-88.05801
+IL0240400,West Salem Police Department,4992,IL,East North Central,Midwest,Region II,EDWARDS,City,False,,38.520126,-88.00447
+IL0250000,Effingham County Sheriff's Office,4993,IL,East North Central,Midwest,Region II,EFFINGHAM,County,True,2022-01-01T00:00:00.000Z,39.121414,-88.542076
+IL0250100,Altamont Police Department,4994,IL,East North Central,Midwest,Region II,EFFINGHAM,City,True,2021-01-01T00:00:00.000Z,39.061974,-88.74908
+IL0250200,Effingham Police Department,4995,IL,East North Central,Midwest,Region II,EFFINGHAM,City,True,2022-01-01T00:00:00.000Z,39.120426,-88.54066
+IL0250600,Teutopolis Police Department,23098,IL,East North Central,Midwest,Region II,EFFINGHAM,City,False,,39.047694,-88.592786
+IL0260000,Fayette County Sheriff's Office,4998,IL,East North Central,Midwest,Region II,FAYETTE,County,True,2021-06-01T00:00:00.000Z,38.960464,-89.098946
+IL0260100,Ramsey Police Department,4999,IL,East North Central,Midwest,Region II,FAYETTE,City,False,,39.001125,-89.017923
+IL0260200,St. Elmo Police Department,5000,IL,East North Central,Midwest,Region II,FAYETTE,City,False,,39.02734,-88.848755
+IL0260400,Vandalia Police Department,5002,IL,East North Central,Midwest,Region II,FAYETTE,City,True,2022-01-01T00:00:00.000Z,38.96043,-89.09611
+IL0260500,Farina Police Department,5003,IL,East North Central,Midwest,Region II,FAYETTE,City,False,,39.001125,-89.017923
+IL0270000,Ford County Sheriff's Office,5004,IL,East North Central,Midwest,Region II,FORD,County,True,2021-06-01T00:00:00.000Z,40.46337,-88.09997
+IL0270100,Gibson City Police Department,5005,IL,East North Central,Midwest,Region II,FORD,City,False,,40.464973,-88.37509
+IL0270200,Paxton Police Department,5006,IL,East North Central,Midwest,Region II,FORD,City,True,2022-08-01T00:00:00.000Z,40.46035,-88.09756
+IL0280000,Franklin County Sheriff's Office,5008,IL,East North Central,Midwest,Region II,FRANKLIN,County,False,,37.991848,-88.926246
+IL0280100,Benton Police Department,5009,IL,East North Central,Midwest,Region II,FRANKLIN,City,False,,37.991848,-88.926246
+IL0280200,Christopher Police Department,5010,IL,East North Central,Midwest,Region II,FRANKLIN,City,False,,37.991848,-88.926246
+IL0280300,Royalton Police Department,5011,IL,East North Central,Midwest,Region II,FRANKLIN,City,False,,37.991848,-88.926246
+IL0280400,Sesser Police Department,5012,IL,East North Central,Midwest,Region II,FRANKLIN,City,False,,37.991848,-88.926246
+IL0280500,West Frankfort Police Department,5013,IL,East North Central,Midwest,Region II,FRANKLIN,City,False,,37.899334,-88.92663
+IL0280600,Zeigler Police Department,5014,IL,East North Central,Midwest,Region II,FRANKLIN,City,False,,37.90321,-89.05312
+IL0280900,West City Police Department,5015,IL,East North Central,Midwest,Region II,FRANKLIN,City,False,,37.995872,-88.94046
+IL0281000,Buckner Police Department,5016,IL,East North Central,Midwest,Region II,FRANKLIN,City,False,,37.981476,-89.016365
+IL0281100,Valier Police Department,5017,IL,East North Central,Midwest,Region II,FRANKLIN,City,False,,37.991848,-88.926246
+IL0290000,Fulton County Sheriff's Office,5018,IL,East North Central,Midwest,Region II,FULTON,County,False,,40.397274,-90.15704
+IL0290200,Canton Police Department,5020,IL,East North Central,Midwest,Region II,FULTON,City,False,,40.555824,-90.03507
+IL0290400,Farmington Police Department,5022,IL,East North Central,Midwest,Region II,FULTON,City,False,,40.465688,-90.206793
+IL0290500,Lewistown Police Department,5023,IL,East North Central,Midwest,Region II,FULTON,City,False,,40.39643,-90.15609
+IL0290600,Avon Police Department,5024,IL,East North Central,Midwest,Region II,"FULTON, WARREN",City,False,,40.663036,-90.43488
+IL0291100,Fairview Police Department,5026,IL,East North Central,Midwest,Region II,FULTON,City,True,2019-04-01T00:00:00.000Z,40.465688,-90.206793
+IL0291600,Dunfermline Police Department,5028,IL,East North Central,Midwest,Region II,FULTON,City,False,,40.465688,-90.206793
+IL0291800,Canton Park District,5029,IL,East North Central,Midwest,Region II,FULTON,Other,True,2021-10-01T00:00:00.000Z,40.552643,-90.044525
+IL0300000,Gallatin County Sheriff's Office,5030,IL,East North Central,Midwest,Region II,GALLATIN,County,False,,37.768677,-88.227964
+IL0300100,Ridgway Police Department,5031,IL,East North Central,Midwest,Region II,GALLATIN,City,False,,37.768677,-88.227964
+IL0300200,Shawneetown Police Department,5032,IL,East North Central,Midwest,Region II,GALLATIN,City,False,,37.768677,-88.227964
+IL0310000,Greene County Sheriff's Office,5035,IL,East North Central,Midwest,Region II,GREENE,County,False,,39.300957,-90.41074
+IL0310100,Carrollton Police Department,5036,IL,East North Central,Midwest,Region II,GREENE,City,False,,39.300976,-90.40951
+IL0310200,Greenfield Police Department,5037,IL,East North Central,Midwest,Region II,GREENE,City,True,2021-06-01T00:00:00.000Z,39.343533,-90.21092
+IL0310300,Roodhouse Police Department,5038,IL,East North Central,Midwest,Region II,GREENE,City,False,,39.484158,-90.371346
+IL0310400,White Hall Police Department,5039,IL,East North Central,Midwest,Region II,GREENE,City,False,,39.436825,-90.40341
+IL0320000,Grundy County Sheriff's Office,5040,IL,East North Central,Midwest,Region II,GRUNDY,County,True,2021-02-01T00:00:00.000Z,41.356472,-88.42147
+IL0320100,Coal City Police Department,5041,IL,East North Central,Midwest,Region II,"GRUNDY, WILL",City,True,2021-01-01T00:00:00.000Z,41.29241,-88.401054
+IL0320300,Mazon Police Department,23095,IL,East North Central,Midwest,Region II,GRUNDY,City,True,2022-12-01T00:00:00.000Z,41.29241,-88.401054
+IL0320400,Morris Police Department,5043,IL,East North Central,Midwest,Region II,GRUNDY,City,True,2021-01-01T00:00:00.000Z,41.361942,-88.42277
+IL0320600,Minooka Police Department,5044,IL,East North Central,Midwest,Region II,"GRUNDY, KENDALL, WILL",City,False,,41.44803,-88.260704
+IL0330000,Hamilton County Sheriff's Office,5045,IL,East North Central,Midwest,Region II,HAMILTON,County,True,2022-12-01T00:00:00.000Z,38.094044,-88.53508
+IL0330100,McLeansboro Police Department,5046,IL,East North Central,Midwest,Region II,HAMILTON,City,True,2022-01-01T00:00:00.000Z,38.092876,-88.53666
+IL0340000,Hancock County Sheriff's Office,5047,IL,East North Central,Midwest,Region II,HANCOCK,County,True,2022-01-01T00:00:00.000Z,40.416164,-91.145424
+IL0340100,Carthage Police Department,5048,IL,East North Central,Midwest,Region II,HANCOCK,City,False,,40.412342,-91.1356
+IL0340300,Dallas City Police Department,5049,IL,East North Central,Midwest,Region II,"HANCOCK, HENDERSON",City,False,,40.405792,-91.167987
+IL0340400,Hamilton Police Department,5050,IL,East North Central,Midwest,Region II,HANCOCK,City,False,,40.393085,-91.345215
+IL0340600,La Harpe Police Department,23288,IL,East North Central,Midwest,Region II,HANCOCK,City,False,,40.405792,-91.167987
+IL0340700,Nauvoo Police Department,5051,IL,East North Central,Midwest,Region II,HANCOCK,City,False,,40.405792,-91.167987
+IL0350000,Hardin County Sheriff's Office,5055,IL,East North Central,Midwest,Region II,HARDIN,County,False,,37.517852,-88.266148
+IL0360000,Henderson County Sheriff's Office,5057,IL,East North Central,Midwest,Region II,HENDERSON,County,True,2022-02-01T00:00:00.000Z,40.815141,-90.93848
+IL0360100,Gulfport,35492,IL,East North Central,Midwest,Region II,HENDERSON,City,False,,,
+IL0360200,Oquawka Police Department,23099,IL,East North Central,Midwest,Region II,HENDERSON,City,False,,40.815141,-90.93848
+IL0360600,Stronghurst  Police Department,5058,IL,East North Central,Midwest,Region II,HENDERSON,City,False,,40.815141,-90.93848
+IL0370000,Henry County Sheriff's Office,5059,IL,East North Central,Midwest,Region II,HENRY,County,True,2021-01-01T00:00:00.000Z,41.350021,-90.130838
+IL0370100,Alpha,35494,IL,East North Central,Midwest,Region II,HENRY,City,False,,,
+IL0370200,Annawan Police Department,5060,IL,East North Central,Midwest,Region II,HENRY,City,True,2021-01-01T00:00:00.000Z,41.350021,-90.130838
+IL0370300,Atkinson Police Department,5061,IL,East North Central,Midwest,Region II,HENRY,City,False,,41.416924,-90.01547
+IL0370400,Cambridge Police Department,5062,IL,East North Central,Midwest,Region II,HENRY,City,True,2021-01-01T00:00:00.000Z,41.30275,-90.19631
+IL0370500,Colona Police Department,5063,IL,East North Central,Midwest,Region II,HENRY,City,True,2021-01-01T00:00:00.000Z,41.350021,-90.130838
+IL0370600,Galva Police Department,5064,IL,East North Central,Midwest,Region II,HENRY,City,False,,41.167206,-90.04194
+IL0370700,Geneseo Police Department,5065,IL,East North Central,Midwest,Region II,HENRY,City,True,2021-01-01T00:00:00.000Z,41.452873,-90.15398
+IL0370900,Kewanee Police Department,5067,IL,East North Central,Midwest,Region II,HENRY,City,False,,41.24564,-89.920456
+IL0371000,Orion Police Department,5068,IL,East North Central,Midwest,Region II,HENRY,City,True,2021-01-01T00:00:00.000Z,41.352608,-90.38153
+IL0371100,Woodhull Police Department,5069,IL,East North Central,Midwest,Region II,HENRY,City,False,,41.350021,-90.130838
+IL0371200,Black Hawk College: Kewanee,23105,IL,East North Central,Midwest,Region II,HENRY,University or College,False,,41.350021,-90.130838
+IL0380000,Iroquois County Sheriff's Office,5070,IL,East North Central,Midwest,Region II,IROQUOIS,County,True,2021-01-01T00:00:00.000Z,40.771248,-87.71966
+IL0380100,Watseka Police Department,5071,IL,East North Central,Midwest,Region II,IROQUOIS,City,True,2021-07-01T00:00:00.000Z,40.748867,-87.833601
+IL0380300,Milford Police Department,5073,IL,East North Central,Midwest,Region II,IROQUOIS,City,False,,40.62663,-87.69513
+IL0380400,Onarga Police Department,25269,IL,East North Central,Midwest,Region II,IROQUOIS,City,True,2021-01-01T00:00:00.000Z,40.748867,-87.833601
+IL0380500,Sheldon Police Department,5074,IL,East North Central,Midwest,Region II,IROQUOIS,City,False,,40.748867,-87.833601
+IL0390000,Jackson County Sheriff's Office,5079,IL,East North Central,Midwest,Region II,JACKSON,County,True,2021-01-01T00:00:00.000Z,37.786096,-89.381212
+IL0390100,Carbondale Police Department,5080,IL,East North Central,Midwest,Region II,JACKSON,City,True,2022-01-01T00:00:00.000Z,37.786096,-89.381212
+IL0390200,Murphysboro Police Department,5081,IL,East North Central,Midwest,Region II,JACKSON,City,True,2022-01-01T00:00:00.000Z,37.786096,-89.381212
+IL0390300,Southern Illinois University: Carbondale,5082,IL,East North Central,Midwest,Region II,JACKSON,University or College,True,2021-01-01T00:00:00.000Z,37.717224,-89.21445
+IL0390400,De Soto Police Department,5083,IL,East North Central,Midwest,Region II,JACKSON,City,False,,37.81746,-89.230484
+IL0390500,Elkville,35498,IL,East North Central,Midwest,Region II,JACKSON,City,False,,,
+IL0390900,Grand Tower Police Department,5085,IL,East North Central,Midwest,Region II,JACKSON,City,False,,37.63169,-89.50442
+IL0391000,Dowell,35496,IL,East North Central,Midwest,Region II,JACKSON,City,False,,,
+IL0400000,Jasper County Sheriff's Office,5086,IL,East North Central,Midwest,Region II,JASPER,County,True,2022-05-01T00:00:00.000Z,38.991962,-88.16041
+IL0400100,Newton Police Department,5087,IL,East North Central,Midwest,Region II,JASPER,City,False,,39.004874,-88.150763
+IL0410000,Jefferson County Sheriff's Office,5088,IL,East North Central,Midwest,Region II,JEFFERSON,County,True,2021-01-01T00:00:00.000Z,38.31462,-88.90245
+IL0410100,Mount Vernon Police Department,5089,IL,East North Central,Midwest,Region II,JEFFERSON,City,False,,38.319042,-88.903885
+IL0410300,Rend Lake College,25268,IL,East North Central,Midwest,Region II,JEFFERSON,University or College,False,,38.30078,-88.92421
+IL0410700,Ina Police Department,25676,IL,East North Central,Midwest,Region II,JEFFERSON,City,True,2022-12-01T00:00:00.000Z,38.30078,-88.92421
+IL0420000,Jersey County Sheriff's Office,5091,IL,East North Central,Midwest,Region II,JERSEY,County,True,2021-01-01T00:00:00.000Z,39.11914,-90.328636
+IL0420100,Grafton Police Department,5092,IL,East North Central,Midwest,Region II,JERSEY,City,True,2022-01-01T00:00:00.000Z,39.080192,-90.361365
+IL0420200,Jerseyville Police Department,5093,IL,East North Central,Midwest,Region II,JERSEY,City,True,2021-01-01T00:00:00.000Z,39.118988,-90.325874
+IL0430000,Jo Daviess County Sheriff's Office,5094,IL,East North Central,Midwest,Region II,JO DAVIESS,County,True,2022-06-01T00:00:00.000Z,42.4143,-90.4307
+IL0430100,East Dubuque Police Department,5095,IL,East North Central,Midwest,Region II,JO DAVIESS,City,False,,42.492973,-90.644135
+IL0430200,Elizabeth Police Department,5096,IL,East North Central,Midwest,Region II,JO DAVIESS,City,False,,42.31756,-90.22106
+IL0430300,Galena Police Department,5097,IL,East North Central,Midwest,Region II,JO DAVIESS,City,False,,42.4174,-90.42571
+IL0430400,Hanover Police Department,5098,IL,East North Central,Midwest,Region II,JO DAVIESS,City,False,,42.362391,-90.21147
+IL0430500,Stockton Police Department,5099,IL,East North Central,Midwest,Region II,JO DAVIESS,City,False,2023-02-01T00:00:00.000Z,42.362391,-90.21147
+IL0430600,Warren Police Department,5100,IL,East North Central,Midwest,Region II,JO DAVIESS,City,False,,42.362391,-90.21147
+IL0430700,Apple River Police Department,5101,IL,East North Central,Midwest,Region II,JO DAVIESS,City,False,,42.362391,-90.21147
+IL0440000,Johnson County Sheriff's Office,5102,IL,East North Central,Midwest,Region II,JOHNSON,County,False,,37.460709,-88.882131
+IL0440100,Vienna Police Department,5103,IL,East North Central,Midwest,Region II,JOHNSON,City,False,,37.416252,-88.89602
+IL0440200,Goreville Police Department,5104,IL,East North Central,Midwest,Region II,JOHNSON,City,False,,37.460709,-88.882131
+IL0450000,Kane County Sheriff's Office,5105,IL,East North Central,Midwest,Region II,KANE,County,False,,41.939594,-88.42804
+IL0450100,Aurora Police Department,5106,IL,East North Central,Midwest,Region II,"DUPAGE, KANE, KENDALL, WILL",City,False,,41.78237,-88.28631
+IL0450200,Batavia Police Department,5107,IL,East North Central,Midwest,Region II,KANE,City,True,2021-01-01T00:00:00.000Z,41.852165,-88.30853
+IL0450300,Carpentersville Police Department,5108,IL,East North Central,Midwest,Region II,KANE,City,True,2022-12-01T00:00:00.000Z,41.939594,-88.42804
+IL0450400,East Dundee Police Department,5109,IL,East North Central,Midwest,Region II,KANE,City,True,2021-01-01T00:00:00.000Z,42.101486,-88.27788
+IL0450500,Elburn Police Department,5110,IL,East North Central,Midwest,Region II,KANE,City,True,2021-04-01T00:00:00.000Z,41.892216,-88.469864
+IL0450600,Elgin Police Department,5111,IL,East North Central,Midwest,Region II,"COOK, KANE",City,True,2022-01-01T00:00:00.000Z,42.039604,-88.28398
+IL0450700,Geneva Police Department,5112,IL,East North Central,Midwest,Region II,KANE,City,True,2021-01-01T00:00:00.000Z,41.939594,-88.42804
+IL0450800,Hampshire Police Department,5113,IL,East North Central,Midwest,Region II,KANE,City,True,2021-02-01T00:00:00.000Z,41.939594,-88.42804
+IL0450900,Montgomery Police Department,5114,IL,East North Central,Midwest,Region II,"KANE, KENDALL",City,True,2020-12-01T00:00:00.000Z,41.939594,-88.42804
+IL0451000,North Aurora Police Department,5115,IL,East North Central,Midwest,Region II,KANE,City,False,,41.798405,-88.324715
+IL0451100,Pingree Grove Police Department,5116,IL,East North Central,Midwest,Region II,KANE,City,True,2021-01-01T00:00:00.000Z,41.939594,-88.42804
+IL0451200,Sleepy Hollow Police Department,5117,IL,East North Central,Midwest,Region II,KANE,City,True,2022-01-01T00:00:00.000Z,41.939594,-88.42804
+IL0451300,South Elgin Police Department,5118,IL,East North Central,Midwest,Region II,KANE,City,True,2021-04-01T00:00:00.000Z,41.994137,-88.29565
+IL0451400,St. Charles Police Department,5119,IL,East North Central,Midwest,Region II,"DUPAGE, KANE",City,True,2021-02-01T00:00:00.000Z,41.91517,-88.3136
+IL0451500,Sugar Grove Police Department,5120,IL,East North Central,Midwest,Region II,KANE,City,False,,41.939594,-88.42804
+IL0451700,West Dundee Police Department,5122,IL,East North Central,Midwest,Region II,KANE,City,True,2021-01-01T00:00:00.000Z,42.091072,-88.288605
+IL0451800,Maple Park Police Department,5123,IL,East North Central,Midwest,Region II,"DEKALB, KANE",City,True,2021-01-01T00:00:00.000Z,41.939594,-88.42804
+IL0451900,Waubonsee Community College,5124,IL,East North Central,Midwest,Region II,KANE,University or College,True,2020-04-01T00:00:00.000Z,41.939594,-88.42804
+IL0452100,Gilberts Police Department,5126,IL,East North Central,Midwest,Region II,KANE,City,True,2021-10-01T00:00:00.000Z,42.10557,-88.37536
+IL0452600,Kane County Forest Preserve,5128,IL,East North Central,Midwest,Region II,KANE,Other,False,,41.939594,-88.42804
+IL0452700,Fox Valley Park District,5129,IL,East North Central,Midwest,Region II,KANE,Other,True,2021-11-01T00:00:00.000Z,41.727768,-88.33984
+IL0453300,Elgin Community College,5130,IL,East North Central,Midwest,Region II,KANE,University or College,True,2020-10-01T00:00:00.000Z,42.015987,-88.32125
+IL0453400,Campton Hills Police Department,5131,IL,East North Central,Midwest,Region II,KANE,City,True,2022-01-01T00:00:00.000Z,41.939594,-88.42804
+IL0460000,Kankakee County Sheriff's Office,5133,IL,East North Central,Midwest,Region II,KANKAKEE,County,True,2022-11-01T00:00:00.000Z,41.13951,-87.861117
+IL0460100,Bradley Police Department,5134,IL,East North Central,Midwest,Region II,KANKAKEE,City,True,2022-11-01T00:00:00.000Z,41.13951,-87.861117
+IL0460200,Kankakee Police Department,5135,IL,East North Central,Midwest,Region II,KANKAKEE,City,False,,41.121384,-87.861084
+IL0460300,Bourbonnais Police Department,5136,IL,East North Central,Midwest,Region II,KANKAKEE,City,True,2022-11-01T00:00:00.000Z,41.13951,-87.861117
+IL0460400,Momence Police Department,5137,IL,East North Central,Midwest,Region II,KANKAKEE,City,False,2023-01-01T00:00:00.000Z,41.1621,-87.66364
+IL0460500,Manteno Police Department,5138,IL,East North Central,Midwest,Region II,KANKAKEE,City,True,2022-11-01T00:00:00.000Z,41.251835,-87.83378
+IL0460600,St. Anne Police Department,5139,IL,East North Central,Midwest,Region II,KANKAKEE,City,True,2022-01-01T00:00:00.000Z,41.13951,-87.861117
+IL0460900,Essex Police Department,5140,IL,East North Central,Midwest,Region II,KANKAKEE,City,False,,41.13951,-87.861117
+IL0461000,Herscher Police Department,5141,IL,East North Central,Midwest,Region II,KANKAKEE,City,False,,41.13951,-87.861117
+IL0461100,Grant Park Police Department,5142,IL,East North Central,Midwest,Region II,KANKAKEE,City,False,,41.241062,-87.64376
+IL0462100,Kankakee Community College,25782,IL,East North Central,Midwest,Region II,KANKAKEE,University or College,False,,,
+IL0470000,Kendall County Sheriff's Office,5145,IL,East North Central,Midwest,Region II,KENDALL,County,True,2021-01-01T00:00:00.000Z,41.656876,-88.46226
+IL0470100,Plano Police Department,5146,IL,East North Central,Midwest,Region II,KENDALL,City,True,2021-07-01T00:00:00.000Z,41.66358,-88.53747
+IL0470200,Yorkville Police Department,5147,IL,East North Central,Midwest,Region II,KENDALL,City,True,2021-01-01T00:00:00.000Z,41.65422,-88.45092
+IL0470300,Oswego Police Department,5148,IL,East North Central,Midwest,Region II,KENDALL,City,True,2021-01-01T00:00:00.000Z,41.69313,-88.329796
+IL0480000,Knox County Sheriff's Office,5149,IL,East North Central,Midwest,Region II,KNOX,County,False,,40.945683,-90.36636
+IL0480100,Abingdon Police Department,5150,IL,East North Central,Midwest,Region II,KNOX,City,False,,40.802464,-90.39844
+IL0480400,Galesburg Police Department,5152,IL,East North Central,Midwest,Region II,KNOX,City,False,,40.94573,-90.37114
+IL0480500,Knoxville Police Department,5153,IL,East North Central,Midwest,Region II,KNOX,City,False,,40.930941,-90.213761
+IL0480700,Yates City Police Department,5154,IL,East North Central,Midwest,Region II,KNOX,City,False,,40.778637,-90.01466
+IL0480800,Williamsfield Police Department,5155,IL,East North Central,Midwest,Region II,KNOX,City,False,,40.930941,-90.213761
+IL0490000,Lake County Sheriff's Office,5157,IL,East North Central,Midwest,Region II,LAKE,County,False,,42.359196,-87.83389
+IL0490100,Antioch Police Department,5158,IL,East North Central,Midwest,Region II,LAKE,City,True,2022-10-01T00:00:00.000Z,42.47915,-88.09838
+IL0490200,Riverwoods Police Department,5159,IL,East North Central,Midwest,Region II,LAKE,City,True,2021-01-01T00:00:00.000Z,42.159016,-87.897125
+IL0490300,Deerfield Police Department,5160,IL,East North Central,Midwest,Region II,"COOK, LAKE",City,True,2021-01-01T00:00:00.000Z,42.1687,-87.84616
+IL0490400,Fox Lake Police Department,5161,IL,East North Central,Midwest,Region II,"LAKE, MCHENRY",City,True,2021-01-01T00:00:00.000Z,42.39391,-88.155594
+IL0490500,Grayslake Police Department,5162,IL,East North Central,Midwest,Region II,LAKE,City,True,2021-01-01T00:00:00.000Z,42.34364,-88.04026
+IL0490600,Gurnee Police Department,5163,IL,East North Central,Midwest,Region II,LAKE,City,True,2022-01-01T00:00:00.000Z,42.35792,-87.914474
+IL0490700,Highland Park Police Department,5164,IL,East North Central,Midwest,Region II,LAKE,City,True,2021-01-01T00:00:00.000Z,42.174923,-87.82112
+IL0490800,Highwood Police Department,5165,IL,East North Central,Midwest,Region II,LAKE,City,False,,42.201942,-87.80959
+IL0490900,Lake Bluff Police Department,5166,IL,East North Central,Midwest,Region II,LAKE,City,False,,42.278873,-87.84415
+IL0491000,Lake Forest Police Department,5167,IL,East North Central,Midwest,Region II,LAKE,City,True,2021-01-01T00:00:00.000Z,42.247894,-87.8556
+IL0491100,Lake Villa Police Department,5168,IL,East North Central,Midwest,Region II,LAKE,City,True,2022-06-01T00:00:00.000Z,42.416424,-88.081245
+IL0491200,Lake Zurich Police Department,5169,IL,East North Central,Midwest,Region II,LAKE,City,True,2021-01-01T00:00:00.000Z,42.19486,-88.08641
+IL0491300,Libertyville Police Department,5170,IL,East North Central,Midwest,Region II,LAKE,City,True,2022-01-01T00:00:00.000Z,42.287792,-87.95165
+IL0491400,Mundelein Police Department,5171,IL,East North Central,Midwest,Region II,LAKE,City,True,2021-01-01T00:00:00.000Z,42.25907,-88.00398
+IL0491500,North Chicago Police Department,5172,IL,East North Central,Midwest,Region II,LAKE,City,False,,42.326004,-87.85609
+IL0491600,Round Lake Police Department,5173,IL,East North Central,Midwest,Region II,LAKE,City,True,2022-05-01T00:00:00.000Z,42.326444,-87.436118
+IL0491700,Round Lake Beach Police Department,5174,IL,East North Central,Midwest,Region II,LAKE,City,True,2022-01-01T00:00:00.000Z,42.326444,-87.436118
+IL0491800,Round Lake Heights Police Department,5175,IL,East North Central,Midwest,Region II,LAKE,City,False,,42.326444,-87.436118
+IL0491900,Round Lake Park Police Department,5176,IL,East North Central,Midwest,Region II,LAKE,City,False,,42.326444,-87.436118
+IL0492000,Wauconda Police Department,5177,IL,East North Central,Midwest,Region II,LAKE,City,True,2020-07-01T00:00:00.000Z,42.25756,-88.13825
+IL0492100,Waukegan Police Department,5178,IL,East North Central,Midwest,Region II,LAKE,City,False,,42.36095,-87.83479
+IL0492200,Winthrop Harbor Police Department,5179,IL,East North Central,Midwest,Region II,LAKE,City,False,,42.480007,-87.82344
+IL0492300,Zion Police Department,5180,IL,East North Central,Midwest,Region II,LAKE,City,True,2022-01-01T00:00:00.000Z,42.449825,-87.840836
+IL0492400,Island Lake Police Department,5181,IL,East North Central,Midwest,Region II,"LAKE, MCHENRY",City,False,,42.326444,-87.436118
+IL0492500,Park City Police Department,5182,IL,East North Central,Midwest,Region II,LAKE,City,False,,42.326444,-87.436118
+IL0492600,Vernon Hills Police Department,5183,IL,East North Central,Midwest,Region II,LAKE,City,True,2022-01-01T00:00:00.000Z,42.23807,-87.958046
+IL0492700,Bannockburn Police Department,5184,IL,East North Central,Midwest,Region II,LAKE,City,True,2022-01-01T00:00:00.000Z,42.19422,-87.86727
+IL0492900,Lincolnshire Police Department,5186,IL,East North Central,Midwest,Region II,LAKE,City,True,2021-01-01T00:00:00.000Z,42.326444,-87.436118
+IL0493000,Lindenhurst Police Department,5187,IL,East North Central,Midwest,Region II,LAKE,City,True,2021-01-01T00:00:00.000Z,42.415,-88.04038
+IL0493200,College of Lake County,5189,IL,East North Central,Midwest,Region II,LAKE,University or College,True,2022-09-01T00:00:00.000Z,42.36055,-88.010414
+IL0493300,Tower Lakes  Police Department,5190,IL,East North Central,Midwest,Region II,LAKE,City,True,2022-10-01T00:00:00.000Z,42.151432,-88.136086
+IL0493600,Kildeer Police Department,5191,IL,East North Central,Midwest,Region II,LAKE,City,True,2021-01-01T00:00:00.000Z,42.18026,-88.05791
+IL0493800,Hawthorn Woods Police Department,5193,IL,East North Central,Midwest,Region II,LAKE,City,False,,42.217648,-88.05431
+IL0494100,Lake County Forest Preserve,5196,IL,East North Central,Midwest,Region II,LAKE,Other,True,2022-10-01T00:00:00.000Z,42.41517,-88.040825
+IL0494300,Round Lake Park District,23493,IL,East North Central,Midwest,Region II,LAKE,Other,False,,42.357296,-88.10073
+IL0494800,Zion Park District,29974,IL,East North Central,Midwest,Region II,LAKE,Other,False,,,
+IL0500000,La Salle County Sheriff's Office,5198,IL,East North Central,Midwest,Region II,LA SALLE,County,True,2021-05-01T00:00:00.000Z,41.373623,-88.82672
+IL0500100,La Salle Police Department,5199,IL,East North Central,Midwest,Region II,LA SALLE,City,True,2021-11-01T00:00:00.000Z,41.32929,-89.09497
+IL0500200,Leland Police Department,5200,IL,East North Central,Midwest,Region II,LA SALLE,City,True,2022-01-01T00:00:00.000Z,41.343341,-88.885931
+IL0500300,Marseilles Police Department,5201,IL,East North Central,Midwest,Region II,LA SALLE,City,True,2022-01-01T00:00:00.000Z,41.343341,-88.885931
+IL0500400,Mendota Police Department,5202,IL,East North Central,Midwest,Region II,LA SALLE,City,True,2022-12-01T00:00:00.000Z,41.547626,-89.11985
+IL0500600,Oglesby Police Department,5203,IL,East North Central,Midwest,Region II,LA SALLE,City,True,2021-05-01T00:00:00.000Z,41.295097,-89.0616
+IL0500700,Ottawa Police Department,5204,IL,East North Central,Midwest,Region II,LA SALLE,City,True,2021-08-01T00:00:00.000Z,41.34995,-88.84418
+IL0500800,Peru Police Department,5205,IL,East North Central,Midwest,Region II,LA SALLE,City,True,2022-01-01T00:00:00.000Z,41.327663,-89.1253
+IL0500900,Seneca Police Department,5206,IL,East North Central,Midwest,Region II,"GRUNDY, LA SALLE",City,False,,41.343341,-88.885931
+IL0501000,Streator Police Department,5207,IL,East North Central,Midwest,Region II,"LA SALLE, LIVINGSTON",City,True,2021-07-01T00:00:00.000Z,41.11923,-88.83553
+IL0501100,Earlville Police Department,5208,IL,East North Central,Midwest,Region II,LA SALLE,City,False,,41.343341,-88.885931
+IL0501300,Grand Ridge Police Department,5209,IL,East North Central,Midwest,Region II,LA SALLE,City,True,2021-11-01T00:00:00.000Z,41.343341,-88.885931
+IL0501500,Sheridan Police Department,5210,IL,East North Central,Midwest,Region II,LA SALLE,City,False,,41.343341,-88.885931
+IL0501600,Tonica Police Department,5211,IL,East North Central,Midwest,Region II,LA SALLE,City,False,,41.343341,-88.885931
+IL0501700,North Utica,27337,IL,East North Central,Midwest,Region II,LA SALLE,City,False,,,
+IL0502200,Tri-County Drug Enforcement Narcotics Team,25326,IL,East North Central,Midwest,Region II,LA SALLE,Other,True,2020-12-01T00:00:00.000Z,41.343341,-88.885931
+IL0502400,Dana,27554,IL,East North Central,Midwest,Region II,LA SALLE,City,False,,,
+IL0510000,Lawrence County Sheriff's Office,5213,IL,East North Central,Midwest,Region II,LAWRENCE,County,False,,38.726986,-87.68442
+IL0510100,Bridgeport Police Department,5214,IL,East North Central,Midwest,Region II,LAWRENCE,City,False,,38.706196,-87.76135
+IL0510200,Lawrenceville Police Department,5215,IL,East North Central,Midwest,Region II,LAWRENCE,City,False,,38.729416,-87.677986
+IL0510300,Sumner Police Department,5216,IL,East North Central,Midwest,Region II,LAWRENCE,City,False,,38.718954,-87.730221
+IL0510400,St. Francisville Police Department,5217,IL,East North Central,Midwest,Region II,LAWRENCE,City,False,,38.718954,-87.730221
+IL0520000,Lee County Sheriff's Office,5218,IL,East North Central,Midwest,Region II,LEE,County,False,,41.841206,-89.48305
+IL0520200,Amboy Police Department,5220,IL,East North Central,Midwest,Region II,LEE,City,False,,41.713726,-89.33026
+IL0520300,Dixon Police Department,5221,IL,East North Central,Midwest,Region II,LEE,City,True,2022-01-01T00:00:00.000Z,41.842113,-89.483444
+IL0520400,Franklin Grove Police Department,5222,IL,East North Central,Midwest,Region II,LEE,City,False,,41.747442,-89.299351
+IL0530000,Livingston County Sheriff's Office,5223,IL,East North Central,Midwest,Region II,LIVINGSTON,County,True,2022-01-01T00:00:00.000Z,40.871796,-88.6393
+IL0530100,Dwight Police Department,5224,IL,East North Central,Midwest,Region II,"GRUNDY, LIVINGSTON",City,True,2020-12-01T00:00:00.000Z,41.09283,-88.42886
+IL0530200,Pontiac Police Department,5225,IL,East North Central,Midwest,Region II,LIVINGSTON,City,True,2022-01-01T00:00:00.000Z,40.881287,-88.62978
+IL0530300,Fairbury Police Department,5226,IL,East North Central,Midwest,Region II,LIVINGSTON,City,True,2021-10-01T00:00:00.000Z,40.746876,-88.51485
+IL0540000,Logan County Sheriff's Office,5228,IL,East North Central,Midwest,Region II,LOGAN,County,True,2020-10-01T00:00:00.000Z,40.146095,-89.359406
+IL0540100,Atlanta Police Department,5229,IL,East North Central,Midwest,Region II,LOGAN,City,False,,40.129122,-89.365307
+IL0540200,Lincoln Police Department,5230,IL,East North Central,Midwest,Region II,LOGAN,City,True,2020-10-01T00:00:00.000Z,40.146095,-89.359406
+IL0540300,Mount Pulaski Police Department,5231,IL,East North Central,Midwest,Region II,LOGAN,City,True,2020-04-01T00:00:00.000Z,40.009422,-89.28384
+IL0550000,McDonough County Sheriff's Office,5232,IL,East North Central,Midwest,Region II,MCDONOUGH,County,False,,40.458607,-90.67328
+IL0550100,Blandinsville Police Department,5233,IL,East North Central,Midwest,Region II,MCDONOUGH,City,False,,40.455808,-90.678954
+IL0550200,Bushnell Police Department,5234,IL,East North Central,Midwest,Region II,MCDONOUGH,City,False,,40.553238,-90.50989
+IL0550300,Colchester Police Department,5235,IL,East North Central,Midwest,Region II,MCDONOUGH,City,True,2021-01-01T00:00:00.000Z,40.455808,-90.678954
+IL0550400,Macomb Police Department,5236,IL,East North Central,Midwest,Region II,MCDONOUGH,City,True,2022-10-01T00:00:00.000Z,40.4585,-90.67329
+IL0550500,Western Illinois University,5237,IL,East North Central,Midwest,Region II,MCDONOUGH,University or College,False,,40.46258,-90.68176
+IL0560000,McHenry County Sheriff's Office,5240,IL,East North Central,Midwest,Region II,MCHENRY,County,True,2022-03-01T00:00:00.000Z,42.324298,-88.452245
+IL0560100,Algonquin Police Department,5241,IL,East North Central,Midwest,Region II,"KANE, MCHENRY",City,True,2021-01-01T00:00:00.000Z,42.164867,-88.32327
+IL0560200,Cary Police Department,5242,IL,East North Central,Midwest,Region II,MCHENRY,City,True,2022-03-01T00:00:00.000Z,42.324298,-88.452245
+IL0560300,Crystal Lake Police Department,5243,IL,East North Central,Midwest,Region II,MCHENRY,City,True,2022-06-01T00:00:00.000Z,42.324298,-88.452245
+IL0560400,Fox River Grove Police Department,5244,IL,East North Central,Midwest,Region II,"LAKE, MCHENRY",City,True,2021-08-01T00:00:00.000Z,42.199066,-88.21802
+IL0560500,Harvard Police Department,5245,IL,East North Central,Midwest,Region II,MCHENRY,City,True,2021-01-01T00:00:00.000Z,42.324298,-88.452245
+IL0560600,Hebron Police Department,5246,IL,East North Central,Midwest,Region II,MCHENRY,City,False,,42.324298,-88.452245
+IL0560700,Huntley Police Department,5247,IL,East North Central,Midwest,Region II,"KANE, MCHENRY",City,True,2022-01-01T00:00:00.000Z,42.324298,-88.452245
+IL0560900,Lake In the Hills Police Department,5248,IL,East North Central,Midwest,Region II,MCHENRY,City,True,2021-01-01T00:00:00.000Z,42.18684,-88.330315
+IL0561000,Marengo Police Department,5249,IL,East North Central,Midwest,Region II,MCHENRY,City,True,2022-06-01T00:00:00.000Z,42.249954,-88.60738
+IL0561100,McCullom Lake Police Department,5250,IL,East North Central,Midwest,Region II,MCHENRY,City,False,,42.366352,-88.29044
+IL0561200,McHenry Police Department,5251,IL,East North Central,Midwest,Region II,MCHENRY,City,True,2021-01-01T00:00:00.000Z,42.33222,-88.26723
+IL0561300,Richmond Police Department,5252,IL,East North Central,Midwest,Region II,MCHENRY,City,True,2022-08-01T00:00:00.000Z,42.46641,-88.30669
+IL0561400,Johnsburg Police Department,5253,IL,East North Central,Midwest,Region II,MCHENRY,City,True,2021-01-01T00:00:00.000Z,42.378517,-88.2395
+IL0561500,Woodstock Police Department,5254,IL,East North Central,Midwest,Region II,MCHENRY,City,True,2021-03-01T00:00:00.000Z,42.309006,-88.439804
+IL0561600,Lakemoor Police Department,5255,IL,East North Central,Midwest,Region II,"LAKE, MCHENRY",City,True,2020-10-01T00:00:00.000Z,42.330437,-88.20246
+IL0561700,Lakewood Police Department,5256,IL,East North Central,Midwest,Region II,MCHENRY,City,True,2022-03-01T00:00:00.000Z,42.233494,-88.364525
+IL0561800,Oakwood Hills Police Department,5257,IL,East North Central,Midwest,Region II,MCHENRY,City,True,2022-08-01T00:00:00.000Z,42.252472,-88.255844
+IL0561900,Spring Grove Police Department,5258,IL,East North Central,Midwest,Region II,MCHENRY,City,True,2022-08-01T00:00:00.000Z,42.434006,-88.23778
+IL0562100,Holiday Hills  Police Department,5260,IL,East North Central,Midwest,Region II,MCHENRY,City,False,,42.2951,-88.22252
+IL0562200,Wonder Lake Police Department,5261,IL,East North Central,Midwest,Region II,MCHENRY,City,True,2022-03-01T00:00:00.000Z,42.39092,-88.36928
+IL0562400,Union,30654,IL,East North Central,Midwest,Region II,MCHENRY,City,True,2021-07-01T00:00:00.000Z,,
+IL0562500,Bull Valley Police Department,5263,IL,East North Central,Midwest,Region II,MCHENRY,City,False,,42.324298,-88.452245
+IL0562600,Prairie Grove  Police Department,5264,IL,East North Central,Midwest,Region II,MCHENRY,City,True,2022-03-01T00:00:00.000Z,42.28973,-88.261696
+IL0562700,Crystal Lake Park District,5265,IL,East North Central,Midwest,Region II,MCHENRY,Other,True,2022-07-01T00:00:00.000Z,42.241123,-88.320854
+IL0562800,McHenry County Conservation District,21942,IL,East North Central,Midwest,Region II,MCHENRY,Other,True,2022-02-01T00:00:00.000Z,42.358047,-88.55708
+IL0562900,McHenry County College,5266,IL,East North Central,Midwest,Region II,MCHENRY,University or College,True,2021-01-01T00:00:00.000Z,42.324298,-88.452245
+IL0570000,McLean County Sheriff's Office,5267,IL,East North Central,Midwest,Region II,MCLEAN,County,True,2021-01-01T00:00:00.000Z,40.47869,-88.993706
+IL0570100,Bloomington Police Department,5268,IL,East North Central,Midwest,Region II,MCLEAN,City,True,2021-01-01T00:00:00.000Z,40.494559,-88.844539
+IL0570200,Normal Police Department,5269,IL,East North Central,Midwest,Region II,MCLEAN,City,True,2021-01-01T00:00:00.000Z,40.507637,-88.98287
+IL0570300,Chenoa Police Department,5270,IL,East North Central,Midwest,Region II,MCLEAN,City,True,2021-09-01T00:00:00.000Z,40.494559,-88.844539
+IL0570400,Heyworth Police Department,23118,IL,East North Central,Midwest,Region II,MCLEAN,City,True,2021-01-01T00:00:00.000Z,40.494559,-88.844539
+IL0570500,Le Roy Police Department,5271,IL,East North Central,Midwest,Region II,MCLEAN,City,True,2021-07-01T00:00:00.000Z,40.346134,-88.75931
+IL0570600,Lexington Police Department,5272,IL,East North Central,Midwest,Region II,MCLEAN,City,True,2022-07-01T00:00:00.000Z,40.641552,-88.78368
+IL0570700,Danvers Police Department,5273,IL,East North Central,Midwest,Region II,MCLEAN,City,False,,40.494559,-88.844539
+IL0570800,Colfax Police Department,5274,IL,East North Central,Midwest,Region II,MCLEAN,City,True,2021-01-01T00:00:00.000Z,40.494559,-88.844539
+IL0571100,Hudson Police Department,23144,IL,East North Central,Midwest,Region II,MCLEAN,City,True,2021-03-01T00:00:00.000Z,40.494559,-88.844539
+IL0571200,McLean Police Department,5276,IL,East North Central,Midwest,Region II,MCLEAN,City,False,,40.314987,-89.17109
+IL0571400,Stanford Police Department,5278,IL,East North Central,Midwest,Region II,MCLEAN,City,True,2022-01-01T00:00:00.000Z,40.494559,-88.844539
+IL0571500,Illinois State University,5279,IL,East North Central,Midwest,Region II,MCLEAN,University or College,True,2021-01-01T00:00:00.000Z,40.510525,-88.97649
+IL0571800,Downs Police Department,25674,IL,East North Central,Midwest,Region II,MCLEAN,City,False,,40.494559,-88.844539
+IL0580000,Macon County Sheriff's Office,5281,IL,East North Central,Midwest,Region II,MACON,County,True,2021-01-01T00:00:00.000Z,39.83924,-88.95295
+IL0580100,Blue Mound Police Department,5282,IL,East North Central,Midwest,Region II,MACON,City,False,,39.860237,-88.961529
+IL0580200,Decatur Police Department,5283,IL,East North Central,Midwest,Region II,MACON,City,True,2021-01-01T00:00:00.000Z,39.83924,-88.95295
+IL0580300,Maroa Police Department,5284,IL,East North Central,Midwest,Region II,MACON,City,False,,40.036476,-88.95476
+IL0580400,Mount Zion Police Department,5285,IL,East North Central,Midwest,Region II,MACON,City,True,2021-01-01T00:00:00.000Z,39.771946,-88.874886
+IL0580700,Decatur Park District,5288,IL,East North Central,Midwest,Region II,MACON,Other,False,,39.827717,-88.94571
+IL0580900,Warrensburg Police Department,5289,IL,East North Central,Midwest,Region II,MACON,City,False,,39.860237,-88.961529
+IL058149E,Millikin University,25327,IL,East North Central,Midwest,Region II,MACON,University or College,True,2020-01-01T00:00:00.000Z,,
+IL0581900,Richland Community College,33760,IL,East North Central,Midwest,Region II,MACON,University or College,True,2021-01-01T00:00:00.000Z,,
+IL0586000,Norfolk Southern Railway: Macon County,5291,IL,East North Central,Midwest,Region II,MACON,Other,False,,39.853195,-88.93567
+IL0590000,Macoupin County Sheriff's Office,5292,IL,East North Central,Midwest,Region II,MACOUPIN,County,False,,39.2659,-89.926344
+IL0590200,Brighton Police Department,5294,IL,East North Central,Midwest,Region II,"JERSEY, MACOUPIN",City,False,,39.2659,-89.926344
+IL0590300,Bunker Hill Police Department,5295,IL,East North Central,Midwest,Region II,MACOUPIN,City,False,,39.2659,-89.926344
+IL0590400,Carlinville Police Department,5296,IL,East North Central,Midwest,Region II,MACOUPIN,City,True,2021-12-01T00:00:00.000Z,39.28597,-89.881645
+IL0590500,Gillespie Police Department,5297,IL,East North Central,Midwest,Region II,MACOUPIN,City,False,,39.127403,-89.81687
+IL0590600,Girard Police Department,5298,IL,East North Central,Midwest,Region II,MACOUPIN,City,False,,39.445442,-89.77779
+IL0590700,Mount Olive Police Department,5299,IL,East North Central,Midwest,Region II,MACOUPIN,City,False,2020-09-01T00:00:00.000Z,39.072113,-89.725945
+IL0590900,Staunton Police Department,5300,IL,East North Central,Midwest,Region II,MACOUPIN,City,False,,39.01202,-89.78907
+IL0591000,Virden Police Department,5301,IL,East North Central,Midwest,Region II,"MACOUPIN, SANGAMON",City,True,2021-07-01T00:00:00.000Z,39.2659,-89.926344
+IL0591200,Palmyra Police Department,5302,IL,East North Central,Midwest,Region II,MACOUPIN,City,False,,39.2659,-89.926344
+IL0600000,Madison County Sheriff's Office,5304,IL,East North Central,Midwest,Region II,MADISON,County,True,2021-01-01T00:00:00.000Z,38.81176,-89.95986
+IL0600100,Alton Police Department,5305,IL,East North Central,Midwest,Region II,MADISON,City,True,2021-01-01T00:00:00.000Z,38.88789,-90.16055
+IL0600200,Bethalto Police Department,5306,IL,East North Central,Midwest,Region II,MADISON,City,True,2021-01-01T00:00:00.000Z,38.91074,-90.04062
+IL0600300,Collinsville Police Department,5307,IL,East North Central,Midwest,Region II,"MADISON, ST CLAIR",City,True,2022-01-01T00:00:00.000Z,38.670593,-89.98798
+IL0600400,East Alton Police Department,5308,IL,East North Central,Midwest,Region II,MADISON,City,False,2023-01-01T00:00:00.000Z,38.827082,-89.900195
+IL0600500,Edwardsville Police Department,5309,IL,East North Central,Midwest,Region II,MADISON,City,True,2021-01-01T00:00:00.000Z,38.827082,-89.900195
+IL0600700,Granite City Police Department,5310,IL,East North Central,Midwest,Region II,MADISON,City,True,2021-01-01T00:00:00.000Z,38.70479,-90.13999
+IL0600800,Hartford Police Department,5311,IL,East North Central,Midwest,Region II,MADISON,City,False,,38.837986,-90.095634
+IL0600900,Highland Police Department,5312,IL,East North Central,Midwest,Region II,MADISON,City,True,2021-01-01T00:00:00.000Z,38.742165,-89.68414
+IL0601000,Livingston Police Department,5313,IL,East North Central,Midwest,Region II,MADISON,City,False,,38.827082,-89.900195
+IL0601100,Madison Police Department,5314,IL,East North Central,Midwest,Region II,"MADISON, ST CLAIR",City,False,,38.682903,-90.15748
+IL0601200,Maryville Police Department,5315,IL,East North Central,Midwest,Region II,MADISON,City,True,2021-01-01T00:00:00.000Z,38.727673,-89.95656
+IL0601300,Roxana Police Department,5316,IL,East North Central,Midwest,Region II,MADISON,City,True,2021-12-01T00:00:00.000Z,38.84608,-90.07892
+IL0601400,Troy Police Department,5317,IL,East North Central,Midwest,Region II,MADISON,City,True,2021-01-01T00:00:00.000Z,38.729156,-89.88377
+IL0601500,Venice Police Department,5318,IL,East North Central,Midwest,Region II,MADISON,City,False,,38.827082,-89.900195
+IL0601600,Wood River Police Department,5319,IL,East North Central,Midwest,Region II,MADISON,City,True,2021-01-01T00:00:00.000Z,38.86199,-90.09821
+IL0601700,Southern Illinois University: Edwardsville,5320,IL,East North Central,Midwest,Region II,MADISON,University or College,False,,38.827082,-89.900195
+IL0601900,South Roxana Police Department,5321,IL,East North Central,Midwest,Region II,MADISON,City,True,2022-01-01T00:00:00.000Z,38.831635,-90.06309
+IL0602100,Pontoon Beach Police Department,5323,IL,East North Central,Midwest,Region II,MADISON,City,False,,38.7454,-90.07148
+IL0602300,Glen Carbon Police Department,5324,IL,East North Central,Midwest,Region II,MADISON,City,True,2021-01-01T00:00:00.000Z,38.827082,-89.900195
+IL0602400,Marine Police Department,23043,IL,East North Central,Midwest,Region II,MADISON,City,False,,38.827082,-89.900195
+IL0602500,St. Jacob Police Department,25704,IL,East North Central,Midwest,Region II,MADISON,City,False,,38.827082,-89.900195
+IL0602600,Worden Police Department,5325,IL,East North Central,Midwest,Region II,MADISON,City,True,2022-01-01T00:00:00.000Z,38.827082,-89.900195
+IL0602800,Hamel Police Department,5326,IL,East North Central,Midwest,Region II,MADISON,City,False,,38.827082,-89.900195
+IL0603800,Grantfork  Police Department,5329,IL,East North Central,Midwest,Region II,MADISON,City,True,2022-12-01T00:00:00.000Z,38.827082,-89.900195
+IL060399E,Norfolk Southern Railway:,5330,IL,East North Central,Midwest,Region II,MADISON,Other,False,,,
+IL060949E,Terminal Railroad Association,23158,IL,East North Central,Midwest,Region II,MADISON,Other,True,2021-02-01T00:00:00.000Z,,
+IL0610000,Marion County Sheriff's Office,5333,IL,East North Central,Midwest,Region II,MARION,County,True,2021-01-01T00:00:00.000Z,38.627945,-88.94461
+IL0610100,Central City Police Department,5334,IL,East North Central,Midwest,Region II,MARION,City,False,,38.545273,-89.12715
+IL0610200,Centralia Police Department,5335,IL,East North Central,Midwest,Region II,"CLINTON, MARION, WASHINGTON",City,False,,38.52579,-89.13332
+IL0610400,Salem Police Department,5336,IL,East North Central,Midwest,Region II,MARION,City,True,2021-01-01T00:00:00.000Z,38.6262,-88.942696
+IL0610500,Sandoval Police Department,5337,IL,East North Central,Midwest,Region II,MARION,City,True,2022-01-01T00:00:00.000Z,38.648396,-88.920221
+IL0610600,Wamac Police Department,5338,IL,East North Central,Midwest,Region II,"CLINTON, MARION, WASHINGTON",City,False,,38.510536,-89.13735
+IL0610900,Patoka Police Department,23247,IL,East North Central,Midwest,Region II,MARION,City,False,,38.751774,-89.095695
+IL0620000,Marshall County Sheriff's Office,5339,IL,East North Central,Midwest,Region II,MARSHALL,County,True,2020-07-01T00:00:00.000Z,41.025284,-89.40737
+IL0620100,Henry Police Department,5340,IL,East North Central,Midwest,Region II,MARSHALL,City,True,2021-01-01T00:00:00.000Z,41.110764,-89.36613
+IL0620200,Lacon Police Department,5341,IL,East North Central,Midwest,Region II,MARSHALL,City,True,2021-04-01T00:00:00.000Z,41.024635,-89.40965
+IL0620300,Toluca Police Department,5342,IL,East North Central,Midwest,Region II,MARSHALL,City,True,2021-01-01T00:00:00.000Z,41.031119,-89.342371
+IL0630000,Mason County Sheriff's Office,5343,IL,East North Central,Midwest,Region II,MASON,County,True,2020-12-01T00:00:00.000Z,40.236993,-89.913575
+IL0630100,Havana Police Department,5344,IL,East North Central,Midwest,Region II,MASON,City,True,2021-05-01T00:00:00.000Z,40.301247,-90.0627
+IL0630200,Mason City Police Department,5345,IL,East North Central,Midwest,Region II,MASON,City,True,2021-01-01T00:00:00.000Z,40.20185,-89.69776
+IL0630300,Manito Police Department,5346,IL,East North Central,Midwest,Region II,MASON,City,True,2021-01-01T00:00:00.000Z,40.425846,-89.77962
+IL0630400,San Jose,26930,IL,East North Central,Midwest,Region II,"LOGAN, MASON",City,True,2022-01-01T00:00:00.000Z,,
+IL0630600,Easton Police Department,5347,IL,East North Central,Midwest,Region II,MASON,City,False,,40.236993,-89.913575
+IL0630800,Forest City,29154,IL,East North Central,Midwest,Region II,MASON,City,False,,,
+IL0640000,Massac County Sheriff's Office,5349,IL,East North Central,Midwest,Region II,MASSAC,County,True,2021-01-01T00:00:00.000Z,37.15239,-88.73259
+IL0640100,Brookport Police Department,25761,IL,East North Central,Midwest,Region II,MASSAC,City,False,,37.216119,-88.705658
+IL0640300,Metropolis Police Department,5350,IL,East North Central,Midwest,Region II,MASSAC,City,True,2021-01-01T00:00:00.000Z,37.157627,-88.72935
+IL0650000,Menard County Sheriff's Office,5351,IL,East North Central,Midwest,Region II,MENARD,County,False,,40.022569,-89.794133
+IL0650100,Petersburg Police Department,5352,IL,East North Central,Midwest,Region II,MENARD,City,False,,40.012093,-89.84954
+IL0650200,Athens Police Department,5353,IL,East North Central,Midwest,Region II,MENARD,City,True,2022-07-01T00:00:00.000Z,40.022569,-89.794133
+IL0650300,Greenview Police Department,5354,IL,East North Central,Midwest,Region II,MENARD,City,False,,40.022569,-89.794133
+IL0660000,Mercer County Sheriff's Office,5355,IL,East North Central,Midwest,Region II,MERCER,County,False,,41.200016,-90.75876
+IL0660100,Aledo Police Department,5356,IL,East North Central,Midwest,Region II,MERCER,City,True,2020-07-01T00:00:00.000Z,41.20189,-90.749214
+IL0660700,Viola,27348,IL,East North Central,Midwest,Region II,MERCER,City,False,,,
+IL0670000,Monroe County Sheriff's Office,5357,IL,East North Central,Midwest,Region II,MONROE,County,True,2021-01-01T00:00:00.000Z,38.277983,-90.179078
+IL0670100,Columbia Police Department,5358,IL,East North Central,Midwest,Region II,"MONROE, ST CLAIR",City,False,,38.45129,-90.20924
+IL0670200,Waterloo Police Department,5359,IL,East North Central,Midwest,Region II,MONROE,City,False,,38.333923,-90.14991
+IL0670300,Valmeyer Police Department,5360,IL,East North Central,Midwest,Region II,MONROE,City,True,2021-01-01T00:00:00.000Z,38.277983,-90.179078
+IL0680000,Montgomery County Sheriff's Office,5362,IL,East North Central,Midwest,Region II,MONTGOMERY,County,True,2022-01-01T00:00:00.000Z,39.162067,-89.49341
+IL0680100,Hillsboro Police Department,5363,IL,East North Central,Midwest,Region II,MONTGOMERY,City,True,2022-01-01T00:00:00.000Z,39.1582,-89.49347
+IL0680200,Litchfield Police Department,5364,IL,East North Central,Midwest,Region II,MONTGOMERY,City,True,2021-11-01T00:00:00.000Z,39.17634,-89.655136
+IL0680300,Nokomis Police Department,5365,IL,East North Central,Midwest,Region II,MONTGOMERY,City,True,2022-12-01T00:00:00.000Z,39.228093,-89.478004
+IL0680400,Raymond Police Department,5366,IL,East North Central,Midwest,Region II,MONTGOMERY,City,False,,39.228093,-89.478004
+IL0680500,Witt Police Department,5367,IL,East North Central,Midwest,Region II,MONTGOMERY,City,False,,39.228093,-89.478004
+IL0680700,Irving Police Department,5369,IL,East North Central,Midwest,Region II,MONTGOMERY,City,False,,39.228093,-89.478004
+IL0681300,Donnellson Police Department,5370,IL,East North Central,Midwest,Region II,"BOND, MONTGOMERY",City,False,,39.228093,-89.478004
+IL0681600,Farmersville,26159,IL,East North Central,Midwest,Region II,MONTGOMERY,City,False,,,
+IL0690000,Morgan County Sheriff's Office,5373,IL,East North Central,Midwest,Region II,MORGAN,County,True,2022-01-01T00:00:00.000Z,39.734943,-90.23154
+IL0690100,Jacksonville Police Department,5374,IL,East North Central,Midwest,Region II,MORGAN,City,True,2021-01-01T00:00:00.000Z,39.736088,-90.22916
+IL0690200,Meredosia Police Department,5375,IL,East North Central,Midwest,Region II,MORGAN,City,False,,39.716803,-90.202309
+IL0690300,Waverly Police Department,23167,IL,East North Central,Midwest,Region II,MORGAN,City,False,,39.716803,-90.202309
+IL0690400,South Jacksonville Police Department,5376,IL,East North Central,Midwest,Region II,MORGAN,City,True,2022-12-01T00:00:00.000Z,39.710598,-90.231636
+IL0690600,Murrayville Police Department,5377,IL,East North Central,Midwest,Region II,MORGAN,City,False,,39.716803,-90.202309
+IL0700000,Moultrie County Sheriff's Office,5378,IL,East North Central,Midwest,Region II,MOULTRIE,County,True,2022-03-01T00:00:00.000Z,39.636896,-88.625726
+IL0700100,Bethany Police Department,5379,IL,East North Central,Midwest,Region II,MOULTRIE,City,True,2021-01-01T00:00:00.000Z,39.64544,-88.73726
+IL0700200,Lovington Police Department,5380,IL,East North Central,Midwest,Region II,MOULTRIE,City,True,2021-01-01T00:00:00.000Z,39.715576,-88.63247
+IL0700300,Sullivan Police Department,5381,IL,East North Central,Midwest,Region II,MOULTRIE,City,True,2022-01-01T00:00:00.000Z,39.596977,-88.60842
+IL0710000,Ogle County Sheriff's Office,5382,IL,East North Central,Midwest,Region II,OGLE,County,False,,42.0132,-89.328865
+IL0710100,Forreston Police Department,5383,IL,East North Central,Midwest,Region II,OGLE,City,False,,42.041884,-89.320176
+IL0710200,Mount Morris Police Department,5384,IL,East North Central,Midwest,Region II,OGLE,City,False,,42.04589,-89.434784
+IL0710300,Oregon Police Department,5385,IL,East North Central,Midwest,Region II,OGLE,City,False,,42.014805,-89.33118
+IL0710400,Polo Police Department,5386,IL,East North Central,Midwest,Region II,OGLE,City,True,2020-11-01T00:00:00.000Z,41.98591,-89.57758
+IL0710500,Rochelle Police Department,5387,IL,East North Central,Midwest,Region II,OGLE,City,False,,41.92294,-89.06758
+IL0710600,Byron Police Department,5388,IL,East North Central,Midwest,Region II,OGLE,City,False,,42.126564,-89.258095
+IL0720000,Peoria County Sheriff's Office,5391,IL,East North Central,Midwest,Region II,PEORIA,County,True,2021-01-01T00:00:00.000Z,40.689167,-89.69381
+IL0720100,Bartonville Police Department,5392,IL,East North Central,Midwest,Region II,PEORIA,City,True,2021-01-01T00:00:00.000Z,40.650146,-89.652
+IL0720300,Chillicothe Police Department,5394,IL,East North Central,Midwest,Region II,PEORIA,City,True,2022-01-01T00:00:00.000Z,40.785993,-89.767097
+IL0720400,Elmwood Police Department,5395,IL,East North Central,Midwest,Region II,PEORIA,City,False,,40.785993,-89.767097
+IL0720700,Peoria Police Department,5398,IL,East North Central,Midwest,Region II,PEORIA,City,True,2022-01-01T00:00:00.000Z,40.696304,-89.58248
+IL0720900,Peoria Heights Police Department,5399,IL,East North Central,Midwest,Region II,PEORIA,City,True,2022-01-01T00:00:00.000Z,40.74634,-89.574005
+IL0721200,Glasford Police Department,5400,IL,East North Central,Midwest,Region II,PEORIA,City,False,,40.785993,-89.767097
+IL0721400,Peoria Park District,5402,IL,East North Central,Midwest,Region II,PEORIA,Other,True,2022-01-01T00:00:00.000Z,40.785993,-89.767097
+IL072219E,Bradley University,35228,IL,East North Central,Midwest,Region II,PEORIA,University or College,True,2021-07-01T00:00:00.000Z,,
+IL0730000,Perry County Sheriff's Office,5405,IL,East North Central,Midwest,Region II,PERRY,County,False,,38.08011,-89.381836
+IL0730100,Du Quoin Police Department,5406,IL,East North Central,Midwest,Region II,PERRY,City,False,,38.010124,-89.23596
+IL0730200,Pinckneyville Police Department,5407,IL,East North Central,Midwest,Region II,PERRY,City,False,,38.0794,-89.38293
+IL0730600,Willisville Police Department,5410,IL,East North Central,Midwest,Region II,PERRY,City,False,,38.084381,-89.368525
+IL0740000,Piatt County Sheriff's Office,5412,IL,East North Central,Midwest,Region II,PIATT,County,True,2021-01-01T00:00:00.000Z,40.009056,-88.592328
+IL0740100,Bement Police Department,5413,IL,East North Central,Midwest,Region II,PIATT,City,False,,39.922894,-88.573204
+IL0740300,Monticello Police Department,5415,IL,East North Central,Midwest,Region II,PIATT,City,False,,40.026676,-88.56971
+IL0740400,Mansfield,35500,IL,East North Central,Midwest,Region II,PIATT,City,False,,,
+IL0750000,Pike County Sheriff's Office,5416,IL,East North Central,Midwest,Region II,PIKE,County,True,2021-01-01T00:00:00.000Z,39.607914,-90.80445
+IL0750300,Pittsfield Police Department,5418,IL,East North Central,Midwest,Region II,PIKE,City,True,2021-01-01T00:00:00.000Z,39.608345,-90.80457
+IL0750400,Pleasant Hill Police Department,5419,IL,East North Central,Midwest,Region II,PIKE,City,True,2021-01-01T00:00:00.000Z,39.625106,-90.889034
+IL0760000,Pope County Sheriff's Office,5421,IL,East North Central,Midwest,Region II,POPE,County,False,,37.417169,-88.542374
+IL0770000,Pulaski County Sheriff's Office,5423,IL,East North Central,Midwest,Region II,PULASKI,County,True,2021-01-01T00:00:00.000Z,37.215615,-89.127755
+IL0770400,Ullin Police Department,23233,IL,East North Central,Midwest,Region II,PULASKI,City,False,,37.215615,-89.127755
+IL0780000,Putnam County Sheriff's Office,5426,IL,East North Central,Midwest,Region II,PUTNAM,County,True,2020-06-01T00:00:00.000Z,41.19894,-89.298386
+IL0780100,Granville Police Department,5427,IL,East North Central,Midwest,Region II,PUTNAM,City,False,,41.19894,-89.298386
+IL0780300,McNabb,35230,IL,East North Central,Midwest,Region II,PUTNAM,City,True,2021-01-01T00:00:00.000Z,,
+IL0790000,Randolph County Sheriff's Office,5428,IL,East North Central,Midwest,Region II,RANDOLPH,County,True,2022-11-01T00:00:00.000Z,37.90338,-89.828255
+IL0790100,Chester Police Department,5429,IL,East North Central,Midwest,Region II,RANDOLPH,City,False,,37.914684,-89.82105
+IL0790200,Red Bud Police Department,5430,IL,East North Central,Midwest,Region II,RANDOLPH,City,False,,38.211727,-89.99301
+IL0790300,Sparta Police Department,5431,IL,East North Central,Midwest,Region II,RANDOLPH,City,True,2022-01-01T00:00:00.000Z,38.12216,-89.70192
+IL0790600,Coulterville Police Department,5433,IL,East North Central,Midwest,Region II,RANDOLPH,City,True,2021-01-01T00:00:00.000Z,38.056515,-89.82121
+IL0790800,Prairie du Rocher Police Department,5434,IL,East North Central,Midwest,Region II,RANDOLPH,City,False,,38.056515,-89.82121
+IL0790900,Ruma  Police Department,5435,IL,East North Central,Midwest,Region II,RANDOLPH,City,True,2021-01-01T00:00:00.000Z,38.21069,-89.99408
+IL0792100,Ellis Grove,33237,IL,East North Central,Midwest,Region II,RANDOLPH,City,True,2022-01-01T00:00:00.000Z,,
+IL0800000,Richland County Sheriff's Office,5436,IL,East North Central,Midwest,Region II,RICHLAND,County,False,,38.73044,-88.08571
+IL0800100,Olney Police Department,5437,IL,East North Central,Midwest,Region II,RICHLAND,City,True,2021-01-01T00:00:00.000Z,38.728447,-88.08486
+IL0810000,Rock Island County Sheriff's Office,5438,IL,East North Central,Midwest,Region II,ROCK ISLAND,County,True,2021-01-01T00:00:00.000Z,41.508713,-90.58132
+IL0810300,Coal Valley Police Department,5441,IL,East North Central,Midwest,Region II,"HENRY, ROCK ISLAND",City,True,2021-01-01T00:00:00.000Z,41.468404,-90.572203
+IL0810400,East Moline Police Department,5442,IL,East North Central,Midwest,Region II,ROCK ISLAND,City,True,2021-01-01T00:00:00.000Z,41.515274,-90.440475
+IL0810500,Milan Police Department,5443,IL,East North Central,Midwest,Region II,ROCK ISLAND,City,True,2021-01-01T00:00:00.000Z,41.468404,-90.572203
+IL0810600,Moline Police Department,5444,IL,East North Central,Midwest,Region II,ROCK ISLAND,City,True,2021-01-01T00:00:00.000Z,41.51482,-90.44254
+IL0810800,Rock Island Police Department,5446,IL,East North Central,Midwest,Region II,ROCK ISLAND,City,True,2021-01-01T00:00:00.000Z,41.509384,-90.57731
+IL0810900,Silvis Police Department,5447,IL,East North Central,Midwest,Region II,ROCK ISLAND,City,True,2020-07-01T00:00:00.000Z,41.51185,-90.41382
+IL0811100,Hampton Police Department,5449,IL,East North Central,Midwest,Region II,ROCK ISLAND,City,False,,41.468404,-90.572203
+IL0811300,Black Hawk College: Moline,5450,IL,East North Central,Midwest,Region II,ROCK ISLAND,University or College,False,,41.47811,-90.449196
+IL0811400,Hillsdale Police Department,5451,IL,East North Central,Midwest,Region II,ROCK ISLAND,City,False,,41.468404,-90.572203
+IL0820000,St. Clair County Sheriff's Office,5455,IL,East North Central,Midwest,Region II,ST CLAIR,County,True,2021-01-01T00:00:00.000Z,38.520805,-89.99118
+IL0820200,Belleville Police Department,5457,IL,East North Central,Midwest,Region II,ST CLAIR,City,True,2021-03-01T00:00:00.000Z,38.512577,-89.9842
+IL0820400,Caseyville Police Department,5459,IL,East North Central,Midwest,Region II,ST CLAIR,City,False,2023-01-01T00:00:00.000Z,38.637268,-90.02657
+IL0820600,Dupo Police Department,5461,IL,East North Central,Midwest,Region II,"MONROE, ST CLAIR",City,True,2022-01-01T00:00:00.000Z,38.519066,-90.20963
+IL0820700,East St. Louis Police Department,5462,IL,East North Central,Midwest,Region II,ST CLAIR,City,False,,38.62846,-90.170235
+IL0820800,Freeburg Police Department,5463,IL,East North Central,Midwest,Region II,ST CLAIR,City,True,2021-01-01T00:00:00.000Z,38.418346,-89.90492
+IL0820900,Lebanon Police Department,5464,IL,East North Central,Midwest,Region II,ST CLAIR,City,True,2022-10-01T00:00:00.000Z,38.603943,-89.81189
+IL0821000,Marissa Police Department,5465,IL,East North Central,Midwest,Region II,ST CLAIR,City,False,,38.24658,-89.7541
+IL0821100,Mascoutah Police Department,5466,IL,East North Central,Midwest,Region II,ST CLAIR,City,True,2021-10-01T00:00:00.000Z,38.470198,-89.928546
+IL0821200,Millstadt Police Department,5467,IL,East North Central,Midwest,Region II,ST CLAIR,City,True,2021-01-01T00:00:00.000Z,38.459778,-90.09284
+IL0821500,New Athens Police Department,5469,IL,East North Central,Midwest,Region II,ST CLAIR,City,True,2021-01-01T00:00:00.000Z,38.317448,-89.87143
+IL0821600,O'Fallon Police Department,5470,IL,East North Central,Midwest,Region II,ST CLAIR,City,True,2021-01-01T00:00:00.000Z,38.590157,-89.89259
+IL0821700,Washington Park Police Department,5471,IL,East North Central,Midwest,Region II,ST CLAIR,City,False,,38.470198,-89.928546
+IL0821900,Brooklyn Police Department,5472,IL,East North Central,Midwest,Region II,ST CLAIR,City,False,,38.654087,-90.16473
+IL0822000,Fairmont City Police Department,5473,IL,East North Central,Midwest,Region II,"MADISON, ST CLAIR",City,True,2022-01-01T00:00:00.000Z,38.645283,-90.10748
+IL0822200,Sauget Police Department,5475,IL,East North Central,Midwest,Region II,ST CLAIR,City,False,,38.585518,-90.1701
+IL0822300,Swansea Police Department,5476,IL,East North Central,Midwest,Region II,ST CLAIR,City,True,2021-01-01T00:00:00.000Z,38.53059,-89.98391
+IL0822400,Fairview Heights Police Department,5477,IL,East North Central,Midwest,Region II,ST CLAIR,City,True,2021-01-01T00:00:00.000Z,38.470198,-89.928546
+IL0822500,Shiloh Police Department,5478,IL,East North Central,Midwest,Region II,ST CLAIR,City,True,2021-01-01T00:00:00.000Z,38.55872,-89.89787
+IL0822800,Smithton Police Department,5481,IL,East North Central,Midwest,Region II,ST CLAIR,City,False,,38.408028,-89.99219
+IL0824000,East Carondelet Police Department,5484,IL,East North Central,Midwest,Region II,ST CLAIR,City,False,,38.53994,-90.23099
+IL0824400,Southwestern Illinois College,5485,IL,East North Central,Midwest,Region II,ST CLAIR,University or College,True,2021-01-01T00:00:00.000Z,38.519474,-89.92843
+IL0824500,Alton and Southern Railway,23096,IL,East North Central,Midwest,Region II,ST CLAIR,Other,True,2022-07-01T00:00:00.000Z,38.599735,-90.14914
+IL0825100,Union Pacific Railroad: St. Clair County,5486,IL,East North Central,Midwest,Region II,ST CLAIR,Other,False,,38.470198,-89.928546
+IL0825200,Cahokia Heights,33382,IL,East North Central,Midwest,Region II,ST CLAIR,City,False,,,
+IL0830000,Saline County Sheriff's Office,5487,IL,East North Central,Midwest,Region II,SALINE,County,True,2022-05-01T00:00:00.000Z,37.738403,-88.54032
+IL0830100,Carrier Mills Police Department,5488,IL,East North Central,Midwest,Region II,SALINE,City,False,,37.751653,-88.545031
+IL0830200,Eldorado Police Department,5489,IL,East North Central,Midwest,Region II,SALINE,City,True,2022-01-01T00:00:00.000Z,37.81547,-88.4376
+IL0830300,Harrisburg Police Department,5490,IL,East North Central,Midwest,Region II,SALINE,City,True,2021-09-01T00:00:00.000Z,37.738403,-88.54032
+IL0840000,Sangamon County Sheriff's Office,5491,IL,East North Central,Midwest,Region II,SANGAMON,County,True,2021-01-01T00:00:00.000Z,39.756342,-89.662306
+IL0840100,Grandview Police Department,5492,IL,East North Central,Midwest,Region II,SANGAMON,City,False,,39.815548,-89.61631
+IL0840200,Springfield Police Department,5493,IL,East North Central,Midwest,Region II,SANGAMON,City,True,2021-01-01T00:00:00.000Z,39.799377,-89.645
+IL0840300,Auburn Police Department,5494,IL,East North Central,Midwest,Region II,SANGAMON,City,True,2021-01-01T00:00:00.000Z,39.591858,-89.744286
+IL0840400,Chatham Police Department,5495,IL,East North Central,Midwest,Region II,SANGAMON,City,True,2021-01-01T00:00:00.000Z,39.675323,-89.70431
+IL0840600,Pawnee Police Department,5496,IL,East North Central,Midwest,Region II,SANGAMON,City,False,,39.756342,-89.662306
+IL0840700,Riverton Police Department,5497,IL,East North Central,Midwest,Region II,SANGAMON,City,False,,39.85992,-89.533104
+IL0840800,Williamsville Police Department,5498,IL,East North Central,Midwest,Region II,SANGAMON,City,False,,39.954224,-89.54761
+IL0840900,Rochester Police Department,5499,IL,East North Central,Midwest,Region II,SANGAMON,City,True,2020-11-01T00:00:00.000Z,39.756342,-89.662306
+IL0840C00,State Fire Marshal,5500,IL,East North Central,Midwest,Region II,NOT SPECIFIED,Other State Agency,False,,39.757435,-89.64173
+IL0840J00,Benedictine University: Springfield,23186,IL,East North Central,Midwest,Region II,SANGAMON,University or College,False,,39.82089,-89.64929
+IL0841000,Buffalo-Mechanicsburg Police Department,5501,IL,East North Central,Midwest,Region II,SANGAMON,City,False,,39.756342,-89.662306
+IL0841100,Divernon Police Department,5502,IL,East North Central,Midwest,Region II,SANGAMON,City,False,,39.567654,-89.65629
+IL0841300,Leland Grove Police Department,5504,IL,East North Central,Midwest,Region II,SANGAMON,City,False,,39.778698,-89.686935
+IL0841400,Sherman Police Department,5505,IL,East North Central,Midwest,Region II,SANGAMON,City,True,2022-01-01T00:00:00.000Z,39.756342,-89.662306
+IL0841500,Southern View Police Department,5506,IL,East North Central,Midwest,Region II,SANGAMON,City,True,2021-01-01T00:00:00.000Z,39.75364,-89.64956
+IL0841600,University of Illinois: Springfield,5507,IL,East North Central,Midwest,Region II,SANGAMON,University or College,False,2022-01-01T00:00:00.000Z,39.756342,-89.662306
+IL0841700,Jerome Police Department,5508,IL,East North Central,Midwest,Region II,SANGAMON,City,False,,39.756342,-89.662306
+IL0841800,Springfield Park District,5509,IL,East North Central,Midwest,Region II,SANGAMON,Other,True,2022-04-01T00:00:00.000Z,39.79172,-89.67845
+IL0842300,Loami Police Department,5510,IL,East North Central,Midwest,Region II,SANGAMON,City,False,,39.756342,-89.662306
+IL0842400,Pleasant Plains Police Department,5511,IL,East North Central,Midwest,Region II,SANGAMON,City,False,,39.756342,-89.662306
+IL0842700,Capitol Airport Authority,5513,IL,East North Central,Midwest,Region II,SANGAMON,Other,False,,39.853374,-89.677605
+IL0842800,Lincoln Land Community College,5514,IL,East North Central,Midwest,Region II,SANGAMON,University or College,False,,39.756342,-89.662306
+IL0842900,New Berlin Police Department,5515,IL,East North Central,Midwest,Region II,SANGAMON,City,False,,39.724815,-89.91036
+IL0843000,Thayer Police Department,25833,IL,East North Central,Midwest,Region II,SANGAMON,City,False,,39.756342,-89.662306
+IL0844200,Illinois Commerce Commission,5517,IL,East North Central,Midwest,Region II,NOT SPECIFIED,Other State Agency,False,,39.756342,-89.662306
+IL0844600,Southern Illinois University: School of Medicine,5518,IL,East North Central,Midwest,Region II,SANGAMON,University or College,True,2020-08-01T00:00:00.000Z,39.756342,-89.662306
+IL0848400,Illinois Department of Revenue,33693,IL,East North Central,Midwest,Region II,NOT SPECIFIED,Other State Agency,True,2021-01-01T00:00:00.000Z,,
+IL0848900,Secretary of State Police,5519,IL,East North Central,Midwest,Region II,SANGAMON,Other State Agency,True,2022-11-01T00:00:00.000Z,39.756342,-89.662306
+IL0849300,Illinois Department of Natural Resources,5521,IL,East North Central,Midwest,Region II,NOT SPECIFIED,Other State Agency,False,2022-12-01T00:00:00.000Z,39.756342,-89.662306
+IL0849700,Illinois State Police,5522,IL,East North Central,Midwest,Region II,NOT SPECIFIED,State Police,True,2021-01-01T00:00:00.000Z,39.799557,-89.654465
+IL0850000,Schuyler County Sheriff's Office,5524,IL,East North Central,Midwest,Region II,SCHUYLER,County,False,,40.120617,-90.56387
+IL0850100,Rushville Police Department,5525,IL,East North Central,Midwest,Region II,SCHUYLER,City,False,,40.121475,-90.56469
+IL0860000,Scott County Sheriff's Office,5526,IL,East North Central,Midwest,Region II,SCOTT,County,True,2021-01-01T00:00:00.000Z,39.549507,-90.479546
+IL0860200,Winchester Police Department,5527,IL,East North Central,Midwest,Region II,SCOTT,City,False,,39.627537,-90.45562
+IL0860400,Bluffs Police Department,25328,IL,East North Central,Midwest,Region II,SCOTT,City,True,2021-01-01T00:00:00.000Z,39.636979,-90.477759
+IL0870000,Shelby County Sheriff's Office,5528,IL,East North Central,Midwest,Region II,SHELBY,County,True,2022-01-01T00:00:00.000Z,39.407265,-88.792076
+IL0870100,Moweaqua Police Department,5529,IL,East North Central,Midwest,Region II,"CHRISTIAN, SHELBY",City,False,,39.625378,-89.01978
+IL0870200,Shelbyville Police Department,5530,IL,East North Central,Midwest,Region II,SHELBY,City,False,,39.406464,-88.79211
+IL0870600,Cowden Police Department,5531,IL,East North Central,Midwest,Region II,SHELBY,City,True,2020-01-01T00:00:00.000Z,39.384926,-88.798862
+IL0870700,Findlay Police Department,5532,IL,East North Central,Midwest,Region II,SHELBY,City,True,2021-12-01T00:00:00.000Z,39.384926,-88.798862
+IL0880000,Stark County Sheriff's Office,5533,IL,East North Central,Midwest,Region II,STARK,County,False,,41.096908,-89.797411
+IL0880100,Toulon Police Department,5534,IL,East North Central,Midwest,Region II,STARK,City,False,,41.096908,-89.797411
+IL0880200,Wyoming Police Department,5535,IL,East North Central,Midwest,Region II,STARK,City,False,,41.061646,-89.77289
+IL0880300,Bradford Police Department,5536,IL,East North Central,Midwest,Region II,STARK,City,False,,41.18029,-89.65784
+IL0890000,Stephenson County Sheriff's Office,5537,IL,East North Central,Midwest,Region II,STEPHENSON,County,True,2021-02-01T00:00:00.000Z,42.29775,-89.622
+IL0890100,Freeport Police Department,5538,IL,East North Central,Midwest,Region II,STEPHENSON,City,True,2021-02-01T00:00:00.000Z,42.297596,-89.62384
+IL0890200,Lena Police Department,25329,IL,East North Central,Midwest,Region II,STEPHENSON,City,False,,42.349726,-89.665994
+IL0890400,Cedarville Police Department,23107,IL,East North Central,Midwest,Region II,STEPHENSON,City,False,,42.349726,-89.665994
+IL0890800,Freeport Park District,25765,IL,East North Central,Midwest,Region II,STEPHENSON,Other,False,,42.349726,-89.665994
+IL0891100,Davis  Police Department,5540,IL,East North Central,Midwest,Region II,STEPHENSON,City,False,,42.349726,-89.665994
+IL0891300,German Valley Police Department,25330,IL,East North Central,Midwest,Region II,STEPHENSON,City,False,,42.349726,-89.665994
+IL0900000,Tazewell County Sheriff's Office,5541,IL,East North Central,Midwest,Region II,TAZEWELL,County,True,2021-01-01T00:00:00.000Z,40.56861,-89.64919
+IL0900100,Creve Coeur Police Department,5542,IL,East North Central,Midwest,Region II,TAZEWELL,City,False,,40.646317,-89.601006
+IL0900200,Delavan Police Department,5543,IL,East North Central,Midwest,Region II,TAZEWELL,City,False,2020-06-01T00:00:00.000Z,40.508074,-89.51626
+IL0900300,East Peoria Police Department,5544,IL,East North Central,Midwest,Region II,TAZEWELL,City,True,2021-01-01T00:00:00.000Z,40.667492,-89.58189
+IL0900400,Hopedale Police Department,5545,IL,East North Central,Midwest,Region II,TAZEWELL,City,True,2020-07-01T00:00:00.000Z,40.508074,-89.51626
+IL0900500,Marquette Heights Police Department,5546,IL,East North Central,Midwest,Region II,TAZEWELL,City,False,,40.61566,-89.60271
+IL0900600,Minier Police Department,5547,IL,East North Central,Midwest,Region II,TAZEWELL,City,False,2021-01-01T00:00:00.000Z,40.508074,-89.51626
+IL0900700,Morton Police Department,5548,IL,East North Central,Midwest,Region II,TAZEWELL,City,True,2021-01-01T00:00:00.000Z,40.60525,-89.47121
+IL0900800,North Pekin Police Department,5549,IL,East North Central,Midwest,Region II,TAZEWELL,City,True,2022-10-01T00:00:00.000Z,40.56708,-89.6551
+IL0900900,Pekin Police Department,5550,IL,East North Central,Midwest,Region II,TAZEWELL,City,True,2021-01-01T00:00:00.000Z,40.568058,-89.64957
+IL0901000,Washington Police Department,5551,IL,East North Central,Midwest,Region II,TAZEWELL,City,True,2021-01-01T00:00:00.000Z,40.508074,-89.51626
+IL0901100,Mackinaw Police Department,5552,IL,East North Central,Midwest,Region II,TAZEWELL,City,True,2020-09-01T00:00:00.000Z,40.53695,-89.35822
+IL0901200,South Pekin Police Department,5553,IL,East North Central,Midwest,Region II,TAZEWELL,City,False,,40.508074,-89.51626
+IL0901300,Tremont Police Department,5554,IL,East North Central,Midwest,Region II,TAZEWELL,City,False,,40.508074,-89.51626
+IL0901400,Green Valley Police Department,5555,IL,East North Central,Midwest,Region II,TAZEWELL,City,False,,40.508074,-89.51626
+IL0901500,Illinois Central College,5556,IL,East North Central,Midwest,Region II,TAZEWELL,University or College,True,2021-03-01T00:00:00.000Z,40.508074,-89.51626
+IL0901600,Pekin Park District,5557,IL,East North Central,Midwest,Region II,TAZEWELL,Other,True,2020-12-01T00:00:00.000Z,40.56142,-89.62682
+IL0901800,Armington Police Department,5558,IL,East North Central,Midwest,Region II,TAZEWELL,City,False,,40.508074,-89.51626
+IL0901900,Deer Creek Police Department,5559,IL,East North Central,Midwest,Region II,"TAZEWELL, WOODFORD",City,False,,40.508074,-89.51626
+IL0902200,Fon du Lac Park District,5560,IL,East North Central,Midwest,Region II,TAZEWELL,Other,False,,40.664497,-89.56605
+IL0910000,Union County Sheriff's Office,5561,IL,East North Central,Midwest,Region II,UNION,County,False,,37.452335,-89.26823
+IL0910100,Anna Police Department,5562,IL,East North Central,Midwest,Region II,UNION,City,True,2021-01-01T00:00:00.000Z,37.459454,-89.241005
+IL0910200,Cobden Police Department,5563,IL,East North Central,Midwest,Region II,UNION,City,False,,37.475207,-89.252808
+IL0910300,Jonesboro Police Department,5564,IL,East North Central,Midwest,Region II,UNION,City,False,,37.475207,-89.252808
+IL0910400,Dongola Police Department,5565,IL,East North Central,Midwest,Region II,UNION,City,False,,37.362194,-89.165436
+IL0920000,Vermilion County Sheriff's Office,5566,IL,East North Central,Midwest,Region II,VERMILION,County,True,2021-01-01T00:00:00.000Z,40.122528,-87.62982
+IL0920200,Catlin Police Department,5568,IL,East North Central,Midwest,Region II,VERMILION,City,True,2021-01-01T00:00:00.000Z,40.18674,-87.726771
+IL0920300,Danville Police Department,5569,IL,East North Central,Midwest,Region II,VERMILION,City,True,2021-01-01T00:00:00.000Z,40.18674,-87.726771
+IL0920400,Fairmount Police Department,5570,IL,East North Central,Midwest,Region II,VERMILION,City,True,2021-01-01T00:00:00.000Z,40.18674,-87.726771
+IL0920500,Georgetown Police Department,5571,IL,East North Central,Midwest,Region II,VERMILION,City,False,,39.97459,-87.63557
+IL0920600,Hoopeston Police Department,5572,IL,East North Central,Midwest,Region II,VERMILION,City,True,2020-07-01T00:00:00.000Z,40.467266,-87.673645
+IL0920700,Potomac Police Department,5573,IL,East North Central,Midwest,Region II,VERMILION,City,True,2021-01-01T00:00:00.000Z,40.18674,-87.726771
+IL0920900,Ridge Farm Police Department,5575,IL,East North Central,Midwest,Region II,VERMILION,City,True,2022-06-01T00:00:00.000Z,40.18674,-87.726771
+IL0921000,Rossville Police Department,5576,IL,East North Central,Midwest,Region II,VERMILION,City,True,2021-01-01T00:00:00.000Z,40.379253,-87.66816
+IL0921100,Tilton Police Department,5577,IL,East North Central,Midwest,Region II,VERMILION,City,True,2021-01-01T00:00:00.000Z,40.18674,-87.726771
+IL0921200,Westville Police Department,5578,IL,East North Central,Midwest,Region II,VERMILION,City,True,2021-01-01T00:00:00.000Z,40.041313,-87.638565
+IL0921300,Oakwood Police Department,5579,IL,East North Central,Midwest,Region II,VERMILION,City,True,2021-01-01T00:00:00.000Z,40.18674,-87.726771
+IL0921600,Sidell Police Department,5580,IL,East North Central,Midwest,Region II,VERMILION,City,True,2021-01-01T00:00:00.000Z,40.18674,-87.726771
+IL0921800,Fithian Police Department,5581,IL,East North Central,Midwest,Region II,VERMILION,City,True,2021-01-01T00:00:00.000Z,40.18674,-87.726771
+IL0921900,Henning Police Department,5582,IL,East North Central,Midwest,Region II,VERMILION,City,True,2021-01-01T00:00:00.000Z,40.18674,-87.726771
+IL0922000,Indianola Police Department,5583,IL,East North Central,Midwest,Region II,VERMILION,City,True,2021-10-01T00:00:00.000Z,40.18674,-87.726771
+IL0930000,Wabash County Sheriff's Office,5584,IL,East North Central,Midwest,Region II,WABASH,County,False,,38.40964,-87.760704
+IL0930100,Mount Carmel Police Department,5585,IL,East North Central,Midwest,Region II,WABASH,City,True,2022-01-01T00:00:00.000Z,38.409695,-87.76056
+IL0940000,Warren County Sheriff's Office,5586,IL,East North Central,Midwest,Region II,WARREN,County,True,2022-01-01T00:00:00.000Z,40.850441,-90.620223
+IL0940100,Alexis Police Department,5587,IL,East North Central,Midwest,Region II,"MERCER, WARREN",City,False,,40.850441,-90.620223
+IL0940300,Monmouth Police Department,5588,IL,East North Central,Midwest,Region II,WARREN,City,True,2022-01-01T00:00:00.000Z,40.907536,-90.64841
+IL0950000,Washington County Sheriff's Office,5589,IL,East North Central,Midwest,Region II,WASHINGTON,County,False,,38.344917,-89.38292
+IL0950200,Nashville Police Department,5590,IL,East North Central,Midwest,Region II,WASHINGTON,City,False,,38.336815,-89.38085
+IL0950300,Okawville Police Department,5591,IL,East North Central,Midwest,Region II,WASHINGTON,City,True,2022-09-01T00:00:00.000Z,38.35314,-89.417187
+IL0950500,Irvington Police Department,5593,IL,East North Central,Midwest,Region II,WASHINGTON,City,False,,38.35314,-89.417187
+IL0960000,Wayne County Sheriff's Office,5594,IL,East North Central,Midwest,Region II,WAYNE,County,True,2022-12-01T00:00:00.000Z,38.380383,-88.35778
+IL0960100,Fairfield Police Department,5595,IL,East North Central,Midwest,Region II,WAYNE,City,False,,38.380383,-88.35778
+IL0960200,Wayne City Police Department,5596,IL,East North Central,Midwest,Region II,WAYNE,City,False,,38.431948,-88.432129
+IL0970000,White County Sheriff's Office,5597,IL,East North Central,Midwest,Region II,WHITE,County,False,,38.090885,-88.15887
+IL0970100,Carmi Police Department,5598,IL,East North Central,Midwest,Region II,WHITE,City,False,,38.090885,-88.15887
+IL0970200,Grayville Police Department,5599,IL,East North Central,Midwest,Region II,"EDWARDS, WHITE",City,True,2021-01-01T00:00:00.000Z,38.257618,-87.99359
+IL0970300,Norris City Police Department,23159,IL,East North Central,Midwest,Region II,WHITE,City,False,,37.97784,-88.328896
+IL0970600,Enfield  Police Department,5601,IL,East North Central,Midwest,Region II,WHITE,City,False,,38.087372,-88.178585
+IL0980000,Whiteside County Sheriff's Office,5603,IL,East North Central,Midwest,Region II,WHITESIDE,County,True,2022-01-01T00:00:00.000Z,41.810158,-89.96465
+IL0980100,Albany Police Department,5604,IL,East North Central,Midwest,Region II,WHITESIDE,City,False,,41.750571,-89.910957
+IL0980200,Fulton Police Department,5605,IL,East North Central,Midwest,Region II,WHITESIDE,City,True,2021-01-01T00:00:00.000Z,41.866295,-90.1655
+IL0980300,Lyndon Police Department,5606,IL,East North Central,Midwest,Region II,WHITESIDE,City,False,,41.71615,-89.928665
+IL0980400,Morrison Police Department,5607,IL,East North Central,Midwest,Region II,WHITESIDE,City,True,2021-08-01T00:00:00.000Z,41.809673,-89.967896
+IL0980500,Prophetstown Police Department,5608,IL,East North Central,Midwest,Region II,WHITESIDE,City,True,2021-01-01T00:00:00.000Z,41.66992,-89.93645
+IL0980600,Rock Falls Police Department,5609,IL,East North Central,Midwest,Region II,WHITESIDE,City,True,2021-11-01T00:00:00.000Z,41.772305,-89.69752
+IL0980700,Sterling Police Department,5610,IL,East North Central,Midwest,Region II,WHITESIDE,City,True,2022-01-01T00:00:00.000Z,41.788242,-89.69141
+IL0980800,Tampico Police Department,5611,IL,East North Central,Midwest,Region II,WHITESIDE,City,False,,41.750571,-89.910957
+IL0980900,Erie Police Department,5612,IL,East North Central,Midwest,Region II,WHITESIDE,City,False,,41.750571,-89.910957
+IL0990000,Will County Sheriff's Office,5615,IL,East North Central,Midwest,Region II,WILL,County,True,2021-08-01T00:00:00.000Z,41.524975,-88.08112
+IL0990100,Beecher Police Department,5616,IL,East North Central,Midwest,Region II,WILL,City,True,2021-08-01T00:00:00.000Z,41.448474,-87.978456
+IL0990200,Bolingbrook Police Department,5617,IL,East North Central,Midwest,Region II,"DUPAGE, WILL",City,True,2021-02-01T00:00:00.000Z,41.698147,-88.081726
+IL0990300,Braidwood Police Department,5618,IL,East North Central,Midwest,Region II,"GRUNDY, WILL",City,True,2021-09-01T00:00:00.000Z,41.264507,-88.217606
+IL0990400,Crest Hill Police Department,5619,IL,East North Central,Midwest,Region II,WILL,City,True,2021-09-01T00:00:00.000Z,41.55195,-88.12135
+IL0990500,Crete Police Department,5620,IL,East North Central,Midwest,Region II,WILL,City,True,2021-09-01T00:00:00.000Z,41.443893,-87.63252
+IL0990600,Frankfort Police Department,5621,IL,East North Central,Midwest,Region II,WILL,City,True,2021-09-01T00:00:00.000Z,41.448474,-87.978456
+IL0990700,Joliet Police Department,5622,IL,East North Central,Midwest,Region II,"KENDALL, WILL",City,True,2021-02-01T00:00:00.000Z,41.523937,-88.085075
+IL0990800,Lockport Police Department,5623,IL,East North Central,Midwest,Region II,WILL,City,True,2021-02-01T00:00:00.000Z,41.589317,-88.02601
+IL0990900,Monee Police Department,5624,IL,East North Central,Midwest,Region II,WILL,City,True,2020-07-01T00:00:00.000Z,41.418797,-87.74212
+IL0991000,Peotone Police Department,5625,IL,East North Central,Midwest,Region II,WILL,City,True,2021-10-01T00:00:00.000Z,41.448474,-87.978456
+IL0991100,Plainfield Police Department,5626,IL,East North Central,Midwest,Region II,"KENDALL, WILL",City,True,2021-01-01T00:00:00.000Z,41.448474,-87.978456
+IL0991200,Rockdale Police Department,5627,IL,East North Central,Midwest,Region II,WILL,City,True,2021-01-01T00:00:00.000Z,41.505676,-88.10784
+IL0991300,Romeoville Police Department,5628,IL,East North Central,Midwest,Region II,WILL,City,True,2021-01-01T00:00:00.000Z,41.644497,-88.080795
+IL0991400,Wilmington Police Department,5629,IL,East North Central,Midwest,Region II,WILL,City,True,2021-06-01T00:00:00.000Z,41.308388,-88.14588
+IL0991500,New Lenox Police Department,5630,IL,East North Central,Midwest,Region II,WILL,City,True,2021-08-01T00:00:00.000Z,41.511932,-87.97947
+IL0991600,Manhattan Police Department,5631,IL,East North Central,Midwest,Region II,WILL,City,True,2021-09-01T00:00:00.000Z,41.448474,-87.978456
+IL0991700,Elwood Police Department,5632,IL,East North Central,Midwest,Region II,WILL,City,True,2021-01-01T00:00:00.000Z,41.448474,-87.978456
+IL0991800,Channahon Police Department,5633,IL,East North Central,Midwest,Region II,"GRUNDY, WILL",City,True,2021-01-01T00:00:00.000Z,41.440002,-88.2199
+IL0992000,University Park Police Department,5634,IL,East North Central,Midwest,Region II,"COOK, WILL",City,True,2021-08-01T00:00:00.000Z,41.44679,-87.686485
+IL0992100,Shorewood Police Department,5635,IL,East North Central,Midwest,Region II,WILL,City,True,2021-01-01T00:00:00.000Z,41.523247,-88.10319
+IL0992200,Mokena Police Department,5636,IL,East North Central,Midwest,Region II,WILL,City,True,2021-10-01T00:00:00.000Z,41.533203,-87.882614
+IL0992400,Governors State University,5637,IL,East North Central,Midwest,Region II,WILL,University or College,False,,41.448474,-87.978456
+IL0993000,Will County Forest Preserve,5642,IL,East North Central,Midwest,Region II,WILL,Other,True,2021-10-01T00:00:00.000Z,41.47694,-88.022415
+IL0993100,Joliet Junior College,5643,IL,East North Central,Midwest,Region II,WILL,University or College,True,2021-01-01T00:00:00.000Z,41.448474,-87.978456
+IL0996000,Diamond Police Department,23207,IL,East North Central,Midwest,Region II,"GRUNDY, WILL",City,True,2021-11-01T00:00:00.000Z,41.28837,-88.25866
+IL0996100,Godley Police Department,23183,IL,East North Central,Midwest,Region II,"GRUNDY, WILL",City,True,2021-08-01T00:00:00.000Z,41.448474,-87.978456
+IL099900X,Homer Glen Police Department,5644,IL,East North Central,Midwest,Region II,WILL,City,True,2021-08-01T00:00:00.000Z,,
+IL0999200,Lewis University,23152,IL,East North Central,Midwest,Region II,WILL,University or College,True,2021-01-01T00:00:00.000Z,41.60538,-88.075836
+IL1000000,Williamson County Sheriff's Office,5646,IL,East North Central,Midwest,Region II,WILLIAMSON,County,False,,37.73224,-88.928375
+IL1000100,Carterville Police Department,5647,IL,East North Central,Midwest,Region II,WILLIAMSON,City,False,,37.76318,-89.077225
+IL1000200,Herrin Police Department,5648,IL,East North Central,Midwest,Region II,WILLIAMSON,City,False,,37.795788,-89.0197
+IL1000300,Johnston City Police Department,5649,IL,East North Central,Midwest,Region II,WILLIAMSON,City,False,,37.816017,-88.926674
+IL1000400,Marion Police Department,5650,IL,East North Central,Midwest,Region II,WILLIAMSON,City,False,,37.730755,-88.92611
+IL1000500,Cambria Police Department,5651,IL,East North Central,Midwest,Region II,WILLIAMSON,City,False,,37.730353,-88.930018
+IL1000800,Energy Police Department,5652,IL,East North Central,Midwest,Region II,WILLIAMSON,City,False,,37.730353,-88.930018
+IL1000900,Hurst,30655,IL,East North Central,Midwest,Region II,WILLIAMSON,City,False,,,
+IL1001100,John A. Logan College,5653,IL,East North Central,Midwest,Region II,WILLIAMSON,University or College,False,,37.730353,-88.930018
+IL1010000,Winnebago County Sheriff's Office,5655,IL,East North Central,Midwest,Region II,WINNEBAGO,County,True,2020-08-01T00:00:00.000Z,42.26688,-89.085556
+IL1010100,Cherry Valley Police Department,5656,IL,East North Central,Midwest,Region II,"BOONE, WINNEBAGO",City,True,2020-08-01T00:00:00.000Z,42.337396,-89.161205
+IL1010200,Loves Park Police Department,5657,IL,East North Central,Midwest,Region II,"BOONE, WINNEBAGO",City,True,2020-08-01T00:00:00.000Z,42.313274,-89.055084
+IL1010300,Pecatonica Police Department,5658,IL,East North Central,Midwest,Region II,WINNEBAGO,City,True,2021-01-01T00:00:00.000Z,42.337396,-89.161205
+IL1010400,Rockford Police Department,5659,IL,East North Central,Midwest,Region II,WINNEBAGO,City,True,1991-01-01T00:00:00.000Z,42.272087,-89.09654
+IL1010500,Rockton Police Department,5660,IL,East North Central,Midwest,Region II,WINNEBAGO,City,True,2020-08-01T00:00:00.000Z,42.452496,-89.072266
+IL1010600,Roscoe Police Department,5661,IL,East North Central,Midwest,Region II,WINNEBAGO,City,True,2020-09-01T00:00:00.000Z,42.41403,-89.00949
+IL1010700,South Beloit Police Department,5662,IL,East North Central,Midwest,Region II,WINNEBAGO,City,True,2021-01-01T00:00:00.000Z,42.490314,-89.03842
+IL1010900,Winnebago Police Department,5663,IL,East North Central,Midwest,Region II,WINNEBAGO,City,True,2020-08-01T00:00:00.000Z,42.266224,-89.241554
+IL1011000,Durand Police Department,5664,IL,East North Central,Midwest,Region II,WINNEBAGO,City,True,2021-08-01T00:00:00.000Z,42.337396,-89.161205
+IL1011200,Rock Valley College,5666,IL,East North Central,Midwest,Region II,WINNEBAGO,University or College,True,2021-08-01T00:00:00.000Z,42.30852,-88.99945
+IL1011300,Rockford Park District,5667,IL,East North Central,Midwest,Region II,WINNEBAGO,Other,True,2020-09-01T00:00:00.000Z,42.27415,-89.09234
+IL1011700,Machesney Park Police Department,5671,IL,East North Central,Midwest,Region II,WINNEBAGO,City,True,2021-01-01T00:00:00.000Z,42.272087,-89.09654
+IL1020000,Woodford County Sheriff's Office,5675,IL,East North Central,Midwest,Region II,WOODFORD,County,False,,40.789596,-89.210301
+IL1020100,El Paso Police Department,5676,IL,East North Central,Midwest,Region II,WOODFORD,City,False,2020-12-01T00:00:00.000Z,40.737396,-89.00902
+IL1020200,Eureka Police Department,5677,IL,East North Central,Midwest,Region II,WOODFORD,City,False,,40.721718,-89.27287
+IL1020300,Metamora Police Department,5678,IL,East North Central,Midwest,Region II,WOODFORD,City,False,,40.79055,-89.36182
+IL102149E,Eureka College,33758,IL,East North Central,Midwest,Region II,WOODFORD,University or College,True,2021-01-01T00:00:00.000Z,,
+ILCPD0000,Chicago Police Department,5684,IL,East North Central,Midwest,Region II,COOK,City,True,2021-07-01T00:00:00.000Z,41.830837,-87.62327

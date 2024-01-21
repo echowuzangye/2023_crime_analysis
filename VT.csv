@@ -1,0 +1,87 @@
+ori,agency_name,agency_id,state_abbr,division_name,region_name,region_desc,county_name,agency_type_name,nibrs,nibrs_start_date,latitude,longitude
+VT0010000,Addison County Sheriff's Office,20498,VT,New England,Northeast,Region I,ADDISON,County,True,2004-01-01T00:00:00.000Z,44.031248,-73.141581
+VT0010100,Bristol Police Department,20499,VT,New England,Northeast,Region I,ADDISON,City,True,2005-11-01T00:00:00.000Z,44.133076,-73.07871
+VT0010200,Middlebury Police Department,20500,VT,New England,Northeast,Region I,ADDISON,City,True,2006-01-01T00:00:00.000Z,44.018673,-73.17117
+VT0010300,Vergennes Police Department,20501,VT,New England,Northeast,Region I,ADDISON,City,True,2004-01-01T00:00:00.000Z,44.031248,-73.141581
+VT0020000,Bennington County Sheriff's Office,20502,VT,New England,Northeast,Region I,BENNINGTON,County,True,2001-01-01T00:00:00.000Z,43.035325,-73.11146
+VT0020100,Bennington Police Department,20503,VT,New England,Northeast,Region I,BENNINGTON,City,True,1998-01-01T00:00:00.000Z,43.035325,-73.11146
+VT0020400,Manchester Police Department,20505,VT,New England,Northeast,Region I,BENNINGTON,City,True,1998-01-01T00:00:00.000Z,43.178684,-73.04883
+VT0020800,Winhall Police Department,20507,VT,New England,Northeast,Region I,BENNINGTON,City,True,2001-01-01T00:00:00.000Z,43.035325,-73.11146
+VT0030000,Caledonia County Sheriff's Office,20508,VT,New England,Northeast,Region I,CALEDONIA,County,True,2004-01-01T00:00:00.000Z,44.468791,-72.112168
+VT0030100,Hardwick Police Department,20509,VT,New England,Northeast,Region I,CALEDONIA,City,True,2001-01-01T00:00:00.000Z,44.468791,-72.112168
+VT0030200,Lyndonville Police Department,20510,VT,New England,Northeast,Region I,CALEDONIA,City,True,2005-08-01T00:00:00.000Z,44.468791,-72.112168
+VT0030300,St. Johnsbury Police Department,20511,VT,New England,Northeast,Region I,CALEDONIA,City,True,1995-04-01T00:00:00.000Z,44.41893,-72.02098
+VT0040000,Chittenden County Sheriff's Office,20512,VT,New England,Northeast,Region I,CHITTENDEN,County,True,2004-07-01T00:00:00.000Z,44.463329,-73.069484
+VT0040100,Burlington Police Department,20513,VT,New England,Northeast,Region I,CHITTENDEN,City,True,2003-01-01T00:00:00.000Z,44.48222,-73.22062
+VT0040200,Essex Police Department,20514,VT,New England,Northeast,Region I,CHITTENDEN,City,True,1998-01-01T00:00:00.000Z,44.493866,-73.10552
+VT0040300,South Burlington Police Department,20515,VT,New England,Northeast,Region I,CHITTENDEN,City,True,1998-01-01T00:00:00.000Z,44.455273,-73.13991
+VT0040400,Winooski Police Department,20516,VT,New England,Northeast,Region I,CHITTENDEN,City,True,2001-01-01T00:00:00.000Z,44.4914,-73.187935
+VT0040500,Colchester Police Department,20517,VT,New England,Northeast,Region I,CHITTENDEN,City,True,1994-01-01T00:00:00.000Z,44.463329,-73.069484
+VT0040600,Milton Police Department,20518,VT,New England,Northeast,Region I,CHITTENDEN,City,True,1993-09-01T00:00:00.000Z,44.619205,-73.12278
+VT0040700,Shelburne Police Department,20519,VT,New England,Northeast,Region I,CHITTENDEN,City,True,2001-01-01T00:00:00.000Z,44.463329,-73.069484
+VT0040800,Richmond Police Department,20520,VT,New England,Northeast,Region I,CHITTENDEN,City,True,1999-01-01T00:00:00.000Z,44.463329,-73.069484
+VT0041000,Williston Police Department,20521,VT,New England,Northeast,Region I,CHITTENDEN,City,True,1998-01-01T00:00:00.000Z,44.43714,-73.06659
+VT0041100,University of Vermont,20522,VT,New England,Northeast,Region I,CHITTENDEN,University or College,True,1994-01-01T00:00:00.000Z,44.463329,-73.069484
+VT0041200,Hinesburg Police Department,20523,VT,New England,Northeast,Region I,CHITTENDEN,City,True,2004-01-01T00:00:00.000Z,44.463329,-73.069484
+VT0041300,Chittenden Unit for Special Investigations,25840,VT,New England,Northeast,Region I,CHITTENDEN,Other,True,2016-02-01T00:00:00.000Z,44.463329,-73.069484
+VT0050000,Essex County Sheriff's Office,20524,VT,New England,Northeast,Region I,ESSEX,County,True,2011-01-01T00:00:00.000Z,44.565365,-71.56149
+VT0060000,Franklin County Sheriff's Office,20527,VT,New England,Northeast,Region I,FRANKLIN,County,True,2003-01-01T00:00:00.000Z,44.858964,-72.909402
+VT0060100,St. Albans Police Department,20528,VT,New England,Northeast,Region I,FRANKLIN,City,True,1998-01-01T00:00:00.000Z,44.858964,-72.909402
+VT0060300,Swanton Police Department,20530,VT,New England,Northeast,Region I,FRANKLIN,City,True,2004-01-01T00:00:00.000Z,44.921528,-73.11119
+VT0070000,Grand Isle County Sheriff's Office,20532,VT,New England,Northeast,Region I,GRAND ISLE,County,True,2004-01-01T00:00:00.000Z,44.801788,-73.300758
+VT0080000,Lamoille County Sheriff's Office,20533,VT,New England,Northeast,Region I,LAMOILLE,County,True,1998-01-01T00:00:00.000Z,44.603504,-72.638355
+VT0080100,Morristown Police Department,20534,VT,New England,Northeast,Region I,LAMOILLE,City,True,1998-01-01T00:00:00.000Z,44.603504,-72.638355
+VT0080200,Stowe Police Department,20535,VT,New England,Northeast,Region I,LAMOILLE,City,True,1998-01-01T00:00:00.000Z,44.603504,-72.638355
+VT0090000,Orange County Sheriff's Office,20536,VT,New England,Northeast,Region I,ORANGE,County,True,2003-01-01T00:00:00.000Z,43.99209,-72.42766
+VT0090200,Bradford Police Department,20538,VT,New England,Northeast,Region I,ORANGE,City,True,2005-12-01T00:00:00.000Z,44.003392,-72.369687
+VT0090300,Fairlee Police Department,25998,VT,New England,Northeast,Region I,ORANGE,City,True,2017-02-01T00:00:00.000Z,44.003392,-72.369687
+VT0090400,Thetford Police Department,20539,VT,New England,Northeast,Region I,ORANGE,City,True,2001-01-01T00:00:00.000Z,44.003392,-72.369687
+VT0100000,Orleans County Sheriff's Office,20540,VT,New England,Northeast,Region I,ORLEANS,County,True,2001-08-01T00:00:00.000Z,44.935,-72.21162
+VT0100100,Newport Police Department,20541,VT,New England,Northeast,Region I,ORLEANS,City,True,1998-01-01T00:00:00.000Z,44.934982,-72.21176
+VT0110000,Rutland County Sheriff's Office,20542,VT,New England,Northeast,Region I,RUTLAND,County,True,1998-01-01T00:00:00.000Z,43.580844,-73.038196
+VT0110100,Brandon Police Department,20543,VT,New England,Northeast,Region I,RUTLAND,City,True,1998-01-01T00:00:00.000Z,43.7997,-73.08917
+VT0110200,Rutland Police Department,20544,VT,New England,Northeast,Region I,RUTLAND,City,True,1993-12-01T00:00:00.000Z,43.605415,-72.97736
+VT0110300,Castleton Police Department,20545,VT,New England,Northeast,Region I,RUTLAND,City,True,1999-01-01T00:00:00.000Z,43.580844,-73.038196
+VT0110400,Fair Haven Police Department,20546,VT,New England,Northeast,Region I,RUTLAND,City,True,1999-01-01T00:00:00.000Z,43.594852,-73.26547
+VT0110700,Rutland Town Police Department,20549,VT,New England,Northeast,Region I,RUTLAND,City,True,2008-07-01T00:00:00.000Z,43.580844,-73.038196
+VT0111000,Pittsford Police Department,23252,VT,New England,Northeast,Region I,RUTLAND,City,True,2013-09-01T00:00:00.000Z,,
+VT0111100,Killington Police Department,25412,VT,New England,Northeast,Region I,RUTLAND,City,True,2014-01-01T00:00:00.000Z,,
+VT0120000,Washington County Sheriff's Office,20551,VT,New England,Northeast,Region I,WASHINGTON,County,True,2001-01-01T00:00:00.000Z,44.274953,-72.609475
+VT0120100,Barre Police Department,20552,VT,New England,Northeast,Region I,WASHINGTON,City,True,2001-01-01T00:00:00.000Z,44.20841,-72.513885
+VT0120200,Montpelier Police Department,20553,VT,New England,Northeast,Region I,WASHINGTON,City,True,2004-01-01T00:00:00.000Z,44.259575,-72.57579
+VT0120300,Northfield Police Department,20554,VT,New England,Northeast,Region I,WASHINGTON,City,True,1999-01-01T00:00:00.000Z,44.14332,-72.65675
+VT0120500,Barre Town Police Department,20556,VT,New England,Northeast,Region I,WASHINGTON,City,True,2000-10-01T00:00:00.000Z,44.274953,-72.609475
+VT0120600,Berlin Police Department,20557,VT,New England,Northeast,Region I,WASHINGTON,City,True,2004-01-01T00:00:00.000Z,44.21076,-72.579216
+VT0120700,Capitol Police,25413,VT,New England,Northeast,Region I,WASHINGTON,Other State Agency,True,2013-05-01T00:00:00.000Z,44.274953,-72.609475
+VT0120800,Secretary of State Investigations Unit,23168,VT,New England,Northeast,Region I,WASHINGTON,Other State Agency,True,2012-01-01T00:00:00.000Z,44.274953,-72.609475
+VT012165A,Attorney General,20558,VT,New England,Northeast,Region I,WASHINGTON,Other State Agency,True,2004-06-01T00:00:00.000Z,44.256905,-72.5681
+VT0130000,Windham County Sheriff's Office,20559,VT,New England,Northeast,Region I,WINDHAM,County,True,2004-01-01T00:00:00.000Z,42.999143,-72.716335
+VT0130100,Bellows Falls Police Department,20560,VT,New England,Northeast,Region I,WINDHAM,City,True,1998-01-01T00:00:00.000Z,42.999143,-72.716335
+VT0130200,Brattleboro Police Department,20561,VT,New England,Northeast,Region I,WINDHAM,City,True,1999-01-01T00:00:00.000Z,42.854416,-72.55899
+VT0130300,Wilmington Police Department,20562,VT,New England,Northeast,Region I,WINDHAM,City,True,2001-01-01T00:00:00.000Z,42.999143,-72.716335
+VT0130500,Dover Police Department,20563,VT,New England,Northeast,Region I,WINDHAM,City,True,2001-01-01T00:00:00.000Z,42.999143,-72.716335
+VT0140000,Windsor County Sheriff's Office,20565,VT,New England,Northeast,Region I,WINDSOR,County,True,2004-01-01T00:00:00.000Z,43.588143,-72.591514
+VT0140100,Ludlow Police Department,20566,VT,New England,Northeast,Region I,WINDSOR,City,True,2001-01-01T00:00:00.000Z,43.588143,-72.591514
+VT0140200,Springfield Police Department,20567,VT,New England,Northeast,Region I,WINDSOR,City,True,1998-01-01T00:00:00.000Z,43.288036,-72.47204
+VT0140300,Hartford Police Department,20568,VT,New England,Northeast,Region I,WINDSOR,City,True,1998-01-01T00:00:00.000Z,43.653748,-72.346275
+VT0140400,Windsor Police Department,20569,VT,New England,Northeast,Region I,WINDSOR,City,True,1998-01-01T00:00:00.000Z,43.588143,-72.591514
+VT0140500,Woodstock Police Department,20570,VT,New England,Northeast,Region I,WINDSOR,City,True,2001-01-01T00:00:00.000Z,43.588143,-72.591514
+VT0140600,Chester Police Department,20571,VT,New England,Northeast,Region I,WINDSOR,City,True,1993-08-01T00:00:00.000Z,43.588143,-72.591514
+VT0140800,Weathersfield Police Department,20572,VT,New England,Northeast,Region I,WINDSOR,City,True,2004-01-01T00:00:00.000Z,43.588143,-72.591514
+VT0141000,Norwich Police Department,20573,VT,New England,Northeast,Region I,WINDSOR,City,True,1998-01-01T00:00:00.000Z,43.588143,-72.591514
+VT0141100,Royalton Police Department,20574,VT,New England,Northeast,Region I,WINDSOR,City,True,2008-07-01T00:00:00.000Z,43.588143,-72.591514
+VTDFW0000,Fish and Wildlife Department Law Enforcement Division,20575,VT,New England,Northeast,Region I,WASHINGTON,Other State Agency,True,2004-01-01T00:00:00.000Z,44.323574,-72.75518
+VTDLC0000,Department of Liquor Control Division of Enforcement and Licensing,20576,VT,New England,Northeast,Region I,WASHINGTON,Other State Agency,True,2005-08-01T00:00:00.000Z,44.274953,-72.609475
+VTDMV0000,Department of Motor Vehicles,20577,VT,New England,Northeast,Region I,WASHINGTON,Other State Agency,True,2005-12-01T00:00:00.000Z,44.25652,-72.56721
+VTVSP0000,Vermont State Police,20578,VT,New England,Northeast,Region I,UNMAPPED COUNTY,State Police,True,1994-01-01T00:00:00.000Z,44.274953,-72.609475
+VTVSP0100,State Police: Williston,20579,VT,New England,Northeast,Region I,CHITTENDEN,State Police,True,1993-10-01T00:00:00.000Z,44.44401,-73.11252
+VTVSP0200,State Police: St. Johnsbury,20580,VT,New England,Northeast,Region I,CALEDONIA,State Police,True,1993-07-01T00:00:00.000Z,44.468791,-72.112168
+VTVSP0300,State Police: Rutland,20581,VT,New England,Northeast,Region I,RUTLAND,State Police,True,1993-11-01T00:00:00.000Z,43.636135,-72.97715
+VTVSP0500,Vermont State Police Headquarters Bureau of Criminal Investigations,20583,VT,New England,Northeast,Region I,WASHINGTON,State Police,True,1996-11-01T00:00:00.000Z,44.323574,-72.75518
+VTVSP0600,State Police: New Haven,20584,VT,New England,Northeast,Region I,ADDISON,State Police,True,1993-12-01T00:00:00.000Z,44.031248,-73.141581
+VTVSP0700,State Police: St. Albans,20585,VT,New England,Northeast,Region I,FRANKLIN,State Police,True,1993-01-01T00:00:00.000Z,44.858964,-72.909402
+VTVSP0800,State Police: Derby,20586,VT,New England,Northeast,Region I,ORLEANS,State Police,True,1993-01-01T00:00:00.000Z,44.828442,-72.25163
+VTVSP0900,State Police: Shaftsbury,20587,VT,New England,Northeast,Region I,BENNINGTON,State Police,True,1993-03-01T00:00:00.000Z,42.953465,-73.20828
+VTVSP1100,State Police: Royalton,20589,VT,New England,Northeast,Region I,WINDSOR,State Police,True,1993-12-01T00:00:00.000Z,43.75885,-72.723145
+VTVSP1200,State Police: Middlesex,20590,VT,New England,Northeast,Region I,WASHINGTON,State Police,True,1993-01-01T00:00:00.000Z,44.238064,-72.528915
+VTVSP1600,State Police: Westminster,26057,VT,New England,Northeast,Region I,WINDHAM,State Police,True,2016-07-01T00:00:00.000Z,,

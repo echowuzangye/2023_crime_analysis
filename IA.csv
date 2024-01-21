@@ -1,0 +1,280 @@
+ori,agency_name,agency_id,state_abbr,division_name,region_name,region_desc,county_name,agency_type_name,nibrs,nibrs_start_date,latitude,longitude
+IA0010000,Adair County Sheriff's Office,4274,IA,West North Central,Midwest,Region II,ADAIR,County,True,1992-01-01T00:00:00.000Z,41.328528,-94.478164
+IA0020000,Adams County Sheriff's Office,4275,IA,West North Central,Midwest,Region II,ADAMS,County,True,1992-01-01T00:00:00.000Z,41.021656,-94.696906
+IA0030000,Allamakee County Sheriff's Office,4276,IA,West North Central,Midwest,Region II,ALLAMAKEE,County,True,1995-10-01T00:00:00.000Z,43.274964,-91.382751
+IA0030100,Waukon Police Department,4277,IA,West North Central,Midwest,Region II,ALLAMAKEE,City,True,2012-11-01T00:00:00.000Z,43.270214,-91.47768
+IA0030400,Postville,26772,IA,West North Central,Midwest,Region II,"ALLAMAKEE, CLAYTON",City,True,2016-01-01T00:00:00.000Z,,
+IA0030500,Lansing,26771,IA,West North Central,Midwest,Region II,ALLAMAKEE,City,True,2016-01-01T00:00:00.000Z,,
+IA0040000,Appanoose County Sheriff's Office,4278,IA,West North Central,Midwest,Region II,APPANOOSE,County,True,1992-01-01T00:00:00.000Z,40.73496,-92.88444
+IA0040100,Centerville Police Department,4279,IA,West North Central,Midwest,Region II,APPANOOSE,City,True,1992-01-01T00:00:00.000Z,40.744683,-92.870345
+IA0050000,Audubon County Sheriff's Office,4280,IA,West North Central,Midwest,Region II,AUDUBON,County,False,1992-01-01T00:00:00.000Z,41.679178,-94.904312
+IA0050100,Audubon Police Department,4281,IA,West North Central,Midwest,Region II,AUDUBON,City,True,1992-01-01T00:00:00.000Z,41.7217,-94.93159
+IA0060000,Benton County Sheriff's Office,4282,IA,West North Central,Midwest,Region II,BENTON,County,True,1992-01-01T00:00:00.000Z,42.16869,-92.02407
+IA0060100,Belle Plaine Police Department,4283,IA,West North Central,Midwest,Region II,BENTON,City,True,1992-01-01T00:00:00.000Z,41.892105,-92.26985
+IA0060200,Vinton Police Department,4284,IA,West North Central,Midwest,Region II,BENTON,City,True,1992-01-01T00:00:00.000Z,42.168144,-92.02555
+IA0070000,Black Hawk County Sheriff's Office,4285,IA,West North Central,Midwest,Region II,BLACK HAWK,County,True,1992-01-01T00:00:00.000Z,42.497097,-92.333565
+IA0070100,Cedar Falls Police Department,4286,IA,West North Central,Midwest,Region II,BLACK HAWK,City,False,1992-01-01T00:00:00.000Z,42.53667,-92.4481
+IA0070200,Evansdale Police Department,4287,IA,West North Central,Midwest,Region II,BLACK HAWK,City,True,1992-06-01T00:00:00.000Z,42.465996,-92.287605
+IA0070300,Waterloo Police Department,4288,IA,West North Central,Midwest,Region II,BLACK HAWK,City,True,1991-10-01T00:00:00.000Z,42.499016,-92.33279
+IA0070700,University of Northern Iowa,4289,IA,West North Central,Midwest,Region II,BLACK HAWK,University or College,True,1992-01-01T00:00:00.000Z,42.471533,-92.308011
+IA0080000,Boone County Sheriff's Office,4290,IA,West North Central,Midwest,Region II,BOONE,County,False,1992-01-01T00:00:00.000Z,42.05968,-93.87797
+IA0080100,Boone Police Department,4291,IA,West North Central,Midwest,Region II,BOONE,City,False,1992-01-01T00:00:00.000Z,42.038601,-93.939138
+IA0080200,Ogden Police Department,4292,IA,West North Central,Midwest,Region II,BOONE,City,True,1998-01-01T00:00:00.000Z,42.03905,-94.0339
+IA0090000,Bremer County Sheriff's Office,4294,IA,West North Central,Midwest,Region II,BREMER,County,True,1992-01-01T00:00:00.000Z,42.72686,-92.46567
+IA0090200,Waverly Police Department,4295,IA,West North Central,Midwest,Region II,BREMER,City,True,1992-01-01T00:00:00.000Z,42.72686,-92.46567
+IA0090600,Denver,33724,IA,West North Central,Midwest,Region II,BREMER,City,True,2021-01-01T00:00:00.000Z,,
+IA0100000,Buchanan County Sheriff's Office,4296,IA,West North Central,Midwest,Region II,BUCHANAN,County,True,1992-05-01T00:00:00.000Z,42.469856,-91.88937
+IA0100100,Independence Police Department,4297,IA,West North Central,Midwest,Region II,BUCHANAN,City,True,1992-06-01T00:00:00.000Z,42.469856,-91.88937
+IA0110000,Buena Vista County Sheriff's Office,4298,IA,West North Central,Midwest,Region II,BUENA VISTA,County,True,1992-01-01T00:00:00.000Z,42.741521,-95.141431
+IA0110100,Storm Lake Police Department,4299,IA,West North Central,Midwest,Region II,BUENA VISTA,City,True,1992-01-01T00:00:00.000Z,42.647488,-95.19677
+IA0120000,Butler County Sheriff's Office,4300,IA,West North Central,Midwest,Region II,BUTLER,County,True,1992-01-01T00:00:00.000Z,42.734708,-92.780066
+IA0120100,Parkersburg,26553,IA,West North Central,Midwest,Region II,BUTLER,City,False,2016-10-01T00:00:00.000Z,,
+IA0130000,Calhoun County Sheriff's Office,4301,IA,West North Central,Midwest,Region II,CALHOUN,County,False,1992-01-01T00:00:00.000Z,42.38617,-94.643683
+IA0130100,Lake City,27525,IA,West North Central,Midwest,Region II,CALHOUN,City,True,2018-03-01T00:00:00.000Z,,
+IA0130200,Rockwell City Police Department,23463,IA,West North Central,Midwest,Region II,CALHOUN,City,True,2022-01-01T00:00:00.000Z,,
+IA0140000,Carroll County Sheriff's Office,4302,IA,West North Central,Midwest,Region II,CARROLL,County,True,1992-01-01T00:00:00.000Z,42.065514,-94.86695
+IA0140100,Carroll Police Department,4303,IA,West North Central,Midwest,Region II,CARROLL,City,True,1992-06-01T00:00:00.000Z,42.064484,-94.86749
+IA0150000,Cass County Sheriff's Office,4304,IA,West North Central,Midwest,Region II,CASS,County,True,1992-01-01T00:00:00.000Z,41.403965,-95.013145
+IA0150100,Atlantic Police Department,4305,IA,West North Central,Midwest,Region II,CASS,City,True,1992-01-01T00:00:00.000Z,41.40697,-95.01266
+IA0160000,Cedar County Sheriff's Office,4306,IA,West North Central,Midwest,Region II,CEDAR,County,True,1992-01-01T00:00:00.000Z,41.763645,-91.12222
+IA0160100,Tipton Police Department,4307,IA,West North Central,Midwest,Region II,CEDAR,City,True,1992-03-01T00:00:00.000Z,41.769066,-91.12984
+IA0160200,Durant,31995,IA,West North Central,Midwest,Region II,"CEDAR, MUSCATINE, SCOTT",City,True,2020-01-01T00:00:00.000Z,,
+IA0160300,West Branch Police Department,4308,IA,West North Central,Midwest,Region II,"CEDAR, JOHNSON",City,True,2010-02-01T00:00:00.000Z,41.77236,-91.132611
+IA0160700,Mechanicsville,26791,IA,West North Central,Midwest,Region II,CEDAR,City,True,2017-01-01T00:00:00.000Z,,
+IA0170000,Cerro Gordo County Sheriff's Office,4309,IA,West North Central,Midwest,Region II,CERRO GORDO,County,True,1992-01-01T00:00:00.000Z,43.153835,-93.20268
+IA0170100,Clear Lake Police Department,4310,IA,West North Central,Midwest,Region II,CERRO GORDO,City,True,1992-01-01T00:00:00.000Z,43.075171,-93.251266
+IA0170200,Mason City Police Department,4311,IA,West North Central,Midwest,Region II,CERRO GORDO,City,True,1992-01-01T00:00:00.000Z,43.15112,-93.19622
+IA0180000,Cherokee County Sheriff's Office,4312,IA,West North Central,Midwest,Region II,CHEROKEE,County,True,1992-12-01T00:00:00.000Z,42.74987,-95.55457
+IA0180100,Cherokee Police Department,4313,IA,West North Central,Midwest,Region II,CHEROKEE,City,True,1992-01-01T00:00:00.000Z,42.74987,-95.55457
+IA0190000,Chickasaw County Sheriff's Office,4315,IA,West North Central,Midwest,Region II,CHICKASAW,County,True,1992-01-01T00:00:00.000Z,43.059741,-92.31721
+IA0190100,New Hampton Police Department,4316,IA,West North Central,Midwest,Region II,CHICKASAW,City,False,1992-01-01T00:00:00.000Z,43.059086,-92.314095
+IA0200000,Clarke County Sheriff's Office,4317,IA,West North Central,Midwest,Region II,CLARKE,County,True,1992-01-01T00:00:00.000Z,41.029191,-93.784096
+IA0200100,Osceola Police Department,4318,IA,West North Central,Midwest,Region II,CLARKE,City,True,1992-01-01T00:00:00.000Z,41.029191,-93.784096
+IA0210000,Clay County Sheriff's Office,4319,IA,West North Central,Midwest,Region II,CLAY,County,True,1992-01-01T00:00:00.000Z,43.079822,-95.149726
+IA0210100,Spencer Police Department,4320,IA,West North Central,Midwest,Region II,CLAY,City,True,1992-01-01T00:00:00.000Z,43.141373,-95.146164
+IA0220000,Clayton County Sheriff's Office,4321,IA,West North Central,Midwest,Region II,CLAYTON,County,True,1992-01-01T00:00:00.000Z,42.891697,-91.356926
+IA0220400,Mar-Mac,33734,IA,West North Central,Midwest,Region II,CLAYTON,City,True,2021-01-01T00:00:00.000Z,,
+IA0230000,Clinton County Sheriff's Office,4323,IA,West North Central,Midwest,Region II,CLINTON,County,True,1992-01-01T00:00:00.000Z,41.851048,-90.18745
+IA0230100,Clinton Police Department,4324,IA,West North Central,Midwest,Region II,CLINTON,City,True,1994-05-01T00:00:00.000Z,41.898073,-90.534243
+IA0230200,Camanche Police Department,4325,IA,West North Central,Midwest,Region II,CLINTON,City,True,1992-12-01T00:00:00.000Z,41.786945,-90.257935
+IA0230300,De Witt Police Department,4326,IA,West North Central,Midwest,Region II,CLINTON,City,True,1992-01-01T00:00:00.000Z,41.82424,-90.53913
+IA0240000,Crawford County Sheriff's Office,4327,IA,West North Central,Midwest,Region II,CRAWFORD,County,True,1992-01-01T00:00:00.000Z,42.043119,-95.38909
+IA0240100,Denison Police Department,4328,IA,West North Central,Midwest,Region II,CRAWFORD,City,True,1992-01-01T00:00:00.000Z,42.017834,-95.35737
+IA0240200,Manilla,30595,IA,West North Central,Midwest,Region II,CRAWFORD,City,False,2020-07-01T00:00:00.000Z,,
+IA0250000,Dallas County Sheriff's Office,4329,IA,West North Central,Midwest,Region II,DALLAS,County,True,1992-01-01T00:00:00.000Z,41.685321,-94.040707
+IA0250100,Perry Police Department,4330,IA,West North Central,Midwest,Region II,DALLAS,City,True,1992-01-01T00:00:00.000Z,41.685321,-94.040707
+IA0250200,Adel Police Department,4331,IA,West North Central,Midwest,Region II,DALLAS,City,True,1992-01-01T00:00:00.000Z,41.685321,-94.040707
+IA0250400,Waukee Police Department,4332,IA,West North Central,Midwest,Region II,DALLAS,City,True,1992-01-01T00:00:00.000Z,41.685321,-94.040707
+IA0250500,De Soto,35502,IA,West North Central,Midwest,Region II,DALLAS,City,True,2021-01-01T00:00:00.000Z,,
+IA0250700,Van Meter,26555,IA,West North Central,Midwest,Region II,DALLAS,City,False,2017-01-01T00:00:00.000Z,,
+IA0260000,Davis County Sheriff's Office,4333,IA,West North Central,Midwest,Region II,DAVIS,County,True,1992-01-01T00:00:00.000Z,40.750652,-92.41525
+IA0260100,Bloomfield Police Department,4334,IA,West North Central,Midwest,Region II,DAVIS,City,True,1992-01-01T00:00:00.000Z,40.750652,-92.41525
+IA0270000,Decatur County Sheriff's Office,4335,IA,West North Central,Midwest,Region II,DECATUR,County,False,1992-01-01T00:00:00.000Z,40.740402,-93.74693
+IA0270100,Leon Police Department,4336,IA,West North Central,Midwest,Region II,DECATUR,City,False,1994-07-01T00:00:00.000Z,40.73951,-93.74707
+IA0280000,Delaware County Sheriff's Office,4338,IA,West North Central,Midwest,Region II,DELAWARE,County,True,1992-01-01T00:00:00.000Z,42.473002,-91.359438
+IA0280100,Manchester Police Department,4339,IA,West North Central,Midwest,Region II,DELAWARE,City,True,1992-01-01T00:00:00.000Z,42.47613,-91.34304
+IA0290000,Des Moines County Sheriff's Office,4340,IA,West North Central,Midwest,Region II,DES MOINES,County,True,1992-01-01T00:00:00.000Z,40.81156,-91.10088
+IA0290100,Burlington Police Department,4341,IA,West North Central,Midwest,Region II,DES MOINES,City,True,1991-01-01T00:00:00.000Z,40.811058,-91.10232
+IA0290200,West Burlington Police Department,4342,IA,West North Central,Midwest,Region II,DES MOINES,City,True,1992-01-01T00:00:00.000Z,40.825764,-91.15657
+IA0300000,Dickinson County Sheriff's Office,4343,IA,West North Central,Midwest,Region II,DICKINSON,County,False,1992-01-01T00:00:00.000Z,43.389611,-95.196057
+IA0300100,Spirit Lake Police Department,4344,IA,West North Central,Midwest,Region II,DICKINSON,City,True,1992-01-01T00:00:00.000Z,43.42442,-95.10363
+IA0300300,Arnolds Park Police Department,25842,IA,West North Central,Midwest,Region II,DICKINSON,City,False,,,
+IA0310000,Dubuque County Sheriff's Office,4345,IA,West North Central,Midwest,Region II,DUBUQUE,County,True,1994-01-01T00:00:00.000Z,42.463481,-90.878771
+IA0310100,Dubuque Police Department,4346,IA,West North Central,Midwest,Region II,DUBUQUE,City,True,1994-12-01T00:00:00.000Z,42.500935,-90.66581
+IA0310300,Dyersville Police Department,4347,IA,West North Central,Midwest,Region II,"DELAWARE, DUBUQUE",City,True,1992-01-01T00:00:00.000Z,42.48466,-91.121056
+IA0310400,Asbury,29554,IA,West North Central,Midwest,Region II,DUBUQUE,City,True,2019-02-01T00:00:00.000Z,,
+IA0310700,Peosta,35504,IA,West North Central,Midwest,Region II,DUBUQUE,City,False,2023-01-01T00:00:00.000Z,,
+IA0320000,Emmet County Sheriff's Office,4348,IA,West North Central,Midwest,Region II,EMMET,County,True,1992-01-01T00:00:00.000Z,43.40311,-94.83667
+IA0320100,Estherville Police Department,4349,IA,West North Central,Midwest,Region II,EMMET,City,True,1992-01-01T00:00:00.000Z,43.40311,-94.83667
+IA0330000,Fayette County Sheriff's Office,4350,IA,West North Central,Midwest,Region II,FAYETTE,County,True,1992-08-01T00:00:00.000Z,42.86445,-91.839373
+IA0330100,Oelwein Police Department,4351,IA,West North Central,Midwest,Region II,FAYETTE,City,True,1994-04-01T00:00:00.000Z,42.86445,-91.839373
+IA0330200,West Union Police Department,4352,IA,West North Central,Midwest,Region II,FAYETTE,City,False,1992-01-01T00:00:00.000Z,42.86445,-91.839373
+IA0340000,Floyd County Sheriff's Office,4354,IA,West North Central,Midwest,Region II,FLOYD,County,True,1992-01-01T00:00:00.000Z,43.06438,-92.68152
+IA0340100,Charles City Police Department,4355,IA,West North Central,Midwest,Region II,FLOYD,City,True,1992-01-01T00:00:00.000Z,43.052741,-92.787367
+IA0350000,Franklin County Sheriff's Office,4356,IA,West North Central,Midwest,Region II,FRANKLIN,County,True,1992-01-01T00:00:00.000Z,42.736549,-93.271425
+IA0350100,Hampton Police Department,4357,IA,West North Central,Midwest,Region II,FRANKLIN,City,False,1992-01-01T00:00:00.000Z,42.741974,-93.20991
+IA0360000,Fremont County Sheriff's Office,4358,IA,West North Central,Midwest,Region II,FREMONT,County,True,1994-03-01T00:00:00.000Z,40.743726,-95.599516
+IA0370000,Greene County Sheriff's Office,4359,IA,West North Central,Midwest,Region II,GREENE,County,False,1992-01-01T00:00:00.000Z,42.01419,-94.37344
+IA0370100,Jefferson Police Department,4360,IA,West North Central,Midwest,Region II,GREENE,City,False,1999-10-01T00:00:00.000Z,42.01419,-94.37344
+IA0380000,Grundy County Sheriff's Office,4361,IA,West North Central,Midwest,Region II,GRUNDY,County,True,1992-01-01T00:00:00.000Z,42.36142,-92.773994
+IA0380100,Grundy Center Police Department,4362,IA,West North Central,Midwest,Region II,GRUNDY,City,True,1992-05-01T00:00:00.000Z,42.403323,-92.790261
+IA0390000,Guthrie County Sheriff's Office,4363,IA,West North Central,Midwest,Region II,GUTHRIE,County,False,1992-01-01T00:00:00.000Z,41.67774,-94.50237
+IA0400000,Hamilton County Sheriff's Office,4364,IA,West North Central,Midwest,Region II,HAMILTON,County,True,1992-01-01T00:00:00.000Z,42.390768,-93.709198
+IA0400100,Webster City Police Department,4365,IA,West North Central,Midwest,Region II,HAMILTON,City,True,1992-05-01T00:00:00.000Z,42.390768,-93.709198
+IA0410000,Hancock County Sheriff's Office,4366,IA,West North Central,Midwest,Region II,HANCOCK,County,True,1992-01-01T00:00:00.000Z,43.075411,-93.743697
+IA0420000,Hardin County Sheriff's Office,4368,IA,West North Central,Midwest,Region II,HARDIN,County,True,1992-01-01T00:00:00.000Z,42.359776,-93.0973
+IA0420100,Iowa Falls Police Department,4369,IA,West North Central,Midwest,Region II,HARDIN,City,True,1992-01-01T00:00:00.000Z,42.519848,-93.26419
+IA0420200,Ackley,30594,IA,West North Central,Midwest,Region II,"FRANKLIN, HARDIN",City,False,2017-03-01T00:00:00.000Z,,
+IA0420300,Eldora Police Department,4370,IA,West North Central,Midwest,Region II,HARDIN,City,True,1992-01-01T00:00:00.000Z,42.359364,-93.09954
+IA0430000,Harrison County Sheriff's Office,4371,IA,West North Central,Midwest,Region II,HARRISON,County,True,1992-01-01T00:00:00.000Z,41.64289,-95.790474
+IA0430100,Missouri Valley Police Department,4372,IA,West North Central,Midwest,Region II,HARRISON,City,False,1992-01-01T00:00:00.000Z,41.556393,-95.89292
+IA0440000,Henry County Sheriff's Office,4373,IA,West North Central,Midwest,Region II,HENRY,County,True,1992-01-01T00:00:00.000Z,40.985864,-91.54427
+IA0440100,Mount Pleasant Police Department,4374,IA,West North Central,Midwest,Region II,HENRY,City,True,1992-01-01T00:00:00.000Z,40.965294,-91.55187
+IA0450000,Howard County Sheriff's Office,4376,IA,West North Central,Midwest,Region II,HOWARD,County,True,1992-01-01T00:00:00.000Z,43.373245,-92.11591
+IA0450100,Cresco Police Department,4377,IA,West North Central,Midwest,Region II,HOWARD,City,False,1992-01-01T00:00:00.000Z,43.373245,-92.11591
+IA0460000,Humboldt County Sheriff's Office,4378,IA,West North Central,Midwest,Region II,HUMBOLDT,County,True,1992-07-01T00:00:00.000Z,42.72114,-94.21348
+IA0460100,Humboldt Police Department,4379,IA,West North Central,Midwest,Region II,HUMBOLDT,City,False,1992-01-01T00:00:00.000Z,42.72114,-94.21348
+IA0470000,Ida County Sheriff's Office,4380,IA,West North Central,Midwest,Region II,IDA,County,True,1992-01-01T00:00:00.000Z,42.342564,-95.46847
+IA0480000,Iowa County Sheriff's Office,4381,IA,West North Central,Midwest,Region II,IOWA,County,True,1992-01-01T00:00:00.000Z,41.801067,-92.07138
+IA0480100,Marengo Police Department,4382,IA,West North Central,Midwest,Region II,IOWA,City,True,2010-01-01T00:00:00.000Z,41.683918,-92.059123
+IA0480300,Williamsburg Police Department,4383,IA,West North Central,Midwest,Region II,IOWA,City,True,1996-01-01T00:00:00.000Z,41.683918,-92.059123
+IA0490000,Jackson County Sheriff's Office,4384,IA,West North Central,Midwest,Region II,JACKSON,County,True,1992-01-01T00:00:00.000Z,42.06906,-90.66787
+IA0490100,Maquoketa Police Department,4385,IA,West North Central,Midwest,Region II,JACKSON,City,True,1992-05-01T00:00:00.000Z,42.069088,-90.66787
+IA0490300,Preston,33728,IA,West North Central,Midwest,Region II,JACKSON,City,True,2021-01-01T00:00:00.000Z,,
+IA0490400,Sabula,33730,IA,West North Central,Midwest,Region II,JACKSON,City,True,2021-01-01T00:00:00.000Z,,
+IA0500000,Jasper County Sheriff's Office,4386,IA,West North Central,Midwest,Region II,JASPER,County,True,1992-01-01T00:00:00.000Z,41.685686,-93.052971
+IA0500100,Newton Police Department,4387,IA,West North Central,Midwest,Region II,JASPER,City,True,1992-01-01T00:00:00.000Z,41.699383,-93.05739
+IA0500200,Colfax Police Department,4388,IA,West North Central,Midwest,Region II,JASPER,City,True,2016-08-01T00:00:00.000Z,41.67772,-93.24548
+IA0500300,Monroe,33732,IA,West North Central,Midwest,Region II,JASPER,City,True,2021-01-01T00:00:00.000Z,,
+IA0500600,Prairie City Police Department,4389,IA,West North Central,Midwest,Region II,JASPER,City,True,2007-01-01T00:00:00.000Z,41.685686,-93.052971
+IA0510000,Jefferson County Sheriff's Office,4390,IA,West North Central,Midwest,Region II,JEFFERSON,County,True,1992-01-01T00:00:00.000Z,41.01005,-91.97883
+IA0510100,Fairfield Police Department,4391,IA,West North Central,Midwest,Region II,JEFFERSON,City,True,1992-01-01T00:00:00.000Z,41.01005,-91.97883
+IA0520000,Johnson County Sheriff's Office,4392,IA,West North Central,Midwest,Region II,JOHNSON,County,True,1992-01-01T00:00:00.000Z,41.668736,-91.588812
+IA0520100,Coralville Police Department,4393,IA,West North Central,Midwest,Region II,JOHNSON,City,True,1992-02-01T00:00:00.000Z,41.668736,-91.588812
+IA0520200,Iowa City Police Department,4394,IA,West North Central,Midwest,Region II,JOHNSON,City,True,1992-03-01T00:00:00.000Z,41.660053,-91.52996
+IA0520400,University of Iowa,4395,IA,West North Central,Midwest,Region II,JOHNSON,University or College,True,1995-01-01T00:00:00.000Z,41.658768,-91.53616
+IA0520500,North Liberty Police Department,4396,IA,West North Central,Midwest,Region II,JOHNSON,City,True,2001-01-01T00:00:00.000Z,41.668736,-91.588812
+IA0520600,University Heights,27736,IA,West North Central,Midwest,Region II,JOHNSON,City,False,,,
+IA0530000,Jones County Sheriff's Office,4397,IA,West North Central,Midwest,Region II,JONES,County,True,1992-01-01T00:00:00.000Z,42.108234,-91.29007
+IA0530100,Anamosa Police Department,4398,IA,West North Central,Midwest,Region II,JONES,City,True,1992-01-01T00:00:00.000Z,42.106422,-91.28553
+IA0530200,Monticello Police Department,4399,IA,West North Central,Midwest,Region II,JONES,City,True,1992-01-01T00:00:00.000Z,42.232327,-91.1881
+IA0540000,Keokuk County Sheriff's Office,4400,IA,West North Central,Midwest,Region II,KEOKUK,County,True,1992-01-01T00:00:00.000Z,41.331182,-92.167721
+IA0540100,Sigourney Police Department,23246,IA,West North Central,Midwest,Region II,KEOKUK,City,True,2013-01-01T00:00:00.000Z,41.333714,-92.20513
+IA0550000,Kossuth County Sheriff's Office,4401,IA,West North Central,Midwest,Region II,KOSSUTH,County,False,1992-01-01T00:00:00.000Z,43.06888,-94.238174
+IA0550100,Algona Police Department,4402,IA,West North Central,Midwest,Region II,KOSSUTH,City,True,1992-01-01T00:00:00.000Z,43.069866,-94.24046
+IA0560000,Lee County Sheriff's Office,4403,IA,West North Central,Midwest,Region II,LEE,County,True,1992-08-01T00:00:00.000Z,40.59004,-91.427574
+IA0560100,Fort Madison Police Department,4404,IA,West North Central,Midwest,Region II,LEE,City,True,1992-01-01T00:00:00.000Z,40.647588,-91.477157
+IA0560200,Keokuk Police Department,4405,IA,West North Central,Midwest,Region II,LEE,City,True,1991-01-01T00:00:00.000Z,40.40083,-91.39034
+IA0570000,Linn County Sheriff's Office,4407,IA,West North Central,Midwest,Region II,LINN,County,True,1992-02-01T00:00:00.000Z,42.077951,-91.597674
+IA0570100,Cedar Rapids Police Department,4408,IA,West North Central,Midwest,Region II,LINN,City,True,1992-05-01T00:00:00.000Z,41.975834,-91.66754
+IA0570200,Marion Police Department,4409,IA,West North Central,Midwest,Region II,LINN,City,True,1993-12-01T00:00:00.000Z,42.035267,-91.57182
+IA0570300,Hiawatha Police Department,4410,IA,West North Central,Midwest,Region II,LINN,City,True,2008-03-01T00:00:00.000Z,42.038734,-91.674095
+IA0570600,Mount Vernon Police Department,4412,IA,West North Central,Midwest,Region II,LINN,City,True,1995-03-01T00:00:00.000Z,41.922913,-91.41819
+IA0571100,Eastern Iowa Airport Public Safety,33726,IA,West North Central,Midwest,Region II,LINN,Other,True,2021-01-01T00:00:00.000Z,,
+IA0580000,Louisa County Sheriff's Office,4416,IA,West North Central,Midwest,Region II,LOUISA,County,True,1992-01-01T00:00:00.000Z,41.218211,-91.256994
+IA0590000,Lucas County Sheriff's Office,4417,IA,West North Central,Midwest,Region II,LUCAS,County,True,1993-01-01T00:00:00.000Z,41.033344,-93.331467
+IA0600000,Lyon County Sheriff's Office,4419,IA,West North Central,Midwest,Region II,LYON,County,True,1992-01-01T00:00:00.000Z,43.42843,-96.16947
+IA0610000,Madison County Sheriff's Office,4421,IA,West North Central,Midwest,Region II,MADISON,County,True,1993-01-01T00:00:00.000Z,41.330622,-94.015184
+IA0610100,Winterset Police Department,4422,IA,West North Central,Midwest,Region II,MADISON,City,False,1993-01-01T00:00:00.000Z,41.343437,-94.01347
+IA0620000,Mahaska County Sheriff's Office,4423,IA,West North Central,Midwest,Region II,MAHASKA,County,True,1992-01-01T00:00:00.000Z,41.295334,-92.64363
+IA0620100,Oskaloosa Police Department,4424,IA,West North Central,Midwest,Region II,MAHASKA,City,True,1992-01-01T00:00:00.000Z,41.295334,-92.64363
+IA0630000,Marion County Sheriff's Office,4425,IA,West North Central,Midwest,Region II,MARION,County,True,1992-01-01T00:00:00.000Z,41.331455,-93.093849
+IA0630100,Knoxville Police Department,4426,IA,West North Central,Midwest,Region II,MARION,City,True,1992-01-01T00:00:00.000Z,41.31703,-93.09643
+IA0630200,Pella Police Department,4427,IA,West North Central,Midwest,Region II,"MAHASKA, MARION",City,True,1992-04-01T00:00:00.000Z,41.4043,-92.91649
+IA0640000,Marshall County Sheriff's Office,4429,IA,West North Central,Midwest,Region II,MARSHALL,County,False,1992-01-01T00:00:00.000Z,42.041691,-92.981452
+IA0640100,Marshalltown Police Department,4430,IA,West North Central,Midwest,Region II,MARSHALL,City,True,1992-01-01T00:00:00.000Z,42.04948,-92.91297
+IA0640200,State Center Police Department,4431,IA,West North Central,Midwest,Region II,MARSHALL,City,False,2003-03-01T00:00:00.000Z,42.041691,-92.981452
+IA0650000,Mills County Sheriff's Office,4432,IA,West North Central,Midwest,Region II,MILLS,County,True,1992-01-01T00:00:00.000Z,41.04678,-95.741806
+IA0650100,Glenwood Police Department,4433,IA,West North Central,Midwest,Region II,MILLS,City,True,1992-02-01T00:00:00.000Z,41.04639,-95.73907
+IA0660000,Mitchell County Sheriff's Office,4434,IA,West North Central,Midwest,Region II,MITCHELL,County,True,1992-01-01T00:00:00.000Z,43.28293,-92.812874
+IA0660100,Osage Police Department,4435,IA,West North Central,Midwest,Region II,MITCHELL,City,True,1992-01-01T00:00:00.000Z,43.28406,-92.815765
+IA0660200,St. Ansgar Police Department,4436,IA,West North Central,Midwest,Region II,MITCHELL,City,False,2002-01-01T00:00:00.000Z,43.348564,-92.784466
+IA0670000,Monona County Sheriff's Office,4437,IA,West North Central,Midwest,Region II,MONONA,County,True,1992-01-01T00:00:00.000Z,42.02791,-96.09307
+IA0680000,Monroe County Sheriff's Office,4439,IA,West North Central,Midwest,Region II,MONROE,County,True,1992-01-01T00:00:00.000Z,41.025253,-92.809685
+IA0680100,Albia Police Department,4440,IA,West North Central,Midwest,Region II,MONROE,City,True,1992-02-01T00:00:00.000Z,41.025253,-92.809685
+IA0690000,Montgomery County Sheriff's Office,4441,IA,West North Central,Midwest,Region II,MONTGOMERY,County,False,1994-01-01T00:00:00.000Z,41.00889,-95.23167
+IA0690100,Red Oak Police Department,4442,IA,West North Central,Midwest,Region II,MONTGOMERY,City,True,1992-01-01T00:00:00.000Z,41.00973,-95.225555
+IA0700000,Muscatine County Sheriff's Office,4443,IA,West North Central,Midwest,Region II,MUSCATINE,County,True,1992-01-01T00:00:00.000Z,41.424686,-91.044106
+IA0700100,Muscatine Police Department,4444,IA,West North Central,Midwest,Region II,MUSCATINE,City,True,1992-01-01T00:00:00.000Z,41.42498,-91.04574
+IA0700200,West Liberty Police Department,4445,IA,West North Central,Midwest,Region II,MUSCATINE,City,True,1999-08-01T00:00:00.000Z,41.57098,-91.263435
+IA0700400,Wilton Police Department,4446,IA,West North Central,Midwest,Region II,"CEDAR, MUSCATINE",City,False,2001-03-01T00:00:00.000Z,41.483776,-91.118699
+IA0710000,O'Brien County Sheriff's Office,4447,IA,West North Central,Midwest,Region II,O'BRIEN,County,True,1992-01-01T00:00:00.000Z,43.083746,-95.625624
+IA0710300,Sheldon Police Department,4448,IA,West North Central,Midwest,Region II,"O'BRIEN, SIOUX",City,True,1992-01-01T00:00:00.000Z,43.083746,-95.625624
+IA0720000,Osceola County Sheriff's Office,4449,IA,West North Central,Midwest,Region II,OSCEOLA,County,True,1992-01-01T00:00:00.000Z,43.4027,-95.74978
+IA0730000,Page County Sheriff's Office,4451,IA,West North Central,Midwest,Region II,PAGE,County,True,1992-01-01T00:00:00.000Z,40.740555,-95.03648
+IA0730100,Clarinda Police Department,4452,IA,West North Central,Midwest,Region II,PAGE,City,True,1992-01-01T00:00:00.000Z,40.737133,-95.03647
+IA0730200,Shenandoah Police Department,4453,IA,West North Central,Midwest,Region II,PAGE,City,True,1992-01-01T00:00:00.000Z,40.765934,-95.36995
+IA0740000,Palo Alto County Sheriff's Office,4454,IA,West North Central,Midwest,Region II,PALO ALTO,County,True,1992-01-01T00:00:00.000Z,43.075854,-94.667296
+IA0740100,Emmetsburg Police Department,4455,IA,West North Central,Midwest,Region II,PALO ALTO,City,True,1992-01-01T00:00:00.000Z,43.11016,-94.67476
+IA0750000,Plymouth County Sheriff's Office,4456,IA,West North Central,Midwest,Region II,PLYMOUTH,County,True,1992-01-01T00:00:00.000Z,42.737585,-96.215864
+IA0750100,Le Mars Police Department,4457,IA,West North Central,Midwest,Region II,PLYMOUTH,City,True,1993-01-01T00:00:00.000Z,42.79548,-96.16615
+IA0760000,Pocahontas County Sheriff's Office,4458,IA,West North Central,Midwest,Region II,POCAHONTAS,County,True,1992-01-01T00:00:00.000Z,42.734033,-94.678279
+IA0770000,Polk County Sheriff's Office,4459,IA,West North Central,Midwest,Region II,POLK,County,True,1992-01-01T00:00:00.000Z,41.58507,-93.62434
+IA0770100,Ankeny Police Department,4460,IA,West North Central,Midwest,Region II,POLK,City,True,1992-01-01T00:00:00.000Z,41.684281,-93.56972
+IA0770200,Clive Police Department,4461,IA,West North Central,Midwest,Region II,"DALLAS, POLK",City,True,1992-01-01T00:00:00.000Z,41.684281,-93.56972
+IA0770300,Des Moines Police Department,4462,IA,West North Central,Midwest,Region II,"POLK, WARREN",City,True,1991-01-01T00:00:00.000Z,41.684281,-93.56972
+IA0770400,Urbandale Police Department,4463,IA,West North Central,Midwest,Region II,"DALLAS, POLK",City,True,1992-01-01T00:00:00.000Z,41.628784,-93.73656
+IA0770500,West Des Moines Police Department,4464,IA,West North Central,Midwest,Region II,"DALLAS, MADISON, POLK, WARREN",City,True,1992-01-01T00:00:00.000Z,41.684281,-93.56972
+IA0770600,Windsor Heights Police Department,4465,IA,West North Central,Midwest,Region II,POLK,City,True,1992-01-01T00:00:00.000Z,41.59872,-93.70859
+IA0770700,Johnston Police Department,4466,IA,West North Central,Midwest,Region II,POLK,City,True,1992-01-01T00:00:00.000Z,41.684281,-93.56972
+IA0770800,Altoona Police Department,4467,IA,West North Central,Midwest,Region II,POLK,City,True,1992-01-01T00:00:00.000Z,41.645702,-93.46464
+IA0771400,Pleasant Hill Police Department,4468,IA,West North Central,Midwest,Region II,POLK,City,True,1992-01-01T00:00:00.000Z,41.597923,-93.51729
+IA0771800,Polk City Police Department,4469,IA,West North Central,Midwest,Region II,POLK,City,True,2002-01-01T00:00:00.000Z,41.684281,-93.56972
+IA0780000,Pottawattamie County Sheriff's Office,4470,IA,West North Central,Midwest,Region II,POTTAWATTAMIE,County,True,1992-01-01T00:00:00.000Z,41.28416,-95.86405
+IA0780100,Council Bluffs Police Department,4471,IA,West North Central,Midwest,Region II,POTTAWATTAMIE,City,True,1992-01-01T00:00:00.000Z,41.340184,-95.544905
+IA0780400,Carter Lake Police Department,4472,IA,West North Central,Midwest,Region II,POTTAWATTAMIE,City,True,1992-01-01T00:00:00.000Z,41.284958,-95.91713
+IA0790000,Poweshiek County Sheriff's Office,4473,IA,West North Central,Midwest,Region II,POWESHIEK,County,True,1992-02-01T00:00:00.000Z,41.684526,-92.522882
+IA0790100,Grinnell Police Department,4474,IA,West North Central,Midwest,Region II,POWESHIEK,City,True,1992-01-01T00:00:00.000Z,41.745045,-92.7288
+IA0800000,Ringgold County Sheriff's Office,4475,IA,West North Central,Midwest,Region II,RINGGOLD,County,True,1992-01-01T00:00:00.000Z,40.735334,-94.244251
+IA0810000,Sac County Sheriff's Office,4476,IA,West North Central,Midwest,Region II,SAC,County,True,1992-01-01T00:00:00.000Z,42.422047,-94.98867
+IA0810100,Sac City Police Department,4477,IA,West North Central,Midwest,Region II,SAC,City,True,1992-01-01T00:00:00.000Z,42.387526,-95.105224
+IA0820000,Scott County Sheriff's Office,4478,IA,West North Central,Midwest,Region II,SCOTT,County,True,1992-01-01T00:00:00.000Z,41.52355,-90.57856
+IA0820100,Bettendorf Police Department,4479,IA,West North Central,Midwest,Region II,SCOTT,City,True,1992-01-01T00:00:00.000Z,41.52522,-90.50928
+IA0820200,Davenport Police Department,4480,IA,West North Central,Midwest,Region II,SCOTT,City,True,1992-01-01T00:00:00.000Z,41.523746,-90.57706
+IA0820400,Buffalo Police Department,23138,IA,West North Central,Midwest,Region II,SCOTT,City,True,2011-05-01T00:00:00.000Z,41.4574,-90.72153
+IA0820500,Blue Grass Police Department,22357,IA,West North Central,Midwest,Region II,"MUSCATINE, SCOTT",City,True,2011-06-01T00:00:00.000Z,41.50913,-90.76201
+IA0820600,Eldridge Police Department,4481,IA,West North Central,Midwest,Region II,SCOTT,City,True,1992-01-01T00:00:00.000Z,41.657383,-90.585724
+IA0820700,Le Claire Police Department,4482,IA,West North Central,Midwest,Region II,SCOTT,City,True,1992-01-01T00:00:00.000Z,41.642079,-90.622289
+IA0820800,Princeton Police Department,23093,IA,West North Central,Midwest,Region II,SCOTT,City,True,2011-04-01T00:00:00.000Z,41.642079,-90.622289
+IA0820900,Walcott Police Department,23106,IA,West North Central,Midwest,Region II,SCOTT,City,True,2011-05-01T00:00:00.000Z,41.585888,-90.774925
+IA0821200,McCausland Police Department,23145,IA,West North Central,Midwest,Region II,SCOTT,City,True,2011-05-01T00:00:00.000Z,41.642079,-90.622289
+IA0830000,Shelby County Sheriff's Office,4483,IA,West North Central,Midwest,Region II,SHELBY,County,False,1992-02-01T00:00:00.000Z,41.657696,-95.31791
+IA0830100,Harlan Police Department,4484,IA,West North Central,Midwest,Region II,SHELBY,City,True,1993-01-01T00:00:00.000Z,41.679014,-95.308917
+IA0840000,Sioux County Sheriff's Office,4485,IA,West North Central,Midwest,Region II,SIOUX,County,True,1992-01-01T00:00:00.000Z,43.01772,-96.07656
+IA0840100,Orange City Police Department,4486,IA,West North Central,Midwest,Region II,SIOUX,City,False,1992-01-01T00:00:00.000Z,43.00579,-96.05822
+IA0840200,Hawarden Police Department,4487,IA,West North Central,Midwest,Region II,SIOUX,City,False,1992-01-01T00:00:00.000Z,42.998592,-96.48521
+IA0840400,Rock Valley Police Department,4488,IA,West North Central,Midwest,Region II,SIOUX,City,True,1993-04-01T00:00:00.000Z,43.203484,-96.29489
+IA0840500,Sioux Center Police Department,4489,IA,West North Central,Midwest,Region II,SIOUX,City,True,1992-09-01T00:00:00.000Z,43.080147,-96.17705
+IA0850000,Story County Sheriff's Office,4490,IA,West North Central,Midwest,Region II,STORY,County,True,1992-01-01T00:00:00.000Z,42.037538,-93.466093
+IA0850100,Ames Police Department,4491,IA,West North Central,Midwest,Region II,STORY,City,True,1992-01-01T00:00:00.000Z,42.037538,-93.466093
+IA0850200,Nevada Police Department,4492,IA,West North Central,Midwest,Region II,STORY,City,False,1992-01-01T00:00:00.000Z,42.02283,-93.45223
+IA0850300,Story City Police Department,4493,IA,West North Central,Midwest,Region II,STORY,City,True,1992-01-01T00:00:00.000Z,42.037538,-93.466093
+IA0850400,Iowa State University,4494,IA,West North Central,Midwest,Region II,STORY,University or College,True,1992-01-01T00:00:00.000Z,42.037538,-93.466093
+IA0850500,Huxley,31854,IA,West North Central,Midwest,Region II,STORY,City,True,2020-02-01T00:00:00.000Z,,
+IA0860000,Tama County Sheriff's Office,4495,IA,West North Central,Midwest,Region II,TAMA,County,True,1992-01-01T00:00:00.000Z,42.074848,-92.529411
+IA0860100,Toledo Police Department,4496,IA,West North Central,Midwest,Region II,TAMA,City,False,2012-01-01T00:00:00.000Z,41.99561,-92.58011
+IA0860200,Tama Police Department,4497,IA,West North Central,Midwest,Region II,TAMA,City,False,1992-01-01T00:00:00.000Z,42.074848,-92.529411
+IA0860300,Dysart,31855,IA,West North Central,Midwest,Region II,TAMA,City,True,2020-08-01T00:00:00.000Z,,
+IA0870000,Taylor County Sheriff's Office,4498,IA,West North Central,Midwest,Region II,TAYLOR,County,True,1992-01-01T00:00:00.000Z,40.737949,-94.697108
+IA0880000,Union County Sheriff's Office,4501,IA,West North Central,Midwest,Region II,UNION,County,True,1993-03-01T00:00:00.000Z,41.059776,-94.36151
+IA0880100,Creston Police Department,4502,IA,West North Central,Midwest,Region II,UNION,City,True,1992-01-01T00:00:00.000Z,41.059776,-94.36151
+IA0890000,Van Buren County Sheriff's Office,4503,IA,West North Central,Midwest,Region II,VAN BUREN,County,True,1992-01-01T00:00:00.000Z,40.754117,-91.952943
+IA0900000,Wapello County Sheriff's Office,4504,IA,West North Central,Midwest,Region II,WAPELLO,County,True,1992-01-01T00:00:00.000Z,41.016605,-92.40911
+IA0900100,Ottumwa Police Department,4505,IA,West North Central,Midwest,Region II,WAPELLO,City,True,1992-01-01T00:00:00.000Z,41.016605,-92.40911
+IA0900400,Southeast Iowa Interagency Drug Task Force,27414,IA,West North Central,Midwest,Region II,WAPELLO,Other,True,2017-01-01T00:00:00.000Z,,
+IA0910000,Warren County Sheriff's Office,4506,IA,West North Central,Midwest,Region II,WARREN,County,True,1992-01-01T00:00:00.000Z,41.336769,-93.564366
+IA0910100,Indianola Police Department,4507,IA,West North Central,Midwest,Region II,WARREN,City,True,1992-01-01T00:00:00.000Z,41.336769,-93.564366
+IA0910200,Norwalk Police Department,4508,IA,West North Central,Midwest,Region II,WARREN,City,True,1992-01-01T00:00:00.000Z,41.336769,-93.564366
+IA0910300,Carlisle Police Department,4509,IA,West North Central,Midwest,Region II,"POLK, WARREN",City,True,1992-01-01T00:00:00.000Z,41.336769,-93.564366
+IA0920000,Washington County Sheriff's Office,4510,IA,West North Central,Midwest,Region II,WASHINGTON,County,True,1992-01-01T00:00:00.000Z,41.329401,-91.725052
+IA0920100,Washington Police Department,4511,IA,West North Central,Midwest,Region II,WASHINGTON,City,True,1992-01-01T00:00:00.000Z,41.298367,-91.69018
+IA0930000,Wayne County Sheriff's Office,4512,IA,West North Central,Midwest,Region II,WAYNE,County,True,1992-01-01T00:00:00.000Z,40.739983,-93.332613
+IA0940000,Webster County Sheriff's Office,4513,IA,West North Central,Midwest,Region II,WEBSTER,County,True,1994-06-01T00:00:00.000Z,42.50398,-94.18832
+IA0940100,Fort Dodge Police Department,4514,IA,West North Central,Midwest,Region II,WEBSTER,City,True,1992-06-01T00:00:00.000Z,42.50398,-94.18832
+IA0940200,Gowrie,29574,IA,West North Central,Midwest,Region II,WEBSTER,City,False,2019-08-01T00:00:00.000Z,,
+IA0950000,Winnebago County Sheriff's Office,4515,IA,West North Central,Midwest,Region II,WINNEBAGO,County,False,1992-01-01T00:00:00.000Z,43.26245,-93.63843
+IA0950100,Forest City Police Department,4516,IA,West North Central,Midwest,Region II,"HANCOCK, WINNEBAGO",City,False,1992-01-01T00:00:00.000Z,43.378124,-93.743488
+IA0960000,Winneshiek County Sheriff's Office,4518,IA,West North Central,Midwest,Region II,WINNESHIEK,County,True,1992-01-01T00:00:00.000Z,43.292989,-91.850788
+IA0960100,Decorah Police Department,4519,IA,West North Central,Midwest,Region II,WINNESHIEK,City,True,1992-01-01T00:00:00.000Z,43.292989,-91.850788
+IA0970000,Woodbury County Sheriff's Office,4520,IA,West North Central,Midwest,Region II,WOODBURY,County,True,1992-01-01T00:00:00.000Z,42.496563,-96.40643
+IA0970100,Sioux City Police Department,4521,IA,West North Central,Midwest,Region II,"PLYMOUTH, WOODBURY",City,True,1992-01-01T00:00:00.000Z,42.496357,-96.40646
+IA0970200,Sergeant Bluff Police Department,4522,IA,West North Central,Midwest,Region II,WOODBURY,City,False,1992-01-01T00:00:00.000Z,42.39322,-96.053296
+IA0980000,Worth County Sheriff's Office,4523,IA,West North Central,Midwest,Region II,WORTH,County,True,1992-01-01T00:00:00.000Z,43.444042,-93.21828
+IA0990000,Wright County Sheriff's Office,4524,IA,West North Central,Midwest,Region II,WRIGHT,County,True,1992-01-01T00:00:00.000Z,42.733007,-93.734735
+IA0990100,Eagle Grove Police Department,4525,IA,West North Central,Midwest,Region II,WRIGHT,City,False,1992-01-01T00:00:00.000Z,42.664143,-93.8999
+IA0990200,Belmond Police Department,4526,IA,West North Central,Midwest,Region II,WRIGHT,City,False,1992-01-01T00:00:00.000Z,42.84577,-93.61422
+IA0990300,Clarion Police Department,4527,IA,West North Central,Midwest,Region II,WRIGHT,City,True,1992-01-01T00:00:00.000Z,42.733007,-93.734735
+IADPS0000,Iowa Highway Patrol,4528,IA,West North Central,Midwest,Region II,NOT SPECIFIED,State Police,False,,41.584892,-93.62555
+IAIHP0100,State Patrol: ,31234,IA,West North Central,Midwest,Region II,NOT SPECIFIED,State Police,True,2020-01-01T00:00:00.000Z,,
+IAIHP0200,State Patrol:,31254,IA,West North Central,Midwest,Region II,NOT SPECIFIED,State Police,False,2020-01-01T00:00:00.000Z,,
+IAIHP0300,State Patrol: ,31255,IA,West North Central,Midwest,Region II,NOT SPECIFIED,State Police,False,2020-01-01T00:00:00.000Z,,
+IAIHP0400,State Patrol:,31256,IA,West North Central,Midwest,Region II,NOT SPECIFIED,State Police,False,2020-01-01T00:00:00.000Z,,
+IAIHP0500,State Patrol: ,31257,IA,West North Central,Midwest,Region II,NOT SPECIFIED,State Police,True,2020-01-01T00:00:00.000Z,,
+IAIHP0600,State Patrol: ,31258,IA,West North Central,Midwest,Region II,NOT SPECIFIED,State Police,True,2020-01-01T00:00:00.000Z,,
+IAIHP0700,State Patrol:,31235,IA,West North Central,Midwest,Region II,NOT SPECIFIED,State Police,True,2020-01-01T00:00:00.000Z,,
+IAIHP0800,State Patrol:,31236,IA,West North Central,Midwest,Region II,NOT SPECIFIED,State Police,True,2020-01-01T00:00:00.000Z,,
+IAIHP0900,State Patrol:,22601,IA,West North Central,Midwest,Region II,NOT SPECIFIED,State Police,False,2020-01-01T00:00:00.000Z,,
+IAIHP1000,State Patrol:,31259,IA,West North Central,Midwest,Region II,NOT SPECIFIED,State Police,False,2020-01-01T00:00:00.000Z,,
+IAIHP1100,State Patrol:,22602,IA,West North Central,Midwest,Region II,NOT SPECIFIED,State Police,True,2020-01-01T00:00:00.000Z,,
+IAIHP1200,State Patrol: ,31237,IA,West North Central,Midwest,Region II,NOT SPECIFIED,State Police,False,2020-01-01T00:00:00.000Z,,
+IAIHP1300,State Patrol:,31238,IA,West North Central,Midwest,Region II,NOT SPECIFIED,State Police,False,2020-01-01T00:00:00.000Z,,

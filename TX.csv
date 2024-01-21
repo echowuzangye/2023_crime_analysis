@@ -1,0 +1,1221 @@
+ori,agency_name,agency_id,state_abbr,division_name,region_name,region_desc,county_name,agency_type_name,nibrs,nibrs_start_date,latitude,longitude
+TX0000000,Department of Public Safety,18751,TX,West South Central,South,Region III,NOT SPECIFIED,State Police,False,,30.239513,-97.69127
+TX0010000,Anderson County Sheriff's Office,18752,TX,West South Central,South,Region III,ANDERSON,County,False,,31.765324,-95.61932
+TX0010100,Palestine Police Department,18753,TX,West South Central,South,Region III,ANDERSON,City,True,2017-02-01T00:00:00.000Z,31.763123,-95.63455
+TX0010300,Frankston Police Department,18754,TX,West South Central,South,Region III,"ANDERSON, HENDERSON",City,True,2016-10-01T00:00:00.000Z,31.841266,-95.661744
+TX0020000,Andrews County Sheriff's Office,18756,TX,West South Central,South,Region III,ANDREWS,County,True,2021-01-01T00:00:00.000Z,32.312258,-102.640206
+TX0020100,Andrews Police Department,18757,TX,West South Central,South,Region III,ANDREWS,City,True,2019-05-01T00:00:00.000Z,32.312258,-102.640206
+TX0030000,Angelina County Sheriff's Office,18758,TX,West South Central,South,Region III,ANGELINA,County,True,2021-11-01T00:00:00.000Z,31.251951,-94.611056
+TX0030100,Diboll Police Department,18759,TX,West South Central,South,Region III,ANGELINA,City,True,2019-03-01T00:00:00.000Z,31.251951,-94.611056
+TX0030200,Huntington Police Department,18760,TX,West South Central,South,Region III,ANGELINA,City,True,2018-10-01T00:00:00.000Z,31.251951,-94.611056
+TX0030400,Lufkin Police Department,18761,TX,West South Central,South,Region III,ANGELINA,City,True,2019-09-01T00:00:00.000Z,31.251951,-94.611056
+TX0030600,Angelina College,28315,TX,West South Central,South,Region III,ANGELINA,University or College,False,,,
+TX0031100,Zavalla Police Department,18762,TX,West South Central,South,Region III,ANGELINA,City,True,2021-01-01T00:00:00.000Z,31.251951,-94.611056
+TX0031300,Hudson Police Department,18763,TX,West South Central,South,Region III,ANGELINA,City,False,,31.32794,-94.78142
+TX0031400,Independent School District:,34138,TX,West South Central,South,Region III,ANGELINA,Other,True,2022-05-01T00:00:00.000Z,,
+TX0031500,Independent School District:,34147,TX,West South Central,South,Region III,ANGELINA,Other,True,2022-01-01T00:00:00.000Z,,
+TX0031700,Independent School District:,31994,TX,West South Central,South,Region III,ANGELINA,Other,True,2020-01-01T00:00:00.000Z,,
+TX0032000,Independent School District:,33372,TX,West South Central,South,Region III,ANGELINA,Other,True,2021-05-01T00:00:00.000Z,,
+TX0040000,Aransas County Sheriff's Office,18764,TX,West South Central,South,Region III,ARANSAS,County,True,2021-01-01T00:00:00.000Z,28.025509,-97.0525
+TX0040100,Aransas Pass Police Department,18765,TX,West South Central,South,Region III,"ARANSAS, NUECES, SAN PATRICIO",City,True,2019-05-01T00:00:00.000Z,28.011786,-97.517162
+TX0040200,Rockport Police Department,18766,TX,West South Central,South,Region III,ARANSAS,City,True,2019-12-01T00:00:00.000Z,28.025465,-97.054306
+TX0041000,Fulton Police Department,23309,TX,West South Central,South,Region III,ARANSAS,City,False,,,
+TX0050000,Archer County Sheriff's Office,18767,TX,West South Central,South,Region III,ARCHER,County,False,,33.616305,-98.687267
+TX0050100,Archer City Police Department,18768,TX,West South Central,South,Region III,ARCHER,City,True,2018-07-01T00:00:00.000Z,33.616305,-98.687267
+TX0050200,Holliday Police Department,18769,TX,West South Central,South,Region III,ARCHER,City,False,,33.616305,-98.687267
+TX0060000,Armstrong County Sheriff's Office,18770,TX,West South Central,South,Region III,ARMSTRONG,County,True,2019-07-01T00:00:00.000Z,34.964179,-101.356636
+TX0070000,Atascosa County Sheriff's Office,18771,TX,West South Central,South,Region III,ATASCOSA,County,True,2019-02-01T00:00:00.000Z,28.917286,-98.54416
+TX0070100,Lytle Police Department,18772,TX,West South Central,South,Region III,"ATASCOSA, BEXAR, MEDINA",City,True,2018-01-01T00:00:00.000Z,28.891397,-98.535381
+TX0070200,Pleasanton Police Department,18773,TX,West South Central,South,Region III,ATASCOSA,City,True,2019-08-01T00:00:00.000Z,28.891397,-98.535381
+TX0070300,Poteet Police Department,18774,TX,West South Central,South,Region III,ATASCOSA,City,True,2021-01-01T00:00:00.000Z,28.891397,-98.535381
+TX0070400,Jourdanton Police Department,18775,TX,West South Central,South,Region III,ATASCOSA,City,True,2021-01-01T00:00:00.000Z,28.919533,-98.54251
+TX0071300,Independent School District:,29495,TX,West South Central,South,Region III,ATASCOSA,Other,True,2019-10-01T00:00:00.000Z,,
+TX0071600,Charlotte ,34590,TX,West South Central,South,Region III,ATASCOSA,City,True,2022-05-01T00:00:00.000Z,,
+TX0080000,Austin County Sheriff's Office,18776,TX,West South Central,South,Region III,AUSTIN,County,True,2021-02-01T00:00:00.000Z,29.957651,-96.26287
+TX0080100,Bellville Police Department,18777,TX,West South Central,South,Region III,AUSTIN,City,True,2017-03-01T00:00:00.000Z,29.949772,-96.25513
+TX0080200,Sealy Police Department,18778,TX,West South Central,South,Region III,AUSTIN,City,True,2018-07-01T00:00:00.000Z,29.891901,-96.27017
+TX0080700,Wallis Police Department,18779,TX,West South Central,South,Region III,AUSTIN,City,True,2019-01-01T00:00:00.000Z,29.891901,-96.27017
+TX0080900,Independent School District: Sealy,23142,TX,West South Central,South,Region III,AUSTIN,Other,True,2021-02-01T00:00:00.000Z,29.772886,-96.15974
+TX0090000,Bailey County Sheriff's Office,18781,TX,West South Central,South,Region III,BAILEY,County,True,2019-04-01T00:00:00.000Z,34.224266,-102.72718
+TX0090100,Muleshoe Police Department,18782,TX,West South Central,South,Region III,BAILEY,City,True,2018-05-01T00:00:00.000Z,34.22386,-102.72415
+TX0100000,Bandera County Sheriff's Office,18783,TX,West South Central,South,Region III,BANDERA,County,True,2019-01-01T00:00:00.000Z,29.755681,-99.26059
+TX0110000,Bastrop County Sheriff's Office,18784,TX,West South Central,South,Region III,BASTROP,County,True,2021-03-01T00:00:00.000Z,30.102219,-97.30746
+TX0110100,Bastrop Police Department,18785,TX,West South Central,South,Region III,BASTROP,City,True,2019-08-01T00:00:00.000Z,30.100691,-97.310614
+TX0110200,Elgin Police Department,18786,TX,West South Central,South,Region III,"BASTROP, TRAVIS",City,True,2018-01-01T00:00:00.000Z,30.347258,-97.37147
+TX0110300,Smithville Police Department,18787,TX,West South Central,South,Region III,BASTROP,City,True,2019-06-01T00:00:00.000Z,30.009336,-97.159164
+TX0110800,Independent School District:,26265,TX,West South Central,South,Region III,BASTROP,Other,True,2021-03-01T00:00:00.000Z,,
+TX0120000,Baylor County Sheriff's Office,18788,TX,West South Central,South,Region III,BAYLOR,County,True,2021-01-01T00:00:00.000Z,33.587948,-99.261635
+TX0120100,Seymour Police Department,18789,TX,West South Central,South,Region III,BAYLOR,City,True,2016-12-01T00:00:00.000Z,33.618921,-99.207848
+TX0130000,Bee County Sheriff's Office,18790,TX,West South Central,South,Region III,BEE,County,True,2018-01-01T00:00:00.000Z,28.416077,-97.742586
+TX0130100,Beeville Police Department,18791,TX,West South Central,South,Region III,BEE,City,True,2021-01-01T00:00:00.000Z,28.416077,-97.742586
+TX0140000,Bell County Sheriff's Office,18792,TX,West South Central,South,Region III,BELL,County,True,2020-05-01T00:00:00.000Z,31.042303,-97.481374
+TX0140200,Belton Police Department,18794,TX,West South Central,South,Region III,BELL,City,True,2021-01-01T00:00:00.000Z,31.042303,-97.481374
+TX0140300,Harker Heights Police Department,18795,TX,West South Central,South,Region III,BELL,City,True,2019-08-01T00:00:00.000Z,31.042303,-97.481374
+TX0140400,Killeen Police Department,18796,TX,West South Central,South,Region III,BELL,City,True,2020-03-01T00:00:00.000Z,31.042303,-97.481374
+TX0140500,Nolanville Police Department,18797,TX,West South Central,South,Region III,BELL,City,True,2020-10-01T00:00:00.000Z,31.042303,-97.481374
+TX0140600,Rogers,28336,TX,West South Central,South,Region III,BELL,City,True,2019-01-01T00:00:00.000Z,,
+TX0140700,Temple Police Department,18798,TX,West South Central,South,Region III,BELL,City,True,2003-01-01T00:00:00.000Z,31.095078,-97.33949
+TX0140900,Central Texas College,18799,TX,West South Central,South,Region III,BELL,University or College,True,2021-08-01T00:00:00.000Z,31.042303,-97.481374
+TX0141000,Morgans Point Resort Police Department,18800,TX,West South Central,South,Region III,BELL,City,True,2020-02-01T00:00:00.000Z,31.128645,-97.46874
+TX0141100,Holland Police Department,18801,TX,West South Central,South,Region III,BELL,City,False,,31.042303,-97.481374
+TX0141500,Independent School District: Killeen,18802,TX,West South Central,South,Region III,BELL,Other,True,2019-09-01T00:00:00.000Z,31.125202,-97.723404
+TX0141700,Troy Police Department,18803,TX,West South Central,South,Region III,BELL,City,False,,31.042303,-97.481374
+TX0141800,Salado Police Department,18804,TX,West South Central,South,Region III,BELL,City,True,2018-08-01T00:00:00.000Z,31.042303,-97.481374
+TX0141900,University of Mary Hardin-Baylor,18805,TX,West South Central,South,Region III,BELL,University or College,False,,31.065207,-97.46327
+TX0142300,Texas A&M University: Central Texas,25405,TX,West South Central,South,Region III,BELL,University or College,False,,,
+TX0150000,Bexar County Sheriff's Office,18806,TX,West South Central,South,Region III,BEXAR,County,True,2020-11-01T00:00:00.000Z,29.429178,-98.50717
+TX0150100,Alamo Heights Police Department,18807,TX,West South Central,South,Region III,BEXAR,City,True,2019-09-01T00:00:00.000Z,29.448671,-98.520147
+TX0150200,Balcones Heights Police Department,18808,TX,West South Central,South,Region III,BEXAR,City,True,2018-05-01T00:00:00.000Z,29.490864,-98.55476
+TX0150300,Castle Hills Police Department,18809,TX,West South Central,South,Region III,BEXAR,City,True,2017-05-01T00:00:00.000Z,29.521662,-98.52122
+TX0150400,China Grove,33384,TX,West South Central,South,Region III,BEXAR,City,True,2021-01-01T00:00:00.000Z,,
+TX0150500,Converse Police Department,18810,TX,West South Central,South,Region III,BEXAR,City,True,2016-08-01T00:00:00.000Z,29.52298,-98.309975
+TX0150600,Elmendorf,25713,TX,West South Central,South,Region III,"BEXAR, WILSON",City,True,2021-01-01T00:00:00.000Z,,
+TX0150700,Hill Country Village Police Department,18811,TX,West South Central,South,Region III,BEXAR,City,True,2019-01-01T00:00:00.000Z,29.448671,-98.520147
+TX0150800,Hollywood Park Police Department,18812,TX,West South Central,South,Region III,BEXAR,City,True,2016-10-01T00:00:00.000Z,29.592808,-98.473564
+TX0150900,Kirby Police Department,18813,TX,West South Central,South,Region III,BEXAR,City,True,2018-07-01T00:00:00.000Z,29.467829,-98.38129
+TX0151000,Leon Valley Police Department,18814,TX,West South Central,South,Region III,BEXAR,City,True,2018-02-01T00:00:00.000Z,29.49208,-98.61705
+TX0151100,Olmos Park Police Department,18815,TX,West South Central,South,Region III,BEXAR,City,True,2019-01-01T00:00:00.000Z,29.471867,-98.4906
+TX0151200,Shavano Park Police Department,18816,TX,West South Central,South,Region III,BEXAR,City,True,2020-09-01T00:00:00.000Z,29.448671,-98.520147
+TX0151300,Terrell Hills Police Department,18817,TX,West South Central,South,Region III,BEXAR,City,True,2021-01-01T00:00:00.000Z,29.474962,-98.45926
+TX0151400,Universal City Police Department,18818,TX,West South Central,South,Region III,BEXAR,City,True,2019-09-01T00:00:00.000Z,29.560911,-98.31195
+TX0151500,Windcrest Police Department,18819,TX,West South Central,South,Region III,BEXAR,City,True,2019-12-01T00:00:00.000Z,29.516685,-98.38106
+TX0151600,Live Oak Police Department,18820,TX,West South Central,South,Region III,BEXAR,City,True,2020-12-01T00:00:00.000Z,29.553207,-98.33037
+TX0151700,"University of Texas: Health Science Center, San Antonio",18821,TX,West South Central,South,Region III,BEXAR,University or College,True,2017-09-01T00:00:00.000Z,29.513067,-98.57758
+TX0151900,University of Texas: San Antonio,18822,TX,West South Central,South,Region III,BEXAR,University or College,True,2020-04-01T00:00:00.000Z,29.448671,-98.520147
+TX0152000,Independent School District: Judson,18823,TX,West South Central,South,Region III,BEXAR,Other,True,2019-02-01T00:00:00.000Z,29.448671,-98.520147
+TX0152100,Alamo Community College District,18824,TX,West South Central,South,Region III,BEXAR,University or College,False,,29.448671,-98.520147
+TX0152200,Selma Police Department,18825,TX,West South Central,South,Region III,"BEXAR, COMAL, GUADALUPE",City,True,2020-10-01T00:00:00.000Z,29.448671,-98.520147
+TX0152300,Somerset Police Department,18826,TX,West South Central,South,Region III,BEXAR,City,True,2020-10-01T00:00:00.000Z,29.448671,-98.520147
+TX0153000,Helotes Police Department,18827,TX,West South Central,South,Region III,BEXAR,City,True,2019-01-01T00:00:00.000Z,29.448671,-98.520147
+TX015319E,Trinity University,18828,TX,West South Central,South,Region III,BEXAR,University or College,False,,,
+TX0153200,Independent School District:,22859,TX,West South Central,South,Region III,BEXAR,Other,True,2020-12-01T00:00:00.000Z,,
+TX015349E,St. Mary's University,18829,TX,West South Central,South,Region III,BEXAR,University or College,True,2018-11-01T00:00:00.000Z,,
+TX0153500,Independent School District: East Central,18830,TX,West South Central,South,Region III,BEXAR,Other,False,,29.448671,-98.520147
+TX0153600,Independent School District:,29534,TX,West South Central,South,Region III,BEXAR,Other,True,2019-08-01T00:00:00.000Z,,
+TX0153800,Independent School District: North East,18831,TX,West South Central,South,Region III,BEXAR,Other,False,,29.522142,-98.45817
+TX0153900,Fair Oaks Ranch Police Department,18832,TX,West South Central,South,Region III,"BEXAR, COMAL, KENDALL",City,True,2019-05-01T00:00:00.000Z,29.731081,-98.62902
+TX0157000,Texas A&M University: San Antonio,18833,TX,West South Central,South,Region III,BEXAR,University or College,True,2021-01-01T00:00:00.000Z,29.330168,-98.545944
+TX0160000,Blanco County Sheriff's Office,18834,TX,West South Central,South,Region III,BLANCO,County,True,2019-10-01T00:00:00.000Z,30.265605,-98.399977
+TX0160100,Blanco Police Department,18835,TX,West South Central,South,Region III,BLANCO,City,True,2018-06-01T00:00:00.000Z,30.265605,-98.399977
+TX0160200,Johnson City Police Department,18836,TX,West South Central,South,Region III,BLANCO,City,False,,30.265605,-98.399977
+TX0170000,Borden County Sheriff's Office,18837,TX,West South Central,South,Region III,BORDEN,County,True,2019-05-01T00:00:00.000Z,32.73859,-101.439199
+TX0180000,Bosque County Sheriff's Office,18838,TX,West South Central,South,Region III,BOSQUE,County,True,2019-03-01T00:00:00.000Z,31.900764,-97.637632
+TX0180100,Clifton Police Department,18839,TX,West South Central,South,Region III,BOSQUE,City,True,2019-10-01T00:00:00.000Z,31.900764,-97.637632
+TX0180200,Valley Mills Police Department,18840,TX,West South Central,South,Region III,"BOSQUE, MCLENNAN",City,True,2019-12-01T00:00:00.000Z,31.900764,-97.637632
+TX0180800,Meridian Police Department,18841,TX,West South Central,South,Region III,BOSQUE,City,True,2020-01-01T00:00:00.000Z,31.900764,-97.637632
+TX0181200,Independent School District: ,34830,TX,West South Central,South,Region III,BOSQUE,Other,False,2023-01-01T00:00:00.000Z,,
+TX0190000,Bowie County Sheriff's Office,18843,TX,West South Central,South,Region III,BOWIE,County,True,2021-01-01T00:00:00.000Z,33.405632,-94.04313
+TX0190100,De Kalb Police Department,18844,TX,West South Central,South,Region III,BOWIE,City,False,,33.446051,-94.422375
+TX0190200,Maud,28216,TX,West South Central,South,Region III,BOWIE,City,True,2021-01-01T00:00:00.000Z,,
+TX0190300,Nash Police Department,18845,TX,West South Central,South,Region III,BOWIE,City,True,2021-01-01T00:00:00.000Z,33.446051,-94.422375
+TX0190400,New Boston Police Department,18846,TX,West South Central,South,Region III,BOWIE,City,True,2020-10-01T00:00:00.000Z,33.45871,-94.41443
+TX0190500,Texarkana Police Department,18847,TX,West South Central,South,Region III,BOWIE,City,True,2021-01-01T00:00:00.000Z,33.405632,-94.04313
+TX0190600,Wake Village Police Department,18848,TX,West South Central,South,Region III,BOWIE,City,True,2019-02-01T00:00:00.000Z,33.446051,-94.422375
+TX0190800,Hooks Police Department,18849,TX,West South Central,South,Region III,BOWIE,City,True,2020-08-01T00:00:00.000Z,33.446051,-94.422375
+TX0200000,Brazoria County Sheriff's Office,18850,TX,West South Central,South,Region III,BRAZORIA,County,True,2021-01-01T00:00:00.000Z,29.248562,-95.4305
+TX0200100,Alvin Police Department,18851,TX,West South Central,South,Region III,BRAZORIA,City,True,2019-10-01T00:00:00.000Z,29.410925,-95.24367
+TX0200200,Angleton Police Department,18852,TX,West South Central,South,Region III,BRAZORIA,City,True,2019-12-01T00:00:00.000Z,29.182587,-95.432724
+TX0200300,Clute Police Department,18853,TX,West South Central,South,Region III,BRAZORIA,City,True,2019-01-01T00:00:00.000Z,29.02107,-95.4045
+TX0200400,Danbury Police Department,18854,TX,West South Central,South,Region III,BRAZORIA,City,False,,29.167817,-95.434647
+TX0200500,Freeport Police Department,18855,TX,West South Central,South,Region III,BRAZORIA,City,True,2018-01-01T00:00:00.000Z,28.960672,-95.37389
+TX0200800,Lake Jackson Police Department,18856,TX,West South Central,South,Region III,BRAZORIA,City,True,2020-11-01T00:00:00.000Z,29.036402,-95.44871
+TX0200900,Manvel Police Department,18857,TX,West South Central,South,Region III,BRAZORIA,City,True,2017-10-01T00:00:00.000Z,29.167817,-95.434647
+TX0201000,Pearland Police Department,18858,TX,West South Central,South,Region III,"BRAZORIA, FORT BEND, HARRIS",City,True,1998-01-01T00:00:00.000Z,29.167817,-95.434647
+TX0201100,Richwood Police Department,18859,TX,West South Central,South,Region III,BRAZORIA,City,True,2020-11-01T00:00:00.000Z,29.05606,-95.41062
+TX0201200,Sweeny Police Department,18860,TX,West South Central,South,Region III,BRAZORIA,City,True,2018-01-01T00:00:00.000Z,29.167817,-95.434647
+TX0201400,West Columbia Police Department,18861,TX,West South Central,South,Region III,BRAZORIA,City,True,2017-03-01T00:00:00.000Z,29.142834,-95.645615
+TX0201600,Brazosport College,30874,TX,West South Central,South,Region III,BRAZORIA,University or College,True,2020-01-01T00:00:00.000Z,,
+TX0201700,Alvin Community College,18862,TX,West South Central,South,Region III,BRAZORIA,University or College,True,2021-01-01T00:00:00.000Z,29.167817,-95.434647
+TX0201800,Brazoria Police Department,18863,TX,West South Central,South,Region III,BRAZORIA,City,True,2019-01-01T00:00:00.000Z,29.044466,-95.56978
+TX0201900,Brookside Village Police Department,18864,TX,West South Central,South,Region III,BRAZORIA,City,False,,29.167817,-95.434647
+TX0202700,Jones Creek Police Department,18865,TX,West South Central,South,Region III,BRAZORIA,City,False,,28.967339,-95.46131
+TX0202800,Surfside Beach Police Department,18866,TX,West South Central,South,Region III,BRAZORIA,City,True,2018-01-01T00:00:00.000Z,28.944168,-95.297905
+TX0202900,Oyster Creek Police Department,18867,TX,West South Central,South,Region III,BRAZORIA,City,True,2019-01-01T00:00:00.000Z,29.003178,-95.32812
+TX0203000,Iowa Colony Police Department,18868,TX,West South Central,South,Region III,BRAZORIA,City,True,2019-06-01T00:00:00.000Z,29.167817,-95.434647
+TX0203200,Independent School District: Alvin,18869,TX,West South Central,South,Region III,BRAZORIA,Other,True,2021-01-01T00:00:00.000Z,29.167817,-95.434647
+TX0203300,Independent School District: Angleton,18870,TX,West South Central,South,Region III,BRAZORIA,Other,True,2019-05-01T00:00:00.000Z,29.167817,-95.434647
+TX0203500,Independent School District: Columbia-Brazoria,23129,TX,West South Central,South,Region III,BRAZORIA,Other,True,2020-11-01T00:00:00.000Z,29.13771,-95.6515
+TX0204000,Independent School District:,26620,TX,West South Central,South,Region III,BRAZORIA,Other,True,2019-03-01T00:00:00.000Z,,
+TX0210000,Brazos County Sheriff's Office,18871,TX,West South Central,South,Region III,BRAZOS,County,True,2020-11-01T00:00:00.000Z,30.687794,-96.3732
+TX0210100,Bryan Police Department,18872,TX,West South Central,South,Region III,BRAZOS,City,True,2020-10-01T00:00:00.000Z,30.656725,-96.302389
+TX0210200,College Station Police Department,18873,TX,West South Central,South,Region III,BRAZOS,City,True,2018-01-01T00:00:00.000Z,30.656725,-96.302389
+TX0210400,Texas A&M University: College Station,18874,TX,West South Central,South,Region III,BRAZOS,University or College,True,2019-08-01T00:00:00.000Z,30.656725,-96.302389
+TX0220000,Brewster County Sheriff's Office,18875,TX,West South Central,South,Region III,BREWSTER,County,True,2015-01-01T00:00:00.000Z,29.434357,-95.24559
+TX0220100,Alpine Police Department,18876,TX,West South Central,South,Region III,BREWSTER,City,True,2020-04-01T00:00:00.000Z,29.808997,-103.252458
+TX0220200,Sul Ross State University,18877,TX,West South Central,South,Region III,BREWSTER,University or College,True,2018-04-01T00:00:00.000Z,30.356956,-103.65161
+TX0230000,Briscoe County Sheriff's Office,18878,TX,West South Central,South,Region III,BRISCOE,County,True,2018-08-01T00:00:00.000Z,34.525172,-101.205893
+TX0240000,Brooks County Sheriff's Office,18879,TX,West South Central,South,Region III,BROOKS,County,True,2020-10-01T00:00:00.000Z,27.034994,-98.215276
+TX0240100,Falfurrias Police Department,18880,TX,West South Central,South,Region III,BROOKS,City,True,2021-01-01T00:00:00.000Z,27.22489,-98.14326
+TX0250000,Brown County Sheriff's Office,18881,TX,West South Central,South,Region III,BROWN,County,True,2019-06-01T00:00:00.000Z,31.727455,-99.001884
+TX0250100,Bangs Police Department,18882,TX,West South Central,South,Region III,BROWN,City,True,2022-01-01T00:00:00.000Z,31.764103,-98.99847
+TX0250200,Brownwood Police Department,18883,TX,West South Central,South,Region III,BROWN,City,True,2018-01-01T00:00:00.000Z,31.727455,-99.001884
+TX0250300,Early Police Department,18884,TX,West South Central,South,Region III,BROWN,City,True,2019-01-01T00:00:00.000Z,31.764103,-98.99847
+TX0260000,Burleson County Sheriff's Office,18885,TX,West South Central,South,Region III,BURLESON,County,True,2020-11-01T00:00:00.000Z,30.526308,-96.70823
+TX0260100,Caldwell Police Department,18886,TX,West South Central,South,Region III,BURLESON,City,True,2020-10-01T00:00:00.000Z,30.5273,-96.713486
+TX0260200,Somerville Police Department,18887,TX,West South Central,South,Region III,BURLESON,City,True,2020-11-01T00:00:00.000Z,30.493487,-96.622091
+TX0270000,Burnet County Sheriff's Office,18888,TX,West South Central,South,Region III,BURNET,County,True,2018-03-01T00:00:00.000Z,30.78963,-98.201187
+TX0270100,Burnet Police Department,18889,TX,West South Central,South,Region III,BURNET,City,True,2017-01-01T00:00:00.000Z,30.78963,-98.201187
+TX0270200,Marble Falls Police Department,18890,TX,West South Central,South,Region III,BURNET,City,True,1997-09-01T00:00:00.000Z,30.78963,-98.201187
+TX0270600,Bertram Police Department,18891,TX,West South Central,South,Region III,BURNET,City,True,2020-05-01T00:00:00.000Z,30.78963,-98.201187
+TX0270700,Granite Shoals Police Department,18892,TX,West South Central,South,Region III,BURNET,City,False,,30.590641,-98.38533
+TX0271100,Horseshoe Bay Police Department,18893,TX,West South Central,South,Region III,"BURNET, LLANO",City,True,2018-02-01T00:00:00.000Z,30.78963,-98.201187
+TX0271200,Cottonwood Shores Police Department,18894,TX,West South Central,South,Region III,BURNET,City,False,1997-12-01T00:00:00.000Z,30.549873,-98.32243
+TX0280000,Caldwell County Sheriff's Office,18895,TX,West South Central,South,Region III,CALDWELL,County,True,2019-07-01T00:00:00.000Z,29.840062,-97.630394
+TX0280100,Lockhart Police Department,18896,TX,West South Central,South,Region III,CALDWELL,City,True,2018-01-01T00:00:00.000Z,29.840062,-97.630394
+TX0280200,Luling Police Department,18897,TX,West South Central,South,Region III,"CALDWELL, GUADALUPE",City,True,2021-01-01T00:00:00.000Z,29.681171,-97.65398
+TX0280900,Martindale Police Department,18898,TX,West South Central,South,Region III,CALDWELL,City,False,,29.840062,-97.630394
+TX0290000,Calhoun County Sheriff's Office,18899,TX,West South Central,South,Region III,CALHOUN,County,True,2017-02-01T00:00:00.000Z,28.445366,-96.5833
+TX0290100,Point Comfort Police Department,18900,TX,West South Central,South,Region III,CALHOUN,City,True,2021-01-01T00:00:00.000Z,28.445366,-96.5833
+TX0290200,Port Lavaca Police Department,18901,TX,West South Central,South,Region III,CALHOUN,City,True,1999-01-01T00:00:00.000Z,28.616196,-96.626144
+TX0290300,Seadrift Police Department,18902,TX,West South Central,South,Region III,CALHOUN,City,True,2022-01-01T00:00:00.000Z,28.445366,-96.5833
+TX0290900,Independent School District: Calhoun County,25878,TX,West South Central,South,Region III,CALHOUN,Other,True,2017-09-01T00:00:00.000Z,28.445366,-96.5833
+TX0300000,Callahan County Sheriff's Office,18903,TX,West South Central,South,Region III,CALLAHAN,County,True,2021-07-01T00:00:00.000Z,32.29315,-99.372249
+TX0300100,Baird Police Department,18904,TX,West South Central,South,Region III,CALLAHAN,City,True,2018-07-01T00:00:00.000Z,32.29315,-99.372249
+TX0300300,Clyde Police Department,18905,TX,West South Central,South,Region III,CALLAHAN,City,True,2022-01-01T00:00:00.000Z,32.29315,-99.372249
+TX0310000,Cameron County Sheriff's Office,18906,TX,West South Central,South,Region III,CAMERON,County,True,2021-01-01T00:00:00.000Z,26.102923,-97.478958
+TX0310100,Brownsville Police Department,18907,TX,West South Central,South,Region III,CAMERON,City,True,2018-03-01T00:00:00.000Z,25.90872,-97.49824
+TX0310200,Combes Police Department,18908,TX,West South Central,South,Region III,CAMERON,City,True,2019-10-01T00:00:00.000Z,26.102923,-97.478958
+TX0310300,Harlingen Police Department,18909,TX,West South Central,South,Region III,CAMERON,City,True,2018-01-01T00:00:00.000Z,26.102923,-97.478958
+TX0310400,La Feria Police Department,18910,TX,West South Central,South,Region III,CAMERON,City,True,2021-01-01T00:00:00.000Z,26.158632,-97.823715
+TX0310500,Los Fresnos Police Department,18911,TX,West South Central,South,Region III,CAMERON,City,True,2017-10-01T00:00:00.000Z,26.07279,-97.47874
+TX0310600,Port Isabel Police Department,18912,TX,West South Central,South,Region III,CAMERON,City,True,2018-01-01T00:00:00.000Z,26.074123,-97.2094
+TX0310700,Primera Police Department,18913,TX,West South Central,South,Region III,CAMERON,City,True,2021-01-01T00:00:00.000Z,26.102923,-97.478958
+TX0310800,Rio Hondo Police Department,18914,TX,West South Central,South,Region III,CAMERON,City,True,2019-01-01T00:00:00.000Z,26.102923,-97.478958
+TX0310900,San Benito Police Department,18915,TX,West South Central,South,Region III,CAMERON,City,True,2020-11-01T00:00:00.000Z,26.102923,-97.478958
+TX0311000,Santa Rosa Police Department,18916,TX,West South Central,South,Region III,CAMERON,City,False,,26.102923,-97.478958
+TX0311300,South Padre Island Police Department,18918,TX,West South Central,South,Region III,CAMERON,City,True,2018-01-01T00:00:00.000Z,26.102923,-97.478958
+TX0311400,Texas State Technical College: Harlingen,18919,TX,West South Central,South,Region III,CAMERON,University or College,True,2020-10-01T00:00:00.000Z,26.102923,-97.478958
+TX0312400,Independent School District: Brownsville,18921,TX,West South Central,South,Region III,CAMERON,Other,True,2020-10-01T00:00:00.000Z,25.934692,-97.48412
+TX0312500,Palm Valley Police Department,18922,TX,West South Central,South,Region III,CAMERON,City,False,,26.177607,-97.75787
+TX0312800,Independent School District:,26226,TX,West South Central,South,Region III,CAMERON,Other,True,2022-01-01T00:00:00.000Z,26.102923,-97.478958
+TX0312900,Laguna Vista Police Department,18923,TX,West South Central,South,Region III,CAMERON,City,True,2018-04-01T00:00:00.000Z,26.103079,-97.291176
+TX0313100,Independent School District: ,34426,TX,West South Central,South,Region III,CAMERON,Other,True,2022-12-01T00:00:00.000Z,,
+TX0313200,Rancho Viejo Police Department,18924,TX,West South Central,South,Region III,CAMERON,City,True,2020-11-01T00:00:00.000Z,26.102923,-97.478958
+TX0313300,Indian Lake Police Department,25620,TX,West South Central,South,Region III,CAMERON,City,False,,26.102923,-97.478958
+TX0313400,Port of Brownsville,23188,TX,West South Central,South,Region III,CAMERON,Other,True,2019-09-01T00:00:00.000Z,26.102923,-97.478958
+TX0313800,Los Indios,27342,TX,West South Central,South,Region III,CAMERON,City,False,,,
+TX0320000,Camp County Sheriff's Office,18925,TX,West South Central,South,Region III,CAMP,County,True,2019-01-01T00:00:00.000Z,32.995636,-94.9661
+TX0320100,Pittsburg Police Department,18926,TX,West South Central,South,Region III,CAMP,City,True,2018-01-01T00:00:00.000Z,32.995117,-94.966225
+TX0330000,Carson County Sheriff's Office,18927,TX,West South Central,South,Region III,CARSON,County,True,2021-09-01T00:00:00.000Z,35.405496,-101.355356
+TX0330100,Panhandle Police Department,18928,TX,West South Central,South,Region III,CARSON,City,True,2021-01-01T00:00:00.000Z,35.405496,-101.355356
+TX0340000,Cass County Sheriff's Office,18929,TX,West South Central,South,Region III,CASS,County,True,2018-07-01T00:00:00.000Z,33.083698,-94.357579
+TX0340100,Atlanta Police Department,18930,TX,West South Central,South,Region III,CASS,City,True,2021-01-01T00:00:00.000Z,33.083698,-94.357579
+TX0340200,Hughes Springs Police Department,18931,TX,West South Central,South,Region III,"CASS, MORRIS",City,True,2019-12-01T00:00:00.000Z,33.083698,-94.357579
+TX0340300,Linden Police Department,18932,TX,West South Central,South,Region III,CASS,City,True,2020-08-01T00:00:00.000Z,33.083698,-94.357579
+TX0340400,Queen City Police Department,18933,TX,West South Central,South,Region III,CASS,City,True,2021-01-01T00:00:00.000Z,33.083698,-94.357579
+TX0341400,Bloomburg Police Department,18934,TX,West South Central,South,Region III,CASS,City,False,,33.083698,-94.357579
+TX0350000,Castro County Sheriff's Office,18935,TX,West South Central,South,Region III,CASTRO,County,True,2018-08-01T00:00:00.000Z,34.55095,-102.31234
+TX0350100,Dimmitt Police Department,18936,TX,West South Central,South,Region III,CASTRO,City,True,2019-12-01T00:00:00.000Z,34.533621,-102.258786
+TX0360000,Chambers County Sheriff's Office,18938,TX,West South Central,South,Region III,CHAMBERS,County,True,2018-01-01T00:00:00.000Z,29.703933,-94.668875
+TX0360700,Mont Belvieu Police Department,18939,TX,West South Central,South,Region III,"CHAMBERS, LIBERTY",City,True,2017-01-01T00:00:00.000Z,29.703933,-94.668875
+TX0361000,Independent School District: Barbers Hill,18940,TX,West South Central,South,Region III,CHAMBERS,Other,True,2017-01-01T00:00:00.000Z,29.703933,-94.668875
+TX0370000,Cherokee County Sheriff's Office,18941,TX,West South Central,South,Region III,CHEROKEE,County,True,2018-01-01T00:00:00.000Z,31.806877,-95.15124
+TX0370100,Jacksonville Police Department,18942,TX,West South Central,South,Region III,CHEROKEE,City,True,2009-06-01T00:00:00.000Z,31.843872,-95.156345
+TX0370300,Rusk Police Department,18943,TX,West South Central,South,Region III,CHEROKEE,City,True,2008-10-01T00:00:00.000Z,31.79308,-95.150444
+TX0371200,Cuney Police Department,18946,TX,West South Central,South,Region III,CHEROKEE,City,True,2018-01-01T00:00:00.000Z,31.843872,-95.156345
+TX0380000,Childress County Sheriff's Office,18947,TX,West South Central,South,Region III,CHILDRESS,County,True,2020-10-01T00:00:00.000Z,34.529337,-100.208336
+TX0380100,Childress Police Department,18948,TX,West South Central,South,Region III,CHILDRESS,City,True,2019-01-01T00:00:00.000Z,34.529337,-100.208336
+TX0390000,Clay County Sheriff's Office,18949,TX,West South Central,South,Region III,CLAY,County,True,2021-01-01T00:00:00.000Z,33.81556,-98.19413
+TX0400000,Cochran County Sheriff's Office,18951,TX,West South Central,South,Region III,COCHRAN,County,True,2019-01-01T00:00:00.000Z,33.7252,-102.75924
+TX0410000,Coke County Sheriff's Office,18953,TX,West South Central,South,Region III,COKE,County,True,2021-01-01T00:00:00.000Z,31.877105,-100.635236
+TX0420000,Coleman County Sheriff's Office,18954,TX,West South Central,South,Region III,COLEMAN,County,True,2021-01-01T00:00:00.000Z,31.83102,-99.42296
+TX0420100,Coleman Police Department,18955,TX,West South Central,South,Region III,COLEMAN,City,True,2021-01-01T00:00:00.000Z,31.914205,-99.346622
+TX0420200,Santa Anna Police Department,18956,TX,West South Central,South,Region III,COLEMAN,City,True,2019-06-01T00:00:00.000Z,31.73982,-99.323524
+TX0430000,Collin County Sheriff's Office,18957,TX,West South Central,South,Region III,COLLIN,County,True,1997-01-01T00:00:00.000Z,33.248085,-96.635704
+TX0430100,Allen Police Department,18958,TX,West South Central,South,Region III,COLLIN,City,True,2022-04-01T00:00:00.000Z,33.101547,-96.67242
+TX0430200,Celina Police Department,18959,TX,West South Central,South,Region III,"COLLIN, DENTON",City,True,2018-08-01T00:00:00.000Z,33.323864,-96.78055
+TX0430300,Farmersville Police Department,18960,TX,West South Central,South,Region III,COLLIN,City,True,2019-04-01T00:00:00.000Z,33.16445,-96.36109
+TX0430400,Frisco Police Department,18961,TX,West South Central,South,Region III,"COLLIN, DENTON",City,True,2000-02-01T00:00:00.000Z,33.194745,-96.579846
+TX0430500,McKinney Police Department,18962,TX,West South Central,South,Region III,COLLIN,City,True,1997-04-01T00:00:00.000Z,33.194745,-96.579846
+TX0430600,Plano Police Department,18963,TX,West South Central,South,Region III,"COLLIN, DENTON",City,True,2005-07-01T00:00:00.000Z,33.0179,-96.70228
+TX0430700,Prosper Police Department,18964,TX,West South Central,South,Region III,"COLLIN, DENTON",City,True,2019-01-01T00:00:00.000Z,33.194745,-96.579846
+TX0430800,Wylie Police Department,18965,TX,West South Central,South,Region III,"COLLIN, DALLAS, ROCKWALL",City,True,2006-12-01T00:00:00.000Z,33.02303,-96.51876
+TX0430900,Princeton Police Department,18966,TX,West South Central,South,Region III,COLLIN,City,True,2017-01-01T00:00:00.000Z,33.194745,-96.579846
+TX0431700,Melissa Police Department,18967,TX,West South Central,South,Region III,COLLIN,City,True,2018-08-01T00:00:00.000Z,33.194745,-96.579846
+TX0431800,Murphy Police Department,18968,TX,West South Central,South,Region III,COLLIN,City,True,2007-01-01T00:00:00.000Z,33.016426,-96.612785
+TX0431900,Parker Police Department,18969,TX,West South Central,South,Region III,COLLIN,City,True,2018-10-01T00:00:00.000Z,33.055317,-96.62177
+TX0432000,Lavon Police Department,18970,TX,West South Central,South,Region III,COLLIN,City,True,2020-06-01T00:00:00.000Z,33.194745,-96.579846
+TX0432400,Collin County Community College District,34434,TX,West South Central,South,Region III,COLLIN,University or College,True,2022-12-01T00:00:00.000Z,,
+TX0432500,Fairview Police Department,25406,TX,West South Central,South,Region III,COLLIN,City,True,2020-01-01T00:00:00.000Z,33.194745,-96.579846
+TX0432600,Anna Police Department,18971,TX,West South Central,South,Region III,COLLIN,City,True,2020-05-01T00:00:00.000Z,33.194745,-96.579846
+TX0432700,Josephine,26290,TX,West South Central,South,Region III,"COLLIN, HUNT",City,True,2020-11-01T00:00:00.000Z,,
+TX0433200,Independent School District:,27343,TX,West South Central,South,Region III,COLLIN,Other,True,2022-09-01T00:00:00.000Z,,
+TX0433700,Independent School District:,33358,TX,West South Central,South,Region III,COLLIN,Other,True,2021-01-01T00:00:00.000Z,,
+TX0440000,Collingsworth County Sheriff's Office,18972,TX,West South Central,South,Region III,COLLINGSWORTH,County,True,2021-01-01T00:00:00.000Z,34.856037,-100.210915
+TX0450000,Colorado County Sheriff's Office,18974,TX,West South Central,South,Region III,COLORADO,County,True,2018-01-01T00:00:00.000Z,29.706219,-96.55281
+TX0450100,Columbus Police Department,18975,TX,West South Central,South,Region III,COLORADO,City,True,2018-12-01T00:00:00.000Z,29.595991,-96.508433
+TX0450200,Eagle Lake Police Department,18976,TX,West South Central,South,Region III,COLORADO,City,False,,29.595991,-96.508433
+TX0450300,Weimar Police Department,18977,TX,West South Central,South,Region III,COLORADO,City,True,2020-10-01T00:00:00.000Z,29.595991,-96.508433
+TX0460000,Comal County Sheriff's Office,18978,TX,West South Central,South,Region III,COMAL,County,True,2021-01-01T00:00:00.000Z,29.681768,-98.15045
+TX0460100,New Braunfels Police Department,18979,TX,West South Central,South,Region III,"COMAL, GUADALUPE",City,True,2018-02-01T00:00:00.000Z,29.692354,-98.11035
+TX0460700,Garden Ridge Police Department,18980,TX,West South Central,South,Region III,COMAL,City,True,2018-05-01T00:00:00.000Z,29.806091,-98.260554
+TX0460800,Bulverde Police Department,18981,TX,West South Central,South,Region III,COMAL,City,True,2018-12-01T00:00:00.000Z,29.806091,-98.260554
+TX0470000,Comanche County Sheriff's Office,18982,TX,West South Central,South,Region III,COMANCHE,County,True,2021-01-01T00:00:00.000Z,31.911995,-98.60174
+TX0470100,Comanche Police Department,18983,TX,West South Central,South,Region III,COMANCHE,City,True,2019-11-01T00:00:00.000Z,31.898405,-98.6037
+TX0470200,De Leon Police Department,18984,TX,West South Central,South,Region III,COMANCHE,City,True,2021-09-01T00:00:00.000Z,32.10894,-98.53686
+TX0480000,Concho County Sheriff's Office,18985,TX,West South Central,South,Region III,CONCHO,County,True,2020-02-01T00:00:00.000Z,31.318865,-99.863648
+TX0490000,Cooke County Sheriff's Office,18987,TX,West South Central,South,Region III,COOKE,County,True,2019-04-01T00:00:00.000Z,33.639169,-97.210372
+TX0490100,Gainesville Police Department,18988,TX,West South Central,South,Region III,COOKE,City,True,2019-09-01T00:00:00.000Z,33.641155,-97.14656
+TX0490700,Valley View Police Department,18989,TX,West South Central,South,Region III,COOKE,City,False,,33.639169,-97.210372
+TX0490800,Oak Ridge Police Department,18990,TX,West South Central,South,Region III,COOKE,City,False,,33.648117,-97.04071
+TX0500000,Coryell County Sheriff's Office,18991,TX,West South Central,South,Region III,CORYELL,County,True,2020-04-01T00:00:00.000Z,31.434006,-97.751495
+TX0500100,Copperas Cove Police Department,18992,TX,West South Central,South,Region III,"CORYELL, LAMPASAS",City,True,2021-01-01T00:00:00.000Z,31.122324,-97.90073
+TX0500200,Gatesville Police Department,18993,TX,West South Central,South,Region III,CORYELL,City,True,2016-09-01T00:00:00.000Z,31.435875,-97.74849
+TX0510000,Cottle County Sheriff's Office,18995,TX,West South Central,South,Region III,COTTLE,County,False,,34.091906,-100.276442
+TX0510100,Paducah Police Department,18996,TX,West South Central,South,Region III,COTTLE,City,False,,34.091906,-100.276442
+TX0520000,Crane County Sheriff's Office,18997,TX,West South Central,South,Region III,CRANE,County,True,2018-11-01T00:00:00.000Z,31.422796,-102.487774
+TX0520100,Crane Police Department,18998,TX,West South Central,South,Region III,CRANE,City,True,2020-05-01T00:00:00.000Z,31.397306,-102.35043
+TX0530000,Crockett County Sheriff's Office,18999,TX,West South Central,South,Region III,CROCKETT,County,True,2018-07-01T00:00:00.000Z,30.717532,-101.404211
+TX0540000,Crosby County Sheriff's Office,19000,TX,West South Central,South,Region III,CROSBY,County,True,2018-03-01T00:00:00.000Z,33.65887,-101.23943
+TX0540100,Crosbyton Police Department,19001,TX,West South Central,South,Region III,CROSBY,City,False,,33.659977,-101.239655
+TX0540200,Lorenzo Police Department,19002,TX,West South Central,South,Region III,CROSBY,City,False,,33.609144,-101.29871
+TX0540300,Ralls Police Department,19003,TX,West South Central,South,Region III,CROSBY,City,False,2018-01-01T00:00:00.000Z,33.609144,-101.29871
+TX0550000,Culberson County Sheriff's Office,19004,TX,West South Central,South,Region III,CULBERSON,County,False,,31.445908,-104.526945
+TX0560000,Dallam County Sheriff's Office,19006,TX,West South Central,South,Region III,DALLAM,County,True,2020-05-01T00:00:00.000Z,36.06129,-102.5219
+TX0560100,Dalhart Police Department,19007,TX,West South Central,South,Region III,"DALLAM, HARTLEY",City,True,2019-06-01T00:00:00.000Z,36.28637,-102.59402
+TX0570000,Dallas County Sheriff's Office,19008,TX,West South Central,South,Region III,DALLAS,County,True,2020-12-01T00:00:00.000Z,32.766987,-96.778424
+TX0570100,Addison Police Department,19009,TX,West South Central,South,Region III,DALLAS,City,True,2019-09-01T00:00:00.000Z,32.766987,-96.778424
+TX0570200,Balch Springs Police Department,19010,TX,West South Central,South,Region III,DALLAS,City,True,2017-02-01T00:00:00.000Z,32.719345,-96.61623
+TX0570400,Carrollton Police Department,19011,TX,West South Central,South,Region III,"COLLIN, DALLAS, DENTON",City,True,2020-02-01T00:00:00.000Z,32.766987,-96.778424
+TX0570500,Cedar Hill Police Department,19012,TX,West South Central,South,Region III,"DALLAS, ELLIS",City,True,2019-03-01T00:00:00.000Z,32.766987,-96.778424
+TX0570600,Cockrell Hill Police Department,19013,TX,West South Central,South,Region III,DALLAS,City,True,2020-05-01T00:00:00.000Z,32.766987,-96.778424
+TX0570700,Coppell Police Department,19014,TX,West South Central,South,Region III,"DALLAS, DENTON",City,True,2019-04-01T00:00:00.000Z,32.97545,-96.99245
+TX0570800,Desoto Police Department,19015,TX,West South Central,South,Region III,DALLAS,City,True,2019-03-01T00:00:00.000Z,32.766987,-96.778424
+TX0570900,Duncanville Police Department,19016,TX,West South Central,South,Region III,DALLAS,City,True,2019-03-01T00:00:00.000Z,32.766987,-96.778424
+TX0571000,Farmers Branch Police Department,19017,TX,West South Central,South,Region III,DALLAS,City,True,2019-08-01T00:00:00.000Z,32.924255,-96.85554
+TX0571100,Garland Police Department,19018,TX,West South Central,South,Region III,"COLLIN, DALLAS, ROCKWALL",City,True,2020-01-01T00:00:00.000Z,32.908943,-96.65579
+TX0571200,Grand Prairie Police Department,19019,TX,West South Central,South,Region III,"DALLAS, ELLIS, TARRANT",City,True,2018-01-01T00:00:00.000Z,32.766987,-96.778424
+TX0571300,Highland Park Police Department,19020,TX,West South Central,South,Region III,DALLAS,City,True,1998-01-01T00:00:00.000Z,32.8289,-96.79652
+TX0571400,Hutchins Police Department,19021,TX,West South Central,South,Region III,DALLAS,City,True,2020-02-01T00:00:00.000Z,32.766987,-96.778424
+TX0571500,Irving Police Department,19022,TX,West South Central,South,Region III,DALLAS,City,True,2020-01-01T00:00:00.000Z,32.815025,-96.94995
+TX0571700,Lancaster Police Department,19024,TX,West South Central,South,Region III,DALLAS,City,True,2000-01-01T00:00:00.000Z,32.766987,-96.778424
+TX0571800,Mesquite Police Department,19025,TX,West South Central,South,Region III,"DALLAS, KAUFMAN",City,True,2018-11-01T00:00:00.000Z,32.766987,-96.778424
+TX0572000,Richardson Police Department,19026,TX,West South Central,South,Region III,"COLLIN, DALLAS",City,True,2019-01-01T00:00:00.000Z,32.766987,-96.778424
+TX0572100,Sachse Police Department,19027,TX,West South Central,South,Region III,"COLLIN, DALLAS",City,True,2006-03-01T00:00:00.000Z,32.973286,-96.58616
+TX0572200,Seagoville Police Department,19028,TX,West South Central,South,Region III,"DALLAS, KAUFMAN",City,True,2019-09-01T00:00:00.000Z,32.64949,-96.54345
+TX0572300,Sunnyvale,32807,TX,West South Central,South,Region III,DALLAS,City,True,2021-01-01T00:00:00.000Z,,
+TX0572400,University Park Police Department,19029,TX,West South Central,South,Region III,DALLAS,City,True,2018-06-01T00:00:00.000Z,32.845383,-96.797325
+TX0572500,Wilmer Police Department,19030,TX,West South Central,South,Region III,DALLAS,City,True,2020-08-01T00:00:00.000Z,32.5892,-96.68492
+TX0572600,University of Texas: Southwestern Medical School,19031,TX,West South Central,South,Region III,DALLAS,University or College,True,2020-11-01T00:00:00.000Z,32.81252,-96.838135
+TX0572800,University of Texas: Dallas,19032,TX,West South Central,South,Region III,DALLAS,University or College,True,2019-05-01T00:00:00.000Z,32.766987,-96.778424
+TX0573300,Rowlett Police Department,19034,TX,West South Central,South,Region III,"DALLAS, ROCKWALL",City,True,1998-01-01T00:00:00.000Z,32.766987,-96.778424
+TX0574700,Glenn Heights Police Department,19039,TX,West South Central,South,Region III,"DALLAS, ELLIS",City,True,2018-01-01T00:00:00.000Z,32.564953,-96.84331
+TX0575000,Hospital District: Dallas County,19040,TX,West South Central,South,Region III,DALLAS,Other,False,,32.812763,-96.838455
+TX057519E,Baylor Health Care System,19041,TX,West South Central,South,Region III,DALLAS,University or College,True,2020-07-01T00:00:00.000Z,,
+TX057529E,Southern Methodist University,19042,TX,West South Central,South,Region III,DALLAS,University or College,True,2021-01-01T00:00:00.000Z,,
+TX0575500,Ovilla Police Department,19043,TX,West South Central,South,Region III,"DALLAS, ELLIS",City,True,2020-11-01T00:00:00.000Z,32.527256,-96.88891
+TX0575700,Independent School District:,31094,TX,West South Central,South,Region III,DALLAS,Other,True,2020-05-01T00:00:00.000Z,,
+TX0576800,Independent School District: Cedar Hill,19045,TX,West South Central,South,Region III,DALLAS,Other,False,,32.588375,-96.95975
+TX0579000,Dallas County Community College District,28794,TX,West South Central,South,Region III,DALLAS,University or College,True,2019-03-01T00:00:00.000Z,,
+TX057A000,Independent School District:,28676,TX,West South Central,South,Region III,DALLAS,Other,True,2019-01-01T00:00:00.000Z,,
+TX0580000,Dawson County Sheriff's Office,19046,TX,West South Central,South,Region III,DAWSON,County,True,2019-12-01T00:00:00.000Z,32.741934,-101.947322
+TX0580100,Lamesa Police Department,19047,TX,West South Central,South,Region III,DAWSON,City,True,2022-01-01T00:00:00.000Z,32.731613,-101.954
+TX0590000,Deaf Smith County Sheriff's Office,19048,TX,West South Central,South,Region III,DEAF SMITH,County,True,2018-06-01T00:00:00.000Z,34.817413,-102.39784
+TX0590100,Hereford Police Department,19049,TX,West South Central,South,Region III,DEAF SMITH,City,True,2021-01-01T00:00:00.000Z,34.940766,-102.607564
+TX0600000,Delta County Sheriff's Office,19050,TX,West South Central,South,Region III,DELTA,County,True,2017-09-01T00:00:00.000Z,33.374596,-95.68959
+TX0610000,Denton County Sheriff's Office,19052,TX,West South Central,South,Region III,DENTON,County,True,2019-08-01T00:00:00.000Z,33.21497,-97.111916
+TX0610100,Argyle Police Department,19053,TX,West South Central,South,Region III,DENTON,City,True,2020-01-01T00:00:00.000Z,33.205005,-97.119046
+TX0610200,Denton Police Department,19054,TX,West South Central,South,Region III,DENTON,City,True,2002-01-01T00:00:00.000Z,33.214447,-97.12535
+TX0610500,Lake Dallas Police Department,19055,TX,West South Central,South,Region III,DENTON,City,True,2019-08-01T00:00:00.000Z,33.205005,-97.119046
+TX0610600,Lewisville Police Department,19056,TX,West South Central,South,Region III,"DALLAS, DENTON",City,True,2002-01-01T00:00:00.000Z,33.205005,-97.119046
+TX0610700,Pilot Point Police Department,19057,TX,West South Central,South,Region III,DENTON,City,True,2021-01-01T00:00:00.000Z,33.205005,-97.119046
+TX0610800,Sanger Police Department,19058,TX,West South Central,South,Region III,DENTON,City,True,2019-07-01T00:00:00.000Z,33.205005,-97.119046
+TX0611000,Texas Woman's University,19059,TX,West South Central,South,Region III,DENTON,University or College,True,2018-10-01T00:00:00.000Z,33.205005,-97.119046
+TX0611100,University of North Texas: Denton,19060,TX,West South Central,South,Region III,DENTON,University or College,True,2021-01-01T00:00:00.000Z,33.205746,-97.15079
+TX0611200,Flower Mound Police Department,19061,TX,West South Central,South,Region III,"DENTON, TARRANT",City,True,2002-04-01T00:00:00.000Z,33.041096,-97.04453
+TX0611300,Little Elm Police Department,19062,TX,West South Central,South,Region III,DENTON,City,True,2020-01-01T00:00:00.000Z,33.205005,-97.119046
+TX0611400,Aubrey Police Department,19063,TX,West South Central,South,Region III,DENTON,City,True,2020-01-01T00:00:00.000Z,33.304184,-96.98627
+TX0611500,The Colony Police Department,19064,TX,West South Central,South,Region III,DENTON,City,True,2008-01-01T00:00:00.000Z,33.098576,-96.88014
+TX0612000,Highland Village Police Department,19065,TX,West South Central,South,Region III,DENTON,City,True,2018-06-01T00:00:00.000Z,33.205005,-97.119046
+TX0612300,Corinth Police Department,19066,TX,West South Central,South,Region III,DENTON,City,True,2019-08-01T00:00:00.000Z,33.149704,-97.06156
+TX0612500,Double Oak Police Department,19067,TX,West South Central,South,Region III,DENTON,City,True,2017-01-01T00:00:00.000Z,33.062622,-97.095955
+TX0612800,Hickory Creek Police Department,19068,TX,West South Central,South,Region III,DENTON,City,True,2020-01-01T00:00:00.000Z,33.205005,-97.119046
+TX0612900,Roanoke Police Department,19069,TX,West South Central,South,Region III,DENTON,City,True,2019-12-01T00:00:00.000Z,33.00069,-97.22178
+TX0613100,Trophy Club Police Department,19071,TX,West South Central,South,Region III,"DENTON, TARRANT",City,True,2020-06-01T00:00:00.000Z,32.997017,-97.187874
+TX0613200,Ponder Police Department,19072,TX,West South Central,South,Region III,DENTON,City,True,2017-01-01T00:00:00.000Z,33.205005,-97.119046
+TX0613500,Northeast Police Department,23047,TX,West South Central,South,Region III,DENTON,City,True,2019-08-01T00:00:00.000Z,33.205005,-97.119046
+TX0613700,Bartonville Police Department,25431,TX,West South Central,South,Region III,DENTON,City,True,2019-12-01T00:00:00.000Z,33.205005,-97.119046
+TX0613900,Northlake Police Department,19073,TX,West South Central,South,Region III,DENTON,City,True,2018-10-01T00:00:00.000Z,33.205005,-97.119046
+TX0614500,Independent School District:,28334,TX,West South Central,South,Region III,DENTON,Other,True,2019-01-01T00:00:00.000Z,,
+TX0614700,Elm Ridge ,29254,TX,West South Central,South,Region III,DENTON,Other,True,2019-08-01T00:00:00.000Z,,
+TX0615200,Independent School District: ,34436,TX,West South Central,South,Region III,DENTON,Other,True,2022-12-01T00:00:00.000Z,,
+TX0620000,Dewitt County Sheriff's Office,19074,TX,West South Central,South,Region III,DEWITT,County,True,2012-07-01T00:00:00.000Z,29.092402,-97.28901
+TX0620100,Cuero Police Department,19075,TX,West South Central,South,Region III,DEWITT,City,True,2016-11-01T00:00:00.000Z,29.082346,-97.361654
+TX0620300,Yorktown Police Department,19076,TX,West South Central,South,Region III,DEWITT,City,False,,29.082346,-97.361654
+TX0630000,Dickens County Sheriff's Office,19077,TX,West South Central,South,Region III,DICKENS,County,False,,33.614666,-100.786095
+TX0630100,Spur Police Department,19078,TX,West South Central,South,Region III,DICKENS,City,False,,33.476532,-100.85538
+TX0640000,Dimmit County Sheriff's Office,19079,TX,West South Central,South,Region III,DIMMIT,County,False,,28.521915,-99.86047
+TX0650000,Donley County Sheriff's Office,19081,TX,West South Central,South,Region III,DONLEY,County,True,2019-12-01T00:00:00.000Z,34.955036,-100.815846
+TX0660000,Duval County Sheriff's Office,19083,TX,West South Central,South,Region III,DUVAL,County,True,2018-01-01T00:00:00.000Z,27.681123,-98.497393
+TX0660200,San Diego Police Department,19085,TX,West South Central,South,Region III,"DUVAL, JIM WELLS",City,False,,27.760904,-98.23882
+TX0660300,Freer Police Department,19086,TX,West South Central,South,Region III,DUVAL,City,True,2020-09-01T00:00:00.000Z,27.681123,-98.497393
+TX0670000,Eastland County Sheriff's Office,19087,TX,West South Central,South,Region III,EASTLAND,County,True,2019-01-01T00:00:00.000Z,32.402565,-98.81908
+TX0670100,Cisco Police Department,19088,TX,West South Central,South,Region III,EASTLAND,City,True,2018-08-01T00:00:00.000Z,32.324645,-98.83656
+TX0670200,Eastland Police Department,19089,TX,West South Central,South,Region III,EASTLAND,City,True,2017-03-01T00:00:00.000Z,32.324645,-98.83656
+TX0670300,Gorman Police Department,19090,TX,West South Central,South,Region III,EASTLAND,City,False,2020-01-01T00:00:00.000Z,32.324645,-98.83656
+TX0670400,Ranger Police Department,19091,TX,West South Central,South,Region III,EASTLAND,City,True,2021-01-01T00:00:00.000Z,32.471584,-98.683
+TX0670500,Rising Star Police Department,19092,TX,West South Central,South,Region III,EASTLAND,City,False,,32.324645,-98.83656
+TX0671200,Cisco College,27341,TX,West South Central,South,Region III,EASTLAND,University or College,True,2021-01-01T00:00:00.000Z,,
+TX0680000,Ector County Sheriff's Office,19093,TX,West South Central,South,Region III,ECTOR,County,True,2021-01-01T00:00:00.000Z,31.865301,-102.542507
+TX0680200,Odessa Police Department,19094,TX,West South Central,South,Region III,"ECTOR, MIDLAND",City,True,2020-12-01T00:00:00.000Z,31.845774,-102.36773
+TX0680400,University of Texas: Permian Basin,19095,TX,West South Central,South,Region III,ECTOR,University or College,True,2020-08-01T00:00:00.000Z,31.881498,-102.32139
+TX0680800,Independent School District: Ector County,19096,TX,West South Central,South,Region III,ECTOR,Other,True,2021-01-01T00:00:00.000Z,31.865301,-102.542507
+TX0680900,Odessa College,33403,TX,West South Central,South,Region III,ECTOR,University or College,True,2021-01-01T00:00:00.000Z,,
+TX0681200,Ector County Hospital District,33478,TX,West South Central,South,Region III,ECTOR,Other,True,2021-07-01T00:00:00.000Z,,
+TX0690000,Edwards County Sheriff's Office,19097,TX,West South Central,South,Region III,EDWARDS,County,True,2021-01-01T00:00:00.000Z,29.985877,-100.307373
+TX0700000,Ellis County Sheriff's Office,19098,TX,West South Central,South,Region III,ELLIS,County,True,2019-06-01T00:00:00.000Z,32.388092,-96.844894
+TX0700100,Ennis Police Department,19099,TX,West South Central,South,Region III,ELLIS,City,True,2018-02-01T00:00:00.000Z,32.347294,-96.798231
+TX0700200,Ferris Police Department,19100,TX,West South Central,South,Region III,"DALLAS, ELLIS",City,True,2021-01-01T00:00:00.000Z,32.534283,-96.666824
+TX0700400,Italy Police Department,19101,TX,West South Central,South,Region III,ELLIS,City,True,2020-08-01T00:00:00.000Z,32.347294,-96.798231
+TX0700500,Midlothian Police Department,19102,TX,West South Central,South,Region III,ELLIS,City,True,2019-10-01T00:00:00.000Z,32.347294,-96.798231
+TX0700600,Milford Police Department,19103,TX,West South Central,South,Region III,ELLIS,City,True,2022-01-01T00:00:00.000Z,32.347294,-96.798231
+TX0700700,Palmer Police Department,19104,TX,West South Central,South,Region III,ELLIS,City,True,2020-11-01T00:00:00.000Z,32.347294,-96.798231
+TX0700800,Red Oak Police Department,19105,TX,West South Central,South,Region III,ELLIS,City,True,2019-09-01T00:00:00.000Z,32.530552,-96.804855
+TX0701000,Waxahachie Police Department,19106,TX,West South Central,South,Region III,ELLIS,City,True,2019-09-01T00:00:00.000Z,32.38487,-96.84779
+TX0702200,Maypearl,29874,TX,West South Central,South,Region III,ELLIS,City,True,2020-01-01T00:00:00.000Z,,
+TX0702900,Alma,34140,TX,West South Central,South,Region III,ELLIS,City,True,2022-01-01T00:00:00.000Z,,
+TX0710000,El Paso County Sheriff's Office,19107,TX,West South Central,South,Region III,EL PASO,County,True,2019-07-01T00:00:00.000Z,31.766403,-106.24139
+TX0710100,Anthony Police Department,19108,TX,West South Central,South,Region III,EL PASO,City,True,2020-12-01T00:00:00.000Z,31.766403,-106.24139
+TX0710200,El Paso Police Department,19109,TX,West South Central,South,Region III,EL PASO,City,True,2019-07-01T00:00:00.000Z,31.75874,-106.48478
+TX0710400,University of Texas: El Paso,19110,TX,West South Central,South,Region III,EL PASO,University or College,True,2020-05-01T00:00:00.000Z,31.77857,-106.506546
+TX0711100,El Paso Community College,19111,TX,West South Central,South,Region III,EL PASO,University or College,True,2021-01-01T00:00:00.000Z,31.766403,-106.24139
+TX0711200,Clint Police Department,19112,TX,West South Central,South,Region III,EL PASO,City,True,2021-01-01T00:00:00.000Z,31.766403,-106.24139
+TX0711300,Independent School District: El Paso,19113,TX,West South Central,South,Region III,EL PASO,Other,True,2021-01-01T00:00:00.000Z,31.766403,-106.24139
+TX0711400,Horizon City Police Department,19114,TX,West South Central,South,Region III,EL PASO,City,True,2021-01-01T00:00:00.000Z,31.766403,-106.24139
+TX0711600,Socorro Police Department,19115,TX,West South Central,South,Region III,EL PASO,City,True,2021-01-01T00:00:00.000Z,31.67125,-106.27893
+TX0712200,Independent School District: Socorro,19117,TX,West South Central,South,Region III,EL PASO,Other,True,2021-01-01T00:00:00.000Z,31.62441,-106.26337
+TX0712800,San Elizario,27753,TX,West South Central,South,Region III,EL PASO,City,True,2021-01-01T00:00:00.000Z,,
+TX0720000,Erath County Sheriff's Office,19118,TX,West South Central,South,Region III,ERATH,County,True,2019-05-01T00:00:00.000Z,32.212708,-98.19037
+TX0720100,Dublin Police Department,19119,TX,West South Central,South,Region III,ERATH,City,True,2019-11-01T00:00:00.000Z,32.08482,-98.34084
+TX0720200,Stephenville Police Department,19120,TX,West South Central,South,Region III,ERATH,City,True,2020-08-01T00:00:00.000Z,32.221848,-98.20397
+TX0720400,Tarleton State University,19121,TX,West South Central,South,Region III,ERATH,University or College,True,2019-08-01T00:00:00.000Z,32.238136,-98.222377
+TX0730000,Falls County Sheriff's Office,19122,TX,West South Central,South,Region III,FALLS,County,True,2022-02-01T00:00:00.000Z,31.25193,-96.934127
+TX0730100,Lott Police Department,19123,TX,West South Central,South,Region III,FALLS,City,False,,31.25193,-96.934127
+TX0730200,Marlin Police Department,19124,TX,West South Central,South,Region III,FALLS,City,True,2020-08-01T00:00:00.000Z,31.25193,-96.934127
+TX0730300,Rosebud Police Department,19125,TX,West South Central,South,Region III,FALLS,City,False,,31.25193,-96.934127
+TX0730800,Independent School District:,33175,TX,West South Central,South,Region III,FALLS,Other,True,2021-01-01T00:00:00.000Z,,
+TX0740000,Fannin County Sheriff's Office,19126,TX,West South Central,South,Region III,FANNIN,County,True,2020-09-01T00:00:00.000Z,33.593708,-96.22702
+TX0740100,Bonham Police Department,19127,TX,West South Central,South,Region III,FANNIN,City,False,2021-01-01T00:00:00.000Z,33.578056,-96.17664
+TX0740200,Honey Grove,28335,TX,West South Central,South,Region III,FANNIN,City,True,2019-01-01T00:00:00.000Z,,
+TX0740400,Savoy,29015,TX,West South Central,South,Region III,FANNIN,City,True,2019-06-01T00:00:00.000Z,,
+TX0740500,Trenton Police Department,19128,TX,West South Central,South,Region III,FANNIN,City,False,,33.591161,-96.104988
+TX0740600,Leonard Police Department,19129,TX,West South Central,South,Region III,FANNIN,City,True,2021-01-01T00:00:00.000Z,33.591161,-96.104988
+TX0750000,Fayette County Sheriff's Office,19130,TX,West South Central,South,Region III,FAYETTE,County,True,2021-01-01T00:00:00.000Z,29.924185,-96.88121
+TX0750100,La Grange Police Department,19131,TX,West South Central,South,Region III,FAYETTE,City,True,2018-07-01T00:00:00.000Z,29.877886,-96.921231
+TX0750300,Schulenburg Police Department,19132,TX,West South Central,South,Region III,FAYETTE,City,True,2018-01-01T00:00:00.000Z,29.877886,-96.921231
+TX0750800,Flatonia Police Department,19133,TX,West South Central,South,Region III,FAYETTE,City,True,2020-08-01T00:00:00.000Z,29.877886,-96.921231
+TX0760000,Fisher County Sheriff's Office,19135,TX,West South Central,South,Region III,FISHER,County,True,2022-01-01T00:00:00.000Z,32.740473,-100.40312
+TX0770000,Floyd County Sheriff's Office,19137,TX,West South Central,South,Region III,FLOYD,County,True,2019-02-01T00:00:00.000Z,34.07373,-101.303274
+TX0770100,Floydada Police Department,19138,TX,West South Central,South,Region III,FLOYD,City,True,2019-01-01T00:00:00.000Z,33.986713,-101.33514
+TX0770200,Lockney Police Department,19139,TX,West South Central,South,Region III,FLOYD,City,True,2021-01-01T00:00:00.000Z,34.07373,-101.303274
+TX0780000,Foard County Sheriff's Office,19140,TX,West South Central,South,Region III,FOARD,County,True,2016-01-01T00:00:00.000Z,33.963306,-99.816828
+TX0780100,Crowell Police Department,19141,TX,West South Central,South,Region III,FOARD,City,False,,33.963306,-99.816828
+TX0790000,Fort Bend County Sheriff's Office,19142,TX,West South Central,South,Region III,FORT BEND,County,True,2018-06-01T00:00:00.000Z,29.574139,-95.75133
+TX0790100,Missouri City Police Department,19143,TX,West South Central,South,Region III,"FORT BEND, HARRIS",City,True,2019-01-01T00:00:00.000Z,29.526602,-95.771015
+TX0790200,Richmond Police Department,19144,TX,West South Central,South,Region III,FORT BEND,City,True,2020-03-01T00:00:00.000Z,29.583628,-95.764145
+TX0790300,Rosenberg Police Department,19145,TX,West South Central,South,Region III,FORT BEND,City,True,2018-01-01T00:00:00.000Z,29.526602,-95.771015
+TX0790400,Stafford Police Department,19146,TX,West South Central,South,Region III,"FORT BEND, HARRIS",City,True,2017-01-01T00:00:00.000Z,29.615366,-95.5539
+TX0790500,Sugar Land Police Department,19147,TX,West South Central,South,Region III,FORT BEND,City,True,2019-10-01T00:00:00.000Z,29.526602,-95.771015
+TX0790700,Needville Police Department,19148,TX,West South Central,South,Region III,FORT BEND,City,True,2020-07-01T00:00:00.000Z,29.526602,-95.771015
+TX0791100,Kendleton Police Department,19149,TX,West South Central,South,Region III,FORT BEND,City,False,,29.526602,-95.771015
+TX0791200,Arcola Police Department,19150,TX,West South Central,South,Region III,FORT BEND,City,True,2020-01-01T00:00:00.000Z,29.510267,-95.4664
+TX0791300,Meadows Place Police Department,19151,TX,West South Central,South,Region III,FORT BEND,City,True,2021-01-01T00:00:00.000Z,29.64694,-95.57966
+TX0791400,Fulshear,26225,TX,West South Central,South,Region III,FORT BEND,City,True,2018-01-01T00:00:00.000Z,29.526602,-95.771015
+TX0791600,Independent School District: Fort Bend,19152,TX,West South Central,South,Region III,FORT BEND,Other,True,2021-01-01T00:00:00.000Z,29.526602,-95.771015
+TX0792500,Independent School District:,33378,TX,West South Central,South,Region III,FORT BEND,Other,True,2021-05-01T00:00:00.000Z,,
+TX0800000,Franklin County Sheriff's Office,19153,TX,West South Central,South,Region III,FRANKLIN,County,True,2021-02-01T00:00:00.000Z,33.175846,-95.219066
+TX0800200,Mount Vernon,32806,TX,West South Central,South,Region III,FRANKLIN,City,True,2021-01-01T00:00:00.000Z,,
+TX0810000,Freestone County Sheriff's Office,19154,TX,West South Central,South,Region III,FREESTONE,County,True,2019-03-01T00:00:00.000Z,31.70126,-96.144487
+TX0810100,Fairfield Police Department,19155,TX,West South Central,South,Region III,FREESTONE,City,True,2021-03-01T00:00:00.000Z,31.727732,-96.16058
+TX0810200,Teague Police Department,19156,TX,West South Central,South,Region III,FREESTONE,City,True,2018-05-01T00:00:00.000Z,31.70126,-96.144487
+TX0810300,Wortham Police Department,19157,TX,West South Central,South,Region III,FREESTONE,City,True,2018-07-01T00:00:00.000Z,31.70126,-96.144487
+TX0820000,Frio County Sheriff's Office,19158,TX,West South Central,South,Region III,FRIO,County,False,,28.887709,-99.091835
+TX0820100,Pearsall Police Department,19159,TX,West South Central,South,Region III,FRIO,City,True,2018-06-01T00:00:00.000Z,28.89319,-99.09486
+TX0820300,Dilley Police Department,19160,TX,West South Central,South,Region III,FRIO,City,True,2022-01-01T00:00:00.000Z,28.869334,-99.108788
+TX0830000,Gaines County Sheriff's Office,19161,TX,West South Central,South,Region III,GAINES,County,True,2021-01-01T00:00:00.000Z,32.719017,-102.642555
+TX0830100,Seagraves Police Department,19162,TX,West South Central,South,Region III,GAINES,City,False,,32.743942,-102.631561
+TX0830200,Seminole Police Department,19163,TX,West South Central,South,Region III,GAINES,City,True,2017-09-01T00:00:00.000Z,32.719017,-102.64256
+TX0840000,Galveston County Sheriff's Office,19164,TX,West South Central,South,Region III,GALVESTON,County,True,2019-10-01T00:00:00.000Z,29.303543,-94.78816
+TX0840200,Dickinson Police Department,19165,TX,West South Central,South,Region III,GALVESTON,City,True,2019-10-01T00:00:00.000Z,29.462942,-95.05215
+TX0840300,Friendswood Police Department,19166,TX,West South Central,South,Region III,"GALVESTON, HARRIS",City,True,2019-10-01T00:00:00.000Z,29.228364,-94.895428
+TX0840400,Galveston Police Department,19167,TX,West South Central,South,Region III,GALVESTON,City,True,2019-10-01T00:00:00.000Z,29.29432,-94.828705
+TX0840500,Hitchcock Police Department,19168,TX,West South Central,South,Region III,GALVESTON,City,True,2021-06-01T00:00:00.000Z,29.348587,-95.01899
+TX0840600,Kemah Police Department,19169,TX,West South Central,South,Region III,GALVESTON,City,True,2019-11-01T00:00:00.000Z,29.531988,-95.01457
+TX0840700,La Marque Police Department,19170,TX,West South Central,South,Region III,GALVESTON,City,True,2020-02-01T00:00:00.000Z,29.228364,-94.895428
+TX0840800,League City Police Department,19171,TX,West South Central,South,Region III,"GALVESTON, HARRIS",City,True,2019-10-01T00:00:00.000Z,29.502487,-95.094574
+TX0840900,Texas City Police Department,19172,TX,West South Central,South,Region III,GALVESTON,City,True,2019-11-01T00:00:00.000Z,29.393375,-94.90877
+TX0841000,University of Texas: Medical Branch,19173,TX,West South Central,South,Region III,GALVESTON,University or College,True,2020-04-01T00:00:00.000Z,29.228364,-94.895428
+TX0841200,Texas A&M University: Galveston,19174,TX,West South Central,South,Region III,GALVESTON,University or College,False,2023-01-01T00:00:00.000Z,29.228364,-94.895428
+TX0841900,Jamaica Beach Police Department,19175,TX,West South Central,South,Region III,GALVESTON,City,True,2019-08-01T00:00:00.000Z,29.228364,-94.895428
+TX0842100,Santa Fe Police Department,19177,TX,West South Central,South,Region III,GALVESTON,City,True,2019-10-01T00:00:00.000Z,29.228364,-94.895428
+TX0842200,Bayou Vista Police Department,19178,TX,West South Central,South,Region III,GALVESTON,City,False,,29.330925,-94.93987
+TX0842300,College of the Mainland,19179,TX,West South Central,South,Region III,GALVESTON,University or College,False,,29.228364,-94.895428
+TX0842800,Independent School District: Santa Fe,25581,TX,West South Central,South,Region III,GALVESTON,Other,True,2020-11-01T00:00:00.000Z,29.228364,-94.895428
+TX0843100,Independent School District: Galveston,23217,TX,West South Central,South,Region III,GALVESTON,Other,False,,29.228364,-94.895428
+TX0850000,Garza County Sheriff's Office,19180,TX,West South Central,South,Region III,GARZA,County,True,2021-01-01T00:00:00.000Z,33.198063,-101.382416
+TX0860000,Gillespie County Sheriff's Office,19182,TX,West South Central,South,Region III,GILLESPIE,County,True,2020-10-01T00:00:00.000Z,30.250408,-98.847885
+TX0860100,Fredericksburg Police Department,19183,TX,West South Central,South,Region III,GILLESPIE,City,True,2020-10-01T00:00:00.000Z,30.250408,-98.847885
+TX0870000,Glasscock County Sheriff's Office,19184,TX,West South Central,South,Region III,GLASSCOCK,County,True,2018-05-01T00:00:00.000Z,31.868006,-101.521494
+TX0880000,Goliad County Sheriff's Office,19185,TX,West South Central,South,Region III,GOLIAD,County,True,2012-01-01T00:00:00.000Z,28.665903,-97.3847
+TX0890000,Gonzales County Sheriff's Office,19187,TX,West South Central,South,Region III,GONZALES,County,True,2021-01-01T00:00:00.000Z,29.468704,-97.477738
+TX0890100,Gonzales Police Department,19188,TX,West South Central,South,Region III,GONZALES,City,True,2021-01-01T00:00:00.000Z,29.468704,-97.477738
+TX0890200,Nixon Police Department,19189,TX,West South Central,South,Region III,GONZALES,City,False,,29.468704,-97.477738
+TX0890400,Waelder Police Department,19190,TX,West South Central,South,Region III,GONZALES,City,True,2019-01-01T00:00:00.000Z,29.468704,-97.477738
+TX0890900,Independent School District:,32054,TX,West South Central,South,Region III,GONZALES,Other,True,2020-11-01T00:00:00.000Z,,
+TX0900000,Gray County Sheriff's Office,19191,TX,West South Central,South,Region III,GRAY,County,True,2019-12-01T00:00:00.000Z,35.536472,-100.96332
+TX0900200,Pampa Police Department,19192,TX,West South Central,South,Region III,GRAY,City,True,2016-12-01T00:00:00.000Z,35.402542,-100.812374
+TX0910000,Grayson County Sheriff's Office,19193,TX,West South Central,South,Region III,GRAYSON,County,True,2020-12-01T00:00:00.000Z,33.635303,-96.61016
+TX0910100,Collinsville Police Department,19194,TX,West South Central,South,Region III,GRAYSON,City,True,2020-02-01T00:00:00.000Z,33.624508,-96.675699
+TX0910200,Denison Police Department,19195,TX,West South Central,South,Region III,GRAYSON,City,True,2019-04-01T00:00:00.000Z,33.624508,-96.675699
+TX0910300,Pottsboro Police Department,19196,TX,West South Central,South,Region III,GRAYSON,City,False,,33.624508,-96.675699
+TX0910400,Sherman Police Department,19197,TX,West South Central,South,Region III,GRAYSON,City,True,2019-09-01T00:00:00.000Z,33.624508,-96.675699
+TX0910500,Van Alstyne Police Department,19198,TX,West South Central,South,Region III,GRAYSON,City,True,2021-01-01T00:00:00.000Z,33.624508,-96.675699
+TX0910600,Whitesboro Police Department,19199,TX,West South Central,South,Region III,GRAYSON,City,False,,33.624508,-96.675699
+TX0910700,Whitewright Police Department,19200,TX,West South Central,South,Region III,"FANNIN, GRAYSON",City,True,2020-02-01T00:00:00.000Z,33.624508,-96.675699
+TX0910900,Bells,29034,TX,West South Central,South,Region III,GRAYSON,City,True,2019-05-01T00:00:00.000Z,,
+TX0911000,Howe Police Department,19201,TX,West South Central,South,Region III,GRAYSON,City,True,2020-08-01T00:00:00.000Z,33.624508,-96.675699
+TX0911800,Grayson College,19202,TX,West South Central,South,Region III,GRAYSON,University or College,True,2022-01-01T00:00:00.000Z,33.624508,-96.675699
+TX091199E,Austin College,19203,TX,West South Central,South,Region III,GRAYSON,University or College,True,2020-05-01T00:00:00.000Z,,
+TX0912000,Gunter,28637,TX,West South Central,South,Region III,GRAYSON,City,True,2019-01-01T00:00:00.000Z,,
+TX0912100,Tioga Police Department,19204,TX,West South Central,South,Region III,GRAYSON,City,True,2018-08-01T00:00:00.000Z,33.624508,-96.675699
+TX0912200,Southmayd Police Department,23218,TX,West South Central,South,Region III,GRAYSON,City,False,,33.624508,-96.675699
+TX0912300,Tom Bean Police Department,19205,TX,West South Central,South,Region III,GRAYSON,City,True,2021-01-01T00:00:00.000Z,33.624508,-96.675699
+TX0912800,Independent School District:,33174,TX,West South Central,South,Region III,GRAYSON,Other,True,2021-01-01T00:00:00.000Z,,
+TX0920000,Gregg County Sheriff's Office,19206,TX,West South Central,South,Region III,GREGG,County,True,2021-01-01T00:00:00.000Z,32.486397,-94.816276
+TX0920200,Gladewater Police Department,19207,TX,West South Central,South,Region III,"GREGG, UPSHUR",City,True,2018-10-01T00:00:00.000Z,32.531593,-94.94975
+TX0920400,Kilgore Police Department,19208,TX,West South Central,South,Region III,"GREGG, RUSK",City,True,2018-01-01T00:00:00.000Z,32.486397,-94.816276
+TX0920500,Longview Police Department,19209,TX,West South Central,South,Region III,"GREGG, HARRISON",City,True,2005-01-01T00:00:00.000Z,32.486397,-94.816276
+TX0920600,White Oak Police Department,19210,TX,West South Central,South,Region III,GREGG,City,True,2019-10-01T00:00:00.000Z,32.52135,-94.86098
+TX0920800,Kilgore College,28814,TX,West South Central,South,Region III,GREGG,University or College,True,2019-01-01T00:00:00.000Z,,
+TX0921500,Lakeport,28594,TX,West South Central,South,Region III,GREGG,City,True,2019-03-01T00:00:00.000Z,,
+TX0930000,Grimes County Sheriff's Office,19211,TX,West South Central,South,Region III,GRIMES,County,True,2020-10-01T00:00:00.000Z,30.543231,-95.988082
+TX0930100,Navasota Police Department,19212,TX,West South Central,South,Region III,GRIMES,City,True,2018-02-01T00:00:00.000Z,30.543231,-95.988082
+TX0930800,Todd Mission,33312,TX,West South Central,South,Region III,GRIMES,City,True,2021-01-01T00:00:00.000Z,,
+TX0940000,Guadalupe County Sheriff's Office,19213,TX,West South Central,South,Region III,GUADALUPE,County,False,,29.602009,-97.97006
+TX0940100,Marion Police Department,19214,TX,West South Central,South,Region III,GUADALUPE,City,True,2020-08-01T00:00:00.000Z,29.583532,-97.948858
+TX0940200,Schertz Police Department,19215,TX,West South Central,South,Region III,"BEXAR, COMAL, GUADALUPE",City,True,2021-01-01T00:00:00.000Z,29.583532,-97.948858
+TX0940300,Seguin Police Department,19216,TX,West South Central,South,Region III,GUADALUPE,City,True,2018-10-01T00:00:00.000Z,29.571827,-97.969574
+TX0940600,Cibolo Police Department,19217,TX,West South Central,South,Region III,GUADALUPE,City,True,2019-07-01T00:00:00.000Z,29.583532,-97.948858
+TX0950000,Hale County Sheriff's Office,19218,TX,West South Central,South,Region III,HALE,County,False,,34.1599,-101.70848
+TX0950100,Abernathy Police Department,19219,TX,West South Central,South,Region III,"HALE, LUBBOCK",City,True,2019-11-01T00:00:00.000Z,34.068436,-101.822888
+TX0950200,Hale Center Police Department,19220,TX,West South Central,South,Region III,HALE,City,False,,34.068436,-101.822888
+TX0950300,Petersburg,28214,TX,West South Central,South,Region III,HALE,City,True,2018-01-01T00:00:00.000Z,,
+TX0950400,Plainview Police Department,19221,TX,West South Central,South,Region III,HALE,City,True,2018-01-01T00:00:00.000Z,34.189625,-101.70323
+TX0960000,Hall County Sheriff's Office,19222,TX,West South Central,South,Region III,HALL,County,True,2018-01-01T00:00:00.000Z,34.453189,-100.576343
+TX0960100,Memphis Police Department,19223,TX,West South Central,South,Region III,HALL,City,True,2018-07-01T00:00:00.000Z,34.453189,-100.576343
+TX0960200,Estelline Police Department,25877,TX,West South Central,South,Region III,HALL,City,False,,34.453189,-100.576343
+TX0970000,Hamilton County Sheriff's Office,19224,TX,West South Central,South,Region III,HAMILTON,County,True,2019-09-01T00:00:00.000Z,31.6949,-98.12756
+TX0970100,Hamilton Police Department,19225,TX,West South Central,South,Region III,HAMILTON,City,True,2018-05-01T00:00:00.000Z,31.706982,-98.111794
+TX0970500,Hico,33274,TX,West South Central,South,Region III,HAMILTON,City,True,2021-01-01T00:00:00.000Z,,
+TX0970600,Independent School District:,31756,TX,West South Central,South,Region III,HAMILTON,Other,True,2020-08-01T00:00:00.000Z,,
+TX0980000,Hansford County Sheriff's Office,19227,TX,West South Central,South,Region III,HANSFORD,County,True,2019-02-01T00:00:00.000Z,36.272847,-101.35693
+TX0980200,Spearman Police Department,19229,TX,West South Central,South,Region III,HANSFORD,City,True,2018-06-01T00:00:00.000Z,36.272847,-101.35693
+TX0990000,Hardeman County Sheriff's Office,19230,TX,West South Central,South,Region III,HARDEMAN,County,True,2015-06-01T00:00:00.000Z,34.289904,-99.745697
+TX0990100,Chillicothe Police Department,19231,TX,West South Central,South,Region III,HARDEMAN,City,False,,34.289904,-99.745697
+TX1000000,Hardin County Sheriff's Office,19233,TX,West South Central,South,Region III,HARDIN,County,True,2020-07-01T00:00:00.000Z,30.329612,-94.393149
+TX1000100,Kountze Police Department,19234,TX,West South Central,South,Region III,HARDIN,City,True,2021-01-01T00:00:00.000Z,30.329612,-94.393149
+TX1000200,Silsbee Police Department,19235,TX,West South Central,South,Region III,HARDIN,City,True,2017-01-01T00:00:00.000Z,30.338036,-94.18288
+TX1000300,Sour Lake Police Department,19236,TX,West South Central,South,Region III,HARDIN,City,True,2019-01-01T00:00:00.000Z,30.329612,-94.393149
+TX1000900,Lumberton Police Department,19237,TX,West South Central,South,Region III,HARDIN,City,True,2010-08-01T00:00:00.000Z,30.265972,-94.19866
+TX1001300,Independent School District:,34797,TX,West South Central,South,Region III,HARDIN,Other,True,2022-12-01T00:00:00.000Z,,
+TX1010000,Harris County Sheriff's Office,19238,TX,West South Central,South,Region III,HARRIS,County,True,2020-02-01T00:00:00.000Z,29.761494,-95.3576
+TX1010100,Baytown Police Department,19239,TX,West South Central,South,Region III,"CHAMBERS, HARRIS",City,True,2020-01-01T00:00:00.000Z,29.761026,-94.964
+TX1010200,Bellaire Police Department,19240,TX,West South Central,South,Region III,HARRIS,City,True,2020-08-01T00:00:00.000Z,29.702028,-95.46946
+TX1010400,Deer Park Police Department,19241,TX,West South Central,South,Region III,HARRIS,City,True,2019-10-01T00:00:00.000Z,29.857273,-95.393037
+TX1010600,Galena Park Police Department,19243,TX,West South Central,South,Region III,HARRIS,City,True,2020-07-01T00:00:00.000Z,29.857273,-95.393037
+TX1010900,Humble Police Department,19244,TX,West South Central,South,Region III,HARRIS,City,True,2020-12-01T00:00:00.000Z,29.998848,-95.2683
+TX1011100,Jacinto City Police Department,19245,TX,West South Central,South,Region III,HARRIS,City,True,2021-01-01T00:00:00.000Z,29.76755,-95.24478
+TX1011200,Jersey Village Police Department,19246,TX,West South Central,South,Region III,HARRIS,City,True,2019-09-01T00:00:00.000Z,29.884201,-95.57067
+TX1011300,La Porte Police Department,19247,TX,West South Central,South,Region III,HARRIS,City,True,2019-10-01T00:00:00.000Z,29.857273,-95.393037
+TX1011500,Pasadena Police Department,19248,TX,West South Central,South,Region III,HARRIS,City,True,2019-01-01T00:00:00.000Z,29.690775,-95.19727
+TX1011700,Seabrook Police Department,19249,TX,West South Central,South,Region III,HARRIS,City,True,2019-10-01T00:00:00.000Z,29.564535,-95.02338
+TX1011800,Shoreacres Police Department,25407,TX,West South Central,South,Region III,HARRIS,City,False,,29.857273,-95.393037
+TX1011900,South Houston Police Department,19250,TX,West South Central,South,Region III,HARRIS,City,True,2011-05-01T00:00:00.000Z,29.857273,-95.393037
+TX1012000,Southside Place Police Department,19251,TX,West South Central,South,Region III,HARRIS,City,True,2018-06-01T00:00:00.000Z,29.714529,-95.43381
+TX1012100,Spring Valley Police Department,19252,TX,West South Central,South,Region III,HARRIS,City,True,2018-07-01T00:00:00.000Z,29.786432,-95.51395
+TX1012300,Tomball Police Department,19254,TX,West South Central,South,Region III,HARRIS,City,True,2006-04-01T00:00:00.000Z,30.095156,-95.61668
+TX1012400,Memorial Villages Police Department,19255,TX,West South Central,South,Region III,HARRIS,City,True,2021-02-01T00:00:00.000Z,29.763218,-95.538185
+TX1012500,Webster Police Department,19256,TX,West South Central,South,Region III,HARRIS,City,True,2020-02-01T00:00:00.000Z,29.534855,-95.11712
+TX1012600,West University Place Police Department,19257,TX,West South Central,South,Region III,HARRIS,City,True,2021-04-01T00:00:00.000Z,29.714615,-95.43791
+TX1012700,Katy Police Department,19258,TX,West South Central,South,Region III,"FORT BEND, HARRIS, WALLER",City,True,1999-01-01T00:00:00.000Z,29.80157,-95.81696
+TX1012800,Nassau Bay Police Department,19259,TX,West South Central,South,Region III,HARRIS,City,True,2019-10-01T00:00:00.000Z,29.857273,-95.393037
+TX1012900,University of Texas: Houston,19260,TX,West South Central,South,Region III,HARRIS,University or College,True,2018-07-01T00:00:00.000Z,29.857273,-95.393037
+TX1013200,University of Houston: Central Campus,19261,TX,West South Central,South,Region III,HARRIS,University or College,True,2019-08-01T00:00:00.000Z,29.719471,-95.35196
+TX1013300,Texas Southern University,19262,TX,West South Central,South,Region III,HARRIS,University or College,False,,29.724693,-95.36266
+TX1013500,Independent School District:,26289,TX,West South Central,South,Region III,HARRIS,Other,True,2021-02-01T00:00:00.000Z,,
+TX1013600,"San Jacinto College,",28217,TX,West South Central,South,Region III,HARRIS,University or College,True,2020-04-01T00:00:00.000Z,,
+TX101389E,Rice University,19263,TX,West South Central,South,Region III,HARRIS,University or College,True,2021-01-01T00:00:00.000Z,,
+TX1013900,University of Houston: Clearlake,19264,TX,West South Central,South,Region III,HARRIS,University or College,True,2021-01-01T00:00:00.000Z,29.577593,-95.106766
+TX1014100,Hedwig Village Police Department,19265,TX,West South Central,South,Region III,HARRIS,City,True,2018-01-01T00:00:00.000Z,29.782753,-95.509995
+TX1014200,University of Houston: Downtown Campus,19266,TX,West South Central,South,Region III,HARRIS,University or College,True,2019-04-01T00:00:00.000Z,29.764938,-95.35893
+TX1015400,Houston Community College,19267,TX,West South Central,South,Region III,HARRIS,University or College,True,2020-10-01T00:00:00.000Z,29.74221,-95.37662
+TX1015700,Houston Metropolitan Transit Authority,19268,TX,West South Central,South,Region III,HARRIS,Other,True,2021-07-01T00:00:00.000Z,29.857273,-95.393037
+TX1015900,Lone Star College System District ,19270,TX,West South Central,South,Region III,HARRIS,University or College,True,2019-01-01T00:00:00.000Z,30.201002,-95.510475
+TX1016000,Independent School District: Klein,19271,TX,West South Central,South,Region III,HARRIS,Other,True,2019-01-01T00:00:00.000Z,30.04779,-95.53231
+TX101619E,Houston Baptist University,19272,TX,West South Central,South,Region III,HARRIS,University or College,False,,,
+TX1016200,Independent School District: Alief,25661,TX,West South Central,South,Region III,HARRIS,Other,True,2021-04-01T00:00:00.000Z,29.857273,-95.393037
+TX1016600,Lakeview Police Department,19273,TX,West South Central,South,Region III,HARRIS,City,True,2019-10-01T00:00:00.000Z,29.857273,-95.393037
+TX1016700,Independent School District: Katy,19274,TX,West South Central,South,Region III,HARRIS,Other,True,2022-01-01T00:00:00.000Z,29.857273,-95.393037
+TX1016900,Port of Houston Authority,19275,TX,West South Central,South,Region III,HARRIS,Other,True,2019-10-01T00:00:00.000Z,29.857273,-95.393037
+TX1017000,Independent School District: Spring Branch,19276,TX,West South Central,South,Region III,HARRIS,Other,True,2020-10-01T00:00:00.000Z,29.798367,-95.51263
+TX1017100,Independent School District: Spring,19277,TX,West South Central,South,Region III,HARRIS,Other,True,2018-10-01T00:00:00.000Z,30.005798,-95.42867
+TX1017200,Independent School District: Pasadena,19278,TX,West South Central,South,Region III,HARRIS,Other,True,2019-03-01T00:00:00.000Z,29.677027,-95.19033
+TX1017300,Independent School District: Aldine,19279,TX,West South Central,South,Region III,HARRIS,Other,True,2017-02-01T00:00:00.000Z,29.935019,-95.35409
+TX101769E,St. Thomas University,19280,TX,West South Central,South,Region III,HARRIS,University or College,True,2020-11-01T00:00:00.000Z,,
+TX1017800,Independent School District: Humble,19281,TX,West South Central,South,Region III,HARRIS,Other,True,2020-12-01T00:00:00.000Z,29.857273,-95.393037
+TX1020000,Harrison County Sheriff's Office,19282,TX,West South Central,South,Region III,HARRISON,County,True,2018-07-01T00:00:00.000Z,32.547991,-94.374434
+TX1020100,Hallsville Police Department,19283,TX,West South Central,South,Region III,HARRISON,City,True,2019-07-01T00:00:00.000Z,32.547991,-94.374434
+TX1020200,Marshall Police Department,19284,TX,West South Central,South,Region III,HARRISON,City,True,2020-04-01T00:00:00.000Z,32.547991,-94.374434
+TX1021200,Texas State Technical College: Marshall,19285,TX,West South Central,South,Region III,HARRISON,University or College,False,,32.547991,-94.374434
+TX1021300,Independent School District: Hallsville,19286,TX,West South Central,South,Region III,HARRISON,Other,True,2021-01-01T00:00:00.000Z,32.547991,-94.374434
+TX1030000,Hartley County Sheriff's Office,19287,TX,West South Central,South,Region III,HARTLEY,County,True,2020-01-01T00:00:00.000Z,35.840244,-102.610047
+TX1040000,Haskell County Sheriff's Office,19288,TX,West South Central,South,Region III,HASKELL,County,True,2020-03-01T00:00:00.000Z,33.175965,-99.730773
+TX1040100,Haskell Police Department,19289,TX,West South Central,South,Region III,HASKELL,City,True,2019-07-01T00:00:00.000Z,33.175965,-99.730773
+TX1050000,Hays County Sheriff's Office,19291,TX,West South Central,South,Region III,HAYS,County,True,2020-09-01T00:00:00.000Z,29.895283,-97.90417
+TX1050100,San Marcos Police Department,19292,TX,West South Central,South,Region III,"CALDWELL, HAYS",City,True,2018-12-01T00:00:00.000Z,30.061225,-98.029267
+TX1050300,Texas State University: San Marcos,19293,TX,West South Central,South,Region III,HAYS,University or College,True,2019-11-01T00:00:00.000Z,29.88583,-97.937836
+TX1050700,Kyle Police Department,19294,TX,West South Central,South,Region III,HAYS,City,True,2018-06-01T00:00:00.000Z,30.061225,-98.029267
+TX1051200,Buda Police Department,19295,TX,West South Central,South,Region III,HAYS,City,True,2020-10-01T00:00:00.000Z,30.061225,-98.029267
+TX1060000,Hemphill County Sheriff's Office,19296,TX,West South Central,South,Region III,HEMPHILL,County,True,2019-01-01T00:00:00.000Z,35.816237,-100.284807
+TX1070000,Henderson County Sheriff's Office,19298,TX,West South Central,South,Region III,HENDERSON,County,True,2021-07-01T00:00:00.000Z,32.206593,-95.84668
+TX1070100,Athens Police Department,19299,TX,West South Central,South,Region III,HENDERSON,City,True,2018-01-01T00:00:00.000Z,32.208633,-95.85635
+TX1070200,Malakoff Police Department,19300,TX,West South Central,South,Region III,HENDERSON,City,False,,32.211633,-95.853418
+TX1070400,Trinity Valley Community College,27734,TX,West South Central,South,Region III,HENDERSON,University or College,True,2018-01-01T00:00:00.000Z,,
+TX1070500,Seven Points Police Department,19301,TX,West South Central,South,Region III,"HENDERSON, KAUFMAN",City,True,2020-10-01T00:00:00.000Z,32.211633,-95.853418
+TX1070600,Chandler,27047,TX,West South Central,South,Region III,HENDERSON,City,True,2019-01-01T00:00:00.000Z,,
+TX1070700,Gun Barrel City Police Department,19302,TX,West South Central,South,Region III,HENDERSON,City,True,2018-06-01T00:00:00.000Z,32.211633,-95.853418
+TX1070900,Caney City Police Department,19304,TX,West South Central,South,Region III,HENDERSON,City,False,,32.211633,-95.853418
+TX1071000,Tool Police Department,19305,TX,West South Central,South,Region III,HENDERSON,City,True,2018-06-01T00:00:00.000Z,32.211633,-95.853418
+TX1071700,Brownsboro,27735,TX,West South Central,South,Region III,HENDERSON,City,True,2018-01-01T00:00:00.000Z,,
+TX1071900,Coffee City Police Department,19306,TX,West South Central,South,Region III,HENDERSON,City,True,2021-03-01T00:00:00.000Z,32.211633,-95.853418
+TX1072200,Log Cabin,27340,TX,West South Central,South,Region III,HENDERSON,City,True,2020-03-01T00:00:00.000Z,,
+TX1072300,Independent School District: Athens,19307,TX,West South Central,South,Region III,HENDERSON,Other,False,,32.204185,-95.8588
+TX1072500,Payne Springs,33331,TX,West South Central,South,Region III,HENDERSON,City,True,2021-01-01T00:00:00.000Z,,
+TX1072800,Independent School District:,30754,TX,West South Central,South,Region III,HENDERSON,Other,True,2020-01-01T00:00:00.000Z,,
+TX1073000,Independent School District:,26310,TX,West South Central,South,Region III,HENDERSON,Other,True,2022-01-01T00:00:00.000Z,,
+TX1080000,Hidalgo County Sheriff's Office,19308,TX,West South Central,South,Region III,HIDALGO,County,True,2019-08-01T00:00:00.000Z,26.396384,-98.18099
+TX1080100,Alamo Police Department,19309,TX,West South Central,South,Region III,HIDALGO,City,True,2018-08-01T00:00:00.000Z,26.186693,-98.11052
+TX1080200,Donna Police Department,19310,TX,West South Central,South,Region III,HIDALGO,City,True,2017-04-01T00:00:00.000Z,26.168982,-98.05338
+TX1080300,Edcouch Police Department,19311,TX,West South Central,South,Region III,HIDALGO,City,False,2016-12-01T00:00:00.000Z,26.396384,-98.18099
+TX1080400,Edinburg Police Department,19312,TX,West South Central,South,Region III,HIDALGO,City,True,2021-01-01T00:00:00.000Z,26.396384,-98.18099
+TX1080500,Elsa Police Department,19313,TX,West South Central,South,Region III,HIDALGO,City,True,2021-01-01T00:00:00.000Z,26.396384,-98.18099
+TX1080600,Hidalgo Police Department,19314,TX,West South Central,South,Region III,HIDALGO,City,True,2021-01-01T00:00:00.000Z,26.100193,-98.26153
+TX1080700,La Villa Police Department,19315,TX,West South Central,South,Region III,HIDALGO,City,True,2015-07-01T00:00:00.000Z,26.396384,-98.18099
+TX1080800,McAllen Police Department,19316,TX,West South Central,South,Region III,HIDALGO,City,True,2021-01-01T00:00:00.000Z,26.396384,-98.18099
+TX1080900,Mercedes Police Department,19317,TX,West South Central,South,Region III,HIDALGO,City,True,2020-07-01T00:00:00.000Z,26.14871,-97.91219
+TX1081000,Mission Police Department,19318,TX,West South Central,South,Region III,HIDALGO,City,True,2021-10-01T00:00:00.000Z,26.396384,-98.18099
+TX1081100,Pharr Police Department,19319,TX,West South Central,South,Region III,HIDALGO,City,True,2021-01-01T00:00:00.000Z,26.396384,-98.18099
+TX1081300,San Juan Police Department,19320,TX,West South Central,South,Region III,HIDALGO,City,True,2016-11-01T00:00:00.000Z,26.396384,-98.18099
+TX1081400,Weslaco Police Department,19321,TX,West South Central,South,Region III,HIDALGO,City,True,2021-01-01T00:00:00.000Z,26.17173,-97.974785
+TX1081500,La Joya Police Department,19322,TX,West South Central,South,Region III,HIDALGO,City,True,2021-01-01T00:00:00.000Z,26.396384,-98.18099
+TX1081800,Hidalgo County Constable:,33386,TX,West South Central,South,Region III,HIDALGO,Other,True,2021-01-01T00:00:00.000Z,,
+TX1082200,Palmview Police Department,19324,TX,West South Central,South,Region III,HIDALGO,City,True,2018-02-01T00:00:00.000Z,26.235779,-98.36717
+TX1082300,Alton Police Department,19325,TX,West South Central,South,Region III,HIDALGO,City,True,2019-09-01T00:00:00.000Z,26.396384,-98.18099
+TX1082400,Progreso Police Department,19326,TX,West South Central,South,Region III,HIDALGO,City,False,,26.396384,-98.18099
+TX1082500,Independent School District: Edinburg,19327,TX,West South Central,South,Region III,HIDALGO,Other,True,2020-12-01T00:00:00.000Z,26.306498,-98.14821
+TX1082600,Independent School District:,32135,TX,West South Central,South,Region III,HIDALGO,Other,True,2020-11-01T00:00:00.000Z,,
+TX1082900,Independent School District: Weslaco,19328,TX,West South Central,South,Region III,HIDALGO,Other,False,,26.396384,-98.18099
+TX1083000,Penitas Police Department,19329,TX,West South Central,South,Region III,HIDALGO,City,True,2019-01-01T00:00:00.000Z,26.396384,-98.18099
+TX1083200,Sullivan City Police Department,19330,TX,West South Central,South,Region III,HIDALGO,City,True,2019-10-01T00:00:00.000Z,26.396384,-98.18099
+TX1083500,Palmhurst Police Department,19331,TX,West South Central,South,Region III,HIDALGO,City,True,2019-10-01T00:00:00.000Z,26.257223,-98.27801
+TX1084100,University of Texas: Rio Grande Valley,25846,TX,West South Central,South,Region III,HIDALGO,University or College,True,2020-02-01T00:00:00.000Z,,
+TX1090000,Hill County Sheriff's Office,19332,TX,West South Central,South,Region III,HILL,County,True,2018-06-01T00:00:00.000Z,31.982681,-97.130668
+TX1090100,Hillsboro Police Department,19333,TX,West South Central,South,Region III,HILL,City,True,2018-03-01T00:00:00.000Z,31.982681,-97.130668
+TX1090200,Hubbard Police Department,19334,TX,West South Central,South,Region III,HILL,City,False,,31.982681,-97.130668
+TX1090300,Itasca Police Department,19335,TX,West South Central,South,Region III,HILL,City,True,2019-07-01T00:00:00.000Z,32.159992,-97.15036
+TX1090600,Whitney Police Department,19336,TX,West South Central,South,Region III,HILL,City,True,2020-02-01T00:00:00.000Z,31.948738,-97.321304
+TX1100000,Hockley County Sheriff's Office,19338,TX,West South Central,South,Region III,HOCKLEY,County,True,2019-04-01T00:00:00.000Z,33.57934,-102.37784
+TX1100100,Levelland Police Department,19339,TX,West South Central,South,Region III,HOCKLEY,City,True,2018-10-01T00:00:00.000Z,33.57934,-102.37784
+TX1100400,South Plains College,19341,TX,West South Central,South,Region III,HOCKLEY,University or College,True,2021-01-01T00:00:00.000Z,33.578476,-102.3678
+TX1110000,Hood County Sheriff's Office,19344,TX,West South Central,South,Region III,HOOD,County,True,2017-09-01T00:00:00.000Z,32.430149,-97.831677
+TX1110100,Granbury Police Department,19345,TX,West South Central,South,Region III,HOOD,City,True,2019-11-01T00:00:00.000Z,32.430149,-97.831677
+TX1110300,Tolar Police Department,19346,TX,West South Central,South,Region III,HOOD,City,False,,32.430149,-97.831677
+TX1120000,Hopkins County Sheriff's Office,19347,TX,West South Central,South,Region III,HOPKINS,County,True,2019-02-01T00:00:00.000Z,33.139645,-95.59928
+TX1120100,Cumby Police Department,19348,TX,West South Central,South,Region III,HOPKINS,City,False,,33.148959,-95.565194
+TX1120200,Sulphur Springs Police Department,19349,TX,West South Central,South,Region III,HOPKINS,City,True,2019-11-01T00:00:00.000Z,33.13756,-95.602875
+TX1130000,Houston County Sheriff's Office,19350,TX,West South Central,South,Region III,HOUSTON,County,True,2018-01-01T00:00:00.000Z,31.31833,-95.46038
+TX1130100,Crockett Police Department,19351,TX,West South Central,South,Region III,HOUSTON,City,True,2020-08-01T00:00:00.000Z,31.319166,-95.45701
+TX1130500,Grapeland Police Department,19352,TX,West South Central,South,Region III,HOUSTON,City,True,2018-03-01T00:00:00.000Z,31.323036,-95.4216
+TX1140000,Howard County Sheriff's Office,19353,TX,West South Central,South,Region III,HOWARD,County,True,2019-01-01T00:00:00.000Z,32.303471,-101.438772
+TX1140100,Big Spring Police Department,19354,TX,West South Central,South,Region III,HOWARD,City,True,2018-01-01T00:00:00.000Z,32.25286,-101.47287
+TX1150000,Hudspeth County Sheriff's Office,19355,TX,West South Central,South,Region III,HUDSPETH,County,True,2018-04-01T00:00:00.000Z,31.450868,-105.377549
+TX1160000,Hunt County Sheriff's Office,19356,TX,West South Central,South,Region III,HUNT,County,True,2019-07-01T00:00:00.000Z,33.13758,-96.10548
+TX1160200,Commerce Police Department,19358,TX,West South Central,South,Region III,HUNT,City,True,2021-01-01T00:00:00.000Z,33.249092,-95.898285
+TX1160300,Greenville Police Department,19359,TX,West South Central,South,Region III,HUNT,City,True,2019-04-01T00:00:00.000Z,33.123292,-96.084202
+TX1160400,Wolfe City Police Department,19360,TX,West South Central,South,Region III,HUNT,City,False,,33.123292,-96.084202
+TX1160600,Texas A&M University: Commerce,19361,TX,West South Central,South,Region III,HUNT,University or College,True,2009-03-01T00:00:00.000Z,33.123292,-96.084202
+TX1160700,Caddo Mills Police Department,19362,TX,West South Central,South,Region III,HUNT,City,True,2020-01-01T00:00:00.000Z,33.123292,-96.084202
+TX1161300,West Tawakoni Police Department,19364,TX,West South Central,South,Region III,HUNT,City,False,,32.90358,-96.050934
+TX1161400,Quinlan Police Department,19365,TX,West South Central,South,Region III,HUNT,City,False,,33.123292,-96.084202
+TX1170000,Hutchinson County Sheriff's Office,19367,TX,West South Central,South,Region III,HUTCHINSON,County,True,2021-01-01T00:00:00.000Z,35.837047,-101.362746
+TX1170100,Borger Police Department,19368,TX,West South Central,South,Region III,HUTCHINSON,City,True,2016-07-01T00:00:00.000Z,35.837047,-101.362746
+TX1170500,Stinnett Police Department,19369,TX,West South Central,South,Region III,HUTCHINSON,City,True,2020-09-01T00:00:00.000Z,35.837047,-101.362746
+TX1180000,Irion County Sheriff's Office,19370,TX,West South Central,South,Region III,IRION,County,True,2018-08-01T00:00:00.000Z,31.303424,-100.981304
+TX1190000,Jack County Sheriff's Office,19371,TX,West South Central,South,Region III,JACK,County,True,2020-06-01T00:00:00.000Z,33.23241,-98.171884
+TX1190100,Jacksboro Police Department,19372,TX,West South Central,South,Region III,JACK,City,True,2021-01-01T00:00:00.000Z,33.23241,-98.171884
+TX1200000,Jackson County Sheriff's Office,19373,TX,West South Central,South,Region III,JACKSON,County,True,2012-07-01T00:00:00.000Z,28.97839,-96.646736
+TX1200100,Edna Police Department,19374,TX,West South Central,South,Region III,JACKSON,City,True,2011-11-01T00:00:00.000Z,28.975735,-96.64819
+TX1200200,Ganado Police Department,19375,TX,West South Central,South,Region III,JACKSON,City,True,2021-01-01T00:00:00.000Z,28.959802,-96.58908
+TX1210000,Jasper County Sheriff's Office,19376,TX,West South Central,South,Region III,JASPER,County,True,2021-01-01T00:00:00.000Z,30.925835,-93.98865
+TX1210100,Jasper Police Department,19377,TX,West South Central,South,Region III,JASPER,City,True,2018-06-01T00:00:00.000Z,30.916101,-94.000305
+TX1210200,Kirbyville Police Department,19378,TX,West South Central,South,Region III,JASPER,City,False,,30.660553,-93.89276
+TX1220000,Jeff Davis County Sheriff's Office,19379,TX,West South Central,South,Region III,JEFF DAVIS,County,True,2021-01-01T00:00:00.000Z,30.617342,-104.187821
+TX1230000,Jefferson County Sheriff's Office,19380,TX,West South Central,South,Region III,JEFFERSON,County,True,2020-11-01T00:00:00.000Z,30.079504,-94.09442
+TX1230100,Beaumont Police Department,19381,TX,West South Central,South,Region III,JEFFERSON,City,True,2020-08-01T00:00:00.000Z,29.854,-94.149331
+TX1230300,Groves Police Department,19382,TX,West South Central,South,Region III,JEFFERSON,City,True,2020-10-01T00:00:00.000Z,29.854,-94.149331
+TX1230500,Nederland Police Department,19384,TX,West South Central,South,Region III,JEFFERSON,City,True,2018-12-01T00:00:00.000Z,29.854,-94.149331
+TX1230700,Port Arthur Police Department,19386,TX,West South Central,South,Region III,"JEFFERSON, ORANGE",City,True,2019-09-01T00:00:00.000Z,29.854,-94.149331
+TX1230800,Port Neches Police Department,19387,TX,West South Central,South,Region III,JEFFERSON,City,True,2016-09-01T00:00:00.000Z,29.854,-94.149331
+TX1231000,Lamar University: Beaumont,19388,TX,West South Central,South,Region III,JEFFERSON,University or College,True,2021-01-01T00:00:00.000Z,29.854,-94.149331
+TX1240000,Jim Hogg County Sheriff's Office,19389,TX,West South Central,South,Region III,JIM HOGG,County,True,2019-01-01T00:00:00.000Z,27.306555,-98.67707
+TX1250000,Jim Wells County Sheriff's Office,19390,TX,West South Central,South,Region III,JIM WELLS,County,True,2021-01-01T00:00:00.000Z,27.753183,-98.06999
+TX1250100,Alice Police Department,19391,TX,West South Central,South,Region III,JIM WELLS,City,True,2021-01-01T00:00:00.000Z,27.733516,-98.090814
+TX1250200,Premont Police Department,19392,TX,West South Central,South,Region III,JIM WELLS,City,False,,27.733516,-98.090814
+TX1250800,Orange Grove Police Department,19393,TX,West South Central,South,Region III,JIM WELLS,City,False,,27.733516,-98.090814
+TX1260000,Johnson County Sheriff's Office,19394,TX,West South Central,South,Region III,JOHNSON,County,True,2019-02-01T00:00:00.000Z,32.372623,-97.388985
+TX1260100,Alvarado Police Department,19395,TX,West South Central,South,Region III,JOHNSON,City,True,2020-01-01T00:00:00.000Z,32.40696,-97.21228
+TX1260200,Burleson Police Department,19396,TX,West South Central,South,Region III,"JOHNSON, TARRANT",City,True,2019-02-01T00:00:00.000Z,32.542843,-97.32428
+TX1260300,Cleburne Police Department,19397,TX,West South Central,South,Region III,JOHNSON,City,True,1999-01-01T00:00:00.000Z,32.379784,-97.364952
+TX1260500,Joshua Police Department,19398,TX,West South Central,South,Region III,JOHNSON,City,True,2019-02-01T00:00:00.000Z,32.460262,-97.388435
+TX1260600,Keene Police Department,19399,TX,West South Central,South,Region III,JOHNSON,City,True,2014-01-01T00:00:00.000Z,32.3962,-97.3286
+TX1261200,Venus Police Department,23100,TX,West South Central,South,Region III,"ELLIS, JOHNSON",City,True,2019-02-01T00:00:00.000Z,32.379784,-97.364952
+TX1261300,Godley Police Department,19400,TX,West South Central,South,Region III,JOHNSON,City,True,2019-10-01T00:00:00.000Z,32.379784,-97.364952
+TX1262000,Independent School District:,30734,TX,West South Central,South,Region III,JOHNSON,Other,True,2020-01-01T00:00:00.000Z,,
+TX1270000,Jones County Sheriff's Office,19401,TX,West South Central,South,Region III,JONES,County,True,2021-01-01T00:00:00.000Z,32.743709,-99.87443
+TX1270100,Anson Police Department,19402,TX,West South Central,South,Region III,JONES,City,False,2019-06-01T00:00:00.000Z,32.754837,-99.89682
+TX1270200,Hamlin Police Department,19403,TX,West South Central,South,Region III,JONES,City,True,2018-12-01T00:00:00.000Z,32.743709,-99.87443
+TX1270400,Stamford Police Department,19404,TX,West South Central,South,Region III,"HASKELL, JONES",City,True,2021-01-01T00:00:00.000Z,32.743709,-99.87443
+TX1270500,Hawley Police Department,19405,TX,West South Central,South,Region III,JONES,City,True,2022-01-01T00:00:00.000Z,32.743709,-99.87443
+TX1280000,Karnes County Sheriff's Office,19406,TX,West South Central,South,Region III,KARNES,County,True,2019-11-01T00:00:00.000Z,28.885094,-97.90106
+TX1280100,Karnes City Police Department,19407,TX,West South Central,South,Region III,KARNES,City,True,2020-12-01T00:00:00.000Z,28.884966,-97.90256
+TX1280200,Kenedy Police Department,19408,TX,West South Central,South,Region III,KARNES,City,True,2019-10-01T00:00:00.000Z,28.818602,-97.850266
+TX1290000,Kaufman County Sheriff's Office,19409,TX,West South Central,South,Region III,KAUFMAN,County,True,2009-06-01T00:00:00.000Z,32.598944,-96.288378
+TX1290100,Forney Police Department,19410,TX,West South Central,South,Region III,KAUFMAN,City,True,2006-03-01T00:00:00.000Z,32.598944,-96.288378
+TX1290200,Kaufman Police Department,19411,TX,West South Central,South,Region III,KAUFMAN,City,True,2016-07-01T00:00:00.000Z,32.587692,-96.308975
+TX1290300,Kemp Police Department,19412,TX,West South Central,South,Region III,KAUFMAN,City,True,2019-06-01T00:00:00.000Z,32.598944,-96.288378
+TX1290500,Terrell Police Department,19413,TX,West South Central,South,Region III,KAUFMAN,City,True,2014-07-01T00:00:00.000Z,32.598944,-96.288378
+TX1290900,Crandall Police Department,19414,TX,West South Central,South,Region III,KAUFMAN,City,True,2019-07-01T00:00:00.000Z,32.598944,-96.288378
+TX1291000,Kaufman County Constable:,33363,TX,West South Central,South,Region III,KAUFMAN,Other,True,2021-01-01T00:00:00.000Z,,
+TX1291300,Independent School District:,28679,TX,West South Central,South,Region III,KAUFMAN,Other,True,2019-01-01T00:00:00.000Z,,
+TX1291500,Independent School District: Kaufman,19415,TX,West South Central,South,Region III,KAUFMAN,Other,False,,32.58366,-96.312706
+TX1292100,"Oak Ridge, Kaufman County",33342,TX,West South Central,South,Region III,KAUFMAN,City,True,2021-01-01T00:00:00.000Z,,
+TX129239E,Southwestern Christian College,33399,TX,West South Central,South,Region III,KAUFMAN,University or College,True,2021-01-01T00:00:00.000Z,,
+TX1300000,Kendall County Sheriff's Office,19416,TX,West South Central,South,Region III,KENDALL,County,True,2016-11-01T00:00:00.000Z,29.804724,-98.722595
+TX1300100,Boerne Police Department,19417,TX,West South Central,South,Region III,KENDALL,City,True,2016-08-01T00:00:00.000Z,29.944524,-98.711094
+TX1310000,Kenedy County Sheriff's Office,19418,TX,West South Central,South,Region III,KENEDY,County,True,2018-08-01T00:00:00.000Z,26.894148,-97.586519
+TX1320000,Kent County Sheriff's Office,19419,TX,West South Central,South,Region III,KENT,County,False,,33.18478,-100.76972
+TX1330000,Kerr County Sheriff's Office,19420,TX,West South Central,South,Region III,KERR,County,True,2021-01-01T00:00:00.000Z,30.028692,-99.12322
+TX1330100,Kerrville Police Department,19421,TX,West South Central,South,Region III,KERR,City,True,2019-01-01T00:00:00.000Z,30.059953,-99.353339
+TX1330500,Ingram Police Department,19422,TX,West South Central,South,Region III,KERR,City,True,2018-04-01T00:00:00.000Z,30.07363,-99.23886
+TX1330800,Independent School District:,32174,TX,West South Central,South,Region III,KERR,Other,True,2020-12-01T00:00:00.000Z,,
+TX1340000,Kimble County Sheriff's Office,19423,TX,West South Central,South,Region III,KIMBLE,County,True,2020-07-01T00:00:00.000Z,30.479472,-99.746396
+TX1340100,Junction Police Department,19424,TX,West South Central,South,Region III,KIMBLE,City,True,2019-01-01T00:00:00.000Z,30.488403,-99.76526
+TX1350000,King County Sheriff's Office,19425,TX,West South Central,South,Region III,KING,County,True,2021-01-01T00:00:00.000Z,33.614159,-100.250548
+TX1360000,Kinney County Sheriff's Office,19426,TX,West South Central,South,Region III,KINNEY,County,False,,29.347086,-100.4177
+TX1360500,Brackettville Police Department,19427,TX,West South Central,South,Region III,KINNEY,City,False,,29.347086,-100.4177
+TX1370000,Kleberg County Sheriff's Office,19428,TX,West South Central,South,Region III,KLEBERG,County,True,2020-05-01T00:00:00.000Z,27.438735,-97.66062
+TX1370100,Kingsville Police Department,19429,TX,West South Central,South,Region III,KLEBERG,City,True,2021-01-01T00:00:00.000Z,27.438735,-97.66062
+TX1370300,Texas A&M University: Kingsville,19430,TX,West South Central,South,Region III,KLEBERG,University or College,False,,27.438735,-97.66062
+TX1380000,Knox County Sheriff's Office,19431,TX,West South Central,South,Region III,KNOX,County,False,,33.616657,-99.747112
+TX1380200,Knox City Police Department,19432,TX,West South Central,South,Region III,KNOX,City,True,2018-07-01T00:00:00.000Z,33.616657,-99.747112
+TX1380300,Munday Police Department,19433,TX,West South Central,South,Region III,KNOX,City,False,,33.616657,-99.747112
+TX1390000,Lamar County Sheriff's Office,19434,TX,West South Central,South,Region III,LAMAR,County,True,2021-01-01T00:00:00.000Z,33.65229,-95.55757
+TX1390200,Paris Police Department,19435,TX,West South Central,South,Region III,LAMAR,City,True,2020-01-01T00:00:00.000Z,33.65059,-95.52379
+TX1390400,Paris Junior College,19436,TX,West South Central,South,Region III,LAMAR,University or College,True,2020-12-01T00:00:00.000Z,33.667263,-95.570348
+TX1391000,Reno Police Department,19437,TX,West South Central,South,Region III,LAMAR,City,True,2016-01-01T00:00:00.000Z,33.667263,-95.570348
+TX1400000,Lamb County Sheriff's Office,19438,TX,West South Central,South,Region III,LAMB,County,True,2021-01-01T00:00:00.000Z,33.917583,-102.32047
+TX1400200,Earth Police Department,19439,TX,West South Central,South,Region III,LAMB,City,True,2021-01-01T00:00:00.000Z,34.068861,-102.348018
+TX1400300,Littlefield Police Department,19440,TX,West South Central,South,Region III,LAMB,City,True,2017-01-01T00:00:00.000Z,34.068861,-102.348018
+TX1400400,Olton Police Department,19441,TX,West South Central,South,Region III,LAMB,City,False,,34.068861,-102.348018
+TX1400500,Sudan Police Department,19442,TX,West South Central,South,Region III,LAMB,City,True,2019-01-01T00:00:00.000Z,34.068861,-102.348018
+TX1410000,Lampasas County Sheriff's Office,19443,TX,West South Central,South,Region III,LAMPASAS,County,True,2019-07-01T00:00:00.000Z,31.196731,-98.240889
+TX1410100,Lampasas Police Department,19444,TX,West South Central,South,Region III,LAMPASAS,City,True,2016-09-01T00:00:00.000Z,31.196731,-98.240889
+TX1410600,Lometa Police Department,19445,TX,West South Central,South,Region III,LAMPASAS,City,False,,31.196731,-98.240889
+TX1410800,Kempner Police Department,19446,TX,West South Central,South,Region III,LAMPASAS,City,True,2020-07-01T00:00:00.000Z,31.196731,-98.240889
+TX1420000,La Salle County Sheriff's Office,19447,TX,West South Central,South,Region III,LA SALLE,County,True,2020-12-01T00:00:00.000Z,28.351098,-99.096774
+TX1420600,Encinal Police Department,25876,TX,West South Central,South,Region III,LA SALLE,City,False,,28.351098,-99.096774
+TX1430000,Lavaca County Sheriff's Office,19449,TX,West South Central,South,Region III,LAVACA,County,True,2012-01-01T00:00:00.000Z,29.382578,-96.923633
+TX1430100,Hallettsville Police Department,19450,TX,West South Central,South,Region III,LAVACA,City,True,2017-03-01T00:00:00.000Z,29.443789,-96.94298
+TX1430200,Shiner Police Department,25875,TX,West South Central,South,Region III,LAVACA,City,True,2022-01-01T00:00:00.000Z,29.382578,-96.923633
+TX1430300,Yoakum Police Department,19451,TX,West South Central,South,Region III,"DEWITT, LAVACA",City,True,2019-01-01T00:00:00.000Z,29.382578,-96.923633
+TX1431000,Moulton Police Department,23200,TX,West South Central,South,Region III,LAVACA,City,True,2018-06-01T00:00:00.000Z,29.382578,-96.923633
+TX1440000,Lee County Sheriff's Office,19452,TX,West South Central,South,Region III,LEE,County,True,2019-09-01T00:00:00.000Z,30.321105,-96.976365
+TX1440100,Giddings Police Department,19453,TX,West South Central,South,Region III,LEE,City,True,2019-05-01T00:00:00.000Z,30.18012,-96.937515
+TX1440200,Lexington Police Department,19454,TX,West South Central,South,Region III,LEE,City,True,2022-01-01T00:00:00.000Z,30.321105,-96.976365
+TX1450000,Leon County Sheriff's Office,19455,TX,West South Central,South,Region III,LEON,County,True,2018-01-01T00:00:00.000Z,31.300493,-95.995622
+TX1450100,Buffalo,32254,TX,West South Central,South,Region III,LEON,City,True,2020-12-01T00:00:00.000Z,,
+TX1450900,Normangee Police Department,25770,TX,West South Central,South,Region III,"LEON, MADISON",City,False,2015-08-01T00:00:00.000Z,31.300493,-95.995622
+TX1451000,Jewett Police Department,25408,TX,West South Central,South,Region III,LEON,City,False,,31.300493,-95.995622
+TX1460000,Liberty County Sheriff's Office,19456,TX,West South Central,South,Region III,LIBERTY,County,True,2018-01-01T00:00:00.000Z,30.162189,-94.822682
+TX1460100,Cleveland Police Department,19457,TX,West South Central,South,Region III,"LIBERTY, MONTGOMERY",City,False,,30.342987,-95.07747
+TX1460300,Dayton Police Department,19458,TX,West South Central,South,Region III,LIBERTY,City,True,2017-05-01T00:00:00.000Z,30.046,-94.88714
+TX1460400,Liberty Police Department,19459,TX,West South Central,South,Region III,LIBERTY,City,True,2020-12-01T00:00:00.000Z,30.162189,-94.822682
+TX1470000,Limestone County Sheriff's Office,19461,TX,West South Central,South,Region III,LIMESTONE,County,True,2021-01-01T00:00:00.000Z,31.51512,-96.51308
+TX1470200,Groesbeck Police Department,19462,TX,West South Central,South,Region III,LIMESTONE,City,True,2018-07-01T00:00:00.000Z,31.547543,-96.593623
+TX1470300,Mexia Police Department,19463,TX,West South Central,South,Region III,LIMESTONE,City,True,2018-01-01T00:00:00.000Z,31.547543,-96.593623
+TX1471100,Independent School District: Mexia,19464,TX,West South Central,South,Region III,LIMESTONE,Other,False,,31.6865,-96.476814
+TX1480000,Lipscomb County Sheriff's Office,19465,TX,West South Central,South,Region III,LIPSCOMB,County,True,2019-12-01T00:00:00.000Z,36.2802,-100.272683
+TX1490000,Live Oak County Sheriff's Office,19466,TX,West South Central,South,Region III,LIVE OAK,County,False,,28.351535,-98.126961
+TX1490100,Three Rivers Police Department,19467,TX,West South Central,South,Region III,LIVE OAK,City,False,2019-07-01T00:00:00.000Z,28.351535,-98.126961
+TX1490700,George West Police Department,25874,TX,West South Central,South,Region III,LIVE OAK,City,True,2021-09-01T00:00:00.000Z,28.351535,-98.126961
+TX1500000,Llano County Sheriff's Office,19468,TX,West South Central,South,Region III,LLANO,County,True,2019-05-01T00:00:00.000Z,30.707584,-98.68469
+TX1500100,Llano Police Department,19469,TX,West South Central,South,Region III,LLANO,City,True,1998-01-01T00:00:00.000Z,30.750307,-98.67835
+TX1500500,Sunrise Beach Village Police Department,19470,TX,West South Central,South,Region III,LLANO,City,True,2019-01-01T00:00:00.000Z,30.58983,-98.42496
+TX1510000,Loving County Sheriff's Office,19471,TX,West South Central,South,Region III,LOVING,County,True,2019-05-01T00:00:00.000Z,31.844936,-103.561229
+TX1520000,Lubbock County Sheriff's Office,19472,TX,West South Central,South,Region III,LUBBOCK,County,True,1998-05-01T00:00:00.000Z,33.611469,-101.819944
+TX1520100,Idalou Police Department,19473,TX,West South Central,South,Region III,LUBBOCK,City,True,2019-01-01T00:00:00.000Z,33.611469,-101.819944
+TX1520200,Lubbock Police Department,19474,TX,West South Central,South,Region III,LUBBOCK,City,True,2017-10-01T00:00:00.000Z,33.611469,-101.819944
+TX1520300,Shallowater Police Department,19475,TX,West South Central,South,Region III,LUBBOCK,City,True,2021-01-01T00:00:00.000Z,33.611469,-101.819944
+TX1520400,Slaton Police Department,19476,TX,West South Central,South,Region III,LUBBOCK,City,True,2021-01-01T00:00:00.000Z,33.438923,-101.64312
+TX1520600,Texas Tech University: Lubbock,19477,TX,West South Central,South,Region III,LUBBOCK,University or College,True,2017-07-01T00:00:00.000Z,33.611469,-101.819944
+TX1520800,Wolfforth Police Department,19478,TX,West South Central,South,Region III,LUBBOCK,City,True,2016-10-01T00:00:00.000Z,33.611469,-101.819944
+TX1521100,Ransom Canyon Police Department,19479,TX,West South Central,South,Region III,LUBBOCK,City,False,,33.611469,-101.819944
+TX1521500,New Deal Police Department,19482,TX,West South Central,South,Region III,LUBBOCK,City,False,,33.611469,-101.819944
+TX1522000,Lubbock Christian University,28254,TX,West South Central,South,Region III,LUBBOCK,University or College,True,2018-01-01T00:00:00.000Z,,
+TX1522700,Independent School District:,26227,TX,West South Central,South,Region III,LUBBOCK,Other,True,2019-11-01T00:00:00.000Z,,
+TX1522800,University Medical Center,33453,TX,West South Central,South,Region III,LUBBOCK,Other,True,2021-07-01T00:00:00.000Z,,
+TX1530000,Lynn County Sheriff's Office,19483,TX,West South Central,South,Region III,LYNN,County,True,2019-07-01T00:00:00.000Z,33.178412,-101.818493
+TX1530200,Tahoka Police Department,19484,TX,West South Central,South,Region III,LYNN,City,True,2018-01-01T00:00:00.000Z,33.178412,-101.818493
+TX1530500,O'Donnell Police Department,19485,TX,West South Central,South,Region III,"DAWSON, LYNN",City,False,2019-07-01T00:00:00.000Z,33.178412,-101.818493
+TX1540000,McCulloch County Sheriff's Office,19486,TX,West South Central,South,Region III,MCCULLOCH,County,True,2019-01-01T00:00:00.000Z,31.205477,-99.359856
+TX1540100,Brady Police Department,19487,TX,West South Central,South,Region III,MCCULLOCH,City,True,2019-01-01T00:00:00.000Z,31.205477,-99.359856
+TX1550000,McLennan County Sheriff's Office,19488,TX,West South Central,South,Region III,MCLENNAN,County,True,1998-02-01T00:00:00.000Z,31.55447,-97.1364
+TX1550100,Bellmead Police Department,19489,TX,West South Central,South,Region III,MCLENNAN,City,True,2017-02-01T00:00:00.000Z,31.589613,-97.10078
+TX1550200,Beverly Hills Police Department,19490,TX,West South Central,South,Region III,MCLENNAN,City,True,2022-01-01T00:00:00.000Z,31.525549,-97.1494
+TX1550400,Hewitt Police Department,19491,TX,West South Central,South,Region III,MCLENNAN,City,True,2016-06-01T00:00:00.000Z,31.549493,-97.201472
+TX1550500,Lacy-Lakeview Police Department,19492,TX,West South Central,South,Region III,MCLENNAN,City,True,2016-01-01T00:00:00.000Z,31.62393,-97.10311
+TX1550600,Lorena Police Department,19493,TX,West South Central,South,Region III,MCLENNAN,City,True,2018-01-01T00:00:00.000Z,31.549493,-97.201472
+TX1550700,McGregor Police Department,19494,TX,West South Central,South,Region III,MCLENNAN,City,False,,31.4415,-97.40726
+TX1550800,Mart Police Department,19495,TX,West South Central,South,Region III,"LIMESTONE, MCLENNAN",City,False,,31.549493,-97.201472
+TX1551100,Robinson Police Department,19497,TX,West South Central,South,Region III,MCLENNAN,City,True,2019-08-01T00:00:00.000Z,31.468706,-97.11562
+TX1551200,Waco Police Department,19498,TX,West South Central,South,Region III,MCLENNAN,City,True,2018-04-01T00:00:00.000Z,31.549493,-97.201472
+TX1551300,West Police Department,19499,TX,West South Central,South,Region III,MCLENNAN,City,True,2018-06-01T00:00:00.000Z,31.549493,-97.201472
+TX1551400,Woodway Police Department,19500,TX,West South Central,South,Region III,MCLENNAN,City,True,1998-01-01T00:00:00.000Z,31.506077,-97.22793
+TX1551600,McLennan Community College,19501,TX,West South Central,South,Region III,MCLENNAN,University or College,True,2017-07-01T00:00:00.000Z,31.591955,-97.17414
+TX1551700,Riesel Police Department,19502,TX,West South Central,South,Region III,MCLENNAN,City,False,,31.549493,-97.201472
+TX1551800,Texas State Technical College: Waco,19503,TX,West South Central,South,Region III,MCLENNAN,University or College,True,2019-12-01T00:00:00.000Z,31.549493,-97.201472
+TX155259E,Baylor University: Waco,19504,TX,West South Central,South,Region III,MCLENNAN,University or College,False,,,
+TX1552600,Bruceville-Eddy Police Department,19505,TX,West South Central,South,Region III,MCLENNAN,City,True,2019-01-01T00:00:00.000Z,31.306688,-97.24659
+TX1560000,McMullen County Sheriff's Office,19506,TX,West South Central,South,Region III,MCMULLEN,County,False,,28.384922,-98.578853
+TX1570000,Madison County Sheriff's Office,19507,TX,West South Central,South,Region III,MADISON,County,True,2019-04-01T00:00:00.000Z,30.961693,-95.892136
+TX1570100,Madisonville Police Department,19508,TX,West South Central,South,Region III,MADISON,City,True,2016-12-01T00:00:00.000Z,30.966878,-95.930372
+TX1570700,Independent School District:,26293,TX,West South Central,South,Region III,MADISON,Other,False,,,
+TX1580000,Marion County Sheriff's Office,19509,TX,West South Central,South,Region III,MARION,County,True,2019-05-01T00:00:00.000Z,32.798182,-94.356853
+TX1580100,Jefferson Police Department,19510,TX,West South Central,South,Region III,MARION,City,True,2020-02-01T00:00:00.000Z,32.756817,-94.34427
+TX1590000,Martin County Sheriff's Office,19511,TX,West South Central,South,Region III,MARTIN,County,True,2019-01-01T00:00:00.000Z,32.30983,-101.961836
+TX1590100,Stanton Police Department,19512,TX,West South Central,South,Region III,MARTIN,City,True,2020-12-01T00:00:00.000Z,32.30983,-101.961836
+TX1600000,Mason County Sheriff's Office,19513,TX,West South Central,South,Region III,MASON,County,True,2019-11-01T00:00:00.000Z,30.703232,-99.237608
+TX1610000,Matagorda County Sheriff's Office,19514,TX,West South Central,South,Region III,MATAGORDA,County,True,2020-10-01T00:00:00.000Z,28.980654,-95.966286
+TX1610100,Bay City Police Department,19515,TX,West South Central,South,Region III,MATAGORDA,City,True,2017-02-01T00:00:00.000Z,28.981882,-95.96749
+TX1610200,Palacios Police Department,19516,TX,West South Central,South,Region III,MATAGORDA,City,True,2018-08-01T00:00:00.000Z,28.783341,-95.997755
+TX1610900,Independent School District: Bay City,19517,TX,West South Central,South,Region III,MATAGORDA,Other,True,2018-01-01T00:00:00.000Z,28.783341,-95.997755
+TX1611100,Independent School District:,29575,TX,West South Central,South,Region III,MATAGORDA,Other,True,2019-09-01T00:00:00.000Z,,
+TX1620000,Maverick County Sheriff's Office,19518,TX,West South Central,South,Region III,MAVERICK,County,True,2021-01-01T00:00:00.000Z,28.745217,-100.311368
+TX1620100,Eagle Pass Police Department,19519,TX,West South Central,South,Region III,MAVERICK,City,True,2021-01-01T00:00:00.000Z,28.705912,-100.500465
+TX1630000,Medina County Sheriff's Office,19520,TX,West South Central,South,Region III,MEDINA,County,True,2020-08-01T00:00:00.000Z,29.357111,-99.15548
+TX1630100,Castroville Police Department,19521,TX,West South Central,South,Region III,MEDINA,City,True,2018-06-01T00:00:00.000Z,29.353661,-99.111085
+TX1630200,Devine Police Department,19522,TX,West South Central,South,Region III,MEDINA,City,True,2017-05-01T00:00:00.000Z,29.138155,-98.90712
+TX1630300,Hondo Police Department,19523,TX,West South Central,South,Region III,MEDINA,City,True,2021-01-01T00:00:00.000Z,29.350279,-99.1408
+TX1630900,Lacoste Police Department,19524,TX,West South Central,South,Region III,MEDINA,City,False,,29.353661,-99.111085
+TX1631000,Natalia,26229,TX,West South Central,South,Region III,MEDINA,City,True,2018-07-01T00:00:00.000Z,29.353661,-99.111085
+TX1640000,Menard County Sheriff's Office,19525,TX,West South Central,South,Region III,MENARD,County,False,,30.884058,-99.854623
+TX1650000,Midland County Sheriff's Office,19526,TX,West South Central,South,Region III,MIDLAND,County,True,2021-01-01T00:00:00.000Z,31.870896,-102.024326
+TX1650100,Midland Police Department,19527,TX,West South Central,South,Region III,"MARTIN, MIDLAND",City,True,2021-01-01T00:00:00.000Z,32.002758,-102.07577
+TX1650300,Independent School District: Midland,19528,TX,West South Central,South,Region III,MIDLAND,Other,True,2020-11-01T00:00:00.000Z,31.989504,-102.084305
+TX1651100,Independent School District: ,34396,TX,West South Central,South,Region III,MIDLAND,Other,True,2022-09-01T00:00:00.000Z,,
+TX1660000,Milam County Sheriff's Office,19529,TX,West South Central,South,Region III,MILAM,County,True,2020-01-01T00:00:00.000Z,30.85512,-96.98046
+TX1660100,Cameron Police Department,19530,TX,West South Central,South,Region III,MILAM,City,True,2018-06-01T00:00:00.000Z,30.791242,-96.984395
+TX1660200,Rockdale Police Department,19531,TX,West South Central,South,Region III,MILAM,City,True,2017-01-01T00:00:00.000Z,30.791242,-96.984395
+TX1660300,Thorndale Police Department,19532,TX,West South Central,South,Region III,MILAM,City,True,2015-07-01T00:00:00.000Z,30.791242,-96.984395
+TX1670000,Mills County Sheriff's Office,19533,TX,West South Central,South,Region III,MILLS,County,True,2019-01-01T00:00:00.000Z,31.494888,-98.594623
+TX1680000,Mitchell County Sheriff's Office,19534,TX,West South Central,South,Region III,MITCHELL,County,False,,32.390095,-100.86947
+TX1680100,Colorado City Police Department,19535,TX,West South Central,South,Region III,MITCHELL,City,False,,32.303781,-100.92458
+TX1690000,Montague County Sheriff's Office,19536,TX,West South Central,South,Region III,MONTAGUE,County,True,2019-06-01T00:00:00.000Z,33.678356,-97.725014
+TX1690100,Bowie Police Department,19537,TX,West South Central,South,Region III,MONTAGUE,City,True,2020-12-01T00:00:00.000Z,33.678356,-97.725014
+TX1690200,Nocona Police Department,19538,TX,West South Central,South,Region III,MONTAGUE,City,False,,33.788044,-97.725525
+TX1690300,St. Jo Police Department,19539,TX,West South Central,South,Region III,MONTAGUE,City,False,,33.678356,-97.725014
+TX1700000,Montgomery County Sheriff's Office,19540,TX,West South Central,South,Region III,MONTGOMERY,County,True,2020-11-01T00:00:00.000Z,30.335955,-95.453255
+TX1700100,Conroe Police Department,19541,TX,West South Central,South,Region III,MONTGOMERY,City,True,1998-09-01T00:00:00.000Z,30.299402,-95.504008
+TX1700300,Splendora Police Department,23161,TX,West South Central,South,Region III,MONTGOMERY,City,True,2020-12-01T00:00:00.000Z,30.233074,-95.15986
+TX1700400,Montgomery County Constable:,33214,TX,West South Central,South,Region III,MONTGOMERY,Other,True,2021-01-01T00:00:00.000Z,,
+TX1700500,Montgomery County Constable:,33154,TX,West South Central,South,Region III,MONTGOMERY,Other,True,2021-01-01T00:00:00.000Z,,
+TX1700700,Roman Forest Police Department,19542,TX,West South Central,South,Region III,MONTGOMERY,City,True,2020-12-01T00:00:00.000Z,30.178617,-95.163635
+TX1700800,Patton Village Police Department,19543,TX,West South Central,South,Region III,MONTGOMERY,City,True,2020-12-01T00:00:00.000Z,30.299402,-95.504008
+TX1701000,Magnolia Police Department,19544,TX,West South Central,South,Region III,MONTGOMERY,City,True,2019-03-01T00:00:00.000Z,30.215246,-95.74462
+TX1701200,Shenandoah Police Department,19545,TX,West South Central,South,Region III,MONTGOMERY,City,True,2017-04-01T00:00:00.000Z,30.299402,-95.504008
+TX1701400,Willis Police Department,19546,TX,West South Central,South,Region III,MONTGOMERY,City,True,2020-12-01T00:00:00.000Z,30.424551,-95.478714
+TX1701500,Stagecoach Police Department,19547,TX,West South Central,South,Region III,MONTGOMERY,City,False,2015-07-01T00:00:00.000Z,30.152172,-95.716515
+TX1701600,Oak Ridge North Police Department,19548,TX,West South Central,South,Region III,MONTGOMERY,City,True,2017-12-01T00:00:00.000Z,30.157148,-95.43804
+TX1701700,Montgomery Police Department,19549,TX,West South Central,South,Region III,MONTGOMERY,City,True,2019-10-01T00:00:00.000Z,30.299402,-95.504008
+TX1701800,Woodbranch Police Department,19550,TX,West South Central,South,Region III,MONTGOMERY,City,True,2022-01-01T00:00:00.000Z,30.183828,-95.18526
+TX1701900,Montgomery County Constable's Office,22869,TX,West South Central,South,Region III,MONTGOMERY,Other,True,2021-01-01T00:00:00.000Z,,
+TX1702000,Independent School District: Conroe,19551,TX,West South Central,South,Region III,MONTGOMERY,Other,True,2019-01-01T00:00:00.000Z,30.29126,-95.415245
+TX1703300,Independent School District:,32808,TX,West South Central,South,Region III,MONTGOMERY,Other,True,2020-12-01T00:00:00.000Z,,
+TX1710000,Moore County Sheriff's Office,19552,TX,West South Central,South,Region III,MOORE,County,True,2019-02-01T00:00:00.000Z,35.858677,-101.97188
+TX1710100,Dumas Police Department,19553,TX,West South Central,South,Region III,MOORE,City,True,2018-01-01T00:00:00.000Z,35.85875,-101.972885
+TX1710200,Sunray Police Department,19554,TX,West South Central,South,Region III,MOORE,City,True,2021-01-01T00:00:00.000Z,35.835676,-101.890502
+TX1710400,Cactus Police Department,19555,TX,West South Central,South,Region III,MOORE,City,True,2018-01-01T00:00:00.000Z,35.835676,-101.890502
+TX1710500,Independent School District:,33709,TX,West South Central,South,Region III,MOORE,Other,True,2022-01-01T00:00:00.000Z,,
+TX1720000,Morris County Sheriff's Office,19556,TX,West South Central,South,Region III,MORRIS,County,True,2021-01-01T00:00:00.000Z,33.03609,-94.727
+TX1720100,Daingerfield Police Department,19557,TX,West South Central,South,Region III,MORRIS,City,True,2019-02-01T00:00:00.000Z,33.03271,-94.722046
+TX1720200,Lone Star Police Department,19558,TX,West South Central,South,Region III,MORRIS,City,True,2019-01-01T00:00:00.000Z,33.116466,-94.731265
+TX1720300,Omaha Police Department,23178,TX,West South Central,South,Region III,MORRIS,City,False,,33.116466,-94.731265
+TX1720500,Naples Police Department,19560,TX,West South Central,South,Region III,MORRIS,City,False,2019-08-01T00:00:00.000Z,33.116466,-94.731265
+TX1721000,Pewitt Consolidated Independent School District,33774,TX,West South Central,South,Region III,MORRIS,Other,True,2022-01-01T00:00:00.000Z,,
+TX1730000,Motley County Sheriff's Office,19561,TX,West South Central,South,Region III,MOTLEY,County,True,2021-01-01T00:00:00.000Z,34.057899,-100.793152
+TX1740000,Nacogdoches County Sheriff's Office,19562,TX,West South Central,South,Region III,NACOGDOCHES,County,True,2015-01-01T00:00:00.000Z,31.610912,-94.68126
+TX1740100,Garrison,28314,TX,West South Central,South,Region III,NACOGDOCHES,City,True,2019-01-01T00:00:00.000Z,,
+TX1740200,Nacogdoches Police Department,19563,TX,West South Central,South,Region III,NACOGDOCHES,City,True,1997-09-01T00:00:00.000Z,31.62056,-94.62025
+TX1740400,Stephen F. Austin State University,19564,TX,West South Central,South,Region III,NACOGDOCHES,University or College,True,2018-10-01T00:00:00.000Z,31.622995,-94.64977
+TX1740800,Independent School System:,33370,TX,West South Central,South,Region III,NACOGDOCHES,Other,True,2021-04-01T00:00:00.000Z,,
+TX1750000,Navarro County Sheriff's Office,19565,TX,West South Central,South,Region III,NAVARRO,County,True,2017-01-01T00:00:00.000Z,32.09607,-96.46836
+TX1750100,Corsicana Police Department,19566,TX,West South Central,South,Region III,NAVARRO,City,True,2019-08-01T00:00:00.000Z,32.093422,-96.466545
+TX1750200,Dawson,28675,TX,West South Central,South,Region III,NAVARRO,City,True,2019-01-01T00:00:00.000Z,,
+TX1750300,Rice,33329,TX,West South Central,South,Region III,NAVARRO,City,True,2021-01-01T00:00:00.000Z,,
+TX1750400,Kerens Police Department,19567,TX,West South Central,South,Region III,NAVARRO,City,True,2019-01-01T00:00:00.000Z,32.04845,-96.476908
+TX1750700,Blooming Grove,33712,TX,West South Central,South,Region III,NAVARRO,City,True,2022-01-01T00:00:00.000Z,,
+TX1751300,Independent School District:,27754,TX,West South Central,South,Region III,NAVARRO,Other,True,2020-08-01T00:00:00.000Z,,
+TX1751400,Independent School District:,33671,TX,West South Central,South,Region III,NAVARRO,Other,True,2022-01-01T00:00:00.000Z,,
+TX1751700,Richland,33459,TX,West South Central,South,Region III,NAVARRO,City,False,2021-01-01T00:00:00.000Z,,
+TX1760000,Newton County Sheriff's Office,19568,TX,West South Central,South,Region III,NEWTON,County,True,2019-11-01T00:00:00.000Z,30.786718,-93.73925
+TX1760100,Newton,26228,TX,West South Central,South,Region III,NEWTON,City,True,2019-01-01T00:00:00.000Z,30.786718,-93.73925
+TX1770000,Nolan County Sheriff's Office,19569,TX,West South Central,South,Region III,NOLAN,County,True,2019-01-01T00:00:00.000Z,32.470993,-100.40895
+TX1770200,Roscoe Police Department,19570,TX,West South Central,South,Region III,NOLAN,City,True,2021-01-01T00:00:00.000Z,32.312338,-100.418108
+TX1770300,Sweetwater Police Department,19571,TX,West South Central,South,Region III,NOLAN,City,True,2017-04-01T00:00:00.000Z,32.312338,-100.418108
+TX1770400,Texas State Technical College: West Texas,23048,TX,West South Central,South,Region III,NOLAN,University or College,True,2021-01-01T00:00:00.000Z,32.312338,-100.418108
+TX1780000,Nueces County Sheriff's Office,19572,TX,West South Central,South,Region III,NUECES,County,True,2021-01-01T00:00:00.000Z,27.738129,-97.518441
+TX1780100,Bishop Police Department,19573,TX,West South Central,South,Region III,NUECES,City,False,,27.738129,-97.518441
+TX1780200,Corpus Christi Police Department,19574,TX,West South Central,South,Region III,NUECES,City,True,2019-05-01T00:00:00.000Z,27.793016,-97.394035
+TX1780300,Robstown Police Department,19575,TX,West South Central,South,Region III,NUECES,City,True,2021-03-01T00:00:00.000Z,27.738129,-97.518441
+TX1780500,Port Aransas Police Department,19576,TX,West South Central,South,Region III,NUECES,City,True,2021-01-01T00:00:00.000Z,27.738129,-97.518441
+TX1781500,Texas A&M University: Corpus Christi,19577,TX,West South Central,South,Region III,NUECES,University or College,False,,27.738129,-97.518441
+TX1781600,Independent School District: Corpus Christi,19578,TX,West South Central,South,Region III,NUECES,Other,False,,27.7938,-97.457306
+TX1781700,Driscoll Police Department,19579,TX,West South Central,South,Region III,NUECES,City,True,2019-07-01T00:00:00.000Z,27.738129,-97.518441
+TX1790000,Ochiltree County Sheriff's Office,19580,TX,West South Central,South,Region III,OCHILTREE,County,True,2019-01-01T00:00:00.000Z,36.278744,-100.815864
+TX1790100,Perryton Police Department,19581,TX,West South Central,South,Region III,OCHILTREE,City,True,2016-11-01T00:00:00.000Z,36.278744,-100.815864
+TX1800000,Oldham County Sheriff's Office,19582,TX,West South Central,South,Region III,OLDHAM,County,True,2020-01-01T00:00:00.000Z,35.401921,-102.59762
+TX1800100,Vega,33814,TX,West South Central,South,Region III,OLDHAM,City,True,2022-01-01T00:00:00.000Z,,
+TX1810000,Orange County Sheriff's Office,19583,TX,West South Central,South,Region III,ORANGE,County,True,2019-02-01T00:00:00.000Z,30.120918,-93.893358
+TX1810100,Bridge City Police Department,19584,TX,West South Central,South,Region III,ORANGE,City,True,2019-04-01T00:00:00.000Z,30.120918,-93.893358
+TX1810200,Orange Police Department,19585,TX,West South Central,South,Region III,ORANGE,City,True,2018-01-01T00:00:00.000Z,30.120918,-93.893358
+TX1810300,Pinehurst Police Department,19586,TX,West South Central,South,Region III,ORANGE,City,True,2019-02-01T00:00:00.000Z,30.104055,-93.77531
+TX1810400,Vidor Police Department,19587,TX,West South Central,South,Region III,ORANGE,City,True,2018-01-01T00:00:00.000Z,30.120918,-93.893358
+TX1810500,West Orange Police Department,19588,TX,West South Central,South,Region III,ORANGE,City,True,2019-12-01T00:00:00.000Z,30.084656,-93.761215
+TX1810800,Rose City Police Department,19589,TX,West South Central,South,Region III,ORANGE,City,True,2022-07-01T00:00:00.000Z,30.097921,-94.06103
+TX1811400,Independent School District: ,34171,TX,West South Central,South,Region III,ORANGE,Other,True,2022-07-01T00:00:00.000Z,,
+TX1820000,Palo Pinto County Sheriff's Office,19590,TX,West South Central,South,Region III,PALO PINTO,County,True,2019-11-01T00:00:00.000Z,32.75221,-98.317974
+TX1820200,Mineral Wells Police Department,19591,TX,West South Central,South,Region III,"PALO PINTO, PARKER",City,True,2018-01-01T00:00:00.000Z,32.810078,-98.11293
+TX1830000,Panola County Sheriff's Office,19592,TX,West South Central,South,Region III,PANOLA,County,True,2021-01-01T00:00:00.000Z,32.15494,-94.341286
+TX1830100,Carthage Police Department,19593,TX,West South Central,South,Region III,PANOLA,City,True,2018-07-01T00:00:00.000Z,32.163978,-94.305156
+TX1830400,Panola College,33310,TX,West South Central,South,Region III,PANOLA,University or College,True,2021-01-01T00:00:00.000Z,,
+TX1840000,Parker County Sheriff's Office,19594,TX,West South Central,South,Region III,PARKER,County,True,2015-01-01T00:00:00.000Z,32.75919,-97.787056
+TX1840100,Weatherford Police Department,19595,TX,West South Central,South,Region III,PARKER,City,True,2020-09-01T00:00:00.000Z,32.750786,-97.78597
+TX1840300,Springtown Police Department,19596,TX,West South Central,South,Region III,PARKER,City,True,2021-01-01T00:00:00.000Z,32.777096,-97.805905
+TX1840400,Hudson Oaks Police Department,19597,TX,West South Central,South,Region III,PARKER,City,True,2018-05-01T00:00:00.000Z,32.76851,-97.712
+TX1840500,Willow Park Police Department,19598,TX,West South Central,South,Region III,PARKER,City,True,2017-10-01T00:00:00.000Z,32.777096,-97.805905
+TX1840700,"Reno, Parker County",28294,TX,West South Central,South,Region III,"PARKER, TARRANT",City,True,2022-01-01T00:00:00.000Z,,
+TX1850000,Parmer County Sheriff's Office,19599,TX,West South Central,South,Region III,PARMER,County,True,2021-01-01T00:00:00.000Z,34.532163,-102.784853
+TX1850100,Bovina Police Department,19600,TX,West South Central,South,Region III,PARMER,City,True,2018-05-01T00:00:00.000Z,34.532163,-102.784853
+TX1850200,Friona Police Department,19601,TX,West South Central,South,Region III,PARMER,City,True,2018-07-01T00:00:00.000Z,34.532163,-102.784853
+TX1850300,Farwell Police Department,19602,TX,West South Central,South,Region III,PARMER,City,True,2018-03-01T00:00:00.000Z,34.532163,-102.784853
+TX1860000,Pecos County Sheriff's Office,19603,TX,West South Central,South,Region III,PECOS,County,False,,30.770894,-102.71986
+TX1860100,Fort Stockton Police Department,19604,TX,West South Central,South,Region III,PECOS,City,True,2019-01-01T00:00:00.000Z,30.88566,-102.87917
+TX1870000,Polk County Sheriff's Office,19605,TX,West South Central,South,Region III,POLK,County,True,2011-07-01T00:00:00.000Z,30.723753,-94.932846
+TX1870200,Livingston Police Department,19606,TX,West South Central,South,Region III,POLK,City,True,2017-08-01T00:00:00.000Z,30.711037,-94.93487
+TX1870400,Corrigan Police Department,19607,TX,West South Central,South,Region III,POLK,City,True,2017-07-01T00:00:00.000Z,30.998257,-94.82628
+TX1870800,Onalaska Police Department,19608,TX,West South Central,South,Region III,POLK,City,True,2018-07-01T00:00:00.000Z,30.784553,-94.837338
+TX1880000,Potter County Sheriff's Office,19609,TX,West South Central,South,Region III,POTTER,County,True,2018-01-01T00:00:00.000Z,35.398675,-101.893804
+TX1880100,Amarillo Police Department,19610,TX,West South Central,South,Region III,"POTTER, RANDALL",City,True,1999-10-01T00:00:00.000Z,35.398675,-101.893804
+TX1880200,Amarillo College,19611,TX,West South Central,South,Region III,POTTER,University or College,True,2019-07-01T00:00:00.000Z,35.398675,-101.893804
+TX1880600,Amarillo International Airport,19613,TX,West South Central,South,Region III,POTTER,Other,True,2021-01-01T00:00:00.000Z,35.21533,-101.70396
+TX1890000,Presidio County Sheriff's Office,19614,TX,West South Central,South,Region III,PRESIDIO,County,True,2018-10-01T00:00:00.000Z,30.005891,-104.261619
+TX1890100,Marfa Police Department,19615,TX,West South Central,South,Region III,PRESIDIO,City,True,2021-01-01T00:00:00.000Z,30.005891,-104.261619
+TX1890600,Presidio Police Department,19616,TX,West South Central,South,Region III,PRESIDIO,City,False,,30.005891,-104.261619
+TX1900000,Rains County Sheriff's Office,19617,TX,West South Central,South,Region III,RAINS,County,True,2020-08-01T00:00:00.000Z,32.87058,-95.79544
+TX1900600,Emory,28795,TX,West South Central,South,Region III,RAINS,City,True,2019-06-01T00:00:00.000Z,,
+TX1910000,Randall County Sheriff's Office,19618,TX,West South Central,South,Region III,RANDALL,County,True,2021-01-01T00:00:00.000Z,35.119816,-101.86604
+TX1910100,Canyon Police Department,19619,TX,West South Central,South,Region III,RANDALL,City,True,2016-09-01T00:00:00.000Z,34.98086,-101.92753
+TX1910300,West Texas A&M University,19620,TX,West South Central,South,Region III,RANDALL,University or College,True,2018-01-01T00:00:00.000Z,34.962529,-101.895547
+TX1920000,Reagan County Sheriff's Office,19621,TX,West South Central,South,Region III,REAGAN,County,True,2018-01-01T00:00:00.000Z,31.372895,-101.513901
+TX1930000,Real County Sheriff's Office,19623,TX,West South Central,South,Region III,REAL,County,True,2018-01-01T00:00:00.000Z,29.82303,-99.805303
+TX1940000,Red River County Sheriff's Office,19624,TX,West South Central,South,Region III,RED RIVER,County,True,2019-07-01T00:00:00.000Z,33.61365,-95.05185
+TX1940100,Clarksville Police Department,19625,TX,West South Central,South,Region III,RED RIVER,City,True,2021-04-01T00:00:00.000Z,33.610325,-95.05523
+TX1940300,Bogata Police Department,19626,TX,West South Central,South,Region III,RED RIVER,City,True,2020-03-01T00:00:00.000Z,33.619625,-95.048429
+TX1950000,Reeves County Sheriff's Office,19627,TX,West South Central,South,Region III,REEVES,County,False,,31.308366,-103.712706
+TX1950200,Pecos Police Department,19628,TX,West South Central,South,Region III,REEVES,City,True,2019-01-01T00:00:00.000Z,31.308366,-103.712706
+TX1950700,Independent School District:,33669,TX,West South Central,South,Region III,REEVES,Other,True,2021-01-01T00:00:00.000Z,,
+TX1960000,Refugio County Sheriff's Office,19629,TX,West South Central,South,Region III,REFUGIO,County,True,2020-11-01T00:00:00.000Z,28.312716,-97.161366
+TX1960100,Refugio Police Department,19630,TX,West South Central,South,Region III,REFUGIO,City,True,2021-01-01T00:00:00.000Z,28.312716,-97.161366
+TX1960200,Woodsboro,28954,TX,West South Central,South,Region III,REFUGIO,City,True,2019-01-01T00:00:00.000Z,,
+TX1970000,Roberts County Sheriff's Office,19631,TX,West South Central,South,Region III,ROBERTS,County,True,2019-01-01T00:00:00.000Z,35.836216,-100.807555
+TX1980000,Robertson County Sheriff's Office,19632,TX,West South Central,South,Region III,ROBERTSON,County,True,2017-06-01T00:00:00.000Z,31.025481,-96.514941
+TX1980100,Bremond Police Department,19633,TX,West South Central,South,Region III,ROBERTSON,City,True,2019-02-01T00:00:00.000Z,31.025481,-96.514941
+TX1980200,Calvert Police Department,19634,TX,West South Central,South,Region III,ROBERTSON,City,True,2018-10-01T00:00:00.000Z,31.025481,-96.514941
+TX1980300,Hearne Police Department,19635,TX,West South Central,South,Region III,ROBERTSON,City,True,2019-12-01T00:00:00.000Z,31.025481,-96.514941
+TX1981000,Franklin,30114,TX,West South Central,South,Region III,ROBERTSON,City,True,2020-02-01T00:00:00.000Z,,
+TX1990000,Rockwall County Sheriff's Office,19636,TX,West South Central,South,Region III,ROCKWALL,County,True,2012-02-01T00:00:00.000Z,32.898054,-96.404396
+TX1990100,Rockwall Police Department,19637,TX,West South Central,South,Region III,ROCKWALL,City,True,2005-03-01T00:00:00.000Z,32.93107,-96.46125
+TX1990200,Royse City Police Department,19638,TX,West South Central,South,Region III,"COLLIN, HUNT, ROCKWALL",City,True,2011-12-01T00:00:00.000Z,32.898054,-96.404396
+TX1990300,Heath Police Department,19639,TX,West South Central,South,Region III,"KAUFMAN, ROCKWALL",City,True,2011-01-01T00:00:00.000Z,32.8367,-96.475006
+TX1990800,Fate,27352,TX,West South Central,South,Region III,ROCKWALL,City,True,2017-01-01T00:00:00.000Z,,
+TX2000000,Runnels County Sheriff's Office,19640,TX,West South Central,South,Region III,RUNNELS,County,True,2018-09-01T00:00:00.000Z,31.738207,-99.94529
+TX2000100,Ballinger Police Department,19641,TX,West South Central,South,Region III,RUNNELS,City,True,2019-01-01T00:00:00.000Z,31.736975,-99.94931
+TX2000300,Winters Police Department,19642,TX,West South Central,South,Region III,RUNNELS,City,True,2018-03-01T00:00:00.000Z,31.955301,-99.96286
+TX2000700,Miles Police Department,19643,TX,West South Central,South,Region III,RUNNELS,City,True,2019-01-01T00:00:00.000Z,31.845112,-99.982715
+TX2010000,Rusk County Sheriff's Office,19644,TX,West South Central,South,Region III,RUSK,County,True,2010-12-01T00:00:00.000Z,32.154736,-94.80016
+TX2010100,Henderson Police Department,19645,TX,West South Central,South,Region III,RUSK,City,True,2007-11-01T00:00:00.000Z,32.1575,-94.78392
+TX2010300,Overton Police Department,19646,TX,West South Central,South,Region III,"RUSK, SMITH",City,True,2019-01-01T00:00:00.000Z,32.109423,-94.756382
+TX2010500,Independent School District:,34665,TX,West South Central,South,Region III,RUSK,Other,True,2022-12-01T00:00:00.000Z,,
+TX2011000,Mount Enterprise,33360,TX,West South Central,South,Region III,RUSK,City,True,2021-01-01T00:00:00.000Z,,
+TX2011100,Tatum Police Department,19647,TX,West South Central,South,Region III,"PANOLA, RUSK",City,True,2019-01-01T00:00:00.000Z,32.109423,-94.756382
+TX2020000,Sabine County Sheriff's Office,19648,TX,West South Central,South,Region III,SABINE,County,True,2019-02-01T00:00:00.000Z,31.3433,-93.851913
+TX2020100,Hemphill Police Department,19649,TX,West South Central,South,Region III,SABINE,City,False,,31.3433,-93.851913
+TX2020200,Pineland Police Department,19650,TX,West South Central,South,Region III,SABINE,City,True,2019-08-01T00:00:00.000Z,31.3433,-93.851913
+TX2020700,Sabine County Constable:,33441,TX,West South Central,South,Region III,SABINE,Other,True,2021-03-01T00:00:00.000Z,,
+TX2030000,San Augustine County Sheriff's Office,19651,TX,West South Central,South,Region III,SAN AUGUSTINE,County,True,2019-01-01T00:00:00.000Z,31.382449,-94.16318
+TX2030100,San Augustine Police Department,19652,TX,West South Central,South,Region III,SAN AUGUSTINE,City,True,2020-12-01T00:00:00.000Z,31.382449,-94.16318
+TX2040000,San Jacinto County Sheriff's Office,19653,TX,West South Central,South,Region III,SAN JACINTO,County,False,,30.574388,-95.163137
+TX2040500,Independent School District: ,34210,TX,West South Central,South,Region III,SAN JACINTO,Other,True,2022-03-01T00:00:00.000Z,,
+TX2050000,San Patricio County Sheriff's Office,19654,TX,West South Central,South,Region III,SAN PATRICIO,County,False,,28.011786,-97.517162
+TX2050100,Ingleside Police Department,19655,TX,West South Central,South,Region III,SAN PATRICIO,City,True,2020-10-01T00:00:00.000Z,28.011786,-97.517162
+TX2050200,Mathis Police Department,19656,TX,West South Central,South,Region III,SAN PATRICIO,City,True,2022-01-01T00:00:00.000Z,28.093674,-97.82541
+TX2050300,Portland Police Department,19657,TX,West South Central,South,Region III,SAN PATRICIO,City,True,2016-06-01T00:00:00.000Z,27.890156,-97.31499
+TX2050400,Sinton Police Department,19658,TX,West South Central,South,Region III,SAN PATRICIO,City,True,2019-01-01T00:00:00.000Z,28.037804,-97.508995
+TX2050500,Taft Police Department,19659,TX,West South Central,South,Region III,SAN PATRICIO,City,True,2018-01-01T00:00:00.000Z,27.981573,-97.39302
+TX2050700,Odem,33318,TX,West South Central,South,Region III,SAN PATRICIO,City,True,2021-01-01T00:00:00.000Z,,
+TX2050800,Gregory Police Department,19660,TX,West South Central,South,Region III,SAN PATRICIO,City,False,,28.011786,-97.517162
+TX2051600,Independent School District: Taft,19661,TX,West South Central,South,Region III,SAN PATRICIO,Other,True,2021-01-01T00:00:00.000Z,28.011786,-97.517162
+TX2051700,Lake City Police Department,25613,TX,West South Central,South,Region III,SAN PATRICIO,City,False,2015-07-01T00:00:00.000Z,28.011786,-97.517162
+TX2060000,San Saba County Sheriff's Office,19662,TX,West South Central,South,Region III,SAN SABA,County,False,,31.195728,-98.714645
+TX2060100,San Saba Police Department,19663,TX,West South Central,South,Region III,SAN SABA,City,True,1997-11-01T00:00:00.000Z,31.155138,-98.819292
+TX2070000,Schleicher County Sheriff's Office,19664,TX,West South Central,South,Region III,SCHLEICHER,County,True,2019-02-01T00:00:00.000Z,30.896233,-100.527216
+TX2080000,Scurry County Sheriff's Office,19665,TX,West South Central,South,Region III,SCURRY,County,True,2021-01-01T00:00:00.000Z,32.71602,-100.91133
+TX2080100,Snyder Police Department,19666,TX,West South Central,South,Region III,SCURRY,City,True,2019-01-01T00:00:00.000Z,32.744462,-100.913399
+TX2090000,Shackelford County Sheriff's Office,19668,TX,West South Central,South,Region III,SHACKELFORD,County,True,2019-07-01T00:00:00.000Z,32.74382,-99.347005
+TX2100000,Shelby County Sheriff's Office,19670,TX,West South Central,South,Region III,SHELBY,County,True,2018-05-01T00:00:00.000Z,31.790272,-94.18487
+TX2100100,Center Police Department,19671,TX,West South Central,South,Region III,SHELBY,City,True,2016-10-01T00:00:00.000Z,31.790137,-94.142565
+TX2101300,Timpson Police Department,23081,TX,West South Central,South,Region III,SHELBY,City,False,,31.790137,-94.142565
+TX2101600,Tenaha,28636,TX,West South Central,South,Region III,SHELBY,City,True,2019-01-01T00:00:00.000Z,,
+TX2110000,Sherman County Sheriff's Office,19672,TX,West South Central,South,Region III,SHERMAN,County,False,,36.277628,-101.894716
+TX2110100,Stratford Police Department,19673,TX,West South Central,South,Region III,SHERMAN,City,True,2022-01-01T00:00:00.000Z,36.277628,-101.894716
+TX2120000,Smith County Sheriff's Office,19674,TX,West South Central,South,Region III,SMITH,County,True,2021-01-01T00:00:00.000Z,32.375106,-95.268743
+TX2120100,Arp Police Department,19675,TX,West South Central,South,Region III,SMITH,City,True,2018-09-01T00:00:00.000Z,32.375106,-95.268743
+TX2120200,Lindale Police Department,19676,TX,West South Central,South,Region III,SMITH,City,True,2011-07-01T00:00:00.000Z,32.375106,-95.268743
+TX2120300,Troup Police Department,19677,TX,West South Central,South,Region III,"CHEROKEE, SMITH",City,False,,32.375106,-95.268743
+TX2120400,Tyler Police Department,19678,TX,West South Central,South,Region III,SMITH,City,True,2006-01-01T00:00:00.000Z,32.3517,-95.30884
+TX2120500,Whitehouse Police Department,19679,TX,West South Central,South,Region III,SMITH,City,True,2016-12-01T00:00:00.000Z,32.375106,-95.268743
+TX2120800,Tyler Junior College,19680,TX,West South Central,South,Region III,SMITH,University or College,True,2011-07-01T00:00:00.000Z,32.375106,-95.268743
+TX2120900,University of Texas: Tyler,19681,TX,West South Central,South,Region III,SMITH,University or College,True,2020-07-01T00:00:00.000Z,32.31339,-95.244896
+TX2121000,"University of Texas: Health Science Center, Tyler",19682,TX,West South Central,South,Region III,SMITH,University or College,True,2020-09-01T00:00:00.000Z,,
+TX2121500,Bullard Police Department,19683,TX,West South Central,South,Region III,"CHEROKEE, SMITH",City,True,2018-06-01T00:00:00.000Z,32.375106,-95.268743
+TX2121900,Independent School District: Tyler,19684,TX,West South Central,South,Region III,SMITH,Other,False,,32.375106,-95.268743
+TX2130000,Somervell County Sheriff's Office,19685,TX,West South Central,South,Region III,SOMERVELL,County,True,2020-01-01T00:00:00.000Z,32.217942,-97.769211
+TX2140000,Starr County Sheriff's Office,19686,TX,West South Central,South,Region III,STARR,County,True,2021-01-01T00:00:00.000Z,26.383215,-98.8192
+TX2140100,La Grulla Police Department,19687,TX,West South Central,South,Region III,STARR,City,True,2018-05-01T00:00:00.000Z,26.546335,-98.715803
+TX2140200,Rio Grande City Police Department,19688,TX,West South Central,South,Region III,STARR,City,True,2019-07-01T00:00:00.000Z,26.546335,-98.715803
+TX2140300,Roma Police Department,19689,TX,West South Central,South,Region III,STARR,City,True,2016-12-01T00:00:00.000Z,26.546335,-98.715803
+TX2141000,Independent School District: Rio Grande City,19690,TX,West South Central,South,Region III,STARR,Other,True,2021-01-01T00:00:00.000Z,26.546335,-98.715803
+TX2141100,Independent School District:,28934,TX,West South Central,South,Region III,STARR,Other,True,2019-03-01T00:00:00.000Z,,
+TX2150000,Stephens County Sheriff's Office,19691,TX,West South Central,South,Region III,STEPHENS,County,True,2018-08-01T00:00:00.000Z,32.755444,-98.903915
+TX2150100,Breckenridge Police Department,19692,TX,West South Central,South,Region III,STEPHENS,City,True,2018-01-01T00:00:00.000Z,32.756283,-98.90226
+TX2160000,Sterling County Sheriff's Office,19693,TX,West South Central,South,Region III,STERLING,County,True,2018-06-01T00:00:00.000Z,31.835774,-101.054911
+TX2170000,Stonewall County Sheriff's Office,19694,TX,West South Central,South,Region III,STONEWALL,County,False,,33.17958,-100.253807
+TX2180000,Sutton County Sheriff's Office,19695,TX,West South Central,South,Region III,SUTTON,County,True,2019-07-01T00:00:00.000Z,30.572647,-100.6448
+TX2180100,Sonora Police Department,19696,TX,West South Central,South,Region III,SUTTON,City,True,2019-01-01T00:00:00.000Z,30.568474,-100.642075
+TX2190000,Swisher County Sheriff's Office,19697,TX,West South Central,South,Region III,SWISHER,County,True,2019-01-01T00:00:00.000Z,34.537178,-101.76388
+TX2190100,Happy Police Department,25639,TX,West South Central,South,Region III,"RANDALL, SWISHER",City,False,2015-07-01T00:00:00.000Z,34.53046,-101.732852
+TX2190200,Kress Police Department,19698,TX,West South Central,South,Region III,SWISHER,City,False,,34.53046,-101.732852
+TX2190300,Tulia Police Department,19699,TX,West South Central,South,Region III,SWISHER,City,True,2018-01-01T00:00:00.000Z,34.538555,-101.76446
+TX2200000,Tarrant County Sheriff's Office,19700,TX,West South Central,South,Region III,TARRANT,County,True,2019-07-01T00:00:00.000Z,32.75531,-97.33483
+TX2200100,Arlington Police Department,19701,TX,West South Central,South,Region III,TARRANT,City,True,2016-02-01T00:00:00.000Z,32.73912,-97.113525
+TX2200200,Azle Police Department,19702,TX,West South Central,South,Region III,"PARKER, TARRANT",City,True,2020-02-01T00:00:00.000Z,32.883595,-97.53714
+TX2200300,Bedford Police Department,19703,TX,West South Central,South,Region III,TARRANT,City,True,1997-01-01T00:00:00.000Z,32.77204,-97.291291
+TX2200400,Benbrook Police Department,19704,TX,West South Central,South,Region III,TARRANT,City,True,2021-01-01T00:00:00.000Z,32.77204,-97.291291
+TX2200500,Blue Mound Police Department,19705,TX,West South Central,South,Region III,TARRANT,City,True,2019-01-01T00:00:00.000Z,32.864803,-97.34241
+TX2200600,Crowley Police Department,19706,TX,West South Central,South,Region III,"JOHNSON, TARRANT",City,True,2019-12-01T00:00:00.000Z,32.77204,-97.291291
+TX2200700,Dalworthington Gardens Police Department,19707,TX,West South Central,South,Region III,TARRANT,City,True,2019-09-01T00:00:00.000Z,32.70231,-97.1553
+TX2200900,Euless Police Department,19708,TX,West South Central,South,Region III,TARRANT,City,True,2020-08-01T00:00:00.000Z,32.77204,-97.291291
+TX2201000,Everman Police Department,19709,TX,West South Central,South,Region III,TARRANT,City,True,2019-09-01T00:00:00.000Z,32.631054,-97.28611
+TX2201100,Forest Hill Police Department,19710,TX,West South Central,South,Region III,TARRANT,City,True,2020-08-01T00:00:00.000Z,32.77204,-97.291291
+TX2201200,Fort Worth Police Department,19711,TX,West South Central,South,Region III,"DENTON, PARKER, TARRANT",City,True,2005-10-01T00:00:00.000Z,32.77204,-97.291291
+TX2201300,Grapevine Police Department,19712,TX,West South Central,South,Region III,TARRANT,City,True,2019-09-01T00:00:00.000Z,32.932568,-97.08055
+TX2201400,Haltom City Police Department,19713,TX,West South Central,South,Region III,TARRANT,City,True,2020-11-01T00:00:00.000Z,32.77204,-97.291291
+TX2201600,Hurst Police Department,19714,TX,West South Central,South,Region III,TARRANT,City,True,2019-07-01T00:00:00.000Z,32.77204,-97.291291
+TX2201700,Kennedale Police Department,19715,TX,West South Central,South,Region III,TARRANT,City,True,2019-08-01T00:00:00.000Z,32.77204,-97.291291
+TX2201800,Lakeside Police Department,19716,TX,West South Central,South,Region III,TARRANT,City,True,2020-10-01T00:00:00.000Z,32.823067,-97.495544
+TX2201900,Lake Worth Police Department,19717,TX,West South Central,South,Region III,TARRANT,City,True,2020-02-01T00:00:00.000Z,32.810566,-97.4361
+TX2202000,Mansfield Police Department,19718,TX,West South Central,South,Region III,"ELLIS, JOHNSON, TARRANT",City,True,2019-08-01T00:00:00.000Z,32.55416,-97.110794
+TX2202100,North Richland Hills Police Department,19719,TX,West South Central,South,Region III,TARRANT,City,True,2018-01-01T00:00:00.000Z,32.77204,-97.291291
+TX2202200,Richland Hills Police Department,19720,TX,West South Central,South,Region III,TARRANT,City,True,2021-01-01T00:00:00.000Z,32.77204,-97.291291
+TX2202300,River Oaks Police Department,19721,TX,West South Central,South,Region III,TARRANT,City,True,2019-09-01T00:00:00.000Z,32.778767,-97.393
+TX2202400,Saginaw Police Department,19722,TX,West South Central,South,Region III,TARRANT,City,True,2020-11-01T00:00:00.000Z,32.858517,-97.37055
+TX2202500,Sansom Park Village Police Department,19723,TX,West South Central,South,Region III,TARRANT,City,True,2020-07-01T00:00:00.000Z,32.803463,-97.40217
+TX2202600,Watauga Police Department,19724,TX,West South Central,South,Region III,TARRANT,City,True,2018-07-01T00:00:00.000Z,32.873703,-97.25502
+TX2202700,Westover Hills Police Department,19725,TX,West South Central,South,Region III,TARRANT,City,True,2018-05-01T00:00:00.000Z,32.73811,-97.41003
+TX2202800,Westworth Police Department,19726,TX,West South Central,South,Region III,TARRANT,City,True,2019-08-01T00:00:00.000Z,32.755802,-97.40808
+TX2202900,White Settlement Police Department,19727,TX,West South Central,South,Region III,TARRANT,City,True,2020-11-01T00:00:00.000Z,32.76616,-97.471596
+TX2203000,Keller Police Department,19728,TX,West South Central,South,Region III,TARRANT,City,True,2020-02-01T00:00:00.000Z,32.77204,-97.291291
+TX2203100,Pantego Police Department,19729,TX,West South Central,South,Region III,TARRANT,City,True,2016-08-01T00:00:00.000Z,32.77204,-97.291291
+TX2203200,Southlake Police Department,19730,TX,West South Central,South,Region III,"DENTON, TARRANT",City,True,2020-01-01T00:00:00.000Z,32.939102,-97.183655
+TX2203300,University of Texas: Arlington,19731,TX,West South Central,South,Region III,TARRANT,University or College,True,2020-01-01T00:00:00.000Z,32.77204,-97.291291
+TX2203600,Dallas-Fort Worth International Airport,19733,TX,West South Central,South,Region III,TARRANT,Other,True,2003-07-01T00:00:00.000Z,32.77204,-97.291291
+TX2203700,Texas Christian University,19734,TX,West South Central,South,Region III,TARRANT,University or College,True,2020-06-01T00:00:00.000Z,32.77204,-97.291291
+TX2204000,Colleyville Police Department,19735,TX,West South Central,South,Region III,TARRANT,City,True,2019-12-01T00:00:00.000Z,32.88482,-97.14835
+TX2204800,Pelican Bay Police Department,19736,TX,West South Central,South,Region III,TARRANT,City,True,2019-01-01T00:00:00.000Z,32.915783,-97.51914
+TX2204900,University of North Texas: Health Science Center,19737,TX,West South Central,South,Region III,TARRANT,University or College,False,,32.77204,-97.291291
+TX2205000,Hospital District: Tarrant County,19738,TX,West South Central,South,Region III,TARRANT,Other,True,2016-10-01T00:00:00.000Z,32.72811,-97.32642
+TX2205100,Independent School District:,28678,TX,West South Central,South,Region III,TARRANT,Other,True,2019-01-01T00:00:00.000Z,,
+TX2205500,Independent School District:,32334,TX,West South Central,South,Region III,TARRANT,Other,True,2021-01-01T00:00:00.000Z,,
+TX2207200,Independent School District:,33439,TX,West South Central,South,Region III,TARRANT,Other,True,2021-02-01T00:00:00.000Z,,
+TX220750X,Southwestern Baptist Theological Seminary,28394,TX,West South Central,South,Region III,TARRANT,University or College,False,2019-01-01T00:00:00.000Z,,
+TX2210000,Taylor County Sheriff's Office,19739,TX,West South Central,South,Region III,TAYLOR,County,True,2021-01-01T00:00:00.000Z,32.295054,-99.893644
+TX2210100,Abilene Police Department,19740,TX,West South Central,South,Region III,"JONES, TAYLOR",City,True,2017-06-01T00:00:00.000Z,32.295054,-99.893644
+TX2210300,Merkel Police Department,19741,TX,West South Central,South,Region III,TAYLOR,City,True,2021-01-01T00:00:00.000Z,32.470726,-100.01267
+TX2210800,Tye Police Department,19742,TX,West South Central,South,Region III,TAYLOR,City,True,2018-03-01T00:00:00.000Z,32.295054,-99.893644
+TX221109E,Hardin-Simmons University,19743,TX,West South Central,South,Region III,TAYLOR,University or College,True,2021-01-01T00:00:00.000Z,,
+TX221119E,Abilene Christian University,19744,TX,West South Central,South,Region III,TAYLOR,University or College,False,,,
+TX2220000,Terrell County Sheriff's Office,19745,TX,West South Central,South,Region III,TERRELL,County,True,2021-01-01T00:00:00.000Z,30.232332,-102.072539
+TX2230000,Terry County Sheriff's Office,19746,TX,West South Central,South,Region III,TERRY,County,True,2021-01-01T00:00:00.000Z,33.171229,-102.339284
+TX2230100,Brownfield Police Department,19747,TX,West South Central,South,Region III,TERRY,City,True,2018-02-01T00:00:00.000Z,33.171229,-102.339284
+TX2240000,Throckmorton County Sheriff's Office,19748,TX,West South Central,South,Region III,THROCKMORTON,County,True,2021-01-01T00:00:00.000Z,33.170712,-99.206137
+TX2250000,Titus County Sheriff's Office,19749,TX,West South Central,South,Region III,TITUS,County,True,2019-05-01T00:00:00.000Z,33.214599,-94.966783
+TX2250100,Mount Pleasant Police Department,19750,TX,West South Central,South,Region III,TITUS,City,True,2019-08-01T00:00:00.000Z,33.214599,-94.966783
+TX2260000,Tom Green County Sheriff's Office,19751,TX,West South Central,South,Region III,TOM GREEN,County,True,2020-11-01T00:00:00.000Z,31.46255,-100.4414
+TX2260100,San Angelo Police Department,19752,TX,West South Central,South,Region III,TOM GREEN,City,True,2000-01-01T00:00:00.000Z,31.401594,-100.461374
+TX2260300,Angelo State University,19753,TX,West South Central,South,Region III,TOM GREEN,University or College,True,2018-01-01T00:00:00.000Z,31.401594,-100.461374
+TX2270000,Travis County Sheriff's Office,19755,TX,West South Central,South,Region III,TRAVIS,County,True,2019-09-01T00:00:00.000Z,30.239513,-97.69127
+TX2270100,Austin Police Department,19756,TX,West South Central,South,Region III,"HAYS, TRAVIS, WILLIAMSON",City,True,2019-01-01T00:00:00.000Z,30.268007,-97.735275
+TX2270200,Manor Police Department,19757,TX,West South Central,South,Region III,TRAVIS,City,True,2018-11-01T00:00:00.000Z,30.239513,-97.69127
+TX2270300,Rollingwood Police Department,19758,TX,West South Central,South,Region III,TRAVIS,City,True,2021-01-01T00:00:00.000Z,30.276714,-97.78768
+TX2270400,West Lake Hills Police Department,19759,TX,West South Central,South,Region III,TRAVIS,City,True,2017-01-01T00:00:00.000Z,30.291775,-97.79938
+TX2270500,University of Texas: Austin,19760,TX,West South Central,South,Region III,TRAVIS,University or College,True,2019-04-01T00:00:00.000Z,30.239513,-97.69127
+TX2270900,Pflugerville Police Department,19761,TX,West South Central,South,Region III,"TRAVIS, WILLIAMSON",City,True,2017-09-01T00:00:00.000Z,30.239513,-97.69127
+TX2271100,Lakeway Police Department,19762,TX,West South Central,South,Region III,TRAVIS,City,True,2015-01-01T00:00:00.000Z,30.362913,-97.97955
+TX2271900,Sunset Valley Police Department,19763,TX,West South Central,South,Region III,TRAVIS,City,True,2016-12-01T00:00:00.000Z,30.239513,-97.69127
+TX2272100,Lago Vista Police Department,19764,TX,West South Central,South,Region III,TRAVIS,City,True,2020-03-01T00:00:00.000Z,30.239513,-97.69127
+TX2272200,Jonestown Police Department,19765,TX,West South Central,South,Region III,TRAVIS,City,True,2021-01-01T00:00:00.000Z,30.239513,-97.69127
+TX2272300,Mustang Ridge Police Department,19766,TX,West South Central,South,Region III,"CALDWELL, TRAVIS",City,True,2019-07-01T00:00:00.000Z,30.239513,-97.69127
+TX2272400,Independent School District: Austin,19767,TX,West South Central,South,Region III,TRAVIS,Other,True,2019-03-01T00:00:00.000Z,30.239513,-97.69127
+TX227279E,St. Edwards University,33333,TX,West South Central,South,Region III,TRAVIS,University or College,True,2021-01-01T00:00:00.000Z,,
+TX227289E,Austin Community College District,29834,TX,West South Central,South,Region III,TRAVIS,University or College,True,2018-01-01T00:00:00.000Z,,
+TX2273600,Bee Cave Police Department,19768,TX,West South Central,South,Region III,TRAVIS,City,True,2013-01-01T00:00:00.000Z,30.239513,-97.69127
+TX2273800,Independent School District: Pflugerville,19769,TX,West South Central,South,Region III,TRAVIS,Other,True,2017-09-01T00:00:00.000Z,30.452166,-97.607925
+TX227409E,Concordia University,31997,TX,West South Central,South,Region III,TRAVIS,University or College,True,2020-11-01T00:00:00.000Z,,
+TX2280000,Trinity County Sheriff's Office,19770,TX,West South Central,South,Region III,TRINITY,County,True,2020-12-01T00:00:00.000Z,31.087483,-95.153291
+TX2280100,Trinity Police Department,19771,TX,West South Central,South,Region III,TRINITY,City,False,,31.087483,-95.153291
+TX2280700,Independent School District:,29934,TX,West South Central,South,Region III,TRINITY,Other,True,2019-04-01T00:00:00.000Z,,
+TX2290000,Tyler County Sheriff's Office,19772,TX,West South Central,South,Region III,TYLER,County,True,2019-04-01T00:00:00.000Z,30.781633,-94.415375
+TX2290100,Woodville Police Department,19773,TX,West South Central,South,Region III,TYLER,City,True,2020-11-01T00:00:00.000Z,30.769295,-94.375656
+TX2290700,Independent School District:,33476,TX,West South Central,South,Region III,TYLER,Other,True,2021-03-01T00:00:00.000Z,,
+TX2300000,Upshur County Sheriff's Office,19774,TX,West South Central,South,Region III,UPSHUR,County,True,2020-01-01T00:00:00.000Z,32.731873,-94.94446
+TX2300100,Big Sandy Police Department,19775,TX,West South Central,South,Region III,UPSHUR,City,True,2020-10-01T00:00:00.000Z,32.735349,-94.941184
+TX2300200,Gilmer Police Department,19776,TX,West South Central,South,Region III,UPSHUR,City,True,2019-01-01T00:00:00.000Z,32.735349,-94.941184
+TX2300300,Ore City Police Department,19777,TX,West South Central,South,Region III,UPSHUR,City,True,2019-01-01T00:00:00.000Z,32.735349,-94.941184
+TX2300900,East Mountain Police Department,19778,TX,West South Central,South,Region III,UPSHUR,City,True,2022-08-01T00:00:00.000Z,32.735349,-94.941184
+TX2310000,Upton County Sheriff's Office,19779,TX,West South Central,South,Region III,UPTON,County,True,2019-12-01T00:00:00.000Z,31.353849,-102.042013
+TX2320000,Uvalde County Sheriff's Office,19781,TX,West South Central,South,Region III,UVALDE,County,True,2021-01-01T00:00:00.000Z,29.211359,-99.78582
+TX2320100,Uvalde Police Department,19782,TX,West South Central,South,Region III,UVALDE,City,True,2020-10-01T00:00:00.000Z,29.35034,-99.761074
+TX2320200,Sabinal Police Department,19783,TX,West South Central,South,Region III,UVALDE,City,True,2021-01-01T00:00:00.000Z,29.35034,-99.761074
+TX2330000,Val Verde County Sheriff's Office,19784,TX,West South Central,South,Region III,VAL VERDE,County,True,2020-03-01T00:00:00.000Z,29.884961,-101.146646
+TX2330100,Del Rio Police Department,19785,TX,West South Central,South,Region III,VAL VERDE,City,True,2022-01-01T00:00:00.000Z,29.383986,-100.90486
+TX2340000,Van Zandt County Sheriff's Office,19786,TX,West South Central,South,Region III,VAN ZANDT,County,True,2019-05-01T00:00:00.000Z,32.56348,-95.875336
+TX2340100,Canton Police Department,19787,TX,West South Central,South,Region III,VAN ZANDT,City,True,2021-01-01T00:00:00.000Z,32.558948,-95.836391
+TX2340200,Edgewood Police Department,19788,TX,West South Central,South,Region III,VAN ZANDT,City,True,2021-01-01T00:00:00.000Z,32.558948,-95.836391
+TX2340300,Grand Saline Police Department,19789,TX,West South Central,South,Region III,VAN ZANDT,City,True,2018-06-01T00:00:00.000Z,32.558948,-95.836391
+TX2340400,Van Police Department,19790,TX,West South Central,South,Region III,VAN ZANDT,City,True,2021-01-01T00:00:00.000Z,32.558948,-95.836391
+TX2340500,Wills Point Police Department,19791,TX,West South Central,South,Region III,VAN ZANDT,City,True,2018-05-01T00:00:00.000Z,32.558948,-95.836391
+TX2350000,Victoria County Sheriff's Office,19792,TX,West South Central,South,Region III,VICTORIA,County,True,2012-01-01T00:00:00.000Z,28.79637,-96.971198
+TX2350100,Victoria Police Department,19793,TX,West South Central,South,Region III,VICTORIA,City,True,2002-04-01T00:00:00.000Z,28.79637,-96.971198
+TX2360000,Walker County Sheriff's Office,19794,TX,West South Central,South,Region III,WALKER,County,True,2019-09-01T00:00:00.000Z,30.742157,-95.53279
+TX2360100,Huntsville Police Department,19795,TX,West South Central,South,Region III,WALKER,City,True,2016-06-01T00:00:00.000Z,30.723814,-95.551796
+TX2360300,Sam Houston State University,32809,TX,West South Central,South,Region III,WALKER,University or College,True,2021-01-01T00:00:00.000Z,,
+TX2370000,Waller County Sheriff's Office,19796,TX,West South Central,South,Region III,WALLER,County,True,2021-01-01T00:00:00.000Z,30.013578,-95.982102
+TX2370100,Brookshire Police Department,19797,TX,West South Central,South,Region III,WALLER,City,True,2019-01-01T00:00:00.000Z,30.013578,-95.982102
+TX2370200,Waller Police Department,19798,TX,West South Central,South,Region III,"HARRIS, WALLER",City,True,2018-02-01T00:00:00.000Z,30.013578,-95.982102
+TX2370700,Hempstead Police Department,19799,TX,West South Central,South,Region III,WALLER,City,True,2017-01-01T00:00:00.000Z,30.013578,-95.982102
+TX2370800,Prairie View  Police Department,22879,TX,West South Central,South,Region III,WALLER,City,True,2021-01-01T00:00:00.000Z,30.013578,-95.982102
+TX2370900,Prairie View A&M University,19800,TX,West South Central,South,Region III,WALLER,University or College,True,2021-01-01T00:00:00.000Z,30.013578,-95.982102
+TX2371000,Independent School District: Hempstead,19801,TX,West South Central,South,Region III,WALLER,Other,False,2023-01-01T00:00:00.000Z,30.013578,-95.982102
+TX2371200,Independent School District:,33461,TX,West South Central,South,Region III,WALLER,Other,True,2021-07-01T00:00:00.000Z,,
+TX2380000,Ward County Sheriff's Office,19802,TX,West South Central,South,Region III,WARD,County,True,2018-04-01T00:00:00.000Z,31.592508,-102.88987
+TX2380100,Monahans Police Department,19803,TX,West South Central,South,Region III,WARD,City,True,2021-01-01T00:00:00.000Z,31.594904,-102.89081
+TX2390000,Washington County Sheriff's Office,19804,TX,West South Central,South,Region III,WASHINGTON,County,True,2018-03-01T00:00:00.000Z,30.17912,-96.388176
+TX2390100,Brenham Police Department,19805,TX,West South Central,South,Region III,WASHINGTON,City,True,2018-03-01T00:00:00.000Z,30.168053,-96.398315
+TX2390300,Blinn College,19806,TX,West South Central,South,Region III,WASHINGTON,University or College,False,,30.159338,-96.40511
+TX2400000,Webb County Sheriff's Office,19807,TX,West South Central,South,Region III,WEBB,County,True,2019-09-01T00:00:00.000Z,27.770584,-99.326641
+TX2400100,Laredo Police Department,19808,TX,West South Central,South,Region III,WEBB,City,True,2019-01-01T00:00:00.000Z,27.536282,-99.47004
+TX2400500,Laredo Community College,19809,TX,West South Central,South,Region III,WEBB,University or College,False,,27.50878,-99.51866
+TX2400600,Texas A&M International University,19810,TX,West South Central,South,Region III,WEBB,University or College,True,2021-01-01T00:00:00.000Z,27.573874,-99.43269
+TX2400700,Independent School District: United,19811,TX,West South Central,South,Region III,WEBB,Other,True,2020-12-01T00:00:00.000Z,27.577896,-99.47315
+TX2401000,Rio Bravo Police Department,25575,TX,West South Central,South,Region III,WEBB,City,False,2015-07-01T00:00:00.000Z,27.770584,-99.326641
+TX2401100,Independent School District: Laredo,19812,TX,West South Central,South,Region III,WEBB,Other,True,2020-09-01T00:00:00.000Z,27.50718,-99.512375
+TX2410000,Wharton County Sheriff's Office,19813,TX,West South Central,South,Region III,WHARTON,County,True,2012-01-01T00:00:00.000Z,29.27848,-96.229674
+TX2410100,El Campo Police Department,19814,TX,West South Central,South,Region III,WHARTON,City,True,2017-01-01T00:00:00.000Z,29.195362,-96.27201
+TX2410200,Wharton Police Department,19815,TX,West South Central,South,Region III,WHARTON,City,True,2018-01-01T00:00:00.000Z,29.323185,-96.09805
+TX2410900,Independent School District:,29475,TX,West South Central,South,Region III,WHARTON,Other,True,2019-10-01T00:00:00.000Z,,
+TX2420000,Wheeler County Sheriff's Office,19816,TX,West South Central,South,Region III,WHEELER,County,True,2019-02-01T00:00:00.000Z,35.392593,-100.253107
+TX2420100,Shamrock Police Department,19817,TX,West South Central,South,Region III,WHEELER,City,False,,35.392593,-100.253107
+TX2430000,Wichita County Sheriff's Office,19818,TX,West South Central,South,Region III,WICHITA,County,True,2021-01-01T00:00:00.000Z,33.991103,-98.716851
+TX2430100,Burkburnett Police Department,19819,TX,West South Central,South,Region III,WICHITA,City,True,2021-01-01T00:00:00.000Z,34.098114,-98.57351
+TX2430200,Electra Police Department,19820,TX,West South Central,South,Region III,WICHITA,City,True,2017-01-01T00:00:00.000Z,34.029793,-98.918495
+TX2430400,Iowa Park Police Department,19821,TX,West South Central,South,Region III,WICHITA,City,True,1999-01-01T00:00:00.000Z,33.991103,-98.716851
+TX2430500,Wichita Falls Police Department,19822,TX,West South Central,South,Region III,WICHITA,City,True,2020-11-01T00:00:00.000Z,33.908684,-98.50251
+TX2430700,Midwestern State University,19823,TX,West South Central,South,Region III,WICHITA,University or College,True,2019-07-01T00:00:00.000Z,33.877552,-98.51852
+TX2431200,Independent School District:,33785,TX,West South Central,South,Region III,WICHITA,Other,True,2021-10-01T00:00:00.000Z,,
+TX2431500,Independent School District:,33413,TX,West South Central,South,Region III,WICHITA,Other,True,2021-07-01T00:00:00.000Z,,
+TX2440000,Wilbarger County Sheriff's Office,19824,TX,West South Central,South,Region III,WILBARGER,County,True,2019-05-01T00:00:00.000Z,34.08492,-99.24244
+TX2440100,Vernon Police Department,19825,TX,West South Central,South,Region III,WILBARGER,City,True,2019-01-01T00:00:00.000Z,34.157322,-99.28454
+TX2450000,Willacy County Sheriff's Office,19826,TX,West South Central,South,Region III,WILLACY,County,True,2019-09-01T00:00:00.000Z,26.47072,-97.76458
+TX2450100,Lyford Police Department,19827,TX,West South Central,South,Region III,WILLACY,City,False,2015-07-01T00:00:00.000Z,26.481092,-97.584223
+TX2450200,Raymondville Police Department,19828,TX,West South Central,South,Region III,WILLACY,City,True,2020-01-01T00:00:00.000Z,26.481844,-97.78723
+TX2450800,Independent School District: Lyford,19829,TX,West South Central,South,Region III,WILLACY,Other,True,2021-01-01T00:00:00.000Z,26.481092,-97.584223
+TX2450900,Independent School District: Raymondville,19830,TX,West South Central,South,Region III,WILLACY,Other,False,,26.481092,-97.584223
+TX2451000,Port Mansfield,27353,TX,West South Central,South,Region III,WILLACY,City,False,,,
+TX2460000,Williamson County Sheriff's Office,19831,TX,West South Central,South,Region III,WILLIAMSON,County,True,2018-10-01T00:00:00.000Z,30.648024,-97.6788
+TX2460100,Florence Police Department,19832,TX,West South Central,South,Region III,WILLIAMSON,City,True,2018-10-01T00:00:00.000Z,30.64903,-97.605069
+TX2460200,Georgetown Police Department,19833,TX,West South Central,South,Region III,WILLIAMSON,City,True,2003-10-01T00:00:00.000Z,30.636448,-97.680916
+TX2460300,Granger Police Department,19834,TX,West South Central,South,Region III,WILLIAMSON,City,True,2021-01-01T00:00:00.000Z,30.64903,-97.605069
+TX2460400,Hutto Police Department,19835,TX,West South Central,South,Region III,WILLIAMSON,City,True,2020-01-01T00:00:00.000Z,30.542425,-97.54668
+TX2460500,Round Rock Police Department,19836,TX,West South Central,South,Region III,"TRAVIS, WILLIAMSON",City,True,2020-08-01T00:00:00.000Z,30.64903,-97.605069
+TX2460600,Taylor Police Department,19837,TX,West South Central,South,Region III,WILLIAMSON,City,True,2020-07-01T00:00:00.000Z,30.64903,-97.605069
+TX2460800,Southwestern University,19838,TX,West South Central,South,Region III,WILLIAMSON,University or College,True,2019-10-01T00:00:00.000Z,30.64903,-97.605069
+TX2460900,Cedar Park Police Department,19839,TX,West South Central,South,Region III,"TRAVIS, WILLIAMSON",City,True,2019-09-01T00:00:00.000Z,30.52114,-97.823265
+TX2461700,Leander Police Department,19840,TX,West South Central,South,Region III,"TRAVIS, WILLIAMSON",City,True,2019-04-01T00:00:00.000Z,30.64903,-97.605069
+TX2461800,Thrall Police Department,19841,TX,West South Central,South,Region III,WILLIAMSON,City,False,,30.648024,-97.6788
+TX2462400,Liberty Hill,27733,TX,West South Central,South,Region III,WILLIAMSON,City,True,2020-11-01T00:00:00.000Z,,
+TX2462500,Jarrell Police Department,19842,TX,West South Central,South,Region III,WILLIAMSON,City,True,2018-12-01T00:00:00.000Z,30.64903,-97.605069
+TX2462800,Independent School District:,28677,TX,West South Central,South,Region III,WILLIAMSON,Other,True,2019-01-01T00:00:00.000Z,,
+TX2463000,Independent School District:,34698,TX,West South Central,South,Region III,WILLIAMSON,Other,True,2022-10-01T00:00:00.000Z,,
+TX2463100,Independent School District:,33411,TX,West South Central,South,Region III,WILLIAMSON,Other,True,2021-06-01T00:00:00.000Z,,
+TX2470000,Wilson County Sheriff's Office,19843,TX,West South Central,South,Region III,WILSON,County,True,2019-05-01T00:00:00.000Z,29.173883,-98.086734
+TX2470100,Floresville Police Department,19844,TX,West South Central,South,Region III,WILSON,City,True,2018-11-01T00:00:00.000Z,29.132193,-98.15976
+TX2470200,Poth Police Department,19845,TX,West South Central,South,Region III,WILSON,City,False,,29.173883,-98.086734
+TX2470700,La Vernia Police Department,19846,TX,West South Central,South,Region III,WILSON,City,True,2022-01-01T00:00:00.000Z,29.173883,-98.086734
+TX2470800,Independent School District: Floresville,19847,TX,West South Central,South,Region III,WILSON,Other,True,2019-03-01T00:00:00.000Z,29.173883,-98.086734
+TX2480000,Winkler County Sheriff's Office,19848,TX,West South Central,South,Region III,WINKLER,County,True,2020-01-01T00:00:00.000Z,31.831415,-103.055986
+TX2480100,Kermit Police Department,19849,TX,West South Central,South,Region III,WINKLER,City,True,2021-01-01T00:00:00.000Z,31.831415,-103.055986
+TX2480200,Wink Police Department,19850,TX,West South Central,South,Region III,WINKLER,City,True,2020-01-01T00:00:00.000Z,31.831415,-103.055986
+TX2490000,Wise County Sheriff's Office,19851,TX,West South Central,South,Region III,WISE,County,True,2018-01-01T00:00:00.000Z,33.23077,-97.6118
+TX2490100,Bridgeport Police Department,19852,TX,West South Central,South,Region III,WISE,City,True,2017-02-01T00:00:00.000Z,33.213524,-97.75744
+TX2490200,Decatur Police Department,19853,TX,West South Central,South,Region III,WISE,City,True,2016-01-01T00:00:00.000Z,33.222622,-97.58777
+TX2490300,Rhome,33818,TX,West South Central,South,Region III,WISE,City,True,2022-01-01T00:00:00.000Z,,
+TX2490800,Runaway Bay Police Department,19854,TX,West South Central,South,Region III,WISE,City,True,2018-09-01T00:00:00.000Z,33.174282,-97.86585
+TX2490900,Boyd Police Department,25409,TX,West South Central,South,Region III,WISE,City,True,2020-05-01T00:00:00.000Z,33.219095,-97.653997
+TX2500000,Wood County Sheriff's Office,19855,TX,West South Central,South,Region III,WOOD,County,True,2021-01-01T00:00:00.000Z,32.783588,-95.382166
+TX2500100,Alba,28674,TX,West South Central,South,Region III,WOOD,City,True,2019-01-01T00:00:00.000Z,,
+TX2500200,Hawkins Police Department,19856,TX,West South Central,South,Region III,WOOD,City,True,2020-11-01T00:00:00.000Z,32.783588,-95.382166
+TX2500300,Mineola Police Department,19857,TX,West South Central,South,Region III,WOOD,City,True,2021-01-01T00:00:00.000Z,32.675674,-95.48656
+TX2500400,Quitman Police Department,19858,TX,West South Central,South,Region III,WOOD,City,True,2019-07-01T00:00:00.000Z,32.783588,-95.382166
+TX2500500,Winnsboro Police Department,19859,TX,West South Central,South,Region III,"FRANKLIN, WOOD",City,True,2018-08-01T00:00:00.000Z,32.953472,-95.291725
+TX2510000,Yoakum County Sheriff's Office,19860,TX,West South Central,South,Region III,YOAKUM,County,True,2021-01-01T00:00:00.000Z,33.162398,-102.832242
+TX2510100,Denver City Police Department,19861,TX,West South Central,South,Region III,YOAKUM,City,True,2021-01-01T00:00:00.000Z,33.162398,-102.832242
+TX2520000,Young County Sheriff's Office,19862,TX,West South Central,South,Region III,YOUNG,County,True,2019-02-01T00:00:00.000Z,33.158787,-98.678267
+TX2520100,Graham Police Department,19863,TX,West South Central,South,Region III,YOUNG,City,True,2016-10-01T00:00:00.000Z,33.158787,-98.678267
+TX2520200,Olney Police Department,19864,TX,West South Central,South,Region III,YOUNG,City,True,2018-08-01T00:00:00.000Z,33.158787,-98.678267
+TX2530000,Zapata County Sheriff's Office,19865,TX,West South Central,South,Region III,ZAPATA,County,True,2020-01-01T00:00:00.000Z,26.996981,-99.182603
+TX2540000,Zavala County Sheriff's Office,19866,TX,West South Central,South,Region III,ZAVALA,County,True,2015-09-01T00:00:00.000Z,28.679815,-99.82764
+TX2540100,Crystal City Police Department,19867,TX,West South Central,South,Region III,ZAVALA,City,False,,28.678623,-99.82837
+TXDIT0000,Ysleta del Sur Pueblo Tribal,25906,TX,West South Central,South,Region III,NOT SPECIFIED,Tribal,True,2020-12-01T00:00:00.000Z,,
+TXDPD0000,Dallas Police Department,19869,TX,West South Central,South,Region III,"COLLIN, DALLAS, DENTON",City,True,2018-03-01T00:00:00.000Z,32.76778,-96.7956
+TXHPD0000,Houston Police Department,19870,TX,West South Central,South,Region III,"FORT BEND, HARRIS, MONTGOMERY",City,True,2018-06-01T00:00:00.000Z,29.75597,-95.36702
+TXSPD0000,San Antonio Police Department,19871,TX,West South Central,South,Region III,"BEXAR, MEDINA",City,True,2020-11-01T00:00:00.000Z,29.42295,-98.49757

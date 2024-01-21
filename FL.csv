@@ -1,0 +1,759 @@
+ori,agency_name,agency_id,state_abbr,division_name,region_name,region_desc,county_name,agency_type_name,nibrs,nibrs_start_date,latitude,longitude
+FL0010000,Alachua County Sheriff's Office,2319,FL,South Atlantic,South,Region III,ALACHUA,County,True,2022-02-01T00:00:00.000Z,29.643612,-82.2908
+FL0010100,Gainesville Police Department,2320,FL,South Atlantic,South,Region III,ALACHUA,City,True,2021-01-01T00:00:00.000Z,29.67574,-82.357221
+FL0010400,High Springs Police Department,2323,FL,South Atlantic,South,Region III,ALACHUA,City,False,,29.67574,-82.357221
+FL0010600,University of Florida,2325,FL,South Atlantic,South,Region III,ALACHUA,University or College,True,2021-01-01T00:00:00.000Z,29.67574,-82.357221
+FL0010800,Alachua Police Department,2327,FL,South Atlantic,South,Region III,ALACHUA,City,False,,29.67574,-82.357221
+FL0012700,Santa Fe College,2331,FL,South Atlantic,South,Region III,ALACHUA,University or College,False,,29.680899,-82.43032
+FL0012900,"Department of Corrections, Office of the Inspector General: Alachua County",23117,FL,South Atlantic,South,Region III,ALACHUA,Other State Agency,False,,,
+FL0015000,Division of Alcoholic Beverages and Tobacco: Alachua County,2333,FL,South Atlantic,South,Region III,ALACHUA,Other State Agency,False,,30.423128,-84.28066
+FL0018000,Florida Game Commission: Alachua County,2334,FL,South Atlantic,South,Region III,ALACHUA,Other State Agency,False,,29.722952,-82.417946
+FL0019000,Highway Patrol: Alachua County,2335,FL,South Atlantic,South,Region III,ALACHUA,State Police,False,,29.67574,-82.357221
+FL001A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33418,FL,South Atlantic,South,Region III,ALACHUA,Other State Agency,False,,,
+FL0020000,Baker County Sheriff's Office,2341,FL,South Atlantic,South,Region III,BAKER,County,True,2021-01-01T00:00:00.000Z,30.294596,-82.12483
+FL002040X,"Department of Corrections, Office of the Inspector General: Baker County",2343,FL,South Atlantic,South,Region III,BAKER,Other State Agency,False,,30.426645,-84.249504
+FL002500X,Division of Alcoholic Beverages and Tobacco: Baker County,2345,FL,South Atlantic,South,Region III,BAKER,Other State Agency,False,,30.423128,-84.28066
+FL0028000,Florida Game Commission: Baker County,2346,FL,South Atlantic,South,Region III,BAKER,Other State Agency,False,,30.324442,-82.302284
+FL0029000,Highway Patrol: Baker County,2347,FL,South Atlantic,South,Region III,BAKER,State Police,False,,30.324442,-82.302284
+FL002A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement:",33422,FL,South Atlantic,South,Region III,BAKER,Other State Agency,False,,,
+FL0030000,Bay County Sheriff's Office,2353,FL,South Atlantic,South,Region III,BAY,County,False,,30.237563,-85.631348
+FL0030100,Panama City Police Department,2354,FL,South Atlantic,South,Region III,BAY,City,False,,30.17504,-85.64405
+FL0030400,Mexico Beach Police Department,2357,FL,South Atlantic,South,Region III,BAY,City,False,,30.237563,-85.631348
+FL0030500,Springfield Police Department,2358,FL,South Atlantic,South,Region III,BAY,City,False,,30.237563,-85.631348
+FL0030600,Panama City Beach Police Department,2359,FL,South Atlantic,South,Region III,BAY,City,False,,30.228601,-85.889694
+FL0030700,Lynn Haven Police Department,2360,FL,South Atlantic,South,Region III,BAY,City,False,,30.237333,-85.64769
+FL0031100,Florida State University: Panama City,2363,FL,South Atlantic,South,Region III,BAY,University or College,False,,30.439632,-84.29678
+FL0031300,Northwest Florida Beaches International Airport,2364,FL,South Atlantic,South,Region III,BAY,Other,False,,30.20508,-85.68739
+FL0031600,"Department of Corrections, Office of the Inspector General: Bay County",23286,FL,South Atlantic,South,Region III,BAY,Other State Agency,False,,30.426645,-84.249504
+FL0032600,Parker Police Department,2365,FL,South Atlantic,South,Region III,BAY,City,False,,30.128723,-85.605316
+FL0035000,Division of Alcoholic Beverages and Tobacco: Bay County,2367,FL,South Atlantic,South,Region III,BAY,Other State Agency,False,,30.423128,-84.28066
+FL0038000,Florida Game Commission: Bay County,2368,FL,South Atlantic,South,Region III,BAY,Other State Agency,False,,30.275774,-85.60808
+FL0039000,Highway Patrol: Bay County,2369,FL,South Atlantic,South,Region III,BAY,State Police,False,,30.24214,-85.57792
+FL003A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33424,FL,South Atlantic,South,Region III,BAY,Other State Agency,False,,,
+FL0040000,Bradford County Sheriff's Office,2375,FL,South Atlantic,South,Region III,BRADFORD,County,False,,29.952386,-82.16729
+FL0040100,Starke Police Department,2376,FL,South Atlantic,South,Region III,BRADFORD,City,False,,29.938774,-82.11314
+FL0040300,Lawtey Police Department,2378,FL,South Atlantic,South,Region III,BRADFORD,City,False,,29.952386,-82.16729
+FL0040500,"Department of Corrections, Office of the Inspector General: Bradford County",23041,FL,South Atlantic,South,Region III,BRADFORD,Other State Agency,False,,30.426645,-84.249504
+FL004500X,Division of Alcoholic Beverages and Tobacco: Bradford County,2380,FL,South Atlantic,South,Region III,BRADFORD,Other State Agency,False,,30.423128,-84.28066
+FL0048000,Florida Game Commission: Bradford County,2381,FL,South Atlantic,South,Region III,BRADFORD,Other State Agency,False,,29.952386,-82.16729
+FL0049000,Highway Patrol: Bradford County,2382,FL,South Atlantic,South,Region III,BRADFORD,State Police,False,,29.967255,-82.10308
+FL004A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33426,FL,South Atlantic,South,Region III,BRADFORD,Other State Agency,False,,,
+FL0050000,Brevard County Sheriff's Office,2388,FL,South Atlantic,South,Region III,BREVARD,County,False,,28.607767,-80.81862
+FL0050200,Cocoa Police Department,2390,FL,South Atlantic,South,Region III,BREVARD,City,False,,28.355743,-80.74711
+FL0050300,Cocoa Beach Police Department,2391,FL,South Atlantic,South,Region III,BREVARD,City,False,,28.318039,-80.61011
+FL0050500,Indialantic Police Department,2393,FL,South Atlantic,South,Region III,BREVARD,City,False,,28.090782,-80.56948
+FL0050600,Indian Harbour Beach Police Department,2394,FL,South Atlantic,South,Region III,BREVARD,City,False,,28.145796,-80.59706
+FL0050700,Melbourne Police Department,2395,FL,South Atlantic,South,Region III,BREVARD,City,False,,28.298304,-80.700333
+FL0050800,Melbourne Beach Police Department,2396,FL,South Atlantic,South,Region III,BREVARD,City,False,,28.068369,-80.56342
+FL0050900,Rockledge Police Department,2397,FL,South Atlantic,South,Region III,BREVARD,City,False,,28.33072,-80.723785
+FL0051000,Satellite Beach Police Department,2398,FL,South Atlantic,South,Region III,BREVARD,City,False,,28.173058,-80.60233
+FL0051100,Titusville Police Department,2399,FL,South Atlantic,South,Region III,BREVARD,City,False,,28.529774,-80.81442
+FL0051200,Palm Bay Police Department,2400,FL,South Atlantic,South,Region III,BREVARD,City,False,,27.999031,-80.68493
+FL0051500,Melbourne Village Police Department,2403,FL,South Atlantic,South,Region III,BREVARD,City,False,,28.089233,-80.66412
+FL0051600,West Melbourne Police Department,2404,FL,South Atlantic,South,Region III,BREVARD,City,False,,28.072985,-80.6708
+FL0051800,Melbourne International Airport,2406,FL,South Atlantic,South,Region III,BREVARD,Other,False,,28.096294,-80.62855
+FL0052000,"Department of Corrections, Office of the Inspector General: Brevard County",25653,FL,South Atlantic,South,Region III,BREVARD,Other State Agency,False,,,
+FL0055000,Division of Alcoholic Beverages and Tobacco: Brevard County,2409,FL,South Atlantic,South,Region III,BREVARD,Other State Agency,False,,30.423128,-84.28066
+FL0058000,Florida Game Commission: Brevard County,2410,FL,South Atlantic,South,Region III,BREVARD,Other State Agency,False,,28.615356,-80.80744
+FL0059000,Highway Patrol: Brevard County,2411,FL,South Atlantic,South,Region III,BREVARD,State Police,False,,28.543722,-81.31053
+FL005A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement:",33428,FL,South Atlantic,South,Region III,BREVARD,Other State Agency,False,,,
+FL0060000,Broward County Sheriff's Office,2418,FL,South Atlantic,South,Region III,BROWARD,County,False,,26.193535,-80.476683
+FL0060100,Dania Police Department,2419,FL,South Atlantic,South,Region III,BROWARD,City,False,,26.193535,-80.476683
+FL0060200,Deerfield Beach Police Department,2420,FL,South Atlantic,South,Region III,BROWARD,City,False,,26.193535,-80.476683
+FL0060300,Fort Lauderdale Police Department,2421,FL,South Atlantic,South,Region III,BROWARD,City,False,,26.121895,-80.15851
+FL0060400,Hallandale Police Department,2422,FL,South Atlantic,South,Region III,BROWARD,City,False,,25.981018,-80.14207
+FL0060500,Hollywood Police Department,2423,FL,South Atlantic,South,Region III,BROWARD,City,False,,26.010834,-80.17272
+FL0060600,Plantation Police Department,2424,FL,South Atlantic,South,Region III,BROWARD,City,False,,26.127132,-80.24233
+FL0060700,Pompano Beach Police Department,2425,FL,South Atlantic,South,Region III,BROWARD,City,False,,26.193535,-80.476683
+FL0060800,Pembroke Pines Police Department,2426,FL,South Atlantic,South,Region III,BROWARD,City,False,,26.00853,-80.27197
+FL0060900,Wilton Manors Police Department,2427,FL,South Atlantic,South,Region III,BROWARD,City,False,,26.154964,-80.13936
+FL0061000,Cooper City Police Department,2428,FL,South Atlantic,South,Region III,BROWARD,City,False,,26.0444,-80.28743
+FL0061100,Coconut Creek Police Department,2429,FL,South Atlantic,South,Region III,BROWARD,City,False,,26.25963,-80.18973
+FL0061200,Davie Police Department,2430,FL,South Atlantic,South,Region III,BROWARD,City,True,2022-01-01T00:00:00.000Z,26.103151,-80.28184
+FL0061400,Hillsboro Beach Police Department,2432,FL,South Atlantic,South,Region III,BROWARD,City,False,,26.193535,-80.476683
+FL0061600,Lauderdale-by-the-Sea Police Department,2434,FL,South Atlantic,South,Region III,BROWARD,City,False,,26.193535,-80.476683
+FL0061700,Lauderdale Lakes Police Department,2435,FL,South Atlantic,South,Region III,BROWARD,City,False,,26.193535,-80.476683
+FL0061800,Lauderhill Police Department,2436,FL,South Atlantic,South,Region III,BROWARD,City,False,,26.164854,-80.23237
+FL0062000,Lighthouse Point Police Department,2437,FL,South Atlantic,South,Region III,BROWARD,City,False,,26.193535,-80.476683
+FL0062100,Margate Police Department,2438,FL,South Atlantic,South,Region III,BROWARD,City,False,,26.193535,-80.476683
+FL0062200,Miramar Police Department,2439,FL,South Atlantic,South,Region III,BROWARD,City,False,,26.193535,-80.476683
+FL0062300,North Lauderdale Police Department,2440,FL,South Atlantic,South,Region III,BROWARD,City,False,,26.193535,-80.476683
+FL0062400,Oakland Park Police Department,2441,FL,South Atlantic,South,Region III,BROWARD,City,False,,26.193535,-80.476683
+FL0062600,Sea Ranch Lakes Police Department,2442,FL,South Atlantic,South,Region III,BROWARD,City,False,,26.201649,-80.096054
+FL0062700,Sunrise Police Department,2443,FL,South Atlantic,South,Region III,BROWARD,City,False,,26.131817,-80.33324
+FL0062800,Coral Springs Police Department,2444,FL,South Atlantic,South,Region III,BROWARD,City,True,2021-08-01T00:00:00.000Z,26.264788,-80.26626
+FL0063000,Pembroke Park Police Department,2445,FL,South Atlantic,South,Region III,BROWARD,City,False,,26.193535,-80.476683
+FL0063100,Tamarac Police Department,2446,FL,South Atlantic,South,Region III,BROWARD,City,False,,26.193535,-80.476683
+FL0063200,Fort Lauderdale Airport Police,2447,FL,South Atlantic,South,Region III,BROWARD,Other,False,,26.193535,-80.476683
+FL0063300,Parkland Police Department,2448,FL,South Atlantic,South,Region III,BROWARD,City,False,,26.318777,-80.25127
+FL0063400,Seminole Tribal,2449,FL,South Atlantic,South,Region III,NOT SPECIFIED,Tribal,True,2021-01-01T00:00:00.000Z,26.193535,-80.476683
+FL006380X,Southwest Ranches Police Department,2450,FL,South Atlantic,South,Region III,BROWARD,City,False,,,
+FL006410X,West Park Police Department,2452,FL,South Atlantic,South,Region III,BROWARD,City,False,,,
+FL0064400,"Department of Corrections, Office of the Inspector General: Broward County",23293,FL,South Atlantic,South,Region III,BROWARD,Other State Agency,False,,30.426645,-84.249504
+FL0065000,Division of Alcoholic Beverages and Tobacco: Broward County,2453,FL,South Atlantic,South,Region III,BROWARD,Other State Agency,False,,30.423128,-84.28066
+FL0067000,Department of Insurance: Broward County,2454,FL,South Atlantic,South,Region III,BROWARD,Other State Agency,False,,30.4355,-84.2806
+FL0068000,Florida Game Commission: Broward County,2455,FL,South Atlantic,South,Region III,BROWARD,Other State Agency,False,,26.810623,-80.16293
+FL006880X,Weston Police Department,2456,FL,South Atlantic,South,Region III,BROWARD,City,False,,,
+FL0069000,Highway Patrol: Broward County,2457,FL,South Atlantic,South,Region III,BROWARD,State Police,False,,26.193535,-80.476683
+FL006990X,Port Everglades Police Department,2458,FL,South Atlantic,South,Region III,BROWARD,Other,False,,,
+FL006A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33430,FL,South Atlantic,South,Region III,BROWARD,Other State Agency,False,,,
+FL0070000,Calhoun County Sheriff's Office,2464,FL,South Atlantic,South,Region III,CALHOUN,County,False,,30.443209,-85.04472
+FL0070100,Altha Police Department,2465,FL,South Atlantic,South,Region III,CALHOUN,City,False,,30.388801,-85.197915
+FL0070200,Blountstown Police Department,2466,FL,South Atlantic,South,Region III,CALHOUN,City,False,,30.388801,-85.197915
+FL007030X,"Department of Corrections, Office of the Inspector General: Calhoun County",2467,FL,South Atlantic,South,Region III,CALHOUN,Other State Agency,False,,30.426645,-84.249504
+FL007500X,Division of Alcoholic Beverages and Tobacco: Calhoun County,2469,FL,South Atlantic,South,Region III,CALHOUN,Other State Agency,False,,30.423128,-84.28066
+FL0078000,Florida Game Commission: Calhoun County,2470,FL,South Atlantic,South,Region III,CALHOUN,Other State Agency,False,,30.443165,-85.03998
+FL0079000,Highway Patrol: Calhoun County,2471,FL,South Atlantic,South,Region III,CALHOUN,State Police,False,,30.24214,-85.57792
+FL007A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33432,FL,South Atlantic,South,Region III,CALHOUN,Other State Agency,False,,,
+FL0080000,Charlotte County Sheriff's Office,2477,FL,South Atlantic,South,Region III,CHARLOTTE,County,True,2021-01-01T00:00:00.000Z,26.868933,-81.941077
+FL0080100,"Department of Corrections, Office of the Inspector General: Charlotte County",25319,FL,South Atlantic,South,Region III,CHARLOTTE,Other State Agency,False,,,
+FL0080200,Punta Gorda Police Department,2478,FL,South Atlantic,South,Region III,CHARLOTTE,City,False,,26.925983,-82.04725
+FL008500X,Division of Alcoholic Beverages and Tobacco: Charlotte County,2480,FL,South Atlantic,South,Region III,CHARLOTTE,Other State Agency,False,,,
+FL0088000,Florida Game Commission: Charlotte County,2481,FL,South Atlantic,South,Region III,CHARLOTTE,Other State Agency,False,,26.868933,-81.941077
+FL0089000,Highway Patrol: Charlotte County,2482,FL,South Atlantic,South,Region III,CHARLOTTE,State Police,False,,27.049711,-82.399666
+FL008A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33499,FL,South Atlantic,South,Region III,CHARLOTTE,Other State Agency,False,,,
+FL0090000,Citrus County Sheriff's Office,2488,FL,South Atlantic,South,Region III,CITRUS,County,False,,28.834253,-82.32872
+FL0090300,"Department of Corrections, Office of the Inspector General: Citrus County",25656,FL,South Atlantic,South,Region III,CITRUS,Other State Agency,False,,,
+FL009500X,Division of Alcoholic Beverages and Tobacco: Citrus County,2492,FL,South Atlantic,South,Region III,CITRUS,Other State Agency,False,,30.423128,-84.28066
+FL0098000,Florida Game Commission: Citrus County,2493,FL,South Atlantic,South,Region III,CITRUS,Other State Agency,False,,28.843628,-82.524796
+FL0099000,Highway Patrol: Citrus County,2494,FL,South Atlantic,South,Region III,CITRUS,State Police,False,,28.843628,-82.524796
+FL009A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33501,FL,South Atlantic,South,Region III,CITRUS,Other State Agency,False,,,
+FL0100000,Clay County Sheriff's Office,2500,FL,South Atlantic,South,Region III,CLAY,County,False,,29.987115,-81.858147
+FL0100100,Green Cove Springs Police Department,2501,FL,South Atlantic,South,Region III,CLAY,City,False,,29.993206,-81.67696
+FL0100200,Orange Park Police Department,2502,FL,South Atlantic,South,Region III,CLAY,City,False,,29.987115,-81.858147
+FL0100500,"Department of Corrections, Office of the Inspector General: Clay County",25655,FL,South Atlantic,South,Region III,CLAY,Other State Agency,False,,,
+FL0101200,Clay County School Board,30656,FL,South Atlantic,South,Region III,CLAY,Other,False,,,
+FL010500X,Division of Alcoholic Beverages and Tobacco: Clay County,2505,FL,South Atlantic,South,Region III,CLAY,Other State Agency,False,,30.423128,-84.28066
+FL0108000,Florida Game Commission: Clay County,2506,FL,South Atlantic,South,Region III,CLAY,Other State Agency,False,,29.987115,-81.858147
+FL0109000,Highway Patrol: Clay County,2507,FL,South Atlantic,South,Region III,CLAY,State Police,False,,29.659754,-81.656166
+FL010A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33503,FL,South Atlantic,South,Region III,CLAY,Other State Agency,False,,,
+FL0110000,Collier County Sheriff's Office,2513,FL,South Atlantic,South,Region III,COLLIER,County,True,2021-01-01T00:00:00.000Z,26.118712,-81.400884
+FL0110100,Naples Police Department,2514,FL,South Atlantic,South,Region III,COLLIER,City,False,,26.152243,-81.78984
+FL0110300,Marco Island Police Department,2516,FL,South Atlantic,South,Region III,COLLIER,City,True,2021-01-01T00:00:00.000Z,25.937738,-81.71461
+FL0110600,"Department of Corrections, Office of the Inspector General: Collier County",25642,FL,South Atlantic,South,Region III,COLLIER,Other State Agency,False,,,
+FL011500X,Division of Alcoholic Beverages and Tobacco: Collier County,2518,FL,South Atlantic,South,Region III,COLLIER,Other State Agency,False,,30.423128,-84.28066
+FL0118000,Florida Game Commission: Collier County,2519,FL,South Atlantic,South,Region III,COLLIER,Other State Agency,False,,26.158545,-81.75276
+FL0119000,Highway Patrol: Collier County,2520,FL,South Atlantic,South,Region III,COLLIER,State Police,False,,26.13852,-81.76764
+FL011A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33505,FL,South Atlantic,South,Region III,COLLIER,Other State Agency,False,,,
+FL0120000,Columbia County Sheriff's Office,2526,FL,South Atlantic,South,Region III,COLUMBIA,County,False,,30.221333,-82.623168
+FL0120100,Lake City Police Department,2527,FL,South Atlantic,South,Region III,COLUMBIA,City,False,,30.221333,-82.623168
+FL0120500,"Department of Corrections, Office of the Inspector General: Columbia County",23264,FL,South Atlantic,South,Region III,COLUMBIA,Other State Agency,False,,30.426645,-84.249504
+FL012500X,Division of Alcoholic Beverages and Tobacco: Columbia County,2531,FL,South Atlantic,South,Region III,COLUMBIA,Other State Agency,False,,30.423128,-84.28066
+FL0128000,Florida Game Commission: Columbia County,2532,FL,South Atlantic,South,Region III,COLUMBIA,Other State Agency,False,,30.186502,-82.60419
+FL0129000,Highway Patrol: Columbia County,2533,FL,South Atlantic,South,Region III,COLUMBIA,State Police,False,,30.221333,-82.623168
+FL012A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33507,FL,South Atlantic,South,Region III,COLUMBIA,Other State Agency,False,,,
+FL0130000,Miami-Dade County Police Department,2539,FL,South Atlantic,South,Region III,MIAMI-DADE,County,True,2022-01-01T00:00:00.000Z,25.796967,-80.3427
+FL0130100,Bal Harbour Village Police Department,2540,FL,South Atlantic,South,Region III,MIAMI-DADE,City,False,,25.88693,-80.12664
+FL0130200,Coral Gables Police Department,2541,FL,South Atlantic,South,Region III,MIAMI-DADE,City,False,2021-01-01T00:00:00.000Z,25.746216,-80.26053
+FL0130300,Florida City Police Department,2542,FL,South Atlantic,South,Region III,MIAMI-DADE,City,False,,25.44781,-80.48214
+FL0130400,Hialeah Police Department,2543,FL,South Atlantic,South,Region III,MIAMI-DADE,City,False,,25.873285,-80.26692
+FL0130500,Homestead Police Department,2544,FL,South Atlantic,South,Region III,MIAMI-DADE,City,False,,25.610494,-80.499045
+FL0130600,Miami Police Department,2545,FL,South Atlantic,South,Region III,MIAMI-DADE,City,True,2022-07-01T00:00:00.000Z,25.7779,-80.197876
+FL0130700,Miami Beach Police Department,2546,FL,South Atlantic,South,Region III,MIAMI-DADE,City,False,,25.782001,-80.13255
+FL0130800,Miami Shores Police Department,2547,FL,South Atlantic,South,Region III,MIAMI-DADE,City,False,,25.866932,-80.1936
+FL0130900,Miami Springs Police Department,2548,FL,South Atlantic,South,Region III,MIAMI-DADE,City,False,,25.821129,-80.28441
+FL0131000,North Miami Beach Police Department,2549,FL,South Atlantic,South,Region III,MIAMI-DADE,City,False,2023-04-01T00:00:00.000Z,25.610494,-80.499045
+FL0131100,Doral Police Department,2550,FL,South Atlantic,South,Region III,MIAMI-DADE,City,True,2021-01-01T00:00:00.000Z,25.821465,-80.33212
+FL0131200,Opa Locka Police Department,2551,FL,South Atlantic,South,Region III,MIAMI-DADE,City,False,,25.610494,-80.499045
+FL0131300,Surfside Police Department,2552,FL,South Atlantic,South,Region III,MIAMI-DADE,City,False,,25.88142,-80.123146
+FL0131400,Biscayne Park Police Department,2553,FL,South Atlantic,South,Region III,MIAMI-DADE,City,False,,25.879982,-80.18564
+FL0131500,El Portal Police Department,2554,FL,South Atlantic,South,Region III,MIAMI-DADE,City,False,,25.855116,-80.1871
+FL0131600,Hialeah Gardens Police Department,2555,FL,South Atlantic,South,Region III,MIAMI-DADE,City,False,,25.610494,-80.499045
+FL0131700,North Bay Village Police Department,2556,FL,South Atlantic,South,Region III,MIAMI-DADE,City,False,,25.610494,-80.499045
+FL0131800,North Miami Police Department,2557,FL,South Atlantic,South,Region III,MIAMI-DADE,City,False,,25.889427,-80.18439
+FL0131900,South Miami Police Department,2558,FL,South Atlantic,South,Region III,MIAMI-DADE,City,True,2021-01-01T00:00:00.000Z,25.610494,-80.499045
+FL0132000,Virginia Gardens Police Department,2559,FL,South Atlantic,South,Region III,MIAMI-DADE,City,False,,25.809643,-80.30219
+FL0132100,West Miami Police Department,2560,FL,South Atlantic,South,Region III,MIAMI-DADE,City,False,,25.762386,-80.29583
+FL0132200,Bay Harbor Islands Police Department,2561,FL,South Atlantic,South,Region III,MIAMI-DADE,City,False,,25.887064,-80.131256
+FL0132400,Golden Beach Police Department,2562,FL,South Atlantic,South,Region III,MIAMI-DADE,City,False,,25.95715,-80.12103
+FL0132500,Indian Creek Village Police Department,2563,FL,South Atlantic,South,Region III,MIAMI-DADE,City,False,,25.877441,-80.12941
+FL0132700,Medley Police Department,2564,FL,South Atlantic,South,Region III,MIAMI-DADE,City,False,,25.840729,-80.31719
+FL0132900,Sweetwater Police Department,2565,FL,South Atlantic,South,Region III,MIAMI-DADE,City,False,,25.764063,-80.37266
+FL0133000,"Department of Law Enforcement: Miami-Dade County, Miami",2566,FL,South Atlantic,South,Region III,MIAMI-DADE,Other State Agency,False,,25.782417,-80.37511
+FL0133100,Florida International University,2567,FL,South Atlantic,South,Region III,MIAMI-DADE,University or College,False,,25.610494,-80.499045
+FL0133700,Miami-Dade County Public Schools,2568,FL,South Atlantic,South,Region III,MIAMI-DADE,Other,False,,25.831606,-80.20033
+FL0133900,Miccosukee Tribal,2570,FL,South Atlantic,South,Region III,NOT SPECIFIED,Tribal,True,2021-01-01T00:00:00.000Z,25.610494,-80.499045
+FL0134300,Key Biscayne Police Department,2572,FL,South Atlantic,South,Region III,MIAMI-DADE,City,False,,25.691172,-80.16555
+FL0134700,"Department of Corrections, Office of the Inspector General: Miami-Dade County",25584,FL,South Atlantic,South,Region III,MIAMI-DADE,Other State Agency,False,,,
+FL0135000,Division of Alcoholic Beverages and Tobacco: Miami-Dade County,2573,FL,South Atlantic,South,Region III,MIAMI-DADE,Other State Agency,False,,30.423128,-84.28066
+FL0135100,Sunny Isles Beach Police Department,2574,FL,South Atlantic,South,Region III,MIAMI-DADE,City,True,2022-01-01T00:00:00.000Z,25.942732,-80.12123
+FL013670X,Cutler Bay Police Department,2575,FL,South Atlantic,South,Region III,MIAMI-DADE,City,False,2023-01-01T00:00:00.000Z,25.5714,-80.36777
+FL0137000,Department of Insurance: Miami-Dade County,2576,FL,South Atlantic,South,Region III,MIAMI-DADE,Other State Agency,False,,30.4355,-84.2806
+FL0138100,Florida Game Commission: Miami-Dade County,2578,FL,South Atlantic,South,Region III,MIAMI-DADE,Other State Agency,False,,25.610494,-80.499045
+FL0139000,Highway Patrol: Miami-Dade County,2579,FL,South Atlantic,South,Region III,MIAMI-DADE,State Police,False,,25.781937,-80.375046
+FL0139100,Aventura Police Department,2580,FL,South Atlantic,South,Region III,MIAMI-DADE,City,True,2021-01-01T00:00:00.000Z,25.955603,-80.13054
+FL0139200,Village of Pinecrest Police Department,2581,FL,South Atlantic,South,Region III,MIAMI-DADE,City,False,,25.652876,-80.32996
+FL0139300,Miami Lakes Police Department,2582,FL,South Atlantic,South,Region III,MIAMI-DADE,City,False,2023-01-01T00:00:00.000Z,25.917233,-80.309105
+FL013950X,Palmetto Bay Police Department,2584,FL,South Atlantic,South,Region III,MIAMI-DADE,City,False,2023-01-01T00:00:00.000Z,25.572676,-80.36435
+FL0139700,Miami Gardens Police Department,2586,FL,South Atlantic,South,Region III,MIAMI-DADE,City,False,,25.927366,-80.22583
+FL013A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33580,FL,South Atlantic,South,Region III,MIAMI-DADE,Other State Agency,False,,,
+FL0140000,Desoto County Sheriff's Office,2592,FL,South Atlantic,South,Region III,DESOTO,County,False,,27.190581,-81.806253
+FL0140100,Arcadia Police Department,2593,FL,South Atlantic,South,Region III,DESOTO,City,False,,27.190581,-81.806253
+FL0140200,"Department of Corrections, Office of the Inspector General: DeSoto County",25621,FL,South Atlantic,South,Region III,DESOTO,Other State Agency,False,,,
+FL014500X,Division of Alcoholic Beverages and Tobacco: DeSoto County,2595,FL,South Atlantic,South,Region III,DESOTO,Other State Agency,False,,30.423128,-84.28066
+FL0148000,Florida Game Commission: DeSoto County,2596,FL,South Atlantic,South,Region III,DESOTO,Other State Agency,False,,27.21457,-81.857864
+FL0149000,Highway Patrol: DeSoto County,2597,FL,South Atlantic,South,Region III,DESOTO,State Police,False,,27.225067,-81.85528
+FL014A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33514,FL,South Atlantic,South,Region III,DESOTO,Other State Agency,False,,,
+FL0150000,Dixie County Sheriff's Office,2603,FL,South Atlantic,South,Region III,DIXIE,County,False,,29.580899,-83.195666
+FL0150100,Cross City Police Department,2604,FL,South Atlantic,South,Region III,DIXIE,City,False,,29.580899,-83.195666
+FL0150300,"Department of Corrections, Office of the Inspector General: Dixie County",23260,FL,South Atlantic,South,Region III,DIXIE,Other State Agency,False,,30.426645,-84.249504
+FL015500X,Division of Alcoholic Beverages and Tobacco: Dixie County,2607,FL,South Atlantic,South,Region III,DIXIE,Other State Agency,False,,30.423128,-84.28066
+FL0158000,Florida Game Commission: Dixie County,2608,FL,South Atlantic,South,Region III,DIXIE,Other State Agency,False,,29.580899,-83.195666
+FL0159000,Highway Patrol: Dixie County,2609,FL,South Atlantic,South,Region III,DIXIE,State Police,False,,29.580899,-83.195666
+FL015A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33518,FL,South Atlantic,South,Region III,DIXIE,Other State Agency,False,,,
+FL0160000,Duval County Sheriff's Office,2615,FL,South Atlantic,South,Region III,DUVAL,County,True,2021-10-01T00:00:00.000Z,30.316431,-81.39872
+FL0160100,Atlantic Beach Police Department,2616,FL,South Atlantic,South,Region III,DUVAL,City,True,2021-01-01T00:00:00.000Z,30.333538,-81.4022
+FL0160300,Jacksonville Beach Police Department,2618,FL,South Atlantic,South,Region III,DUVAL,City,False,,30.288599,-81.40567
+FL0160400,Neptune Beach Police Department,2619,FL,South Atlantic,South,Region III,DUVAL,City,True,2021-01-01T00:00:00.000Z,30.323698,-81.39605
+FL0160500,"Department of Law Enforcement: Duval County, Jacksonville",2620,FL,South Atlantic,South,Region III,DUVAL,Other State Agency,False,,30.335827,-81.66703
+FL0160600,University of North Florida,2621,FL,South Atlantic,South,Region III,DUVAL,University or College,False,,30.335245,-81.648113
+FL0160700,Jacksonville Aviation Authority,2622,FL,South Atlantic,South,Region III,DUVAL,Other,True,2021-09-01T00:00:00.000Z,30.335245,-81.648113
+FL0161100,Duval County Schools,2623,FL,South Atlantic,South,Region III,DUVAL,Other,True,2021-01-01T00:00:00.000Z,30.340302,-81.57326
+FL0162900,"Department of Corrections, Office of the Inspector General: DeSoto County",25579,FL,South Atlantic,South,Region III,DUVAL,Other State Agency,False,,,
+FL0165000,Division of Alcoholic Beverages and Tobacco: Duval County,2626,FL,South Atlantic,South,Region III,DUVAL,Other State Agency,False,,30.423128,-84.28066
+FL0167000,Department of Insurance: Duval County,2627,FL,South Atlantic,South,Region III,DUVAL,Other State Agency,False,,30.4355,-84.2806
+FL0168000,Florida Game Commission: Duval County,2628,FL,South Atlantic,South,Region III,DUVAL,Other State Agency,False,,30.334911,-81.664505
+FL0169000,Highway Patrol: Duval County,2629,FL,South Atlantic,South,Region III,DUVAL,State Police,False,,30.297928,-81.77027
+FL016A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33520,FL,South Atlantic,South,Region III,DUVAL,Other State Agency,False,,,
+FL0170000,Escambia County Sheriff's Office,2635,FL,South Atlantic,South,Region III,ESCAMBIA,County,False,,30.611648,-87.338948
+FL0170100,Pensacola Police Department,2636,FL,South Atlantic,South,Region III,ESCAMBIA,City,True,2021-01-01T00:00:00.000Z,30.611648,-87.338948
+FL0170300,"Department of Law Enforcement: Escambia County, Pensacola",2638,FL,South Atlantic,South,Region III,ESCAMBIA,Other State Agency,False,,30.426098,-87.21845
+FL0170400,University of West Florida,2639,FL,South Atlantic,South,Region III,ESCAMBIA,University or College,True,2022-01-01T00:00:00.000Z,30.542934,-87.21819
+FL0171000,"Department of Corrections, Office of the Inspector General: Escambia County",25659,FL,South Atlantic,South,Region III,ESCAMBIA,Other State Agency,False,,,
+FL0175000,Division of Alcoholic Beverages and Tobacco: Escambia County,2641,FL,South Atlantic,South,Region III,ESCAMBIA,Other State Agency,False,,30.423128,-84.28066
+FL0177000,Department of Insurance: Escambia County,2642,FL,South Atlantic,South,Region III,ESCAMBIA,Other State Agency,False,,30.4355,-84.2806
+FL0178000,Florida Game Commission: Escambia County,2643,FL,South Atlantic,South,Region III,ESCAMBIA,Other State Agency,False,,30.418161,-87.1951
+FL0179000,Highway Patrol: Escambia County,2644,FL,South Atlantic,South,Region III,ESCAMBIA,State Police,False,,30.611648,-87.338948
+FL0179100,Pensacola State College,2645,FL,South Atlantic,South,Region III,ESCAMBIA,University or College,False,,30.48097,-87.20537
+FL017A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33522,FL,South Atlantic,South,Region III,ESCAMBIA,Other State Agency,False,,,
+FL0180000,Flagler County Sheriff's Office,2651,FL,South Atlantic,South,Region III,FLAGLER,County,False,,29.457785,-81.26104
+FL0180100,Bunnell Police Department,2652,FL,South Atlantic,South,Region III,FLAGLER,City,False,,29.474903,-81.286337
+FL0180200,Flagler Beach Police Department,2653,FL,South Atlantic,South,Region III,"FLAGLER, VOLUSIA",City,False,,29.474903,-81.286337
+FL0180500,"Department of Corrections, Office of the Inspector General: Flagler County",25577,FL,South Atlantic,South,Region III,FLAGLER,Other State Agency,False,,,
+FL0185000,Division of Alcoholic Beverages and Tobacco: Flagler County,23305,FL,South Atlantic,South,Region III,FLAGLER,Other State Agency,False,,30.423128,-84.28066
+FL0188000,Florida Game Commission: Flagler County,2655,FL,South Atlantic,South,Region III,FLAGLER,Other State Agency,False,,29.474903,-81.286337
+FL0189000,Highway Patrol: Flagler County,2656,FL,South Atlantic,South,Region III,FLAGLER,State Police,False,,28.543722,-81.31053
+FL018A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33524,FL,South Atlantic,South,Region III,FLAGLER,Other State Agency,False,,,
+FL0190000,Franklin County Sheriff's Office,2662,FL,South Atlantic,South,Region III,FRANKLIN,County,False,,29.810176,-84.799174
+FL0190100,Apalachicola Police Department,2663,FL,South Atlantic,South,Region III,FRANKLIN,City,False,,29.810176,-84.799174
+FL0190200,Carrabelle Police Department,2664,FL,South Atlantic,South,Region III,FRANKLIN,City,False,,29.810176,-84.799174
+FL019040X,"Department of Corrections, Office of the Inspector General: Franklin County",2665,FL,South Atlantic,South,Region III,FRANKLIN,Other State Agency,False,,,
+FL019500X,Division of Alcoholic Beverages and Tobacco: Franklin County,2667,FL,South Atlantic,South,Region III,FRANKLIN,Other State Agency,False,,30.423128,-84.28066
+FL0198000,Florida Game Commission: Franklin County,2668,FL,South Atlantic,South,Region III,FRANKLIN,Other State Agency,False,,29.846487,-84.66904
+FL0199000,Highway Patrol: Franklin County,2669,FL,South Atlantic,South,Region III,FRANKLIN,State Police,False,,29.810176,-84.799174
+FL019A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33526,FL,South Atlantic,South,Region III,FRANKLIN,Other State Agency,False,,,
+FL0200000,Gadsden County Sheriff's Office,2675,FL,South Atlantic,South,Region III,GADSDEN,County,False,,30.579169,-84.612783
+FL0200100,Quincy Police Department,2676,FL,South Atlantic,South,Region III,GADSDEN,City,False,,30.58813,-84.578804
+FL0200200,Chattahoochee Police Department,2677,FL,South Atlantic,South,Region III,GADSDEN,City,False,,30.705803,-84.84638
+FL0200300,Havana Police Department,2678,FL,South Atlantic,South,Region III,GADSDEN,City,False,,30.625616,-84.413826
+FL0200400,Gretna Police Department,2679,FL,South Atlantic,South,Region III,GADSDEN,City,False,,30.579169,-84.612783
+FL0200500,Midway Police Department,2680,FL,South Atlantic,South,Region III,GADSDEN,City,False,,30.579169,-84.612783
+FL0200800,"Department of Corrections, Office of the Inspector General: Gadsden County",23295,FL,South Atlantic,South,Region III,GADSDEN,Other State Agency,False,,30.426645,-84.249504
+FL020500X,Division of Alcoholic Beverages and Tobacco: Gadsden County,2683,FL,South Atlantic,South,Region III,GADSDEN,Other State Agency,False,,30.423128,-84.28066
+FL0208000,Florida Game Commission: Gadsden County,2684,FL,South Atlantic,South,Region III,GADSDEN,Other State Agency,False,,30.579169,-84.612783
+FL0209000,Highway Patrol: Gadsden County,2685,FL,South Atlantic,South,Region III,GADSDEN,State Police,False,,30.579169,-84.612783
+FL020A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33528,FL,South Atlantic,South,Region III,GADSDEN,Other State Agency,False,,,
+FL0210000,Gilchrist County Sheriff's Office,2691,FL,South Atlantic,South,Region III,GILCHRIST,County,False,,29.723456,-82.795801
+FL0210200,Trenton Police Department,2692,FL,South Atlantic,South,Region III,GILCHRIST,City,False,,29.61405,-82.81698
+FL0210700,"Department of Corrections, Office of the Inspector General: Gilchrist County",23092,FL,South Atlantic,South,Region III,GILCHRIST,Other State Agency,False,,30.426645,-84.249504
+FL021500X,Division of Alcoholic Beverages and Tobacco: Gilchrist County,2694,FL,South Atlantic,South,Region III,GILCHRIST,Other State Agency,False,,30.423128,-84.28066
+FL0218000,Florida Game Commission: Gilchrist County,2695,FL,South Atlantic,South,Region III,GILCHRIST,Other State Agency,False,,29.723456,-82.795801
+FL0219000,Highway Patrol: Gilchrist County,2696,FL,South Atlantic,South,Region III,GILCHRIST,State Police,False,,29.723456,-82.795801
+FL021A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33530,FL,South Atlantic,South,Region III,GILCHRIST,Other State Agency,False,,,
+FL0220000,Glades County Sheriff's Office,2702,FL,South Atlantic,South,Region III,GLADES,County,False,,26.95481,-81.19082
+FL0220200,"Department of Corrections, Office of the Inspector General: Glades County",25609,FL,South Atlantic,South,Region III,GLADES,Other State Agency,False,,,
+FL022500X,Division of Alcoholic Beverages and Tobacco: Glades County,2705,FL,South Atlantic,South,Region III,GLADES,Other State Agency,False,,30.423128,-84.28066
+FL0228000,Florida Game Commission: Glades County,2706,FL,South Atlantic,South,Region III,GLADES,Other State Agency,False,,26.95481,-81.19082
+FL0229000,Highway Patrol: Glades County,2707,FL,South Atlantic,South,Region III,GLADES,State Police,False,,27.446318,-82.49824
+FL022A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33532,FL,South Atlantic,South,Region III,GLADES,Other State Agency,False,,,
+FL0230000,Gulf County Sheriff's Office,2713,FL,South Atlantic,South,Region III,GULF,County,False,,29.907257,-85.256537
+FL0230100,Port St. Joe Police Department,2714,FL,South Atlantic,South,Region III,GULF,City,False,,29.812017,-85.30212
+FL0230300,"Department of Corrections, Office of the Inspector General: Gulf County",23234,FL,South Atlantic,South,Region III,GULF,Other State Agency,False,,30.426645,-84.249504
+FL023500X,Division of Alcoholic Beverages and Tobacco: Gulf County,2717,FL,South Atlantic,South,Region III,GULF,Other State Agency,False,,30.423128,-84.28066
+FL0238000,Florida Game Commission: Gulf County,2718,FL,South Atlantic,South,Region III,GULF,Other State Agency,False,,29.815681,-85.28942
+FL0239000,Highway Patrol: Gulf County,2719,FL,South Atlantic,South,Region III,GULF,State Police,False,,30.24214,-85.57792
+FL023A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33534,FL,South Atlantic,South,Region III,GULF,Other State Agency,False,,,
+FL0240000,Hamilton County Sheriff's Office,2725,FL,South Atlantic,South,Region III,HAMILTON,County,True,2021-01-01T00:00:00.000Z,30.491226,-82.951069
+FL0240100,Jasper Police Department,2726,FL,South Atlantic,South,Region III,HAMILTON,City,False,,30.518003,-82.94588
+FL0240200,Jennings Police Department,2727,FL,South Atlantic,South,Region III,HAMILTON,City,False,,30.491226,-82.951069
+FL0240300,White Springs Police Department,2728,FL,South Atlantic,South,Region III,HAMILTON,City,False,,30.491226,-82.951069
+FL024130X,"Department of Corrections, Office of the Inspector General: Hamilton County",2730,FL,South Atlantic,South,Region III,HAMILTON,Other State Agency,False,,30.426645,-84.249504
+FL024500X,Division of Alcoholic Beverages and Tobacco: Hamilton County,2732,FL,South Atlantic,South,Region III,HAMILTON,Other State Agency,False,,30.423128,-84.28066
+FL0248000,Florida Game Commission: Hamilton County,2733,FL,South Atlantic,South,Region III,HAMILTON,Other State Agency,False,,30.491226,-82.951069
+FL0249000,Highway Patrol: Hamilton County,2734,FL,South Atlantic,South,Region III,HAMILTON,State Police,False,,30.491226,-82.951069
+FL024A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33536,FL,South Atlantic,South,Region III,HAMILTON,Other State Agency,False,,,
+FL0250000,Hardee County Sheriff's Office,2740,FL,South Atlantic,South,Region III,HARDEE,County,False,,27.492846,-81.82158
+FL0250100,Bowling Green Police Department,2741,FL,South Atlantic,South,Region III,HARDEE,City,False,,27.492846,-81.82158
+FL0250200,Wauchula Police Department,2742,FL,South Atlantic,South,Region III,HARDEE,City,False,,27.546947,-81.812836
+FL0250400,"Department of Corrections, Office of the Inspector General: Hardee County",25320,FL,South Atlantic,South,Region III,HARDEE,Other State Agency,False,,,
+FL025500X,Division of Alcoholic Beverages and Tobacco: Hardee County,2745,FL,South Atlantic,South,Region III,HARDEE,Other State Agency,False,,30.423128,-84.28066
+FL0258000,Florida Game Commission: Hardee County,2746,FL,South Atlantic,South,Region III,HARDEE,Other State Agency,False,,27.547436,-81.81255
+FL0259000,Highway Patrol: Hardee County,2747,FL,South Atlantic,South,Region III,HARDEE,State Police,False,,27.446318,-82.49824
+FL025A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33538,FL,South Atlantic,South,Region III,HARDEE,Other State Agency,False,,,
+FL0260000,Hendry County Sheriff's Office,2753,FL,South Atlantic,South,Region III,HENDRY,County,False,,26.539967,-81.152114
+FL0260100,Clewiston Police Department,2754,FL,South Atlantic,South,Region III,HENDRY,City,True,2021-01-01T00:00:00.000Z,26.752415,-80.935234
+FL0260500,"Department of Corrections, Office of the Inspector General: Hendry County",25599,FL,South Atlantic,South,Region III,HENDRY,Other State Agency,False,,,
+FL026500X,Division of Alcoholic Beverages and Tobacco: Hendry County,2757,FL,South Atlantic,South,Region III,HENDRY,Other State Agency,False,,30.423128,-84.28066
+FL0268000,Florida Game Commission: Hendry County,2758,FL,South Atlantic,South,Region III,HENDRY,Other State Agency,False,,26.539967,-81.152114
+FL0269000,Highway Patrol: Hendry County,2759,FL,South Atlantic,South,Region III,HENDRY,State Police,False,,27.446318,-82.49824
+FL026A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33540,FL,South Atlantic,South,Region III,HENDRY,Other State Agency,False,,,
+FL0270000,Hernando County Sheriff's Office,2765,FL,South Atlantic,South,Region III,HERNANDO,County,True,2021-01-01T00:00:00.000Z,28.567911,-82.464835
+FL0270100,Brooksville Police Department,2766,FL,South Atlantic,South,Region III,HERNANDO,City,True,2021-01-01T00:00:00.000Z,28.552889,-82.400085
+FL0270500,"Department of Corrections, Office of the Inspector General: Hernando County",25646,FL,South Atlantic,South,Region III,HERNANDO,Other State Agency,False,,,
+FL027500X,Division of Alcoholic Beverages and Tobacco: Hernando County,2768,FL,South Atlantic,South,Region III,HERNANDO,Other State Agency,False,,30.423128,-84.28066
+FL0278000,Florida Game Commission: Hernando County,2769,FL,South Atlantic,South,Region III,HERNANDO,Other State Agency,False,,28.633165,-82.351074
+FL0279000,Highway Patrol: Hernando County,2770,FL,South Atlantic,South,Region III,HERNANDO,State Police,False,,28.595318,-82.40073
+FL027A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33542,FL,South Atlantic,South,Region III,HERNANDO,Other State Agency,False,,,
+FL0280000,Highlands County Sheriff's Office,2776,FL,South Atlantic,South,Region III,HIGHLANDS,County,False,,27.493254,-81.43645
+FL0280200,Lake Placid Police Department,2778,FL,South Atlantic,South,Region III,HIGHLANDS,City,False,,27.322466,-81.41154
+FL0280300,Sebring Police Department,2779,FL,South Atlantic,South,Region III,HIGHLANDS,City,False,,27.4978,-81.44039
+FL0280600,"Department of Corrections, Office of the Inspector General: Highlands County",25628,FL,South Atlantic,South,Region III,HIGHLANDS,Other State Agency,False,,,
+FL028500X,Division of Alcoholic Beverages and Tobacco: Highlands County,2783,FL,South Atlantic,South,Region III,HIGHLANDS,Other State Agency,False,,30.423128,-84.28066
+FL0288000,Florida Game Commission: Highlands County,2784,FL,South Atlantic,South,Region III,HIGHLANDS,Other State Agency,False,,27.342627,-81.340921
+FL0289000,Highway Patrol: Highlands County,2785,FL,South Atlantic,South,Region III,HIGHLANDS,State Police,False,,27.342627,-81.340921
+FL028A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33544,FL,South Atlantic,South,Region III,HIGHLANDS,Other State Agency,False,,,
+FL0290000,Hillsborough County Sheriff's Office,2791,FL,South Atlantic,South,Region III,HILLSBOROUGH,County,False,,27.90659,-82.349568
+FL0290100,Plant City Police Department,2792,FL,South Atlantic,South,Region III,HILLSBOROUGH,City,False,,27.90659,-82.349568
+FL0290200,Tampa Police Department,2793,FL,South Atlantic,South,Region III,HILLSBOROUGH,City,True,2021-01-01T00:00:00.000Z,27.947796,-82.45798
+FL0290300,Temple Terrace Police Department,2794,FL,South Atlantic,South,Region III,HILLSBOROUGH,City,False,,27.90659,-82.349568
+FL0290500,"Department of Law Enforcement: Hillsborough County, Tampa",2795,FL,South Atlantic,South,Region III,HILLSBOROUGH,Other State Agency,False,,27.981207,-82.51362
+FL0290600,Tampa International Airport,2796,FL,South Atlantic,South,Region III,HILLSBOROUGH,Other,False,,27.90659,-82.349568
+FL0290700,University of South Florida: Tampa,2797,FL,South Atlantic,South,Region III,HILLSBOROUGH,University or College,False,2021-01-01T00:00:00.000Z,28.054474,-82.41377
+FL0291800,"Department of Corrections, Office of the Inspector General: Hillsborough County",25562,FL,South Atlantic,South,Region III,HILLSBOROUGH,Other State Agency,False,,,
+FL0295000,Division of Alcoholic Beverages and Tobacco: Hillsborough County,2799,FL,South Atlantic,South,Region III,HILLSBOROUGH,Other State Agency,False,,30.423128,-84.28066
+FL0297000,Department of Insurance: Hillsborough County,2800,FL,South Atlantic,South,Region III,HILLSBOROUGH,Other State Agency,False,,30.4355,-84.2806
+FL0298000,Florida Game Commission: Hillsborough County,2801,FL,South Atlantic,South,Region III,HILLSBOROUGH,Other State Agency,False,,27.89341,-82.53147
+FL0299000,Highway Patrol: Hillsborough County,2802,FL,South Atlantic,South,Region III,HILLSBOROUGH,State Police,False,,27.90659,-82.349568
+FL029A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33546,FL,South Atlantic,South,Region III,HILLSBOROUGH,Other State Agency,False,,,
+FL0300000,Holmes County Sheriff's Office,2809,FL,South Atlantic,South,Region III,HOLMES,County,False,,30.793148,-85.67843
+FL0300100,Bonifay Police Department,2810,FL,South Atlantic,South,Region III,HOLMES,City,False,,30.78491,-85.679924
+FL0300200,"Department of Corrections, Office of the Inspector General: Holmes County",25568,FL,South Atlantic,South,Region III,HOLMES,Other State Agency,False,,,
+FL030500X,Division of Alcoholic Beverages and Tobacco: Holmes County,2812,FL,South Atlantic,South,Region III,HOLMES,Other State Agency,False,,30.423128,-84.28066
+FL0308000,Florida Game Commission: Holmes County,2813,FL,South Atlantic,South,Region III,HOLMES,Other State Agency,False,,30.275774,-85.60808
+FL0309000,Highway Patrol: Holmes County,2814,FL,South Atlantic,South,Region III,HOLMES,State Police,False,,30.24214,-85.57792
+FL030A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33548,FL,South Atlantic,South,Region III,HOLMES,Other State Agency,False,,,
+FL0310000,Indian River County Sheriff's Office,2820,FL,South Atlantic,South,Region III,INDIAN RIVER,County,False,,27.666946,-80.42692
+FL0310100,Fellsmere Police Department,2821,FL,South Atlantic,South,Region III,INDIAN RIVER,City,False,,27.766813,-80.60363
+FL0310200,Sebastian Police Department,2822,FL,South Atlantic,South,Region III,INDIAN RIVER,City,False,,27.817184,-80.47476
+FL0310300,Vero Beach Police Department,2823,FL,South Atlantic,South,Region III,INDIAN RIVER,City,True,2022-09-01T00:00:00.000Z,27.638018,-80.3945
+FL0310400,Indian River Shores Police Department,2824,FL,South Atlantic,South,Region III,INDIAN RIVER,City,False,,27.700638,-80.574803
+FL0310600,"Department of Corrections, Office of the Inspector General: Indian River County",25576,FL,South Atlantic,South,Region III,INDIAN RIVER,Other State Agency,False,,,
+FL031500X,Division of Alcoholic Beverages and Tobacco: Indian River County,2826,FL,South Atlantic,South,Region III,INDIAN RIVER,Other State Agency,False,,,
+FL0318000,Florida Game Commission: Indian River County,2827,FL,South Atlantic,South,Region III,INDIAN RIVER,Other State Agency,False,,27.590832,-80.62875
+FL0319000,Highway Patrol: Indian River County,2828,FL,South Atlantic,South,Region III,INDIAN RIVER,State Police,False,,27.700638,-80.574803
+FL031A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33550,FL,South Atlantic,South,Region III,INDIAN RIVER,Other State Agency,False,,,
+FL0320000,Jackson County Sheriff's Office,2834,FL,South Atlantic,South,Region III,JACKSON,County,False,,30.789124,-85.208764
+FL0320100,Marianna Police Department,2835,FL,South Atlantic,South,Region III,JACKSON,City,False,,30.789124,-85.208764
+FL0320200,Cottondale Police Department,2836,FL,South Atlantic,South,Region III,JACKSON,City,False,,30.789124,-85.208764
+FL0320300,Graceville Police Department,2837,FL,South Atlantic,South,Region III,JACKSON,City,False,,30.789124,-85.208764
+FL0320500,Sneads Police Department,2839,FL,South Atlantic,South,Region III,JACKSON,City,False,,30.789124,-85.208764
+FL0320800,"Department of Corrections, Office of the Inspector General: Jackson County",23113,FL,South Atlantic,South,Region III,JACKSON,Other State Agency,False,,30.426645,-84.249504
+FL0320900,Jackson County School District,29416,FL,South Atlantic,South,Region III,JACKSON,Other,False,,,
+FL0325000,Division of Alcoholic Beverages and Tobacco: Jackson County,2843,FL,South Atlantic,South,Region III,JACKSON,Other State Agency,False,,30.423128,-84.28066
+FL0328000,Florida Game Commission: Jackson County,2844,FL,South Atlantic,South,Region III,JACKSON,Other State Agency,False,,30.784529,-85.295876
+FL0329000,Highway Patrol: Jackson County,2845,FL,South Atlantic,South,Region III,JACKSON,State Police,False,,30.784529,-85.295876
+FL032A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33554,FL,South Atlantic,South,Region III,JACKSON,Other State Agency,False,,,
+FL0330000,Jefferson County Sheriff's Office,2851,FL,South Atlantic,South,Region III,JEFFERSON,County,True,2022-01-01T00:00:00.000Z,30.504297,-83.88124
+FL0330100,Monticello Police Department,2852,FL,South Atlantic,South,Region III,JEFFERSON,City,False,,30.424558,-83.890859
+FL033020X,"Department of Corrections, Office of the Inspector General: Jefferson County",2853,FL,South Atlantic,South,Region III,JEFFERSON,Other State Agency,False,,30.426645,-84.249504
+FL033500X,Division of Alcoholic Beverages and Tobacco: Jefferson County,2855,FL,South Atlantic,South,Region III,JEFFERSON,Other State Agency,False,,30.423128,-84.28066
+FL0338000,Florida Game Commission: Jefferson County,2856,FL,South Atlantic,South,Region III,JEFFERSON,Other State Agency,False,,30.545736,-83.870155
+FL0339000,Highway Patrol: Jefferson County,2857,FL,South Atlantic,South,Region III,JEFFERSON,State Police,False,,30.453127,-84.24729
+FL033A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33556,FL,South Atlantic,South,Region III,JEFFERSON,Other State Agency,False,,,
+FL0340000,Lafayette County Sheriff's Office,2863,FL,South Atlantic,South,Region III,LAFAYETTE,County,False,,29.990066,-83.17851
+FL0340300,"Department of Corrections, Office of the Inspector General: Lafayette County",23121,FL,South Atlantic,South,Region III,LAFAYETTE,Other State Agency,False,,30.426645,-84.249504
+FL034500X,Division of Alcoholic Beverages and Tobacco: Lafayette County,2866,FL,South Atlantic,South,Region III,LAFAYETTE,Other State Agency,False,,,
+FL0348000,Florida Game Commission: Lafayette County,2867,FL,South Atlantic,South,Region III,LAFAYETTE,Other State Agency,False,,29.990066,-83.17851
+FL0349000,Highway Patrol: Lafayette County,2868,FL,South Atlantic,South,Region III,LAFAYETTE,State Police,False,,29.990066,-83.17851
+FL034A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33558,FL,South Atlantic,South,Region III,LAFAYETTE,Other State Agency,False,,,
+FL0350000,Lake County Sheriff's Office,2874,FL,South Atlantic,South,Region III,LAKE,County,False,,28.801252,-81.73048
+FL0350100,Eustis Police Department,2875,FL,South Atlantic,South,Region III,LAKE,City,False,,28.764113,-81.712282
+FL0350200,Leesburg Police Department,2876,FL,South Atlantic,South,Region III,LAKE,City,True,2021-01-01T00:00:00.000Z,28.764113,-81.712282
+FL0350300,Clermont Police Department,2877,FL,South Atlantic,South,Region III,LAKE,City,False,,28.764113,-81.712282
+FL0350400,Fruitland Park Police Department,2878,FL,South Atlantic,South,Region III,LAKE,City,False,,28.764113,-81.712282
+FL0350500,Groveland Police Department,2879,FL,South Atlantic,South,Region III,LAKE,City,False,,28.561514,-81.8591
+FL0350600,Howey-In-the-Hills Police Department,2880,FL,South Atlantic,South,Region III,LAKE,City,False,,28.71339,-81.77265
+FL0350700,Mascotte Police Department,2881,FL,South Atlantic,South,Region III,LAKE,City,False,,28.578428,-81.89611
+FL0350800,Minneola Police Department,2882,FL,South Atlantic,South,Region III,LAKE,City,False,,28.801252,-81.73048
+FL0351000,Mount Dora Police Department,2884,FL,South Atlantic,South,Region III,LAKE,City,False,,28.807991,-81.64475
+FL0351100,Tavares Police Department,2885,FL,South Atlantic,South,Region III,LAKE,City,False,,28.764113,-81.712282
+FL0351200,Umatilla Police Department,2886,FL,South Atlantic,South,Region III,LAKE,City,False,,28.764113,-81.712282
+FL0351300,Lady Lake Police Department,2887,FL,South Atlantic,South,Region III,LAKE,City,False,,28.931673,-81.929245
+FL0351400,Astatula Police Department,2888,FL,South Atlantic,South,Region III,LAKE,City,False,,28.764113,-81.712282
+FL035170X,"Department of Corrections, Office of the Inspector General: Lake County",2889,FL,South Atlantic,South,Region III,LAKE,Other State Agency,False,,30.426645,-84.249504
+FL035500X,Division of Alcoholic Beverages and Tobacco: Lake County,2891,FL,South Atlantic,South,Region III,LAKE,Other State Agency,False,,30.423128,-84.28066
+FL0358000,Florida Game Commission: Lake County,2892,FL,South Atlantic,South,Region III,LAKE,Other State Agency,False,,28.764113,-81.712282
+FL0359000,Highway Patrol: Lake County,2893,FL,South Atlantic,South,Region III,LAKE,State Police,False,,28.764113,-81.712282
+FL035A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33560,FL,South Atlantic,South,Region III,LAKE,Other State Agency,False,,,
+FL0360000,Lee County Sheriff's Office,2899,FL,South Atlantic,South,Region III,LEE,County,False,,26.528137,-81.86337
+FL0360100,Fort Myers Police Department,2900,FL,South Atlantic,South,Region III,LEE,City,False,,26.639778,-81.868385
+FL0360200,Cape Coral Police Department,2901,FL,South Atlantic,South,Region III,LEE,City,True,2022-01-01T00:00:00.000Z,26.551527,-81.892457
+FL0360300,Sanibel Police Department,2902,FL,South Atlantic,South,Region III,LEE,City,False,,26.551527,-81.892457
+FL0360400,Lee County Port Authority,2903,FL,South Atlantic,South,Region III,LEE,Other,False,,26.551527,-81.892457
+FL0360500,"Department of Law Enforcement: Lee County, Fort Myers",2904,FL,South Atlantic,South,Region III,LEE,Other State Agency,False,,26.591562,-81.86315
+FL0360700,Florida Gulf Coast University,2905,FL,South Atlantic,South,Region III,LEE,University or College,False,,26.463182,-81.777
+FL0361300,Florida Southwestern State College,2906,FL,South Atlantic,South,Region III,LEE,University or College,False,,26.556858,-81.88869
+FL0361400,"Department of Corrections, Office of the Inspector General: Lee County",25666,FL,South Atlantic,South,Region III,LEE,Other State Agency,False,,,
+FL0365000,Division of Alcoholic Beverages and Tobacco: Lee County,2908,FL,South Atlantic,South,Region III,LEE,Other State Agency,False,,30.423128,-84.28066
+FL0367000,Department of Insurance: Lee County,2909,FL,South Atlantic,South,Region III,LEE,Other State Agency,False,,30.4355,-84.2806
+FL0368000,Florida Game Commission: Lee County,2910,FL,South Atlantic,South,Region III,LEE,Other State Agency,False,,26.647001,-81.86873
+FL0369000,Highway Patrol: Lee County,2911,FL,South Atlantic,South,Region III,LEE,State Police,False,,26.591562,-81.86315
+FL036A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33562,FL,South Atlantic,South,Region III,LEE,Other State Agency,False,,,
+FL0370000,Leon County Sheriff's Office,2917,FL,South Atlantic,South,Region III,LEON,County,False,,30.439827,-84.335205
+FL0370300,Tallahassee Police Department,2920,FL,South Atlantic,South,Region III,LEON,City,True,2022-01-01T00:00:00.000Z,30.457855,-84.27986
+FL0370400,"Department of Law Enforcement: Leon County, Tallahassee",2921,FL,South Atlantic,South,Region III,LEON,Other State Agency,False,,,
+FL0370600,Florida State University: Tallahassee,2923,FL,South Atlantic,South,Region III,LEON,University or College,True,2022-06-01T00:00:00.000Z,30.439632,-84.29678
+FL0370700,Florida A&M University,2924,FL,South Atlantic,South,Region III,LEON,University or College,False,,30.418385,-84.2897
+FL0370800,Florida Game Commission: Leon County,2925,FL,South Atlantic,South,Region III,LEON,Other State Agency,False,,30.45931,-84.2778
+FL0370900,Capitol Police,2926,FL,South Atlantic,South,Region III,LEON,Other State Agency,False,,30.45931,-84.2778
+FL0371700,State Treasurer's Office Division of Insurance Fraud,2934,FL,South Atlantic,South,Region III,LEON,Other State Agency,False,,30.4355,-84.2806
+FL0372200,Tallahassee Community College,2935,FL,South Atlantic,South,Region III,LEON,University or College,False,,30.450592,-84.33794
+FL0372900,"Department of Corrections, Office of the Inspector General: Leon County",25595,FL,South Atlantic,South,Region III,LEON,Other State Agency,False,,,
+FL0375000,Division of Alcoholic Beverages and Tobacco: Leon County,2936,FL,South Atlantic,South,Region III,LEON,Other State Agency,False,,30.423128,-84.28066
+FL0379000,Highway Patrol: Leon County,2937,FL,South Atlantic,South,Region III,LEON,State Police,False,,30.453127,-84.24729
+FL037A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33564,FL,South Atlantic,South,Region III,LEON,Other State Agency,False,,,
+FL0380000,Levy County Sheriff's Office,2944,FL,South Atlantic,South,Region III,LEVY,County,False,,29.284457,-82.783462
+FL0380100,Cedar Key Police Department,2945,FL,South Atlantic,South,Region III,LEVY,City,False,,29.284457,-82.783462
+FL0380200,Chiefland Police Department,2946,FL,South Atlantic,South,Region III,LEVY,City,False,,29.478706,-82.85951
+FL0380400,Williston Police Department,2948,FL,South Atlantic,South,Region III,LEVY,City,False,,29.386124,-82.44689
+FL0380600,"Department of Corrections, Office of the Inspector General: Levy County",25605,FL,South Atlantic,South,Region III,LEVY,Other State Agency,False,,,
+FL038500X,Division of Alcoholic Beverages and Tobacco: Levy County,2950,FL,South Atlantic,South,Region III,LEVY,Other State Agency,False,,30.423128,-84.28066
+FL0388000,Florida Game Commission: Levy County,2951,FL,South Atlantic,South,Region III,LEVY,Other State Agency,False,,29.163023,-83.02739
+FL0389000,Highway Patrol: Levy County,2952,FL,South Atlantic,South,Region III,LEVY,State Police,False,,30.334911,-81.664505
+FL038A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33566,FL,South Atlantic,South,Region III,LEVY,Other State Agency,False,,,
+FL0390000,Liberty County Sheriff's Office,2958,FL,South Atlantic,South,Region III,LIBERTY,County,False,,30.259849,-84.86858
+FL0390100,"Department of Corrections, Office of the Inspector General: Liberty County",25564,FL,South Atlantic,South,Region III,LIBERTY,Other State Agency,False,,,
+FL039500X,Division of Alcoholic Beverages and Tobacco: Liberty County,2960,FL,South Atlantic,South,Region III,LIBERTY,Other State Agency,False,,30.423128,-84.28066
+FL0398000,Florida Game Commission: Liberty County,2961,FL,South Atlantic,South,Region III,LIBERTY,Other State Agency,False,,30.259849,-84.86858
+FL0399000,Highway Patrol: Liberty County,2962,FL,South Atlantic,South,Region III,LIBERTY,State Police,False,,30.453127,-84.24729
+FL039A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33568,FL,South Atlantic,South,Region III,LIBERTY,Other State Agency,False,,,
+FL0400000,Madison County Sheriff's Office,2968,FL,South Atlantic,South,Region III,MADISON,County,True,2021-01-01T00:00:00.000Z,30.447233,-83.470416
+FL0400100,Madison Police Department,2969,FL,South Atlantic,South,Region III,MADISON,City,False,,30.467737,-83.410835
+FL040060X,"Department of Corrections, Office of the Inspector General: Madison County",2972,FL,South Atlantic,South,Region III,MADISON,Other State Agency,False,,30.426645,-84.249504
+FL040500X,Division of Alcoholic Beverages and Tobacco: Madison County,2974,FL,South Atlantic,South,Region III,MADISON,Other State Agency,False,,30.423128,-84.28066
+FL0408000,Florida Game Commission: Madison County,2975,FL,South Atlantic,South,Region III,MADISON,Other State Agency,False,,30.447233,-83.470416
+FL0409000,Highway Patrol: Madison County,2976,FL,South Atlantic,South,Region III,MADISON,State Police,False,,30.447233,-83.470416
+FL040A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33570,FL,South Atlantic,South,Region III,MADISON,Other State Agency,False,,,
+FL0410000,Manatee County Sheriff's Office,2982,FL,South Atlantic,South,Region III,MANATEE,County,False,,27.481386,-82.365783
+FL0410200,Bradenton Police Department,2984,FL,South Atlantic,South,Region III,MANATEE,City,True,2021-01-01T00:00:00.000Z,27.499048,-82.57196
+FL0410300,Bradenton Beach Police Department,2985,FL,South Atlantic,South,Region III,MANATEE,City,False,,27.468018,-82.69838
+FL0410400,Holmes Beach Police Department,2986,FL,South Atlantic,South,Region III,MANATEE,City,False,,27.509714,-82.71456
+FL0410500,Longboat Key Police Department,2987,FL,South Atlantic,South,Region III,"MANATEE, SARASOTA",City,False,,27.411144,-82.657776
+FL0410600,Palmetto Police Department,2988,FL,South Atlantic,South,Region III,MANATEE,City,False,,27.52125,-82.57722
+FL0410900,"Department of Corrections, Office of the Inspector General: Manatee County",25565,FL,South Atlantic,South,Region III,MANATEE,Other State Agency,False,,,
+FL041500X,Division of Alcoholic Beverages and Tobacco: Manatee County,2990,FL,South Atlantic,South,Region III,MANATEE,Other State Agency,False,,30.423128,-84.28066
+FL0418000,Florida Game Commission: Manatee County,2991,FL,South Atlantic,South,Region III,MANATEE,Other State Agency,False,,27.460865,-82.55562
+FL0419000,Highway Patrol: Manatee County,2992,FL,South Atlantic,South,Region III,MANATEE,State Police,False,,27.481386,-82.365783
+FL041A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33574,FL,South Atlantic,South,Region III,MANATEE,Other State Agency,False,,,
+FL0420000,Marion County Sheriff's Office,2998,FL,South Atlantic,South,Region III,MARION,County,True,2021-03-01T00:00:00.000Z,29.202805,-82.0431
+FL0420100,Ocala Police Department,2999,FL,South Atlantic,South,Region III,MARION,City,True,2021-01-01T00:00:00.000Z,29.183275,-82.14036
+FL0420200,Belleview Police Department,3000,FL,South Atlantic,South,Region III,MARION,City,False,,29.062445,-82.06017
+FL0420300,Dunnellon Police Department,3001,FL,South Atlantic,South,Region III,MARION,City,False,,29.045834,-82.4647
+FL042090X,"Department of Corrections, Office of the Inspector General: Marion County",3003,FL,South Atlantic,South,Region III,MARION,Other State Agency,False,,30.426645,-84.249504
+FL0425000,Division of Alcoholic Beverages and Tobacco: Marion County,3005,FL,South Atlantic,South,Region III,MARION,Other State Agency,False,,29.202805,-82.0431
+FL0428000,Florida Game Commission: Marion County,3006,FL,South Atlantic,South,Region III,MARION,Other State Agency,False,,29.179031,-82.149666
+FL0429000,Highway Patrol: Marion County,3007,FL,South Atlantic,South,Region III,MARION,State Police,False,,29.184986,-82.103195
+FL042A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33576,FL,South Atlantic,South,Region III,MARION,Other State Agency,False,,,
+FL0430000,Martin County Sheriff's Office,3013,FL,South Atlantic,South,Region III,MARTIN,County,False,,27.175573,-80.24157
+FL0430100,Stuart Police Department,3014,FL,South Atlantic,South,Region III,MARTIN,City,False,,27.079954,-80.398211
+FL0430200,Jupiter Island Police Department,3015,FL,South Atlantic,South,Region III,MARTIN,City,False,,27.052881,-80.11079
+FL0430300,Sewall's Point Police Department,3016,FL,South Atlantic,South,Region III,MARTIN,City,False,,27.177921,-80.18817
+FL0430600,"Department of Corrections, Office of the Inspector General: Martin County",23088,FL,South Atlantic,South,Region III,MARTIN,Other State Agency,False,,30.426645,-84.249504
+FL043500X,Division of Alcoholic Beverages and Tobacco: Martin County,3018,FL,South Atlantic,South,Region III,MARTIN,Other State Agency,False,,30.423128,-84.28066
+FL0438000,Florida Game Commission: Martin County,3019,FL,South Atlantic,South,Region III,MARTIN,Other State Agency,False,,27.079954,-80.398211
+FL0439000,Highway Patrol: Martin County,3020,FL,South Atlantic,South,Region III,MARTIN,State Police,False,,27.480038,-80.34986
+FL043A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33578,FL,South Atlantic,South,Region III,MARTIN,Other State Agency,False,,,
+FL0440000,Monroe County Sheriff's Office,3026,FL,South Atlantic,South,Region III,MONROE,County,True,2022-01-01T00:00:00.000Z,25.601043,-81.206777
+FL0440100,Key West Police Department,3027,FL,South Atlantic,South,Region III,MONROE,City,False,,25.601043,-81.206777
+FL0440200,Key Colony Beach Police Department,3028,FL,South Atlantic,South,Region III,MONROE,City,False,,25.601043,-81.206777
+FL0440700,"Department of Corrections, Office of the Inspector General: Monroe County",25617,FL,South Atlantic,South,Region III,MONROE,Other State Agency,False,,,
+FL0445000,Division of Alcoholic Beverages and Tobacco: Monroe County,3033,FL,South Atlantic,South,Region III,MONROE,Other State Agency,False,,30.423128,-84.28066
+FL0448000,Florida Game Commission: Monroe County,3034,FL,South Atlantic,South,Region III,MONROE,Other State Agency,False,,24.71027,-81.098145
+FL0449000,Highway Patrol: Monroe County,3035,FL,South Atlantic,South,Region III,MONROE,State Police,False,,24.7114,-81.09389
+FL044A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33582,FL,South Atlantic,South,Region III,MONROE,Other State Agency,False,,,
+FL0450000,Nassau County Sheriff's Office,3042,FL,South Atlantic,South,Region III,NASSAU,County,False,,30.605926,-81.764929
+FL0450100,Fernandina Beach Police Department,3043,FL,South Atlantic,South,Region III,NASSAU,City,False,,30.654675,-81.45242
+FL0451100,"Department of Corrections, Office of the Inspector General: Nassau County",25667,FL,South Atlantic,South,Region III,NASSAU,Other State Agency,False,,,
+FL045500X,Division of Alcoholic Beverages and Tobacco: Nassau County,3047,FL,South Atlantic,South,Region III,NASSAU,Other State Agency,False,,30.423128,-84.28066
+FL0458000,Florida Game Commission: Nassau County,3048,FL,South Atlantic,South,Region III,NASSAU,Other State Agency,False,,30.605926,-81.764929
+FL0459000,Highway Patrol: Nassau County,3049,FL,South Atlantic,South,Region III,NASSAU,State Police,False,,29.659754,-81.656166
+FL045A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33584,FL,South Atlantic,South,Region III,NASSAU,Other State Agency,False,,,
+FL0460000,Okaloosa County Sheriff's Office,3055,FL,South Atlantic,South,Region III,OKALOOSA,County,False,,30.665858,-86.594194
+FL0460100,Crestview Police Department,3056,FL,South Atlantic,South,Region III,OKALOOSA,City,False,,30.773064,-86.56281
+FL0460200,Fort Walton Beach Police Department,3057,FL,South Atlantic,South,Region III,OKALOOSA,City,False,2023-04-01T00:00:00.000Z,30.41252,-86.61168
+FL0460300,Niceville Police Department,3058,FL,South Atlantic,South,Region III,OKALOOSA,City,False,,30.518335,-86.48268
+FL0460400,Valparaiso Police Department,3059,FL,South Atlantic,South,Region III,OKALOOSA,City,False,,30.509922,-86.49973
+FL0460500,Shalimar Police Department,3060,FL,South Atlantic,South,Region III,OKALOOSA,City,False,,30.43718,-86.58404
+FL0461200,"Department of Corrections, Office of the Inspector General: Okaloosa County",25629,FL,South Atlantic,South,Region III,OKALOOSA,Other State Agency,False,,,
+FL0461300,Northwest Florida State College,27755,FL,South Atlantic,South,Region III,OKALOOSA,University or College,False,,,
+FL046500X,Division of Alcoholic Beverages and Tobacco: Okaloosa County,3067,FL,South Atlantic,South,Region III,OKALOOSA,Other State Agency,False,,30.423128,-84.28066
+FL0468000,Florida Game Commission: Okaloosa County,3068,FL,South Atlantic,South,Region III,OKALOOSA,Other State Agency,False,,30.763071,-86.578354
+FL0469000,Highway Patrol: Okaloosa County,3069,FL,South Atlantic,South,Region III,OKALOOSA,State Police,False,,30.665858,-86.594194
+FL046A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33586,FL,South Atlantic,South,Region III,OKALOOSA,Other State Agency,False,,,
+FL0470000,Okeechobee County Sheriff's Office,3075,FL,South Atlantic,South,Region III,OKEECHOBEE,County,False,,27.385592,-80.887388
+FL0470100,Okeechobee Police Department,3076,FL,South Atlantic,South,Region III,OKEECHOBEE,City,False,,27.2421,-80.82958
+FL047040X,"Department of Corrections, Office of the Inspector General: Okeechobee County",3077,FL,South Atlantic,South,Region III,OKEECHOBEE,Other State Agency,False,,30.426645,-84.249504
+FL047500X,Division of Alcoholic Beverages and Tobacco: Okeechobee County,3079,FL,South Atlantic,South,Region III,OKEECHOBEE,Other State Agency,False,,30.423128,-84.28066
+FL0478000,Florida Game Commission: Okeechobee County,3080,FL,South Atlantic,South,Region III,OKEECHOBEE,Other State Agency,False,,27.116465,-80.6698
+FL0479000,Highway Patrol: Okeechobee County,3081,FL,South Atlantic,South,Region III,OKEECHOBEE,State Police,False,,27.385592,-80.887388
+FL047A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33588,FL,South Atlantic,South,Region III,OKEECHOBEE,Other State Agency,False,,,
+FL0480000,Orange County Sheriff's Office,3087,FL,South Atlantic,South,Region III,ORANGE,County,False,,28.514435,-81.323295
+FL0480100,Apopka Police Department,3088,FL,South Atlantic,South,Region III,ORANGE,City,False,,28.670673,-81.50905
+FL0480200,Maitland Police Department,3089,FL,South Atlantic,South,Region III,ORANGE,City,False,,28.627409,-81.4036
+FL0480300,Ocoee Police Department,3090,FL,South Atlantic,South,Region III,ORANGE,City,False,,28.549383,-81.534546
+FL0480400,Orlando Police Department,3091,FL,South Atlantic,South,Region III,ORANGE,City,False,,28.514435,-81.323295
+FL0480500,Winter Garden Police Department,3092,FL,South Atlantic,South,Region III,ORANGE,City,False,,28.565187,-81.5884
+FL0480600,Winter Park Police Department,3093,FL,South Atlantic,South,Region III,ORANGE,City,False,,28.602503,-81.35485
+FL0480700,Eatonville Police Department,3094,FL,South Atlantic,South,Region III,ORANGE,City,False,,28.618223,-81.377
+FL0480800,Oakland Police Department,3095,FL,South Atlantic,South,Region III,ORANGE,City,False,,28.514435,-81.323295
+FL0480900,Windermere Police Department,3096,FL,South Atlantic,South,Region III,ORANGE,City,False,,28.514435,-81.323295
+FL0481000,Edgewood Police Department,3097,FL,South Atlantic,South,Region III,ORANGE,City,False,,28.478191,-81.371376
+FL0481100,"Department of Law Enforcement: Orange County, Orlando",3098,FL,South Atlantic,South,Region III,ORANGE,Other State Agency,False,,28.545675,-81.38558
+FL0481400,University of Central Florida,3101,FL,South Atlantic,South,Region III,ORANGE,University or College,False,,28.514435,-81.323295
+FL0482900,"Department of Corrections, Office of the Inspector General: Orange County",23267,FL,South Atlantic,South,Region III,ORANGE,Other State Agency,False,,30.426645,-84.249504
+FL0485000,Division of Alcoholic Beverages and Tobacco: Orange County,3103,FL,South Atlantic,South,Region III,ORANGE,Other State Agency,False,,30.423128,-84.28066
+FL0487000,Department of Insurance: Orange County,3104,FL,South Atlantic,South,Region III,ORANGE,Other State Agency,False,,30.4355,-84.2806
+FL0488000,Florida Game Commission: Orange County,3105,FL,South Atlantic,South,Region III,ORANGE,Other State Agency,False,,29.179031,-82.149666
+FL0489000,Highway Patrol: Orange County,3106,FL,South Atlantic,South,Region III,ORANGE,State Police,False,,28.543722,-81.31053
+FL0489300,Belle Isle Police Department,3108,FL,South Atlantic,South,Region III,ORANGE,City,False,,28.462246,-81.36032
+FL048A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33590,FL,South Atlantic,South,Region III,ORANGE,Other State Agency,False,,,
+FL0490000,Osceola County Sheriff's Office,3114,FL,South Atlantic,South,Region III,OSCEOLA,County,False,,28.059027,-81.139312
+FL0490100,St. Cloud Police Department,3115,FL,South Atlantic,South,Region III,OSCEOLA,City,False,2023-01-01T00:00:00.000Z,28.248747,-81.31742
+FL0490200,Kissimmee Police Department,3116,FL,South Atlantic,South,Region III,OSCEOLA,City,True,2022-01-01T00:00:00.000Z,28.29204,-81.4078
+FL0490500,"Department of Corrections, Office of the Inspector General: Osceola County",25640,FL,South Atlantic,South,Region III,OSCEOLA,Other State Agency,False,,,
+FL049500X,Division of Alcoholic Beverages and Tobacco: Osceola County,3118,FL,South Atlantic,South,Region III,OSCEOLA,Other State Agency,False,,30.423128,-84.28066
+FL0498000,Florida Game Commission: Osceola County,3119,FL,South Atlantic,South,Region III,OSCEOLA,Other State Agency,False,,28.059027,-81.139312
+FL0499000,Highway Patrol: Osceola County,3120,FL,South Atlantic,South,Region III,OSCEOLA,State Police,False,,28.333078,-81.40379
+FL049A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33592,FL,South Atlantic,South,Region III,OSCEOLA,Other State Agency,False,,,
+FL0500000,Palm Beach County Sheriff's Office,3126,FL,South Atlantic,South,Region III,PALM BEACH,County,False,,26.673145,-80.092766
+FL0500100,Belle Glade Police Department,3127,FL,South Atlantic,South,Region III,PALM BEACH,City,False,,26.68223,-80.66675
+FL0500200,Boca Raton Police Department,3128,FL,South Atlantic,South,Region III,PALM BEACH,City,False,,26.35139,-80.08977
+FL0500300,Boynton Beach Police Department,3129,FL,South Atlantic,South,Region III,PALM BEACH,City,False,2023-03-01T00:00:00.000Z,26.528902,-80.064064
+FL0500400,Delray Beach Police Department,3130,FL,South Atlantic,South,Region III,PALM BEACH,City,False,,26.461609,-80.076645
+FL0500500,Lake Worth Police Department,3131,FL,South Atlantic,South,Region III,PALM BEACH,City,False,,26.645763,-80.448673
+FL0500600,Palm Beach Police Department,3132,FL,South Atlantic,South,Region III,PALM BEACH,City,False,,26.645763,-80.448673
+FL0500700,Riviera Beach Police Department,3133,FL,South Atlantic,South,Region III,PALM BEACH,City,False,,26.645763,-80.448673
+FL0500800,West Palm Beach Police Department,3134,FL,South Atlantic,South,Region III,PALM BEACH,City,False,,26.645763,-80.448673
+FL0500900,Atlantis Police Department,3135,FL,South Atlantic,South,Region III,PALM BEACH,City,False,,26.595604,-80.09745
+FL0501200,Greenacres City Police Department,3138,FL,South Atlantic,South,Region III,PALM BEACH,City,False,,26.631987,-80.146095
+FL0501300,Gulf Stream Police Department,3139,FL,South Atlantic,South,Region III,PALM BEACH,City,False,,26.500366,-80.0532
+FL0501500,Hypoluxo Police Department,3140,FL,South Atlantic,South,Region III,PALM BEACH,City,False,,26.645763,-80.448673
+FL0501600,Juno Beach Police Department,3141,FL,South Atlantic,South,Region III,PALM BEACH,City,False,,26.645763,-80.448673
+FL0501700,Jupiter Police Department,3142,FL,South Atlantic,South,Region III,PALM BEACH,City,False,,26.645763,-80.448673
+FL0501800,Jupiter Inlet Colony Police Department,3143,FL,South Atlantic,South,Region III,PALM BEACH,City,False,,26.952261,-80.07602
+FL0501900,Lake Park Police Department,3144,FL,South Atlantic,South,Region III,PALM BEACH,City,False,,26.645763,-80.448673
+FL0502000,Lantana Police Department,3145,FL,South Atlantic,South,Region III,PALM BEACH,City,False,,26.57751,-80.05586
+FL0502100,Manalapan Police Department,3146,FL,South Atlantic,South,Region III,PALM BEACH,City,False,,26.547405,-80.04303
+FL0502200,Mangonia Park Police Department,3147,FL,South Atlantic,South,Region III,PALM BEACH,City,False,,26.753782,-80.08342
+FL0502300,North Palm Beach Police Department,3148,FL,South Atlantic,South,Region III,PALM BEACH,City,True,2021-01-01T00:00:00.000Z,26.645763,-80.448673
+FL0502400,Ocean Ridge Police Department,3149,FL,South Atlantic,South,Region III,PALM BEACH,City,False,,26.527979,-80.04848
+FL0502500,Pahokee Police Department,3150,FL,South Atlantic,South,Region III,PALM BEACH,City,False,,26.673145,-80.092766
+FL0502600,Palm Beach Gardens Police Department,3151,FL,South Atlantic,South,Region III,PALM BEACH,City,False,,26.830948,-80.10545
+FL0502700,Palm Springs Police Department,3152,FL,South Atlantic,South,Region III,PALM BEACH,City,False,,26.640562,-80.09585
+FL0502800,Royal Palm Beach Police Department,3153,FL,South Atlantic,South,Region III,PALM BEACH,City,False,,26.7094,-80.20976
+FL0502900,South Bay Police Department,3154,FL,South Atlantic,South,Region III,PALM BEACH,City,False,,26.661411,-80.713684
+FL0503000,South Palm Beach Police Department,3155,FL,South Atlantic,South,Region III,PALM BEACH,City,False,,26.593077,-80.038925
+FL0503100,Tequesta Police Department,3156,FL,South Atlantic,South,Region III,PALM BEACH,City,False,,26.645763,-80.448673
+FL0503300,Palm Beach Shores Police Department,3158,FL,South Atlantic,South,Region III,PALM BEACH,City,False,,26.778355,-80.03655
+FL0503700,Florida Atlantic University,3160,FL,South Atlantic,South,Region III,PALM BEACH,University or College,False,,26.365303,-80.10238
+FL0503800,Highland Beach Police Department,3161,FL,South Atlantic,South,Region III,PALM BEACH,City,False,,26.401604,-80.06562
+FL0504200,Palm Beach County School District,3164,FL,South Atlantic,South,Region III,PALM BEACH,Other,False,,26.65105,-80.09328
+FL0505000,Lake Clarke Shores Police Department,3165,FL,South Atlantic,South,Region III,PALM BEACH,City,False,,26.64981,-80.07694
+FL0505600,"Department of Corrections, Office of the Inspector General: Palm Beach County",25571,FL,South Atlantic,South,Region III,PALM BEACH,Other State Agency,False,,,
+FL050570X,Westlake,30657,FL,South Atlantic,South,Region III,PALM BEACH,City,False,,,
+FL050580X,Loxatachee Groves,29415,FL,South Atlantic,South,Region III,PALM BEACH,City,False,,,
+FL050600X,Division of Alcoholic Beverages and Tobacco: Palm Beach County,3167,FL,South Atlantic,South,Region III,PALM BEACH,Other State Agency,False,,,
+FL0507000,Department of Insurance: Palm Beach County,3168,FL,South Atlantic,South,Region III,PALM BEACH,Other State Agency,False,,30.4355,-84.2806
+FL0508000,Florida Game Commission: Palm Beach County,3169,FL,South Atlantic,South,Region III,PALM BEACH,Other State Agency,False,,26.810623,-80.16293
+FL0509000,Highway Patrol: Palm Beach County,3170,FL,South Atlantic,South,Region III,PALM BEACH,State Police,False,,26.645763,-80.448673
+FL050950X,Wellington Police Department,3173,FL,South Atlantic,South,Region III,PALM BEACH,City,False,,26.673145,-80.092766
+FL050A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33594,FL,South Atlantic,South,Region III,PALM BEACH,Other State Agency,False,,,
+FL0510000,Pasco County Sheriff's Office,3179,FL,South Atlantic,South,Region III,PASCO,County,False,,28.307737,-82.464718
+FL0510100,Dade City Police Department,3180,FL,South Atlantic,South,Region III,PASCO,City,False,,28.36381,-82.187256
+FL0510200,New Port Richey Police Department,3181,FL,South Atlantic,South,Region III,PASCO,City,False,,28.255634,-82.718185
+FL0510300,Zephyrhills Police Department,3182,FL,South Atlantic,South,Region III,PASCO,City,False,,28.307737,-82.464718
+FL0510400,Port Richey Police Department,3183,FL,South Atlantic,South,Region III,PASCO,City,False,,28.280624,-82.70983
+FL0510700,"Department of Corrections, Office of the Inspector General: Pasco County",25678,FL,South Atlantic,South,Region III,PASCO,Other State Agency,False,,,
+FL051500X,Division of Alcoholic Beverages and Tobacco: Pasco County,3187,FL,South Atlantic,South,Region III,PASCO,Other State Agency,False,,30.423128,-84.28066
+FL0518000,Florida Game Commission: Pasco County,3188,FL,South Atlantic,South,Region III,PASCO,Other State Agency,False,,28.312077,-82.18773
+FL0519000,Highway Patrol: Pasco County,3189,FL,South Atlantic,South,Region III,PASCO,State Police,False,,28.307737,-82.464718
+FL051A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33596,FL,South Atlantic,South,Region III,PASCO,Other State Agency,False,,,
+FL0520000,Pinellas County Sheriff's Office,3195,FL,South Atlantic,South,Region III,PINELLAS,County,True,2021-01-01T00:00:00.000Z,27.903122,-82.739518
+FL0520100,Belleair Police Department,3196,FL,South Atlantic,South,Region III,PINELLAS,City,True,2021-01-01T00:00:00.000Z,27.935171,-82.8044
+FL0520200,Belleair Bluffs Police Department,3197,FL,South Atlantic,South,Region III,PINELLAS,City,True,2021-01-01T00:00:00.000Z,27.914639,-82.81671
+FL0520300,Clearwater Police Department,3198,FL,South Atlantic,South,Region III,PINELLAS,City,False,,27.96386,-82.797905
+FL0520400,Dunedin Police Department,3199,FL,South Atlantic,South,Region III,PINELLAS,City,True,2021-01-01T00:00:00.000Z,27.903122,-82.739518
+FL0520500,Gulfport Police Department,3200,FL,South Atlantic,South,Region III,PINELLAS,City,True,2021-01-01T00:00:00.000Z,27.903122,-82.739518
+FL0520600,Indian Rocks Beach Police Department,3201,FL,South Atlantic,South,Region III,PINELLAS,City,True,2021-01-01T00:00:00.000Z,27.903122,-82.739518
+FL0520700,Kenneth City Police Department,3202,FL,South Atlantic,South,Region III,PINELLAS,City,False,,27.813757,-82.71229
+FL0520800,Largo Police Department,3203,FL,South Atlantic,South,Region III,PINELLAS,City,True,2022-01-01T00:00:00.000Z,27.9184,-82.77493
+FL0520900,Madeira Beach Police Department,3204,FL,South Atlantic,South,Region III,PINELLAS,City,True,2021-01-01T00:00:00.000Z,27.80254,-82.80172
+FL0521000,Oldsmar Police Department,3206,FL,South Atlantic,South,Region III,PINELLAS,City,True,2021-01-01T00:00:00.000Z,27.903122,-82.739518
+FL0521100,Pinellas Park Police Department,3207,FL,South Atlantic,South,Region III,PINELLAS,City,False,,27.841673,-82.71437
+FL0521200,Redington Beaches Police Department,3208,FL,South Atlantic,South,Region III,PINELLAS,City,True,2021-01-01T00:00:00.000Z,27.903122,-82.739518
+FL0521300,Safety Harbor Police Department,3209,FL,South Atlantic,South,Region III,PINELLAS,City,True,2021-01-01T00:00:00.000Z,27.903122,-82.739518
+FL0521400,St. Petersburg Police Department,3210,FL,South Atlantic,South,Region III,PINELLAS,City,False,,27.771997,-82.65182
+FL0521500,St. Pete Beach Police Department,3211,FL,South Atlantic,South,Region III,PINELLAS,City,True,2021-01-01T00:00:00.000Z,27.903122,-82.739518
+FL0521600,South Pasadena Police Department,3212,FL,South Atlantic,South,Region III,PINELLAS,City,True,2021-01-01T00:00:00.000Z,27.894623,-82.78776
+FL0521700,Indian Shores Police Department,3213,FL,South Atlantic,South,Region III,PINELLAS,City,True,2021-01-01T00:00:00.000Z,27.8478,-82.84312
+FL0521800,Tarpon Springs Police Department,3214,FL,South Atlantic,South,Region III,PINELLAS,City,True,2021-01-01T00:00:00.000Z,28.149332,-82.75353
+FL0521900,Treasure Island Police Department,3215,FL,South Atlantic,South,Region III,PINELLAS,City,True,2021-01-01T00:00:00.000Z,27.77073,-82.76813
+FL0522000,Belleair Beach Police Department,3216,FL,South Atlantic,South,Region III,PINELLAS,City,True,2021-01-01T00:00:00.000Z,27.917028,-82.83788
+FL0522200,"Department of Corrections, Office of the Inspector General: Pinellas County",25569,FL,South Atlantic,South,Region III,PINELLAS,Other State Agency,False,,,
+FL0522600,North Redington Beach Police Department,3219,FL,South Atlantic,South,Region III,PINELLAS,City,True,2021-01-01T00:00:00.000Z,27.903122,-82.739518
+FL0522800,St. Petersburg-Clearwater International Airport,3221,FL,South Atlantic,South,Region III,PINELLAS,Other,False,,27.903122,-82.739518
+FL0522900,University of South Florida: St. Petersburg,3222,FL,South Atlantic,South,Region III,PINELLAS,University or College,False,,27.763084,-82.634415
+FL0523000,Department of Insurance: Pinellas County,3223,FL,South Atlantic,South,Region III,PINELLAS,Other State Agency,False,,27.861818,-82.63884
+FL0525000,Division of Alcoholic Beverages and Tobacco: Pinellas County,3225,FL,South Atlantic,South,Region III,PINELLAS,Other State Agency,False,,30.423128,-84.28066
+FL0528000,Florida Game Commission: Pinellas County,3226,FL,South Atlantic,South,Region III,PINELLAS,Other State Agency,False,,27.762188,-82.63371
+FL0529000,Highway Patrol: Pinellas County,3227,FL,South Atlantic,South,Region III,PINELLAS,State Police,False,,27.903122,-82.739518
+FL052990X,Seminole Police Department,3228,FL,South Atlantic,South,Region III,PINELLAS,City,True,2021-01-01T00:00:00.000Z,,
+FL052A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33598,FL,South Atlantic,South,Region III,PINELLAS,Other State Agency,False,,,
+FL0530000,Polk County Sheriff's Office,3234,FL,South Atlantic,South,Region III,POLK,County,False,,27.953115,-81.692783
+FL0530100,Auburndale Police Department,3235,FL,South Atlantic,South,Region III,POLK,City,False,,27.953115,-81.692783
+FL0530200,Bartow Police Department,3236,FL,South Atlantic,South,Region III,POLK,City,False,,27.901537,-81.84344
+FL0530300,Davenport Police Department,3237,FL,South Atlantic,South,Region III,POLK,City,False,,27.953115,-81.692783
+FL0530600,Florida Polytechnic University,25641,FL,South Atlantic,South,Region III,POLK,University or College,False,,,
+FL0530900,Haines City Police Department,3242,FL,South Atlantic,South,Region III,POLK,City,False,,27.953115,-81.692783
+FL0531000,Lake Alfred Police Department,3243,FL,South Atlantic,South,Region III,POLK,City,False,,28.093035,-81.7282
+FL0531100,Lake Hamilton Police Department,3244,FL,South Atlantic,South,Region III,POLK,City,False,,27.953115,-81.692783
+FL0531200,Lakeland Police Department,3245,FL,South Atlantic,South,Region III,POLK,City,False,,28.045244,-81.95414
+FL0531300,Lake Wales Police Department,3246,FL,South Atlantic,South,Region III,POLK,City,False,,27.900166,-81.58885
+FL0531600,Winter Haven Police Department,3249,FL,South Atlantic,South,Region III,POLK,City,False,,27.953115,-81.692783
+FL053210X,"Department of Corrections, Office of the Inspector General: Polk County",3252,FL,South Atlantic,South,Region III,POLK,Other State Agency,False,,30.426645,-84.249504
+FL0535000,Division of Alcoholic Beverages and Tobacco: Polk County,3254,FL,South Atlantic,South,Region III,POLK,Other State Agency,False,,30.423128,-84.28066
+FL0538000,Florida Game Commission: Polk County,3255,FL,South Atlantic,South,Region III,POLK,Other State Agency,False,,27.953115,-81.692783
+FL0539000,Highway Patrol: Polk County,3256,FL,South Atlantic,South,Region III,POLK,State Police,False,,28.083824,-81.953316
+FL053A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33600,FL,South Atlantic,South,Region III,POLK,Other State Agency,False,,,
+FL0540000,Putnam County Sheriff's Office,3262,FL,South Atlantic,South,Region III,PUTNAM,County,True,2022-01-01T00:00:00.000Z,29.606006,-81.740894
+FL0540100,Palatka Police Department,3263,FL,South Atlantic,South,Region III,PUTNAM,City,True,2022-01-01T00:00:00.000Z,29.648045,-81.64007
+FL0540200,Crescent City Police Department,3264,FL,South Atlantic,South,Region III,PUTNAM,City,True,2022-01-01T00:00:00.000Z,29.606006,-81.740894
+FL0540300,Interlachen Police Department,3265,FL,South Atlantic,South,Region III,PUTNAM,City,False,,29.624142,-81.89212
+FL0540400,Welaka Police Department,3266,FL,South Atlantic,South,Region III,PUTNAM,City,True,2022-03-01T00:00:00.000Z,29.606006,-81.740894
+FL0540600,Putnam County School District,34142,FL,South Atlantic,South,Region III,PUTNAM,Other,False,,,
+FL0540700,"Department of Corrections, Office of the Inspector General: Putnam County",25614,FL,South Atlantic,South,Region III,PUTNAM,Other State Agency,False,,,
+FL054500X,Division of Alcoholic Beverages and Tobacco: Putnam County,3269,FL,South Atlantic,South,Region III,PUTNAM,Other State Agency,False,,30.423128,-84.28066
+FL0548000,Florida Game Commission: Putnam County,3270,FL,South Atlantic,South,Region III,PUTNAM,Other State Agency,False,,29.606006,-81.740894
+FL0549000,Highway Patrol: Putnam County,3271,FL,South Atlantic,South,Region III,PUTNAM,State Police,False,,29.659754,-81.656166
+FL054A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33602,FL,South Atlantic,South,Region III,PUTNAM,Other State Agency,False,,,
+FL0550000,St. Johns County Sheriff's Office,3277,FL,South Atlantic,South,Region III,ST JOHNS,County,True,2022-01-01T00:00:00.000Z,29.939957,-81.33715
+FL0550100,St. Augustine Police Department,3278,FL,South Atlantic,South,Region III,ST JOHNS,City,True,2021-01-01T00:00:00.000Z,29.890655,-81.38395
+FL0550200,St. Augustine Beach Police Department,3279,FL,South Atlantic,South,Region III,ST JOHNS,City,True,2022-01-01T00:00:00.000Z,29.890655,-81.38395
+FL0550700,Florida School for the Deaf and Blind,3283,FL,South Atlantic,South,Region III,ST JOHNS,Other,False,,29.913313,-81.32154
+FL0550900,"Department of Corrections, Office of the Inspector General: St. Johns County",25672,FL,South Atlantic,South,Region III,ST JOHNS,Other State Agency,False,,,
+FL055500X,Division of Alcoholic Beverages and Tobacco: St. Johns County,3285,FL,South Atlantic,South,Region III,ST JOHNS,Other State Agency,False,,30.423128,-84.28066
+FL0558000,Florida Game Commission: St. Johns County,3286,FL,South Atlantic,South,Region III,ST JOHNS,Other State Agency,False,,29.939774,-81.33839
+FL0559000,Highway Patrol: St. Johns County,3287,FL,South Atlantic,South,Region III,ST JOHNS,State Police,False,,29.890655,-81.38395
+FL055A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33610,FL,South Atlantic,South,Region III,ST JOHNS,Other State Agency,False,,,
+FL0560000,St. Lucie County Sheriff's Office,3293,FL,South Atlantic,South,Region III,ST LUCIE,County,False,,27.37446,-80.37097
+FL0560100,Fort Pierce Police Department,3294,FL,South Atlantic,South,Region III,ST LUCIE,City,False,,27.380775,-80.443364
+FL0560200,Port St. Lucie Police Department,3295,FL,South Atlantic,South,Region III,ST LUCIE,City,False,,27.273928,-80.34833
+FL0560600,"Department of Corrections, Office of the Inspector General: St. Lucie County",25593,FL,South Atlantic,South,Region III,ST LUCIE,Other State Agency,False,,,
+FL0565000,Division of Alcoholic Beverages and Tobacco: St. Lucie County,3297,FL,South Atlantic,South,Region III,ST LUCIE,Other State Agency,False,,30.423128,-84.28066
+FL0568000,Florida Game Commission: St. Lucie County,3298,FL,South Atlantic,South,Region III,ST LUCIE,Other State Agency,False,,27.380775,-80.443364
+FL0569000,Highway Patrol: St. Lucie County,3299,FL,South Atlantic,South,Region III,ST LUCIE,State Police,False,,27.480038,-80.34986
+FL056A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33612,FL,South Atlantic,South,Region III,ST LUCIE,Other State Agency,False,,,
+FL0570000,Santa Rosa County Sheriff's Office,3305,FL,South Atlantic,South,Region III,SANTA ROSA,County,False,,30.703633,-87.014255
+FL0570100,Milton Police Department,3306,FL,South Atlantic,South,Region III,SANTA ROSA,City,False,,30.703633,-87.014255
+FL0570200,Gulf Breeze Police Department,3307,FL,South Atlantic,South,Region III,SANTA ROSA,City,True,2021-01-01T00:00:00.000Z,30.360708,-87.18136
+FL0570300,Jay Police Department,3308,FL,South Atlantic,South,Region III,SANTA ROSA,City,False,,30.703633,-87.014255
+FL057070X,"Department of Corrections, Office of the Inspector General: Santa Rosa County",3309,FL,South Atlantic,South,Region III,SANTA ROSA,Other State Agency,False,,30.426645,-84.249504
+FL057500X,Division of Alcoholic Beverages and Tobacco: Santa Rosa County,3311,FL,South Atlantic,South,Region III,SANTA ROSA,Other State Agency,False,,30.423128,-84.28066
+FL0578000,Florida Game Commission: Santa Rosa County,3312,FL,South Atlantic,South,Region III,SANTA ROSA,Other State Agency,False,,30.859827,-86.87146
+FL0579000,Highway Patrol: Santa Rosa County,3313,FL,South Atlantic,South,Region III,SANTA ROSA,State Police,False,,30.703633,-87.014255
+FL057A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33604,FL,South Atlantic,South,Region III,SANTA ROSA,Other State Agency,False,,,
+FL0580000,Sarasota County Sheriff's Office,3319,FL,South Atlantic,South,Region III,SARASOTA,County,True,2021-01-01T00:00:00.000Z,27.184386,-82.365835
+FL0580100,Sarasota Police Department,3320,FL,South Atlantic,South,Region III,SARASOTA,City,False,,27.184386,-82.365835
+FL0580200,Venice Police Department,3321,FL,South Atlantic,South,Region III,SARASOTA,City,False,,27.184386,-82.365835
+FL0580300,North Port Police Department,3322,FL,South Atlantic,South,Region III,SARASOTA,City,False,,27.184386,-82.365835
+FL0580600,Sarasota-Manatee Airport Authority,3324,FL,South Atlantic,South,Region III,SARASOTA,Other,False,,27.386505,-82.55489
+FL0580700,New College of Florida,3325,FL,South Atlantic,South,Region III,SARASOTA,University or College,False,,27.386393,-82.55911
+FL0580900,Sarasota County Schools,28554,FL,South Atlantic,South,Region III,SARASOTA,Other,False,,,
+FL0581100,"Department of Corrections, Office of the Inspector General: Sarasota County",25604,FL,South Atlantic,South,Region III,SARASOTA,Other State Agency,False,,,
+FL0585000,Division of Alcoholic Beverages and Tobacco: Sarasota County,3327,FL,South Atlantic,South,Region III,SARASOTA,Other State Agency,False,,30.423128,-84.28066
+FL0588000,Florida Game Commission: Sarasota County,3328,FL,South Atlantic,South,Region III,SARASOTA,Other State Agency,False,,27.337303,-82.531
+FL0589000,Highway Patrol: Sarasota County,3329,FL,South Atlantic,South,Region III,SARASOTA,State Police,False,,27.049711,-82.399666
+FL058A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33606,FL,South Atlantic,South,Region III,SARASOTA,Other State Agency,False,,,
+FL0590000,Seminole County Sheriff's Office,3335,FL,South Atlantic,South,Region III,SEMINOLE,County,False,,28.690079,-81.13198
+FL0590100,Altamonte Springs Police Department,3336,FL,South Atlantic,South,Region III,SEMINOLE,City,False,,28.665546,-81.359795
+FL0590200,Casselberry Police Department,3337,FL,South Atlantic,South,Region III,SEMINOLE,City,False,,28.690079,-81.13198
+FL0590300,Longwood Police Department,3338,FL,South Atlantic,South,Region III,SEMINOLE,City,False,,28.700865,-81.34972
+FL0590400,Oviedo Police Department,3339,FL,South Atlantic,South,Region III,SEMINOLE,City,False,,28.65237,-81.205795
+FL0590500,Sanford Police Department,3340,FL,South Atlantic,South,Region III,SEMINOLE,City,False,,28.805168,-81.27311
+FL0590600,Winter Springs Police Department,3341,FL,South Atlantic,South,Region III,SEMINOLE,City,False,,28.704489,-81.30372
+FL0590700,Lake Mary Police Department,3342,FL,South Atlantic,South,Region III,SEMINOLE,City,False,,28.758984,-81.320816
+FL0591100,"Department of Corrections, Office of the Inspector General: Seminole County",25623,FL,South Atlantic,South,Region III,SEMINOLE,Other State Agency,False,,,
+FL059500X,Division of Alcoholic Beverages and Tobacco: Seminole County,3344,FL,South Atlantic,South,Region III,SEMINOLE,Other State Agency,False,,30.423128,-84.28066
+FL0598000,Florida Game Commission: Seminole County,3345,FL,South Atlantic,South,Region III,SEMINOLE,Other State Agency,False,,28.771252,-81.254036
+FL0599000,Highway Patrol: Seminole County,3346,FL,South Atlantic,South,Region III,SEMINOLE,State Police,False,,28.543722,-81.31053
+FL059A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33608,FL,South Atlantic,South,Region III,SEMINOLE,Other State Agency,False,,,
+FL0600000,Sumter County Sheriff's Office,3352,FL,South Atlantic,South,Region III,SUMTER,County,True,2022-07-01T00:00:00.000Z,28.677305,-82.111404
+FL0600200,Center Hill Police Department,3354,FL,South Atlantic,South,Region III,SUMTER,City,False,,28.714294,-82.074715
+FL0600500,Wildwood Police Department,3357,FL,South Atlantic,South,Region III,SUMTER,City,False,2023-01-01T00:00:00.000Z,28.858257,-82.04291
+FL060060X,"Department of Corrections, Office of the Inspector General: Sumter County",3358,FL,South Atlantic,South,Region III,SUMTER,Other State Agency,False,,,
+FL060500X,Division of Alcoholic Beverages and Tobacco: Sumter County,3360,FL,South Atlantic,South,Region III,SUMTER,Other State Agency,False,,30.423128,-84.28066
+FL0608000,Florida Game Commission: Sumter County,3361,FL,South Atlantic,South,Region III,SUMTER,Other State Agency,False,,28.47464,-82.04721
+FL0609000,Highway Patrol: Sumter County,3362,FL,South Atlantic,South,Region III,SUMTER,State Police,False,,28.714294,-82.074715
+FL060A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33614,FL,South Atlantic,South,Region III,SUMTER,Other State Agency,False,,,
+FL0610000,Suwannee County Sheriff's Office,3368,FL,South Atlantic,South,Region III,SUWANNEE,County,False,,30.189244,-82.992754
+FL0610200,Live Oak Police Department,3370,FL,South Atlantic,South,Region III,SUWANNEE,City,False,,30.189244,-82.992754
+FL0611000,"Department of Corrections, Office of the Inspector General: Suwannee County",23148,FL,South Atlantic,South,Region III,SUWANNEE,Other State Agency,False,,30.426645,-84.249504
+FL0615000,Division of Alcoholic Beverages and Tobacco: Suwannee County,3373,FL,South Atlantic,South,Region III,SUWANNEE,Other State Agency,False,,30.423128,-84.28066
+FL0618000,Florida Game Commission: Suwannee County,3374,FL,South Atlantic,South,Region III,SUWANNEE,Other State Agency,False,,30.295506,-82.98605
+FL0619000,Highway Patrol: Suwannee County,3375,FL,South Atlantic,South,Region III,SUWANNEE,State Police,False,,30.189244,-82.992754
+FL061A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33616,FL,South Atlantic,South,Region III,SUWANNEE,Other State Agency,False,,,
+FL0620000,Taylor County Sheriff's Office,3381,FL,South Atlantic,South,Region III,TAYLOR,County,False,,30.117256,-83.58206
+FL0620100,Perry Police Department,3382,FL,South Atlantic,South,Region III,TAYLOR,City,False,,30.116238,-83.58118
+FL062020X,"Department of Corrections, Office of the Inspector General: Taylor County",3383,FL,South Atlantic,South,Region III,TAYLOR,Other State Agency,False,,30.426645,-84.249504
+FL062500X,Division of Alcoholic Beverages and Tobacco: Taylor County,3385,FL,South Atlantic,South,Region III,TAYLOR,Other State Agency,False,,30.423128,-84.28066
+FL0628000,Florida Game Commission: Taylor County,3386,FL,South Atlantic,South,Region III,TAYLOR,Other State Agency,False,,30.091877,-83.57286
+FL0629000,Highway Patrol: Taylor County,3387,FL,South Atlantic,South,Region III,TAYLOR,State Police,False,,30.009908,-83.609483
+FL062A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33618,FL,South Atlantic,South,Region III,TAYLOR,Other State Agency,False,,,
+FL0630000,Union County Sheriff's Office,3393,FL,South Atlantic,South,Region III,UNION,County,False,,30.05428,-82.366918
+FL0630400,"Department of Corrections, Office of the Inspector General: Union County",25321,FL,South Atlantic,South,Region III,UNION,Other State Agency,False,,,
+FL063500X,Division of Alcoholic Beverages and Tobacco: Union County,3395,FL,South Atlantic,South,Region III,UNION,Other State Agency,False,,30.423128,-84.28066
+FL0638000,Florida Game Commission: Union County,3396,FL,South Atlantic,South,Region III,UNION,Other State Agency,False,,30.05428,-82.366918
+FL0639000,Highway Patrol: Union County,3397,FL,South Atlantic,South,Region III,UNION,State Police,False,,30.05428,-82.366918
+FL063A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33620,FL,South Atlantic,South,Region III,UNION,Other State Agency,False,,,
+FL0640000,Volusia County Sheriff's Office,3402,FL,South Atlantic,South,Region III,VOLUSIA,County,False,,29.057698,-81.161804
+FL0640100,Daytona Beach Police Department,3403,FL,South Atlantic,South,Region III,VOLUSIA,City,False,,29.057698,-81.161804
+FL0640200,DeLand Police Department,3404,FL,South Atlantic,South,Region III,VOLUSIA,City,False,,29.026295,-81.30586
+FL0640300,New Smyrna Beach Police Department,3405,FL,South Atlantic,South,Region III,VOLUSIA,City,False,,29.057698,-81.161804
+FL0640400,Ormond Beach Police Department,3406,FL,South Atlantic,South,Region III,VOLUSIA,City,False,,29.283648,-81.06058
+FL0640500,Daytona Beach Shores Police Department,3407,FL,South Atlantic,South,Region III,VOLUSIA,City,False,,29.166786,-80.9776
+FL0640600,Edgewater Police Department,3408,FL,South Atlantic,South,Region III,VOLUSIA,City,False,,29.057698,-81.161804
+FL0640700,Holly Hill Police Department,3409,FL,South Atlantic,South,Region III,VOLUSIA,City,False,,29.244598,-81.040985
+FL0640800,Lake Helen Police Department,3410,FL,South Atlantic,South,Region III,VOLUSIA,City,False,,29.057698,-81.161804
+FL0641000,Orange City Police Department,3412,FL,South Atlantic,South,Region III,VOLUSIA,City,False,,28.949806,-81.29785
+FL0641100,Pierson Police Department,3413,FL,South Atlantic,South,Region III,VOLUSIA,City,False,,29.057698,-81.161804
+FL0641200,Port Orange Police Department,3414,FL,South Atlantic,South,Region III,VOLUSIA,City,False,,29.057698,-81.161804
+FL0641300,South Daytona Police Department,3415,FL,South Atlantic,South,Region III,VOLUSIA,City,False,,29.057698,-81.161804
+FL0641400,Ponce Inlet Police Department,3416,FL,South Atlantic,South,Region III,VOLUSIA,City,False,,29.120134,-80.953476
+FL0641700,Volusia County Beach Management,3419,FL,South Atlantic,South,Region III,VOLUSIA,Other,False,,29.219183,-81.00436
+FL0642400,"Department of Corrections, Office of the Inspector General: Volusia County",25322,FL,South Atlantic,South,Region III,VOLUSIA,Other State Agency,False,,,
+FL064250X,Deltona,33714,FL,South Atlantic,South,Region III,VOLUSIA,City,False,,,
+FL064260X,DeBary,33716,FL,South Atlantic,South,Region III,VOLUSIA,City,False,,,
+FL0645000,Division of Alcoholic Beverages and Tobacco: Volusia County,3421,FL,South Atlantic,South,Region III,VOLUSIA,Other State Agency,False,,30.423128,-84.28066
+FL0648000,Florida Game Commission: Volusia County,3422,FL,South Atlantic,South,Region III,VOLUSIA,Other State Agency,False,,29.199844,-81.037056
+FL0649000,Highway Patrol: Volusia County,3423,FL,South Atlantic,South,Region III,VOLUSIA,State Police,False,,29.057698,-81.161804
+FL064A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33622,FL,South Atlantic,South,Region III,VOLUSIA,Other State Agency,False,,,
+FL0650000,Wakulla County Sheriff's Office,3430,FL,South Atlantic,South,Region III,WAKULLA,County,False,,30.196005,-84.377075
+FL065040X,"Department of Corrections, Office of the Inspector General: Wakulla County",3432,FL,South Atlantic,South,Region III,WAKULLA,Other State Agency,False,,30.426645,-84.249504
+FL065500X,Division of Alcoholic Beverages and Tobacco: Wakulla County,3434,FL,South Atlantic,South,Region III,WAKULLA,Other State Agency,False,,30.423128,-84.28066
+FL0658000,Florida Game Commission: Wakulla County,3435,FL,South Atlantic,South,Region III,WAKULLA,Other State Agency,False,,30.14036,-84.375117
+FL0659000,Highway Patrol: Wakulla County,3436,FL,South Atlantic,South,Region III,WAKULLA,State Police,False,,30.453127,-84.24729
+FL065A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33624,FL,South Atlantic,South,Region III,WAKULLA,Other State Agency,False,,,
+FL0660000,Walton County Sheriff's Office,3442,FL,South Atlantic,South,Region III,WALTON,County,True,2022-01-01T00:00:00.000Z,30.631211,-86.176614
+FL0660100,De Funiak Springs Police Department,3443,FL,South Atlantic,South,Region III,WALTON,City,False,,30.721313,-86.1147
+FL0660500,"Department of Corrections, Office of the Inspector General: Walton County",25598,FL,South Atlantic,South,Region III,WALTON,Other State Agency,False,,,
+FL066500X,Division of Alcoholic Beverages and Tobacco: Walton County,3446,FL,South Atlantic,South,Region III,WALTON,Other State Agency,False,,30.423128,-84.28066
+FL0668000,Florida Game Commission: Walton County,3447,FL,South Atlantic,South,Region III,WALTON,Other State Agency,False,,30.722057,-86.12085
+FL0669000,Highway Patrol: Walton County,3448,FL,South Atlantic,South,Region III,WALTON,State Police,False,,30.631211,-86.176614
+FL066A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33626,FL,South Atlantic,South,Region III,WALTON,Other State Agency,False,,,
+FL0670000,Washington County Sheriff's Office,3454,FL,South Atlantic,South,Region III,WASHINGTON,County,False,,30.779263,-85.54163
+FL0670100,Chipley Police Department,3455,FL,South Atlantic,South,Region III,WASHINGTON,City,True,2021-01-01T00:00:00.000Z,30.602217,-85.662797
+FL067050X,"Department of Corrections, Office of the Inspector General: Washington County",3457,FL,South Atlantic,South,Region III,WASHINGTON,Other State Agency,False,,,
+FL067500X,Division of Alcoholic Beverages and Tobacco: Washington County,3459,FL,South Atlantic,South,Region III,WASHINGTON,Other State Agency,False,,30.423128,-84.28066
+FL0678000,Florida Game Commission: Washington County,3460,FL,South Atlantic,South,Region III,WASHINGTON,Other State Agency,False,,30.602217,-85.662797
+FL0679000,Highway Patrol: Washington County,3461,FL,South Atlantic,South,Region III,WASHINGTON,State Police,False,,30.24214,-85.57792
+FL067A00X,"Department of Agriculture and Consumer Services, Office of Agricultural Law Enforcement: ",33628,FL,South Atlantic,South,Region III,WASHINGTON,Other State Agency,False,,,

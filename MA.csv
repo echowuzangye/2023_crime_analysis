@@ -1,0 +1,416 @@
+ori,agency_name,agency_id,state_abbr,division_name,region_name,region_desc,county_name,agency_type_name,nibrs,nibrs_start_date,latitude,longitude
+MA0010100,Barnstable Police Department,7415,MA,New England,Northeast,Region I,BARNSTABLE,City,True,2000-10-01T00:00:00.000Z,41.798819,-70.211083
+MA0010200,Bourne Police Department,7416,MA,New England,Northeast,Region I,BARNSTABLE,City,True,1995-01-01T00:00:00.000Z,41.798819,-70.211083
+MA0010300,Brewster Police Department,7417,MA,New England,Northeast,Region I,BARNSTABLE,City,True,1999-01-01T00:00:00.000Z,41.744106,-70.08096
+MA0010400,Chatham Police Department,7418,MA,New England,Northeast,Region I,BARNSTABLE,City,True,2003-01-01T00:00:00.000Z,41.685635,-69.96251
+MA0010500,Dennis Police Department,7419,MA,New England,Northeast,Region I,BARNSTABLE,City,True,1998-01-01T00:00:00.000Z,41.703323,-70.155136
+MA0010600,Eastham Police Department,7420,MA,New England,Northeast,Region I,BARNSTABLE,City,True,1996-07-01T00:00:00.000Z,41.798819,-70.211083
+MA0010700,Falmouth Police Department,7421,MA,New England,Northeast,Region I,BARNSTABLE,City,True,1999-01-01T00:00:00.000Z,41.553528,-70.602745
+MA0010800,Harwich Police Department,7422,MA,New England,Northeast,Region I,BARNSTABLE,City,True,2001-01-01T00:00:00.000Z,41.798819,-70.211083
+MA0010900,Mashpee Police Department,7423,MA,New England,Northeast,Region I,BARNSTABLE,City,True,1999-01-01T00:00:00.000Z,41.61825,-70.4906
+MA0011000,Orleans Police Department,7424,MA,New England,Northeast,Region I,BARNSTABLE,City,True,2001-10-01T00:00:00.000Z,41.781925,-69.987465
+MA0011100,Provincetown Police Department,7425,MA,New England,Northeast,Region I,BARNSTABLE,City,True,2003-01-01T00:00:00.000Z,42.050846,-70.19538
+MA0011200,Sandwich Police Department,7426,MA,New England,Northeast,Region I,BARNSTABLE,City,True,1995-01-01T00:00:00.000Z,41.798819,-70.211083
+MA0011300,Truro Police Department,7427,MA,New England,Northeast,Region I,BARNSTABLE,City,True,1995-01-01T00:00:00.000Z,41.798819,-70.211083
+MA0011400,Wellfleet Police Department,7428,MA,New England,Northeast,Region I,BARNSTABLE,City,True,2008-01-01T00:00:00.000Z,41.943455,-70.02469
+MA0011500,Yarmouth Police Department,7429,MA,New England,Northeast,Region I,BARNSTABLE,City,True,2004-01-01T00:00:00.000Z,41.798819,-70.211083
+MA0011800,Cape Cod Community College,25337,MA,New England,Northeast,Region I,BARNSTABLE,University or College,True,2020-01-01T00:00:00.000Z,,
+MA0020100,Adams Police Department,7434,MA,New England,Northeast,Region I,BERKSHIRE,City,True,2000-01-01T00:00:00.000Z,42.622772,-73.12002
+MA0020300,Becket Police Department,7435,MA,New England,Northeast,Region I,BERKSHIRE,City,True,2019-01-01T00:00:00.000Z,42.27787,-73.05879
+MA0020400,Cheshire Police Department,7436,MA,New England,Northeast,Region I,BERKSHIRE,City,True,2015-05-01T00:00:00.000Z,42.56196,-73.16381
+MA0020600,Dalton Police Department,7438,MA,New England,Northeast,Region I,BERKSHIRE,City,True,2000-01-01T00:00:00.000Z,42.473263,-73.17021
+MA0020700,Egremont Police Department,7439,MA,New England,Northeast,Region I,BERKSHIRE,City,True,2021-01-01T00:00:00.000Z,42.375314,-73.213948
+MA0020900,Great Barrington Police Department,7440,MA,New England,Northeast,Region I,BERKSHIRE,City,True,2007-03-01T00:00:00.000Z,42.194534,-73.36223
+MA0021100,Hinsdale Police Department,7441,MA,New England,Northeast,Region I,BERKSHIRE,City,True,2020-02-01T00:00:00.000Z,42.375314,-73.213948
+MA0021200,Lanesboro Police Department,7442,MA,New England,Northeast,Region I,BERKSHIRE,City,True,2008-01-01T00:00:00.000Z,42.375314,-73.213948
+MA0021300,Lee Police Department,7443,MA,New England,Northeast,Region I,BERKSHIRE,City,True,2007-10-01T00:00:00.000Z,42.304893,-73.24903
+MA0021400,Lenox Police Department,7444,MA,New England,Northeast,Region I,BERKSHIRE,City,True,2007-03-01T00:00:00.000Z,42.356518,-73.284355
+MA0021500,Monterey Police Department,7445,MA,New England,Northeast,Region I,BERKSHIRE,City,True,2001-11-01T00:00:00.000Z,42.375314,-73.213948
+MA0021800,New Marlborough,33750,MA,New England,Northeast,Region I,BERKSHIRE,City,True,2021-01-01T00:00:00.000Z,,
+MA0021900,North Adams Police Department,7446,MA,New England,Northeast,Region I,BERKSHIRE,City,True,1995-01-01T00:00:00.000Z,42.375314,-73.213948
+MA0022000,Otis Police Department,7447,MA,New England,Northeast,Region I,BERKSHIRE,City,True,2022-01-01T00:00:00.000Z,42.375314,-73.213948
+MA0022200,Pittsfield Police Department,7449,MA,New England,Northeast,Region I,BERKSHIRE,City,True,2005-01-01T00:00:00.000Z,42.449337,-73.25242
+MA0022300,Richmond Police Department,7450,MA,New England,Northeast,Region I,BERKSHIRE,City,False,,42.3894,-73.36735
+MA0022500,Savoy Police Department,7451,MA,New England,Northeast,Region I,BERKSHIRE,City,False,,42.565426,-73.02647
+MA0022600,Sheffield Police Department,7452,MA,New England,Northeast,Region I,BERKSHIRE,City,False,2000-02-01T00:00:00.000Z,42.375314,-73.213948
+MA0022700,Stockbridge Police Department,7453,MA,New England,Northeast,Region I,BERKSHIRE,City,True,2000-01-01T00:00:00.000Z,42.334534,-73.36728
+MA0023100,Williamstown Police Department,7455,MA,New England,Northeast,Region I,BERKSHIRE,City,True,2001-07-01T00:00:00.000Z,42.714375,-73.20893
+MA0023500,Massachusetts College of Liberal Arts,7456,MA,New England,Northeast,Region I,BERKSHIRE,University or College,True,2009-02-01T00:00:00.000Z,42.690884,-73.10201
+MA0030100,Acushnet Police Department,7462,MA,New England,Northeast,Region I,BRISTOL,City,True,1995-01-01T00:00:00.000Z,41.682827,-70.90995
+MA0030200,Attleboro Police Department,7463,MA,New England,Northeast,Region I,BRISTOL,City,True,2004-01-01T00:00:00.000Z,41.94391,-71.281555
+MA0030300,Berkley Police Department,7464,MA,New England,Northeast,Region I,BRISTOL,City,True,2007-01-01T00:00:00.000Z,41.84625,-71.08254
+MA0030400,Dartmouth Police Department,7465,MA,New England,Northeast,Region I,BRISTOL,City,True,1995-01-01T00:00:00.000Z,41.746863,-71.090509
+MA0030500,Dighton Police Department,7466,MA,New England,Northeast,Region I,BRISTOL,City,True,2017-02-01T00:00:00.000Z,41.746863,-71.090509
+MA0030600,Easton Police Department,7467,MA,New England,Northeast,Region I,BRISTOL,City,True,1995-01-01T00:00:00.000Z,42.056736,-71.10664
+MA0030700,Fairhaven Police Department,7468,MA,New England,Northeast,Region I,BRISTOL,City,True,1995-01-01T00:00:00.000Z,41.639618,-70.89312
+MA0030800,Fall River Police Department,7469,MA,New England,Northeast,Region I,BRISTOL,City,True,2004-06-01T00:00:00.000Z,41.78334,-71.12577
+MA0030900,Freetown Police Department,7470,MA,New England,Northeast,Region I,BRISTOL,City,True,1995-01-01T00:00:00.000Z,41.746863,-71.090509
+MA0031000,Mansfield Police Department,7471,MA,New England,Northeast,Region I,BRISTOL,City,True,1996-05-01T00:00:00.000Z,41.746863,-71.090509
+MA0031100,New Bedford Police Department,7472,MA,New England,Northeast,Region I,BRISTOL,City,True,2004-01-01T00:00:00.000Z,41.638344,-70.94959
+MA0031200,North Attleboro Police Department,7473,MA,New England,Northeast,Region I,BRISTOL,City,True,2000-09-01T00:00:00.000Z,41.927773,-71.354576
+MA0031300,Norton Police Department,7474,MA,New England,Northeast,Region I,BRISTOL,City,True,1996-01-01T00:00:00.000Z,41.96238,-71.19597
+MA0031400,Raynham Police Department,7475,MA,New England,Northeast,Region I,BRISTOL,City,True,2005-10-01T00:00:00.000Z,41.92209,-71.05066
+MA0031500,Rehoboth Police Department,7476,MA,New England,Northeast,Region I,BRISTOL,City,True,2001-06-01T00:00:00.000Z,41.863167,-71.23684
+MA0031600,Seekonk Police Department,7477,MA,New England,Northeast,Region I,BRISTOL,City,True,1995-01-01T00:00:00.000Z,41.828766,-71.3186
+MA0031700,Somerset Police Department,7478,MA,New England,Northeast,Region I,BRISTOL,City,True,1997-01-01T00:00:00.000Z,41.746863,-71.090509
+MA0031800,Swansea Police Department,7479,MA,New England,Northeast,Region I,BRISTOL,City,True,1995-01-01T00:00:00.000Z,41.746483,-71.19428
+MA0031900,Taunton Police Department,7480,MA,New England,Northeast,Region I,BRISTOL,City,True,2004-01-01T00:00:00.000Z,41.90118,-71.08913
+MA0032000,Westport Police Department,7481,MA,New England,Northeast,Region I,BRISTOL,City,True,2000-05-01T00:00:00.000Z,41.578438,-71.0902
+MA0032100,University of Massachusetts: Dartmouth,7482,MA,New England,Northeast,Region I,BRISTOL,University or College,True,2020-09-01T00:00:00.000Z,41.634468,-71.005165
+MA003229E,Stonehill College,25578,MA,New England,Northeast,Region I,BRISTOL,University or College,True,2021-01-01T00:00:00.000Z,,
+MA0032300,Bristol Community College,7483,MA,New England,Northeast,Region I,BRISTOL,University or College,True,2020-01-01T00:00:00.000Z,,
+MA003269E,Wheaton College,25338,MA,New England,Northeast,Region I,BRISTOL,University or College,True,2019-01-01T00:00:00.000Z,,
+MA003BA00,Massachusetts Bay Transportation Authority: Bristol County,7484,MA,New England,Northeast,Region I,BRISTOL,Other State Agency,False,,42.338226,-71.05713
+MA0040100,Chilmark Police Department,7488,MA,New England,Northeast,Region I,DUKES,City,True,2008-01-01T00:00:00.000Z,41.380969,-70.701504
+MA0040200,Edgartown Police Department,7489,MA,New England,Northeast,Region I,DUKES,City,True,2007-06-01T00:00:00.000Z,41.380969,-70.701504
+MA0040300,Aquinnah Police Department,7490,MA,New England,Northeast,Region I,DUKES,City,True,2007-01-01T00:00:00.000Z,41.336143,-70.75497
+MA0040500,Oak Bluffs Police Department,7491,MA,New England,Northeast,Region I,DUKES,City,True,2007-06-01T00:00:00.000Z,41.380969,-70.701504
+MA0040600,Tisbury Police Department,7492,MA,New England,Northeast,Region I,DUKES,City,True,2007-06-01T00:00:00.000Z,41.380969,-70.701504
+MA0040700,West Tisbury Police Department,7493,MA,New England,Northeast,Region I,DUKES,City,True,2007-06-01T00:00:00.000Z,41.380969,-70.701504
+MA0050100,Amesbury Police Department,7498,MA,New England,Northeast,Region I,ESSEX,City,True,1995-01-01T00:00:00.000Z,42.856247,-70.933945
+MA0050200,Andover Police Department,7499,MA,New England,Northeast,Region I,ESSEX,City,True,1995-01-01T00:00:00.000Z,42.655888,-71.14008
+MA0050300,Beverly Police Department,7500,MA,New England,Northeast,Region I,ESSEX,City,True,2000-06-01T00:00:00.000Z,42.547817,-70.87892
+MA0050400,Boxford Police Department,7501,MA,New England,Northeast,Region I,ESSEX,City,True,1995-01-01T00:00:00.000Z,42.691742,-71.0136
+MA0050500,Danvers Police Department,7502,MA,New England,Northeast,Region I,ESSEX,City,True,1998-02-01T00:00:00.000Z,42.55642,-70.94153
+MA0050600,Essex Police Department,7503,MA,New England,Northeast,Region I,ESSEX,City,True,2020-01-01T00:00:00.000Z,42.632225,-70.78238
+MA0050700,Georgetown Police Department,7504,MA,New England,Northeast,Region I,ESSEX,City,True,2008-12-01T00:00:00.000Z,42.721397,-70.99251
+MA0050800,Gloucester Police Department,7505,MA,New England,Northeast,Region I,ESSEX,City,True,2001-06-01T00:00:00.000Z,42.642711,-70.865107
+MA0050900,Groveland Police Department,7506,MA,New England,Northeast,Region I,ESSEX,City,True,1997-01-01T00:00:00.000Z,42.642711,-70.865107
+MA0051000,Hamilton Police Department,7508,MA,New England,Northeast,Region I,ESSEX,City,True,2002-01-01T00:00:00.000Z,42.642711,-70.865107
+MA0051100,Haverhill Police Department,7509,MA,New England,Northeast,Region I,ESSEX,City,True,2004-07-01T00:00:00.000Z,42.727875,-71.011185
+MA0051200,Ipswich Police Department,7510,MA,New England,Northeast,Region I,ESSEX,City,True,2001-01-01T00:00:00.000Z,42.67841,-70.83684
+MA0051300,Lawrence Police Department,7511,MA,New England,Northeast,Region I,ESSEX,City,True,2020-01-01T00:00:00.000Z,42.708637,-71.165016
+MA0051400,Lynn Police Department,7512,MA,New England,Northeast,Region I,ESSEX,City,True,2007-01-01T00:00:00.000Z,42.46463,-70.949905
+MA0051500,Lynnfield Police Department,7513,MA,New England,Northeast,Region I,ESSEX,City,True,1997-01-01T00:00:00.000Z,42.538727,-71.047134
+MA0051600,Manchester-by-the-Sea Police Department,7514,MA,New England,Northeast,Region I,ESSEX,City,True,2007-07-01T00:00:00.000Z,42.575256,-70.77225
+MA0051700,Marblehead Police Department,7515,MA,New England,Northeast,Region I,ESSEX,City,True,1996-07-01T00:00:00.000Z,42.497223,-70.86018
+MA0051800,Merrimac Police Department,7516,MA,New England,Northeast,Region I,ESSEX,City,True,2002-01-01T00:00:00.000Z,42.832764,-71.00361
+MA0051900,Methuen Police Department,7517,MA,New England,Northeast,Region I,ESSEX,City,True,2002-01-01T00:00:00.000Z,42.729824,-71.19032
+MA0052000,Middleton Police Department,7518,MA,New England,Northeast,Region I,ESSEX,City,True,1998-09-01T00:00:00.000Z,42.59823,-71.0202
+MA0052100,Nahant Police Department,7519,MA,New England,Northeast,Region I,ESSEX,City,True,2000-01-01T00:00:00.000Z,42.642711,-70.865107
+MA0052200,Newbury Police Department,7520,MA,New England,Northeast,Region I,ESSEX,City,True,2000-01-01T00:00:00.000Z,42.642711,-70.865107
+MA0052300,Newburyport Police Department,7521,MA,New England,Northeast,Region I,ESSEX,City,True,1999-06-01T00:00:00.000Z,42.797325,-70.861664
+MA0052400,North Andover Police Department,7522,MA,New England,Northeast,Region I,ESSEX,City,True,2000-05-01T00:00:00.000Z,42.69261,-71.1192
+MA0052500,Peabody Police Department,7523,MA,New England,Northeast,Region I,ESSEX,City,True,2000-01-01T00:00:00.000Z,42.521538,-70.939514
+MA0052600,Rockport Police Department,7524,MA,New England,Northeast,Region I,ESSEX,City,True,2006-11-01T00:00:00.000Z,42.6563,-70.619896
+MA0052700,Rowley Police Department,7525,MA,New England,Northeast,Region I,ESSEX,City,True,1995-01-01T00:00:00.000Z,42.70603,-70.916275
+MA0052800,Salem Police Department,7526,MA,New England,Northeast,Region I,ESSEX,City,True,2012-09-01T00:00:00.000Z,42.516384,-70.896614
+MA0052900,Salisbury Police Department,7527,MA,New England,Northeast,Region I,ESSEX,City,True,1995-09-01T00:00:00.000Z,42.84161,-70.81785
+MA0053000,Saugus Police Department,7528,MA,New England,Northeast,Region I,ESSEX,City,True,1995-01-01T00:00:00.000Z,42.465084,-71.00811
+MA0053100,Swampscott Police Department,7529,MA,New England,Northeast,Region I,ESSEX,City,True,1997-01-01T00:00:00.000Z,42.642711,-70.865107
+MA0053200,Topsfield Police Department,7530,MA,New England,Northeast,Region I,ESSEX,City,True,2002-07-01T00:00:00.000Z,42.63071,-70.94493
+MA0053300,Wenham Police Department,7531,MA,New England,Northeast,Region I,ESSEX,City,True,2002-01-01T00:00:00.000Z,42.642711,-70.865107
+MA0053400,West Newbury Police Department,7532,MA,New England,Northeast,Region I,ESSEX,City,True,1996-01-01T00:00:00.000Z,42.80066,-70.98973
+MA0053600,Salem State University,7534,MA,New England,Northeast,Region I,ESSEX,University or College,True,2015-01-01T00:00:00.000Z,42.505116,-70.89065
+MA005389E,Merrimack College,7535,MA,New England,Northeast,Region I,ESSEX,University or College,True,2021-01-01T00:00:00.000Z,,
+MA005429E,Endicott College,25668,MA,New England,Northeast,Region I,ESSEX,University or College,True,2020-12-01T00:00:00.000Z,,
+MA005609E,Gordon College,25607,MA,New England,Northeast,Region I,ESSEX,University or College,True,2020-02-01T00:00:00.000Z,,
+MA005989E,North Shore Community College,25339,MA,New England,Northeast,Region I,ESSEX,University or College,True,2020-01-01T00:00:00.000Z,,
+MA005BA00,Massachusetts Bay Transportation Authority: Essex County,7537,MA,New England,Northeast,Region I,ESSEX,Other State Agency,False,,42.338226,-71.05713
+MA0060100,Ashfield Police Department,7540,MA,New England,Northeast,Region I,FRANKLIN,City,True,2019-08-01T00:00:00.000Z,42.583791,-72.591655
+MA0060200,Bernardston Police Department,7541,MA,New England,Northeast,Region I,FRANKLIN,City,True,2004-01-01T00:00:00.000Z,42.583791,-72.591655
+MA0060300,Buckland Police Department,7542,MA,New England,Northeast,Region I,FRANKLIN,City,True,2021-01-01T00:00:00.000Z,42.61399,-72.740486
+MA0060400,Charlemont Police Department,7543,MA,New England,Northeast,Region I,FRANKLIN,City,False,2001-01-01T00:00:00.000Z,42.583791,-72.591655
+MA0060700,Deerfield Police Department,7545,MA,New England,Northeast,Region I,FRANKLIN,City,True,2000-01-01T00:00:00.000Z,42.47946,-72.60936
+MA0060800,Erving Police Department,7546,MA,New England,Northeast,Region I,FRANKLIN,City,True,1996-01-01T00:00:00.000Z,42.599537,-72.394806
+MA0060900,Gill Police Department,7547,MA,New England,Northeast,Region I,FRANKLIN,City,True,1999-05-01T00:00:00.000Z,42.629147,-72.51823
+MA0061000,Greenfield Police Department,7548,MA,New England,Northeast,Region I,FRANKLIN,City,True,1998-01-01T00:00:00.000Z,42.6021,-72.58389
+MA0061300,Leverett Police Department,7550,MA,New England,Northeast,Region I,FRANKLIN,City,True,2008-01-01T00:00:00.000Z,42.583791,-72.591655
+MA0061600,Montague Police Department,7553,MA,New England,Northeast,Region I,FRANKLIN,City,True,1995-01-01T00:00:00.000Z,42.583791,-72.591655
+MA0061700,New Salem Police Department,7554,MA,New England,Northeast,Region I,FRANKLIN,City,False,2003-04-01T00:00:00.000Z,42.63511,-72.26257
+MA0061800,Northfield Police Department,7555,MA,New England,Northeast,Region I,FRANKLIN,City,True,2013-08-01T00:00:00.000Z,42.69363,-72.45651
+MA0061900,Orange Police Department,7556,MA,New England,Northeast,Region I,FRANKLIN,City,False,1995-01-01T00:00:00.000Z,42.58398,-72.2924
+MA0062000,Rowe Police Department,7557,MA,New England,Northeast,Region I,FRANKLIN,City,False,,42.583791,-72.591655
+MA0062100,Shelburne Police Department,7558,MA,New England,Northeast,Region I,FRANKLIN,City,True,2000-10-01T00:00:00.000Z,42.6036,-72.73873
+MA0062200,Shutesbury Police Department,7559,MA,New England,Northeast,Region I,FRANKLIN,City,True,2019-04-01T00:00:00.000Z,42.583791,-72.591655
+MA0062300,Sunderland Police Department,7560,MA,New England,Northeast,Region I,FRANKLIN,City,True,2000-12-01T00:00:00.000Z,42.583791,-72.591655
+MA0062400,Warwick Police Department,7561,MA,New England,Northeast,Region I,FRANKLIN,City,False,2021-01-01T00:00:00.000Z,42.6224,-72.256645
+MA0062600,Whately Police Department,7562,MA,New England,Northeast,Region I,FRANKLIN,City,True,2003-07-01T00:00:00.000Z,42.583791,-72.591655
+MA0062700,Greenfield Community College,25340,MA,New England,Northeast,Region I,FRANKLIN,University or College,True,2020-12-01T00:00:00.000Z,42.583791,-72.591655
+MA0070100,Agawam Police Department,7567,MA,New England,Northeast,Region I,HAMPDEN,City,True,1996-11-01T00:00:00.000Z,42.078194,-72.65217
+MA0070200,Blandford Police Department,7568,MA,New England,Northeast,Region I,HAMPDEN,City,False,,42.179836,-72.925186
+MA007029E,Western New England University,7591,MA,New England,Northeast,Region I,HAMPDEN,University or College,True,2020-09-01T00:00:00.000Z,,
+MA0070300,Brimfield Police Department,7569,MA,New England,Northeast,Region I,HAMPDEN,City,True,2000-01-01T00:00:00.000Z,42.136198,-72.635648
+MA0070400,Chester Police Department,7570,MA,New England,Northeast,Region I,HAMPDEN,City,True,2021-07-01T00:00:00.000Z,42.300674,-72.984474
+MA007049E,Springfield College,7594,MA,New England,Northeast,Region I,HAMPDEN,University or College,True,2020-10-01T00:00:00.000Z,,
+MA0070500,Chicopee Police Department,7571,MA,New England,Northeast,Region I,HAMPDEN,City,True,1996-01-01T00:00:00.000Z,42.155155,-72.58503
+MA0070600,East Longmeadow Police Department,7572,MA,New England,Northeast,Region I,HAMPDEN,City,True,1998-04-01T00:00:00.000Z,42.05784,-72.502594
+MA0070700,Granville Police Department,7573,MA,New England,Northeast,Region I,HAMPDEN,City,True,2020-01-01T00:00:00.000Z,42.06727,-72.88094
+MA0070800,Hampden Police Department,7574,MA,New England,Northeast,Region I,HAMPDEN,City,True,2000-01-01T00:00:00.000Z,42.063904,-72.414276
+MA0070900,Holland Police Department,7575,MA,New England,Northeast,Region I,HAMPDEN,City,True,2017-01-01T00:00:00.000Z,42.065777,-72.161
+MA0071000,Holyoke Police Department,7576,MA,New England,Northeast,Region I,HAMPDEN,City,True,2000-08-01T00:00:00.000Z,42.20123,-72.60314
+MA0071100,Longmeadow Police Department,7577,MA,New England,Northeast,Region I,HAMPDEN,City,True,1995-01-01T00:00:00.000Z,42.050266,-72.58046
+MA0071200,Ludlow Police Department,7578,MA,New England,Northeast,Region I,HAMPDEN,City,True,2001-01-01T00:00:00.000Z,42.1758,-72.47413
+MA0071300,Monson Police Department,7579,MA,New England,Northeast,Region I,HAMPDEN,City,True,2000-01-01T00:00:00.000Z,42.136198,-72.635648
+MA0071500,Palmer Police Department,7580,MA,New England,Northeast,Region I,HAMPDEN,City,True,1995-01-01T00:00:00.000Z,42.136198,-72.635648
+MA0071600,Russell Police Department,7581,MA,New England,Northeast,Region I,HAMPDEN,City,False,,42.136198,-72.635648
+MA0071700,Southwick Police Department,7582,MA,New England,Northeast,Region I,HAMPDEN,City,True,1995-01-01T00:00:00.000Z,42.136198,-72.635648
+MA0071800,Springfield Police Department,7583,MA,New England,Northeast,Region I,HAMPDEN,City,True,1996-05-01T00:00:00.000Z,42.108536,-72.584915
+MA0071900,Tolland Police Department,7584,MA,New England,Northeast,Region I,HAMPDEN,City,False,,42.136198,-72.635648
+MA0072000,Wales Police Department,7585,MA,New England,Northeast,Region I,HAMPDEN,City,True,2001-04-01T00:00:00.000Z,42.136198,-72.635648
+MA0072100,West Springfield Police Department,7586,MA,New England,Northeast,Region I,HAMPDEN,City,True,2000-01-01T00:00:00.000Z,42.105854,-72.62277
+MA0072200,Westfield Police Department,7587,MA,New England,Northeast,Region I,HAMPDEN,City,True,1998-01-01T00:00:00.000Z,42.121048,-72.75232
+MA0072300,Wilbraham Police Department,7588,MA,New England,Northeast,Region I,HAMPDEN,City,True,1998-02-01T00:00:00.000Z,42.15055,-72.4265
+MA0072400,Westfield State University,7589,MA,New England,Northeast,Region I,HAMPDEN,University or College,True,1997-01-01T00:00:00.000Z,42.129055,-72.79351
+MA0073200,Holyoke Community College,7590,MA,New England,Northeast,Region I,HAMPDEN,University or College,True,2014-02-01T00:00:00.000Z,,
+MA0073300,Springfield Technical Community College,25341,MA,New England,Northeast,Region I,HAMPDEN,University or College,True,2014-01-01T00:00:00.000Z,42.136198,-72.635648
+MA0080100,Amherst Police Department,7599,MA,New England,Northeast,Region I,HAMPSHIRE,City,True,2002-05-01T00:00:00.000Z,42.37582,-72.5167
+MA0080200,Belchertown Police Department,7600,MA,New England,Northeast,Region I,HAMPSHIRE,City,True,2000-08-01T00:00:00.000Z,42.339459,-72.663694
+MA0080300,Chesterfield Police Department,7601,MA,New England,Northeast,Region I,HAMPSHIRE,City,True,2009-05-01T00:00:00.000Z,42.392136,-72.84372
+MA0080400,Cummington Police Department,7602,MA,New England,Northeast,Region I,HAMPSHIRE,City,False,,42.339459,-72.663694
+MA008049E,Mount Holyoke College,7619,MA,New England,Northeast,Region I,HAMPSHIRE,University or College,True,1999-05-01T00:00:00.000Z,42.255424,-72.57671
+MA0080500,Easthampton Police Department,7603,MA,New England,Northeast,Region I,HAMPSHIRE,City,True,1998-01-01T00:00:00.000Z,42.265995,-72.67102
+MA0080600,Goshen Police Department,7604,MA,New England,Northeast,Region I,HAMPSHIRE,City,True,2001-08-01T00:00:00.000Z,42.339459,-72.663694
+MA0080700,Granby Police Department,7605,MA,New England,Northeast,Region I,HAMPSHIRE,City,True,2000-01-01T00:00:00.000Z,42.339459,-72.663694
+MA0080800,Hadley Police Department,7606,MA,New England,Northeast,Region I,HAMPSHIRE,City,True,2001-01-01T00:00:00.000Z,42.352734,-72.582565
+MA0080900,Hatfield Police Department,7607,MA,New England,Northeast,Region I,HAMPSHIRE,City,True,2011-01-01T00:00:00.000Z,42.373203,-72.59623
+MA0081200,Northampton Police Department,7609,MA,New England,Northeast,Region I,HAMPSHIRE,City,True,2002-02-01T00:00:00.000Z,42.31931,-72.63211
+MA0081300,Pelham Police Department,7610,MA,New England,Northeast,Region I,HAMPSHIRE,City,True,2012-01-01T00:00:00.000Z,42.377945,-72.469574
+MA0081500,South Hadley Police Department,7611,MA,New England,Northeast,Region I,HAMPSHIRE,City,True,1996-01-01T00:00:00.000Z,42.21588,-72.59365
+MA0081600,Southampton Police Department,7612,MA,New England,Northeast,Region I,HAMPSHIRE,City,True,2006-01-01T00:00:00.000Z,42.339459,-72.663694
+MA0081700,Ware Police Department,7613,MA,New England,Northeast,Region I,HAMPSHIRE,City,True,2000-01-01T00:00:00.000Z,42.261124,-72.241455
+MA0081800,Westhampton Police Department,7614,MA,New England,Northeast,Region I,HAMPSHIRE,City,False,,42.252575,-72.67883
+MA0081900,Williamsburg Police Department,7615,MA,New England,Northeast,Region I,HAMPSHIRE,City,True,2000-07-01T00:00:00.000Z,42.339459,-72.663694
+MA0082000,Worthington Police Department,7616,MA,New England,Northeast,Region I,HAMPSHIRE,City,True,2018-08-01T00:00:00.000Z,42.37528,-72.938
+MA0082200,University of Massachusetts: Amherst,7618,MA,New England,Northeast,Region I,HAMPSHIRE,University or College,True,1995-01-01T00:00:00.000Z,42.39076,-72.529335
+MA008269E,Smith College,7623,MA,New England,Northeast,Region I,HAMPSHIRE,University or College,True,2007-11-01T00:00:00.000Z,42.255424,-72.57671
+MA008289E,Amherst College,7624,MA,New England,Northeast,Region I,HAMPSHIRE,University or College,True,2019-07-01T00:00:00.000Z,,
+MA0090100,Acton Police Department,7630,MA,New England,Northeast,Region I,MIDDLESEX,City,True,1996-01-01T00:00:00.000Z,42.481711,-71.394917
+MA009019E,Regis College,25627,MA,New England,Northeast,Region I,MIDDLESEX,University or College,False,,,
+MA0090200,Arlington Police Department,7631,MA,New England,Northeast,Region I,MIDDLESEX,City,True,2002-01-01T00:00:00.000Z,42.419243,-71.15183
+MA0090300,Ashby Police Department,7632,MA,New England,Northeast,Region I,MIDDLESEX,City,True,2004-01-01T00:00:00.000Z,42.481711,-71.394917
+MA0090400,Ashland Police Department,7633,MA,New England,Northeast,Region I,MIDDLESEX,City,True,1995-01-01T00:00:00.000Z,42.260326,-71.46482
+MA0090500,Ayer Police Department,7634,MA,New England,Northeast,Region I,MIDDLESEX,City,True,1995-01-01T00:00:00.000Z,42.565495,-71.59193
+MA0090600,Bedford Police Department,7635,MA,New England,Northeast,Region I,MIDDLESEX,City,True,1995-01-01T00:00:00.000Z,42.493195,-71.282936
+MA0090700,Belmont Police Department,7636,MA,New England,Northeast,Region I,MIDDLESEX,City,True,2002-02-01T00:00:00.000Z,42.481711,-71.394917
+MA0090800,Billerica Police Department,7637,MA,New England,Northeast,Region I,MIDDLESEX,City,True,1999-01-01T00:00:00.000Z,42.56338,-71.27212
+MA0090900,Boxborough Police Department,7638,MA,New England,Northeast,Region I,MIDDLESEX,City,True,2002-01-01T00:00:00.000Z,42.481711,-71.394917
+MA0091000,Burlington Police Department,7639,MA,New England,Northeast,Region I,MIDDLESEX,City,True,2003-01-01T00:00:00.000Z,42.50492,-71.19289
+MA0091100,Cambridge Police Department,7640,MA,New England,Northeast,Region I,MIDDLESEX,City,True,2007-01-01T00:00:00.000Z,42.36524,-71.10541
+MA0091200,Carlisle Police Department,7641,MA,New England,Northeast,Region I,MIDDLESEX,City,True,2000-01-01T00:00:00.000Z,42.53035,-71.34872
+MA0091300,Chelmsford Police Department,7642,MA,New England,Northeast,Region I,MIDDLESEX,City,True,2000-01-01T00:00:00.000Z,42.616592,-71.364136
+MA0091400,Concord Police Department,7643,MA,New England,Northeast,Region I,MIDDLESEX,City,True,1997-01-01T00:00:00.000Z,42.481711,-71.394917
+MA0091500,Dracut Police Department,7644,MA,New England,Northeast,Region I,MIDDLESEX,City,True,2001-04-01T00:00:00.000Z,42.672413,-71.29002
+MA0091600,Dunstable Police Department,7645,MA,New England,Northeast,Region I,MIDDLESEX,City,True,2012-12-01T00:00:00.000Z,42.481711,-71.394917
+MA0091700,Everett Police Department,7646,MA,New England,Northeast,Region I,MIDDLESEX,City,True,2000-05-01T00:00:00.000Z,42.41274,-71.04496
+MA0091800,Framingham Police Department,7647,MA,New England,Northeast,Region I,MIDDLESEX,City,True,2011-07-01T00:00:00.000Z,42.481711,-71.394917
+MA0091900,Groton Police Department,7648,MA,New England,Northeast,Region I,MIDDLESEX,City,True,1999-01-01T00:00:00.000Z,42.609604,-71.57929
+MA0092000,Holliston Police Department,7649,MA,New England,Northeast,Region I,MIDDLESEX,City,True,1995-12-01T00:00:00.000Z,42.20772,-71.42754
+MA0092100,Hopkinton Police Department,7650,MA,New England,Northeast,Region I,MIDDLESEX,City,True,1995-01-01T00:00:00.000Z,42.22784,-71.52393
+MA0092200,Hudson Police Department,7651,MA,New England,Northeast,Region I,MIDDLESEX,City,True,1995-01-01T00:00:00.000Z,42.397785,-71.5778
+MA0092300,Lexington Police Department,7652,MA,New England,Northeast,Region I,MIDDLESEX,City,True,1996-04-01T00:00:00.000Z,42.446224,-71.22331
+MA0092400,Lincoln Police Department,7653,MA,New England,Northeast,Region I,MIDDLESEX,City,True,2002-09-01T00:00:00.000Z,42.41328,-71.328636
+MA0092500,Littleton Police Department,7654,MA,New England,Northeast,Region I,MIDDLESEX,City,True,1995-01-01T00:00:00.000Z,42.481711,-71.394917
+MA0092600,Lowell Police Department,7655,MA,New England,Northeast,Region I,MIDDLESEX,City,True,2007-05-01T00:00:00.000Z,42.64813,-71.31313
+MA0092700,Malden Police Department,7656,MA,New England,Northeast,Region I,MIDDLESEX,City,True,2004-06-01T00:00:00.000Z,42.481711,-71.394917
+MA0092800,Marlborough Police Department,7657,MA,New England,Northeast,Region I,MIDDLESEX,City,True,1995-01-01T00:00:00.000Z,42.35631,-71.55052
+MA0092900,Maynard Police Department,7658,MA,New England,Northeast,Region I,MIDDLESEX,City,True,1997-01-01T00:00:00.000Z,42.430134,-71.46161
+MA0093000,Medford Police Department,7659,MA,New England,Northeast,Region I,MIDDLESEX,City,True,2013-01-01T00:00:00.000Z,42.416054,-71.11058
+MA0093100,Melrose Police Department,7660,MA,New England,Northeast,Region I,MIDDLESEX,City,True,2002-01-01T00:00:00.000Z,42.454952,-71.0665
+MA0093200,Natick Police Department,7661,MA,New England,Northeast,Region I,MIDDLESEX,City,True,2004-01-01T00:00:00.000Z,42.2842,-71.34515
+MA0093300,Newton Police Department,7662,MA,New England,Northeast,Region I,MIDDLESEX,City,True,2004-01-01T00:00:00.000Z,42.34906,-71.22799
+MA0093400,North Reading Police Department,7663,MA,New England,Northeast,Region I,MIDDLESEX,City,True,1997-07-01T00:00:00.000Z,42.574493,-71.076645
+MA0093500,Pepperell Police Department,7664,MA,New England,Northeast,Region I,MIDDLESEX,City,True,2003-10-01T00:00:00.000Z,42.481711,-71.394917
+MA0093600,Reading Police Department,7665,MA,New England,Northeast,Region I,MIDDLESEX,City,True,2000-01-01T00:00:00.000Z,42.52521,-71.100914
+MA0093700,Sherborn Police Department,7666,MA,New England,Northeast,Region I,MIDDLESEX,City,True,2003-01-01T00:00:00.000Z,42.481711,-71.394917
+MA0093800,Shirley Police Department,7667,MA,New England,Northeast,Region I,MIDDLESEX,City,True,1995-01-01T00:00:00.000Z,42.481711,-71.394917
+MA0093900,Somerville Police Department,7668,MA,New England,Northeast,Region I,MIDDLESEX,City,True,2005-01-01T00:00:00.000Z,42.379456,-71.092606
+MA0094000,Stoneham Police Department,7669,MA,New England,Northeast,Region I,MIDDLESEX,City,True,2007-10-01T00:00:00.000Z,42.481194,-71.09857
+MA0094100,Stow Police Department,7670,MA,New England,Northeast,Region I,MIDDLESEX,City,True,1995-01-01T00:00:00.000Z,42.43542,-71.49839
+MA0094200,Sudbury Police Department,7671,MA,New England,Northeast,Region I,MIDDLESEX,City,True,1995-01-01T00:00:00.000Z,42.36032,-71.42435
+MA0094300,Tewksbury Police Department,7672,MA,New England,Northeast,Region I,MIDDLESEX,City,True,1995-01-01T00:00:00.000Z,42.481711,-71.394917
+MA0094400,Townsend Police Department,7673,MA,New England,Northeast,Region I,MIDDLESEX,City,True,1999-01-01T00:00:00.000Z,42.481711,-71.394917
+MA0094500,Tyngsboro Police Department,7674,MA,New England,Northeast,Region I,MIDDLESEX,City,True,1995-01-01T00:00:00.000Z,42.670315,-71.42079
+MA0094600,Wakefield Police Department,7675,MA,New England,Northeast,Region I,MIDDLESEX,City,True,1999-01-01T00:00:00.000Z,42.504345,-71.069786
+MA0094700,Waltham Police Department,7676,MA,New England,Northeast,Region I,MIDDLESEX,City,True,2002-10-01T00:00:00.000Z,42.481711,-71.394917
+MA0094800,Watertown Police Department,7677,MA,New England,Northeast,Region I,MIDDLESEX,City,True,2003-07-01T00:00:00.000Z,42.481711,-71.394917
+MA0094900,Wayland Police Department,7678,MA,New England,Northeast,Region I,MIDDLESEX,City,True,1998-04-01T00:00:00.000Z,42.36349,-71.36049
+MA0095000,Westford Police Department,7679,MA,New England,Northeast,Region I,MIDDLESEX,City,True,1995-11-01T00:00:00.000Z,42.58116,-71.43948
+MA0095100,Weston Police Department,7680,MA,New England,Northeast,Region I,MIDDLESEX,City,True,1997-06-01T00:00:00.000Z,42.36738,-71.277824
+MA0095200,Wilmington Police Department,7681,MA,New England,Northeast,Region I,MIDDLESEX,City,True,2008-01-01T00:00:00.000Z,42.5499,-71.170975
+MA0095300,Winchester Police Department,7682,MA,New England,Northeast,Region I,MIDDLESEX,City,True,1997-01-01T00:00:00.000Z,42.45312,-71.13618
+MA0095400,Woburn Police Department,7683,MA,New England,Northeast,Region I,MIDDLESEX,City,True,1996-08-01T00:00:00.000Z,42.481133,-71.15706
+MA009579E,Brandeis University,7685,MA,New England,Northeast,Region I,MIDDLESEX,University or College,False,,,
+MA009589E,Bentley University,7686,MA,New England,Northeast,Region I,MIDDLESEX,University or College,True,2017-01-01T00:00:00.000Z,,
+MA0095900,Framingham State University,7687,MA,New England,Northeast,Region I,MIDDLESEX,University or College,True,2021-01-01T00:00:00.000Z,42.481711,-71.394917
+MA0096000,University of Massachusetts:,33339,MA,New England,Northeast,Region I,MIDDLESEX,University or College,True,2021-01-01T00:00:00.000Z,,
+MA009619E,Boston College,7690,MA,New England,Northeast,Region I,MIDDLESEX,University or College,True,2018-07-01T00:00:00.000Z,,
+MA009629E,Harvard University ,21944,MA,New England,Northeast,Region I,MIDDLESEX,University or College,True,2019-11-01T00:00:00.000Z,42.369705,-71.11219
+MA009639E,Massachusetts Institute of Technology,7695,MA,New England,Northeast,Region I,MIDDLESEX,University or College,True,2005-01-01T00:00:00.000Z,42.3601,-71.09479
+MA009649E,Tufts University:,7688,MA,New England,Northeast,Region I,MIDDLESEX,University or College,True,2010-02-01T00:00:00.000Z,,
+MA009679E,Lasell College,7691,MA,New England,Northeast,Region I,MIDDLESEX,University or College,True,2019-01-01T00:00:00.000Z,42.343754,-71.24145
+MA009BA00,Massachusetts Bay Transportation Authority: Middlesex County,7692,MA,New England,Northeast,Region I,MIDDLESEX,Other State Agency,False,,42.338226,-71.05713
+MA0100100,Nantucket Police Department,7702,MA,New England,Northeast,Region I,NANTUCKET,City,True,2004-01-01T00:00:00.000Z,41.305878,-70.14191
+MA0110100,Avon Police Department,7707,MA,New England,Northeast,Region I,NORFOLK,City,True,2019-04-01T00:00:00.000Z,42.132496,-71.03998
+MA011019E,Wellesley College,7738,MA,New England,Northeast,Region I,NORFOLK,University or College,True,2021-02-01T00:00:00.000Z,,
+MA0110200,Bellingham Police Department,7708,MA,New England,Northeast,Region I,NORFOLK,City,True,1997-01-01T00:00:00.000Z,42.086376,-71.474014
+MA0110300,Braintree Police Department,7709,MA,New England,Northeast,Region I,NORFOLK,City,True,2000-01-01T00:00:00.000Z,42.211452,-70.99307
+MA0110400,Brookline Police Department,7710,MA,New England,Northeast,Region I,NORFOLK,City,True,2007-01-01T00:00:00.000Z,42.333908,-71.12126
+MA0110500,Canton Police Department,7711,MA,New England,Northeast,Region I,NORFOLK,City,True,1996-01-01T00:00:00.000Z,42.174736,-71.13441
+MA0110600,Cohasset Police Department,7712,MA,New England,Northeast,Region I,NORFOLK,City,True,1997-01-01T00:00:00.000Z,42.240543,-70.79824
+MA0110700,Dedham Police Department,7713,MA,New England,Northeast,Region I,NORFOLK,City,True,1995-01-01T00:00:00.000Z,42.24836,-71.17405
+MA0110800,Dover Police Department,7714,MA,New England,Northeast,Region I,NORFOLK,City,True,1995-01-01T00:00:00.000Z,42.169702,-71.179875
+MA0110900,Foxborough Police Department,7715,MA,New England,Northeast,Region I,NORFOLK,City,True,2012-10-01T00:00:00.000Z,42.07469,-71.25882
+MA0111000,Franklin Police Department,7716,MA,New England,Northeast,Region I,NORFOLK,City,True,1997-01-01T00:00:00.000Z,42.093716,-71.41185
+MA0111100,Holbrook Police Department,7717,MA,New England,Northeast,Region I,NORFOLK,City,True,2014-09-01T00:00:00.000Z,42.14512,-71.00881
+MA0111200,Medfield Police Department,7718,MA,New England,Northeast,Region I,NORFOLK,City,True,1995-01-01T00:00:00.000Z,42.191296,-71.30939
+MA0111300,Medway Police Department,7719,MA,New England,Northeast,Region I,NORFOLK,City,True,2000-01-01T00:00:00.000Z,42.169702,-71.179875
+MA0111400,Millis Police Department,7720,MA,New England,Northeast,Region I,NORFOLK,City,True,1999-01-01T00:00:00.000Z,42.16715,-71.35808
+MA0111500,Milton Police Department,7721,MA,New England,Northeast,Region I,NORFOLK,City,True,2012-07-01T00:00:00.000Z,42.251705,-71.07976
+MA0111600,Needham Police Department,7722,MA,New England,Northeast,Region I,NORFOLK,City,True,1996-06-01T00:00:00.000Z,42.277992,-71.23592
+MA0111700,Norfolk Police Department,7723,MA,New England,Northeast,Region I,NORFOLK,City,True,1995-01-01T00:00:00.000Z,42.119827,-71.323425
+MA0111800,Norwood Police Department,7724,MA,New England,Northeast,Region I,NORFOLK,City,True,1995-01-01T00:00:00.000Z,42.169702,-71.179875
+MA0111900,Plainville Police Department,7725,MA,New England,Northeast,Region I,NORFOLK,City,True,1999-01-01T00:00:00.000Z,42.169702,-71.179875
+MA0112000,Quincy Police Department,7726,MA,New England,Northeast,Region I,NORFOLK,City,True,2003-04-01T00:00:00.000Z,42.25548,-70.99678
+MA0112100,Randolph Police Department,7727,MA,New England,Northeast,Region I,NORFOLK,City,True,2000-07-01T00:00:00.000Z,42.161175,-71.0421
+MA0112200,Sharon Police Department,7728,MA,New England,Northeast,Region I,NORFOLK,City,True,2002-08-01T00:00:00.000Z,42.1136,-71.18714
+MA0112300,Stoughton Police Department,7729,MA,New England,Northeast,Region I,NORFOLK,City,True,2000-03-01T00:00:00.000Z,42.125328,-71.10392
+MA0112400,Walpole Police Department,7730,MA,New England,Northeast,Region I,NORFOLK,City,True,1997-03-01T00:00:00.000Z,42.1459,-71.25298
+MA0112500,Wellesley Police Department,7731,MA,New England,Northeast,Region I,NORFOLK,City,True,1999-05-01T00:00:00.000Z,42.169702,-71.179875
+MA0112600,Westwood Police Department,7732,MA,New England,Northeast,Region I,NORFOLK,City,True,2001-01-01T00:00:00.000Z,42.228054,-71.221535
+MA0112700,Weymouth Police Department,7733,MA,New England,Northeast,Region I,NORFOLK,City,True,2008-09-01T00:00:00.000Z,42.200764,-70.94817
+MA0112800,Wrentham Police Department,7734,MA,New England,Northeast,Region I,NORFOLK,City,True,2000-01-01T00:00:00.000Z,42.169702,-71.179875
+MA011309E,Babson College,25647,MA,New England,Northeast,Region I,NORFOLK,University or College,True,2012-03-01T00:00:00.000Z,,
+MA011319E,Dean College,7736,MA,New England,Northeast,Region I,NORFOLK,University or College,True,2014-05-01T00:00:00.000Z,,
+MA0113800,Massachusetts Bay Community College,25421,MA,New England,Northeast,Region I,NORFOLK,University or College,True,2020-01-01T00:00:00.000Z,42.169702,-71.179875
+MA011409E,Curry College,25632,MA,New England,Northeast,Region I,NORFOLK,University or College,True,2022-01-01T00:00:00.000Z,,
+MA011BA00,Massachusetts Bay Transportation Authority: Norfolk County,7737,MA,New England,Northeast,Region I,NORFOLK,Other State Agency,False,,42.338226,-71.05713
+MA0120100,Abington Police Department,7741,MA,New England,Northeast,Region I,PLYMOUTH,City,True,1996-04-01T00:00:00.000Z,41.987196,-70.741942
+MA0120200,Bridgewater Police Department,7742,MA,New England,Northeast,Region I,PLYMOUTH,City,True,1996-10-01T00:00:00.000Z,41.98695,-70.98706
+MA0120300,Brockton Police Department,7743,MA,New England,Northeast,Region I,PLYMOUTH,City,True,2002-09-01T00:00:00.000Z,42.085533,-71.01567
+MA0120400,Carver Police Department,7744,MA,New England,Northeast,Region I,PLYMOUTH,City,True,1995-01-01T00:00:00.000Z,41.987196,-70.741942
+MA0120500,Duxbury Police Department,7745,MA,New England,Northeast,Region I,PLYMOUTH,City,True,2008-01-01T00:00:00.000Z,42.056488,-70.7127
+MA0120600,East Bridgewater Police Department,7746,MA,New England,Northeast,Region I,PLYMOUTH,City,True,1997-01-01T00:00:00.000Z,41.987196,-70.741942
+MA0120700,Halifax Police Department,7747,MA,New England,Northeast,Region I,PLYMOUTH,City,True,1995-01-01T00:00:00.000Z,41.99149,-70.86434
+MA0120800,Hanover Police Department,7748,MA,New England,Northeast,Region I,PLYMOUTH,City,True,2005-01-01T00:00:00.000Z,41.987196,-70.741942
+MA0120900,Hanson Police Department,7749,MA,New England,Northeast,Region I,PLYMOUTH,City,True,1995-01-01T00:00:00.000Z,42.040245,-70.86983
+MA0121000,Hingham Police Department,7750,MA,New England,Northeast,Region I,PLYMOUTH,City,True,2003-01-01T00:00:00.000Z,42.231712,-70.88692
+MA0121100,Hull Police Department,7751,MA,New England,Northeast,Region I,PLYMOUTH,City,True,1999-10-01T00:00:00.000Z,42.263588,-70.84632
+MA0121200,Kingston Police Department,7752,MA,New England,Northeast,Region I,PLYMOUTH,City,True,1998-09-01T00:00:00.000Z,41.987196,-70.741942
+MA0121300,Lakeville Police Department,7753,MA,New England,Northeast,Region I,PLYMOUTH,City,True,2005-01-01T00:00:00.000Z,41.852142,-70.950096
+MA0121400,Marion Police Department,7754,MA,New England,Northeast,Region I,PLYMOUTH,City,True,1995-01-01T00:00:00.000Z,41.70582,-70.76707
+MA0121500,Marshfield Police Department,7755,MA,New England,Northeast,Region I,PLYMOUTH,City,True,1998-04-01T00:00:00.000Z,42.093166,-70.69398
+MA0121600,Mattapoisett Police Department,7756,MA,New England,Northeast,Region I,PLYMOUTH,City,True,1997-01-01T00:00:00.000Z,41.987196,-70.741942
+MA0121700,Middleboro Police Department,7757,MA,New England,Northeast,Region I,PLYMOUTH,City,True,1994-01-01T00:00:00.000Z,41.86622,-70.9346
+MA0121800,Norwell Police Department,7758,MA,New England,Northeast,Region I,PLYMOUTH,City,True,1995-01-01T00:00:00.000Z,42.15829,-70.79172
+MA0121900,Pembroke Police Department,7759,MA,New England,Northeast,Region I,PLYMOUTH,City,True,1996-01-01T00:00:00.000Z,42.074413,-70.80362
+MA0122000,Plymouth Police Department,7760,MA,New England,Northeast,Region I,PLYMOUTH,City,True,1995-01-01T00:00:00.000Z,41.92974,-70.65795
+MA0122100,Plympton Police Department,7761,MA,New England,Northeast,Region I,PLYMOUTH,City,True,2004-01-01T00:00:00.000Z,41.987196,-70.741942
+MA0122200,Rochester Police Department,7762,MA,New England,Northeast,Region I,PLYMOUTH,City,True,2003-08-01T00:00:00.000Z,41.987196,-70.741942
+MA0122300,Rockland Police Department,7763,MA,New England,Northeast,Region I,PLYMOUTH,City,True,2018-12-01T00:00:00.000Z,42.12395,-70.90268
+MA0122400,Scituate Police Department,7764,MA,New England,Northeast,Region I,PLYMOUTH,City,True,1999-01-01T00:00:00.000Z,42.196808,-70.768776
+MA0122500,Wareham Police Department,7765,MA,New England,Northeast,Region I,PLYMOUTH,City,True,2010-01-01T00:00:00.000Z,41.77083,-70.734085
+MA0122600,West Bridgewater Police Department,7766,MA,New England,Northeast,Region I,PLYMOUTH,City,True,2006-07-01T00:00:00.000Z,41.997257,-70.98805
+MA0122700,Whitman Police Department,7767,MA,New England,Northeast,Region I,PLYMOUTH,City,True,2009-01-01T00:00:00.000Z,42.08166,-70.93595
+MA0122900,Bridgewater State University,7768,MA,New England,Northeast,Region I,PLYMOUTH,University or College,True,2008-07-01T00:00:00.000Z,41.987196,-70.741942
+MA0123200,Massasoit Community College,7770,MA,New England,Northeast,Region I,PLYMOUTH,University or College,True,2012-12-01T00:00:00.000Z,42.081623,-70.98653
+MA012BA00,Massachusetts Bay Transportation Authority: Plymouth County,7771,MA,New England,Northeast,Region I,PLYMOUTH,Other State Agency,False,,42.338226,-71.05713
+MA0130100,Boston Police Department,7775,MA,New England,Northeast,Region I,SUFFOLK,City,True,2019-10-01T00:00:00.000Z,42.33196,-71.020173
+MA0130200,Capitol Police,7776,MA,New England,Northeast,Region I,SUFFOLK,Other State Agency,False,,42.35922,-71.0628
+MA0130300,Chelsea Police Department,7777,MA,New England,Northeast,Region I,SUFFOLK,City,True,1995-01-01T00:00:00.000Z,42.33196,-71.020173
+MA0130400,Revere Police Department,7778,MA,New England,Northeast,Region I,SUFFOLK,City,True,2001-05-01T00:00:00.000Z,42.40302,-71.00097
+MA0130500,Winthrop Police Department,7779,MA,New England,Northeast,Region I,SUFFOLK,City,True,1999-07-01T00:00:00.000Z,42.376972,-70.98435
+MA0131200,Massachusetts College of Art,7788,MA,New England,Northeast,Region I,SUFFOLK,University or College,True,2021-01-01T00:00:00.000Z,,
+MA0131900,Division of Law Enforcement Environmental Police,7783,MA,New England,Northeast,Region I,SUFFOLK,Other State Agency,True,2008-01-01T00:00:00.000Z,42.3665,-71.05931
+MA0132000,"University of Massachusetts: Harbor Campus, Boston",7784,MA,New England,Northeast,Region I,SUFFOLK,University or College,True,1995-01-01T00:00:00.000Z,42.31528,-71.047585
+MA0132500,Massachusetts Bay Transportation Authority:,7794,MA,New England,Northeast,Region I,SUFFOLK,Other State Agency,False,,,
+MA013309E,Boston University,7785,MA,New England,Northeast,Region I,SUFFOLK,University or College,True,2006-02-01T00:00:00.000Z,,
+MA013339E,Northeastern University,7786,MA,New England,Northeast,Region I,SUFFOLK,University or College,True,2020-01-01T00:00:00.000Z,,
+MA013390X,Tufts University: Suffolk,7789,MA,New England,Northeast,Region I,MIDDLESEX,University or College,True,2010-01-01T00:00:00.000Z,42.349957,-71.06177
+MA0134100,Bunker Hill Community College,7790,MA,New England,Northeast,Region I,SUFFOLK,University or College,True,2021-01-01T00:00:00.000Z,42.37726,-71.069786
+MA013459E,Beth Israel Deaconess Medical Center,7793,MA,New England,Northeast,Region I,SUFFOLK,Other,False,2008-01-01T00:00:00.000Z,,
+MA013519E,Simmons College,25343,MA,New England,Northeast,Region I,SUFFOLK,University or College,True,2021-01-01T00:00:00.000Z,,
+MA013529E,Massachusetts General Hospital,25344,MA,New England,Northeast,Region I,SUFFOLK,Other,True,2020-01-01T00:00:00.000Z,,
+MA0135400,Fisher College,25345,MA,New England,Northeast,Region I,SUFFOLK,University or College,True,2021-01-01T00:00:00.000Z,,
+MA013559E,Wentworth Institute of Technology,7791,MA,New England,Northeast,Region I,SUFFOLK,University or College,True,2020-10-01T00:00:00.000Z,,
+MA013739E,MCPHS University,25563,MA,New England,Northeast,Region I,SUFFOLK,University or College,True,2021-01-01T00:00:00.000Z,,
+MA013989E,Emerson College,7792,MA,New England,Northeast,Region I,SUFFOLK,University or College,True,2021-01-01T00:00:00.000Z,,
+MA013A79P,Boston University Medical Center,35160,MA,New England,Northeast,Region I,SUFFOLK,Other,False,,,
+MA0140100,Ashburnham Police Department,7800,MA,New England,Northeast,Region I,WORCESTER,City,True,2000-01-01T00:00:00.000Z,42.636166,-71.909256
+MA0140200,Athol Police Department,7801,MA,New England,Northeast,Region I,WORCESTER,City,True,1993-05-01T00:00:00.000Z,42.59588,-72.23212
+MA0140300,Auburn Police Department,7802,MA,New England,Northeast,Region I,WORCESTER,City,True,1995-01-01T00:00:00.000Z,42.19772,-71.84773
+MA0140400,Barre Police Department,7803,MA,New England,Northeast,Region I,WORCESTER,City,True,2000-06-01T00:00:00.000Z,42.421505,-72.111275
+MA0140500,Berlin Police Department,7804,MA,New England,Northeast,Region I,WORCESTER,City,True,1998-01-01T00:00:00.000Z,42.311693,-71.940282
+MA0140600,Blackstone Police Department,7805,MA,New England,Northeast,Region I,WORCESTER,City,True,1996-07-01T00:00:00.000Z,42.017693,-71.5337
+MA0140700,Bolton Police Department,7806,MA,New England,Northeast,Region I,WORCESTER,City,True,1995-01-01T00:00:00.000Z,42.433197,-71.6081
+MA0140800,Boylston Police Department,7807,MA,New England,Northeast,Region I,WORCESTER,City,True,1996-07-01T00:00:00.000Z,42.326378,-71.751205
+MA0140900,Brookfield Police Department,7808,MA,New England,Northeast,Region I,WORCESTER,City,True,2019-01-01T00:00:00.000Z,42.311693,-71.940282
+MA0141000,Charlton Police Department,7809,MA,New England,Northeast,Region I,WORCESTER,City,True,2001-01-01T00:00:00.000Z,42.138878,-71.97438
+MA0141100,Clinton Police Department,7810,MA,New England,Northeast,Region I,WORCESTER,City,True,1998-07-01T00:00:00.000Z,42.415794,-71.68203
+MA0141200,Douglas Police Department,7811,MA,New England,Northeast,Region I,WORCESTER,City,True,1995-01-01T00:00:00.000Z,42.311693,-71.940282
+MA0141300,Dudley Police Department,7812,MA,New England,Northeast,Region I,WORCESTER,City,True,2005-01-01T00:00:00.000Z,42.045654,-71.89592
+MA0141400,East Brookfield Police Department,7813,MA,New England,Northeast,Region I,WORCESTER,City,True,1999-01-01T00:00:00.000Z,42.225155,-72.05191
+MA0141500,Fitchburg Police Department,7814,MA,New England,Northeast,Region I,WORCESTER,City,True,2003-01-01T00:00:00.000Z,42.583702,-71.799034
+MA0141600,Gardner Police Department,7815,MA,New England,Northeast,Region I,WORCESTER,City,True,1996-01-01T00:00:00.000Z,42.574745,-71.99658
+MA0141700,Grafton Police Department,7816,MA,New England,Northeast,Region I,WORCESTER,City,True,1995-01-01T00:00:00.000Z,42.20903,-71.69277
+MA0141800,Hardwick Police Department,7817,MA,New England,Northeast,Region I,WORCESTER,City,True,1999-01-01T00:00:00.000Z,42.311693,-71.940282
+MA0141900,Harvard Police Department,7818,MA,New England,Northeast,Region I,WORCESTER,City,True,2002-12-01T00:00:00.000Z,42.504913,-71.58462
+MA0142000,Holden Police Department,7819,MA,New England,Northeast,Region I,WORCESTER,City,True,1995-01-01T00:00:00.000Z,42.353455,-71.87186
+MA0142100,Hopedale Police Department,7820,MA,New England,Northeast,Region I,WORCESTER,City,True,2000-01-01T00:00:00.000Z,42.311693,-71.940282
+MA0142200,Hubbardston Police Department,7821,MA,New England,Northeast,Region I,WORCESTER,City,False,1999-01-01T00:00:00.000Z,42.311693,-71.940282
+MA0142300,Lancaster Police Department,7822,MA,New England,Northeast,Region I,WORCESTER,City,True,1999-01-01T00:00:00.000Z,42.311693,-71.940282
+MA0142400,Leicester Police Department,7823,MA,New England,Northeast,Region I,WORCESTER,City,True,1995-01-01T00:00:00.000Z,42.311693,-71.940282
+MA0142500,Leominster Police Department,7824,MA,New England,Northeast,Region I,WORCESTER,City,True,1995-01-01T00:00:00.000Z,42.311693,-71.940282
+MA0142600,Lunenburg Police Department,7825,MA,New England,Northeast,Region I,WORCESTER,City,True,1995-01-01T00:00:00.000Z,42.597298,-71.739975
+MA0142700,Mendon Police Department,7826,MA,New England,Northeast,Region I,WORCESTER,City,True,2000-06-01T00:00:00.000Z,42.10501,-71.55082
+MA0142800,Milford Police Department,7827,MA,New England,Northeast,Region I,WORCESTER,City,True,2007-01-01T00:00:00.000Z,42.311693,-71.940282
+MA0142900,Millbury Police Department,7828,MA,New England,Northeast,Region I,WORCESTER,City,True,1995-01-01T00:00:00.000Z,42.189816,-71.76332
+MA0143000,Millville Police Department,7829,MA,New England,Northeast,Region I,WORCESTER,City,True,2000-02-01T00:00:00.000Z,42.027367,-71.58057
+MA0143100,New Braintree Police Department,7830,MA,New England,Northeast,Region I,WORCESTER,City,True,2018-01-01T00:00:00.000Z,42.311693,-71.940282
+MA0143200,North Brookfield Police Department,7831,MA,New England,Northeast,Region I,WORCESTER,City,False,2000-01-01T00:00:00.000Z,42.268707,-72.082214
+MA0143300,Northborough Police Department,7832,MA,New England,Northeast,Region I,WORCESTER,City,True,1995-01-01T00:00:00.000Z,42.326447,-71.62466
+MA0143400,Northbridge Police Department,7833,MA,New England,Northeast,Region I,WORCESTER,City,True,1995-01-01T00:00:00.000Z,42.12911,-71.64559
+MA0143500,Oakham Police Department,7834,MA,New England,Northeast,Region I,WORCESTER,City,True,2005-01-01T00:00:00.000Z,42.311693,-71.940282
+MA0143600,Oxford Police Department,7835,MA,New England,Northeast,Region I,WORCESTER,City,True,1996-01-01T00:00:00.000Z,42.139183,-71.86707
+MA0143700,Paxton Police Department,7836,MA,New England,Northeast,Region I,WORCESTER,City,True,2001-01-01T00:00:00.000Z,42.30577,-71.92229
+MA0143800,Petersham Police Department,7837,MA,New England,Northeast,Region I,WORCESTER,City,False,,42.311693,-71.940282
+MA0143900,Phillipston Police Department,7838,MA,New England,Northeast,Region I,WORCESTER,City,False,,42.311693,-71.940282
+MA0144000,Princeton Police Department,7839,MA,New England,Northeast,Region I,WORCESTER,City,True,1997-07-01T00:00:00.000Z,42.44873,-71.87751
+MA0144100,Royalston Police Department,7840,MA,New England,Northeast,Region I,WORCESTER,City,True,2004-02-01T00:00:00.000Z,42.311693,-71.940282
+MA0144200,Rutland Police Department,7841,MA,New England,Northeast,Region I,WORCESTER,City,True,2001-01-01T00:00:00.000Z,42.311693,-71.940282
+MA0144300,Shrewsbury Police Department,7842,MA,New England,Northeast,Region I,WORCESTER,City,True,1995-01-01T00:00:00.000Z,42.28994,-71.7226
+MA0144400,Southborough Police Department,7843,MA,New England,Northeast,Region I,WORCESTER,City,True,1998-01-01T00:00:00.000Z,42.311693,-71.940282
+MA0144500,Southbridge Police Department,7844,MA,New England,Northeast,Region I,WORCESTER,City,True,1995-01-01T00:00:00.000Z,42.311693,-71.940282
+MA0144600,Spencer Police Department,7845,MA,New England,Northeast,Region I,WORCESTER,City,True,2000-01-01T00:00:00.000Z,42.311693,-71.940282
+MA0144700,Sterling Police Department,7846,MA,New England,Northeast,Region I,WORCESTER,City,True,2001-05-01T00:00:00.000Z,42.452507,-71.74862
+MA0144800,Sturbridge Police Department,7847,MA,New England,Northeast,Region I,WORCESTER,City,True,1995-01-01T00:00:00.000Z,42.311693,-71.940282
+MA0144900,Sutton Police Department,7848,MA,New England,Northeast,Region I,WORCESTER,City,True,1996-01-01T00:00:00.000Z,42.147243,-71.75947
+MA0145000,Templeton Police Department,7849,MA,New England,Northeast,Region I,WORCESTER,City,True,1995-03-01T00:00:00.000Z,42.55343,-72.06615
+MA0145100,Upton Police Department,7850,MA,New England,Northeast,Region I,WORCESTER,City,True,1996-01-01T00:00:00.000Z,42.311693,-71.940282
+MA0145200,Uxbridge Police Department,7851,MA,New England,Northeast,Region I,WORCESTER,City,True,1995-01-01T00:00:00.000Z,42.076916,-71.64713
+MA0145300,Warren Police Department,7852,MA,New England,Northeast,Region I,WORCESTER,City,True,1995-01-01T00:00:00.000Z,42.311693,-71.940282
+MA0145400,Webster Police Department,7853,MA,New England,Northeast,Region I,WORCESTER,City,True,1995-01-01T00:00:00.000Z,42.05513,-71.86288
+MA0145500,West Boylston Police Department,7854,MA,New England,Northeast,Region I,WORCESTER,City,True,1997-01-01T00:00:00.000Z,42.36583,-71.781525
+MA0145600,West Brookfield Police Department,7855,MA,New England,Northeast,Region I,WORCESTER,City,True,1999-01-01T00:00:00.000Z,42.216732,-72.10163
+MA0145700,Westborough Police Department,7856,MA,New England,Northeast,Region I,WORCESTER,City,True,1995-01-01T00:00:00.000Z,42.267094,-71.61563
+MA0145800,Westminster Police Department,7857,MA,New England,Northeast,Region I,WORCESTER,City,True,2000-01-01T00:00:00.000Z,42.543922,-71.91181
+MA0145900,Winchendon Police Department,7858,MA,New England,Northeast,Region I,WORCESTER,City,True,1995-01-01T00:00:00.000Z,42.681816,-72.049385
+MA0146000,Worcester Police Department,7859,MA,New England,Northeast,Region I,WORCESTER,City,True,1995-01-01T00:00:00.000Z,42.27213,-71.79874
+MA0146100,"University of Massachusetts: Medical Center, Worcester",7860,MA,New England,Northeast,Region I,WORCESTER,University or College,True,2013-01-01T00:00:00.000Z,42.2717,-71.758865
+MA0146200,Fitchburg State University,7861,MA,New England,Northeast,Region I,WORCESTER,University or College,True,2019-01-01T00:00:00.000Z,42.587845,-71.78854
+MA0146300,Worcester State University,7875,MA,New England,Northeast,Region I,WORCESTER,University or College,True,2019-01-01T00:00:00.000Z,,
+MA014640X,Tufts University:,7862,MA,New England,Northeast,Region I,MIDDLESEX,University or College,True,2010-01-01T00:00:00.000Z,,
+MA014649E,Tufts University: Worcester,7867,MA,New England,Northeast,Region I,WORCESTER,University or College,True,2009-07-01T00:00:00.000Z,,
+MA014659E,College of the Holy Cross,25567,MA,New England,Northeast,Region I,WORCESTER,University or College,True,2021-01-01T00:00:00.000Z,,
+MA014669E,Quinsigamond Community College,7866,MA,New England,Northeast,Region I,WORCESTER,University or College,True,2014-01-01T00:00:00.000Z,,
+MA014689E,Clark University,7864,MA,New England,Northeast,Region I,WORCESTER,University or College,True,2020-08-01T00:00:00.000Z,42.24952,-71.82358
+MA014709E,Assumption College,7865,MA,New England,Northeast,Region I,WORCESTER,University or College,True,2003-06-01T00:00:00.000Z,42.289413,-71.82978
+MA0147100,Mount Wachusett Community College,25346,MA,New England,Northeast,Region I,WORCESTER,University or College,True,2021-01-01T00:00:00.000Z,42.311693,-71.940282
+MA014BA00,Massachusetts Bay Transportation Authority: Worcester County,7869,MA,New England,Northeast,Region I,WORCESTER,Other State Agency,False,,42.338226,-71.05713
+MA301SP00,State Police: Barnstable County,7876,MA,New England,Northeast,Region I,BARNSTABLE,State Police,True,2021-01-01T00:00:00.000Z,41.894203,-70.94264
+MA302SP00,State Police: Berkshire County,7877,MA,New England,Northeast,Region I,BERKSHIRE,State Police,True,2021-01-01T00:00:00.000Z,42.355415,-72.63999
+MA303SP00,State Police: Bristol County,7878,MA,New England,Northeast,Region I,BRISTOL,State Police,True,2021-01-01T00:00:00.000Z,41.894203,-70.94264
+MA304SP00,State Police: Dukes County,7879,MA,New England,Northeast,Region I,DUKES,State Police,False,,41.894203,-70.94264
+MA305SP00,State Police: Essex County,7880,MA,New England,Northeast,Region I,ESSEX,State Police,True,2021-01-01T00:00:00.000Z,42.642711,-70.865107
+MA306SP00,State Police: Franklin County,7881,MA,New England,Northeast,Region I,FRANKLIN,State Police,True,2021-01-01T00:00:00.000Z,42.587986,-72.60199
+MA307SP00,State Police: Hampden County,7882,MA,New England,Northeast,Region I,HAMPDEN,State Police,True,2021-01-01T00:00:00.000Z,42.33892,-71.83744
+MA308SP00,State Police: Hampshire County,7883,MA,New England,Northeast,Region I,HAMPSHIRE,State Police,True,2021-01-01T00:00:00.000Z,42.33892,-71.83744
+MA309SP00,State Police: Middlesex County,7884,MA,New England,Northeast,Region I,MIDDLESEX,State Police,True,2021-01-01T00:00:00.000Z,42.586285,-70.97096
+MA310SP00,State Police: Nantucket County,7885,MA,New England,Northeast,Region I,NANTUCKET,State Police,True,2021-06-01T00:00:00.000Z,41.894203,-70.94264
+MA311SP00,State Police: Norfolk County,7886,MA,New England,Northeast,Region I,NORFOLK,State Police,True,2021-01-01T00:00:00.000Z,42.169702,-71.179875
+MA312SP00,State Police: Plymouth County,7887,MA,New England,Northeast,Region I,PLYMOUTH,State Police,True,2021-01-01T00:00:00.000Z,41.894203,-70.94264
+MA313SP00,State Police: Suffolk County,7888,MA,New England,Northeast,Region I,SUFFOLK,State Police,True,2021-01-01T00:00:00.000Z,42.33196,-71.020173
+MA314SP00,State Police: Worcester County,7889,MA,New England,Northeast,Region I,WORCESTER,State Police,True,2021-01-01T00:00:00.000Z,42.33892,-71.83744
+MADI01000,Wampanoag Tribe of Gay Head,23136,MA,New England,Northeast,Region I,NOT SPECIFIED,Tribal,True,2021-01-01T00:00:00.000Z,41.33401,-70.79722
+MADIT0000,Mashpee Wampanoag Tribal Police,33135,MA,New England,Northeast,Region I,NOT SPECIFIED,Tribal,True,2021-01-01T00:00:00.000Z,,
+MAMSP0000,State Police,7890,MA,New England,Northeast,Region I,UNMAPPED COUNTY,State Police,False,,42.29778,-71.41542
