@@ -5,7 +5,7 @@ import csv
 import numpy as np
 
 
-API_key = 'rx7BYAXKwqiVZAbceOuSglJxenmh3pr2xh9lztXc'
+API_key = 'xxxxxx'
 crime_url = 'https://api.usa.gov/crime/fbi/cde'
 
 agency_query = '/agency/byStateAbbr/'
