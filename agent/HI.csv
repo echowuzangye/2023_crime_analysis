@@ -1,5 +1,0 @@
-ori,agency_name,agency_id,state_abbr,division_name,region_name,region_desc,county_name,agency_type_name,nibrs,nibrs_start_date,latitude,longitude
-HI0010000,Hawaii Police Department,4260,HI,Pacific,West,Region IV,HAWAII,County,False,,19.716698,-155.08688
-HI0020000,Honolulu Police Department,4262,HI,Pacific,West,Region IV,HONOLULU,City,True,2018-01-01T00:00:00.000Z,21.304317,-157.85077
-HI0040000,Kauai Police Department,4264,HI,Pacific,West,Region IV,KAUAI,County,True,2021-01-01T00:00:00.000Z,22.012038,-159.705965
-HI0050000,Maui Police Department,4267,HI,Pacific,West,Region IV,MAUI,County,True,2020-12-01T00:00:00.000Z,20.887321,-156.48763
